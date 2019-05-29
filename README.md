@@ -60,5 +60,5 @@ C: Center
 M: Movable
 
 
-![Image of Possible Positions for Components](https://github.com/BlackFoundry/hanglyphscomposition/blob/master/ComponentPositions.png)
+![Image of Possible Positions for Components](ComponentPositions.png)
 
