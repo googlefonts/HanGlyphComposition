@@ -1,6 +1,6 @@
 # Han Glyphs Composition
 
-This repository contains ressources for Han glyph composition.
+This repository contains resources for Han glyph composition.
 
 **Component Naming Convention:**
 1. Reference Unicode      (e.g. 5315)
