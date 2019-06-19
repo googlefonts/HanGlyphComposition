@@ -385,7 +385,7 @@ Code	T	TL	L	LB	B	BR	R	RT	RTL	TLB	LBR	BRT	TLBR	C	M
 4E1A															
 4E1B	4ECE_Y				4E00_Y										
 4E1C															
-4E1D		2EB0_N			4E00_Y										
+4E1D		2EB0_N			4E00_Y			2EB0_N							
 4E1E	6C36_Y				4E00_Y										
 4E22	4E3F_Y				53BB_Y										
 4E24															
@@ -397,7 +397,7 @@ Code	T	TL	L	LB	B	BR	R	RT	RTL	TLB	LBR	BRT	TLBR	C	M
 4E2D															
 4E30															
 4E32															
-4E34			3022_Y			2BA4F_Y									
+4E34			3022_Y			2BA4F_Y		2EAE_N							
 4E38															
 4E39															
 4E3A															
@@ -424,7 +424,7 @@ Code	T	TL	L	LB	B	BR	R	RT	RTL	TLB	LBR	BRT	TLBR	C	M
 4E5D															
 4E5E	20089_Y				4E59_Y										
 4E5F															
-4E60															51AB_N
+4E60								200CC_Y							51AB_N
 4E61															
 4E66															
 4E69			5360_Y				4E5A_Y								
@@ -523,7 +523,7 @@ Code	T	TL	L	LB	B	BR	R	RT	RTL	TLB	LBR	BRT	TLBR	C	M
 4F1F			4EBB_Y				97E6_Y								
 4F20			4EBB_Y				4E13_Y								
 4F22			4EBB_Y				7259_Y								
-4F24			4EBB_Y			529B_Y									
+4F24			4EBB_Y			529B_Y		20089_N							
 4F25			4EBB_Y				957F_Y								
 4F26			4EBB_Y				4ED1_Y								
 4F27			4EBB_Y				4ED3_Y								
@@ -594,7 +594,7 @@ Code	T	TL	L	LB	B	BR	R	RT	RTL	TLB	LBR	BRT	TLBR	C	M
 4FAA			4EBB_Y				9F50_Y								
 4FAC			4EBB_Y				519C_Y								
 4FAE			4EBB_Y				6BCF_Y								
-4FAF			4EBB_Y			77E2_Y									
+4FAF			4EBB_Y			77E2_Y		30E6_Y							
 4FB5			4EBB_Y				20B36_Y								
 4FBF			4EBB_Y				66F4_Y								
 4FC3			4EBB_Y				8DB3_Y								
@@ -619,7 +619,7 @@ Code	T	TL	L	LB	B	BR	R	RT	RTL	TLB	LBR	BRT	TLBR	C	M
 4FE9			4EBB_Y				4E24_Y								
 4FEA			4EBB_Y				4E3D_Y								
 4FED			4EBB_Y				4F65_Y								
-4FEE			4EBB_Y			5F61_Y									4E28_N
+4FEE			4EBB_Y			5F61_Y		5902_Y							4E28_N
 4FEF			4EBB_Y				5E9C_Y								
 4FF1			4EBB_Y				5177_Y								
 4FF3			4EBB_Y				975E_Y								
@@ -628,11 +628,11 @@ Code	T	TL	L	LB	B	BR	R	RT	RTL	TLB	LBR	BRT	TLBR	C	M
 4FFE			4EBB_Y				5351_Y								
 500C			4EBB_Y				5B98_Y								
 500D			4EBB_Y				5485_Y								
-500F			4EBB_Y			72AC_Y									4E28_N
+500F			4EBB_Y			72AC_Y		5902_Y							4E28_N
 5012			4EBB_Y				5230_Y								
 5014			4EBB_Y				5C48_Y								
 5018			4EBB_Y				5C1A_Y								
-5019			4EBB_Y			77E2_Y									4E28_N
+5019			4EBB_Y			77E2_Y		30E6_Y							4E28_N
 501A			4EBB_Y				5947_Y								
 501C			4EBB_Y				5468_Y								
 501F			4EBB_Y				6614_Y								
@@ -730,7 +730,7 @@ FA0C	4E00_Y				513F_Y
 5180	5317_Y				5171_Y									7530_Y	
 5181			5355_Y				5C55_Y								
 5185															
-5188							3405_Y								
+5188							3405_Y		5182_Y						
 5189															
 518C															
 518D	4E00_Y				5189_Y										
@@ -769,21 +769,21 @@ F979			51AB_Y				4EAC_Y
 51DB			51AB_Y				7980_Y								
 51DD			51AB_Y				7591_Y								
 51E1															
-51E4															53C8_N
-51EB															
+51E4									2E87_Y						53C8_N
+51EB				51E0_Y				9E1F_N							
 51ED	4EFB_Y				51E0_Y										
 51EF			5C82_Y				51E0_Y								
-51F0															7687_N
+51F0									2E87_Y						7687_N
 51F3	767B_Y				51E0_Y										
-51F6															3405_N
+51F6											51F5_Y				3405_N
 51F8															
 51F9															
 51FA															
 51FB															
-51FC															6C34_N
-51FD															6C36_N
+51FC											51F5_Y				6C34_N
+51FD											51F5_Y				6C36_N
 51FF	4E1A_Y				51F5_Y										22189_N
-5201															31C0_N
+5201								200CC_Y							31C0_N
 5202															
 5203															
 5206	516B_Y				5200_Y										
@@ -865,7 +865,7 @@ F979			51AB_Y				4EAC_Y
 52BF	6267_Y				529B_Y										
 52C3			5B5B_Y				529B_Y								
 52C7	752C_Y				529B_Y										
-52C9															529B_N
+52C9				514D_Y											529B_N
 52CB			5458_Y				529B_Y								
 52D0			5B5F_Y				529B_Y								
 52D2			9769_Y				529B_Y								
@@ -874,31 +874,31 @@ F979			51AB_Y				4EAC_Y
 52DF	83AB_Y				529B_Y										
 52E4			5807_Y				529B_Y								
 52F0			52A6_Y				601D_Y								
-52FA															4E36_N
-52FE															53B6_N
-52FF															4E3F_N;4E3F_N
-5300															51AB_N
-5305															5DF3_N
-5306															4E36_N;4E3F_N;4E3F_N
-5308															51F6_N
-530D															752B_N
+52FA								52F9_Y							4E36_N
+52FE								52F9_Y							53B6_N
+52FF								52F9_Y							4E3F_N;4E3F_N
+5300								52F9_Y							51AB_N
+5305								52F9_Y							5DF3_N
+5306								52F9_Y							4E36_N;4E3F_N;4E3F_N
+5308								52F9_Y							51F6_N
+530D								52F9_Y							752B_N
 530F			5938_Y				5305_Y								
-5310															7550_N
+5310								52F9_Y							7550_N
 5316			4EBB_Y				2090E_Y								
 5317			2EA6_N				5315_Y								
-5319															5315_N
-531D															5DFE_N
-5320															65A4_N
-5321															738B_N
-5323															7532_N
-5326															8F68_N
-532A															975E_N
-532E															8D35_N
-5339															513F_N
-533A															3405_N
-533B															77E2_N
-533E															6241_N
-533F															82E5_N
+5319				662F_Y											5315_N
+531D										531A_Y					5DFE_N
+5320										531A_Y					65A4_N
+5321										531A_Y					738B_N
+5323										531A_Y					7532_N
+5326										531A_Y					8F68_N
+532A										531A_Y					975E_N
+532E										531A_Y					8D35_N
+5339										531A_Y					513F_N
+533A										531A_Y					3405_N
+533B										531A_Y					77E2_N
+533E										531A_Y					6241_N
+533F										531A_Y					82E5_N
 5343	4E3F_Y				5341_Y										
 5345															
 5347															
@@ -973,7 +973,7 @@ F979			51AB_Y				4EAC_Y
 53DF															
 53E0	53D2_Y				519D_Y										
 53E4	5341_Y				53E3_Y										
-53E5															53E3_N
+53E5								52F9_Y							53E3_N
 53E6	53E3_Y				529B_Y										
 53E8			53E3_Y				5200_Y								
 53E9			53E3_Y				5369_Y								
@@ -987,10 +987,10 @@ F979			51AB_Y				4EAC_Y
 53F1			53E3_Y				2090E_Y								
 53F2															
 53F3		20087_Y				53E3_Y									
-53F5															53E3_N
+53F5										531A_Y					53E3_N
 53F6			53E3_Y				5341_Y								
 53F7	53E3_Y				4E02_Y										
-53F8															20B9B_N
+53F8								200CC_Y							20B9B_N
 53F9			53E3_Y				53C8_Y								
 53FB			53E3_Y				529B_Y								
 53FC			53E3_Y				5201_Y								
@@ -1002,7 +1002,7 @@ F979			51AB_Y				4EAC_Y
 5408	4EBA_Y				53E3_Y										4E00_N
 5409	58EB_Y				53E3_Y										
 540A	53E3_Y				5DFE_Y										
-540C															20B9B_N
+540C									5182_Y						20B9B_N
 540D		5915_Y				53E3_Y									
 540E		2008B_Y				53E3_Y									
 540F															
@@ -1058,7 +1058,7 @@ F979			51AB_Y				4EAC_Y
 5462			53E3_Y				5C3C_Y								
 5464			53E3_Y				4EE4_Y								
 5466			53E3_Y				5E7C_Y								
-5468															20BB7_N
+5468									2E86_Y						20BB7_N
 5471			53E3_Y				74DC_Y								
 5472			53E3_Y				6B64_Y								
 5473			53E3_Y				672A_Y								
@@ -1093,14 +1093,14 @@ F979			51AB_Y				4EAC_Y
 54A8	6B21_Y				53E3_Y										
 54A9			53E3_Y				7F8A_Y								
 54AA			53E3_Y				7C73_Y								
-54AB															53EA_N
+54AB				5C3A_Y											53EA_N
 54AC			53E3_Y				4EA4_Y								
 54AD			53E3_Y				5409_Y								
 54AF			53E3_Y				5404_Y								
 54B1			53E3_Y				81EA_Y								
 54B3			53E3_Y				4EA5_Y								
 54B4			53E3_Y				7070_Y								
-54B8															20B9B_N
+54B8									620A_Y						20B9B_N
 54BB			53E3_Y				4F11_Y								
 54BD			53E3_Y				56E0_Y								
 54BF			53E3_Y				4F0A_Y								
@@ -1111,7 +1111,7 @@ F979			51AB_Y				4EAC_Y
 54C6			53E3_Y				591A_Y								
 54C7			53E3_Y				572D_Y								
 54C8			53E3_Y				5408_Y								
-54C9															53E3_N
+54C9								2298F_Y							53E3_N
 54CC			53E3_Y				200A2_Y								
 54CD			53E3_Y				5411_Y								
 54CE			53E3_Y				827E_Y								
@@ -1235,7 +1235,7 @@ F979			51AB_Y				4EAC_Y
 55DD			53E3_Y				9B32_Y								
 55DF			53E3_Y				5DEE_Y								
 55E1			53E3_Y				7FC1_Y								
-55E3		53E3_Y					53F8_Y								
+55E3		53E3_Y		20541_Y			53F8_Y								
 55E4			53E3_Y				86A9_Y								
 55E5			53E3_Y				768B_Y								
 55E6			53E3_Y				7D22_Y								
@@ -1303,33 +1303,33 @@ F979			51AB_Y				4EAC_Y
 56BC			53E3_Y				7235_Y								
 56CA															
 56D4			53E3_Y				56CA_Y								
-56DA															4EBA_N
-56DB															513F_N
-56DD															5B50_N
-56DE															53E3_N
-56DF	4E3F_Y														3405_N
-56E0															5927_N
-56E1															5973_N
-56E2															624D_N
-56E4															5C6F_N
-56EB															52FF_N
-56ED															5143_N
-56F0															6728_N
+56DA													53E3_Y		4EBA_N
+56DB													56D7_Y		513F_N
+56DD													56D7_Y		5B50_N
+56DE													56D7_Y		53E3_N
+56DF	4E3F_Y												56D7_Y		3405_N
+56E0													56D7_Y		5927_N
+56E1													56D7_Y		5973_N
+56E2													56D7_Y		624D_N
+56E4													56D7_Y		5C6F_N
+56EB													56D7_Y		52FF_N
+56ED													56D7_Y		5143_N
+56F0													56D7_Y		6728_N
 56F1	4E3F_Y														56D7_N;5902_N
-56F4															97E6_N
-56F5															4ED1_N
-56F9															4EE4_N
-56FA															53E4_N
-56FD															7389_N
-56FE															51AC_N
-56FF															6709_N
-5703															752B_N
-5704															543E_N
-5706															5458_N
-5708															5377_N
-5709															5E78_N
-570A															9752_N
-571C															7758_N
+56F4													56D7_Y		97E6_N
+56F5													56D7_Y		4ED1_N
+56F9													56D7_Y		4EE4_N
+56FA													56D7_Y		53E4_N
+56FD													56D7_Y		7389_N
+56FE													56D7_Y		51AC_N
+56FF													56D7_Y		6709_N
+5703													56D7_Y		752B_N
+5704													56D7_Y		543E_N
+5706													56D7_Y		5458_N
+5708													56D7_Y		5377_N
+5709													56D7_Y		5E78_N
+570A													56D7_Y		9752_N
+571C													56D7_Y		7758_N
 5723	53C8_Y				571F_Y										
 5728															
 5729			571F_Y				4E8E_Y								
@@ -1355,7 +1355,7 @@ F979			51AB_Y				4EAC_Y
 5750															
 5751			571F_Y				4EA2_Y								
 5757			571F_Y				592C_Y								
-575A		3022_Y			571F_Y										
+575A		3022_Y			571F_Y			53C8_Y							
 575B			571F_Y				4E91_Y								
 575C			571F_Y				5386_Y								
 575D			571F_Y				8D1D_Y								
@@ -1440,7 +1440,7 @@ F979			51AB_Y				4EAC_Y
 5835			571F_Y				8005_Y								
 5844			571F_Y				2C659_Y								
 584C			571F_Y				26407_Y								
-584D			6708_Y			571F_Y									
+584D			6708_Y			571F_Y		9FB9_Y							
 5851	6714_Y				571F_Y										
 5854			571F_Y				8345_Y								
 5858			571F_Y				5510_Y								
@@ -1474,13 +1474,13 @@ F979			51AB_Y				4EAC_Y
 58F3	58EB_Y				51E0_Y									5196_Y	
 58F6	58EB_Y				4E1A_Y									5196_Y	
 58F9	58EB_Y				8C46_Y									5196_Y	
-5904															
+5904				5902_Y				535C_Y							
 5907	5902_Y				7530_Y										
 590D	20089_Y				5902_Y									65E5_Y	
 590F	268FB_Y				5902_Y										
 5914	4E37_Y				5912_Y										
 5916			5915_Y				535C_Y								
-5919														6B79_Y	
+5919									2E87_Y					6B79_Y	
 591A	5915_Y				5915_Y										
 591C															
 591F			53E5_Y				591A_Y								
@@ -1511,7 +1511,7 @@ F979			51AB_Y				4EAC_Y
 5951	34DE_Y				5927_Y										
 5954	5927_Y				5349_Y										
 5955	4EA6_Y				5927_Y										
-5956		4E2C_Y			5927_Y										
+5956		4E2C_Y			5927_Y			5915_Y							
 5957	5927_Y				9578_Y										
 5958	58EF_Y				5927_Y										
 595A	722B_Y				215DE_Y										
@@ -1571,7 +1571,7 @@ F979			51AB_Y				4EAC_Y
 59F9			5973_Y				5B85_Y								
 59FB			5973_Y				56E0_Y								
 59FF	6B21_Y				5973_Y										
-5A01														5973_Y	4E00_N
+5A01									620A_Y					5973_Y	4E00_N
 5A03			5973_Y				572D_Y								
 5A04	7C73_Y				5973_Y										
 5A05			5973_Y				4E9A_Y								
@@ -1603,7 +1603,7 @@ F979			51AB_Y				4EAC_Y
 5A62			5973_Y				5351_Y								
 5A67			5973_Y				9752_Y								
 5A6A	6797_Y				5973_Y										
-5A74		8D1D_Y			5973_Y										
+5A74		8D1D_Y			5973_Y			8D1D_Y							
 5A75			5973_Y				5355_Y								
 5A76			5973_Y				5BA1_Y								
 5A77			5973_Y				4EAD_Y								
@@ -1615,7 +1615,7 @@ F979			51AB_Y				4EAC_Y
 5AAA			5973_Y				6637_Y								
 5AB2			5973_Y				23B09_Y								
 5AB3			5973_Y				606F_Y								
-5AB5			6708_Y			5973_Y									
+5AB5			6708_Y			5973_Y		9FB9_Y							
 5AB8			5973_Y				86A9_Y								
 5ABE			5973_Y				5193_Y								
 5AC1			5973_Y				5BB6_Y								
@@ -1712,10 +1712,10 @@ F979			51AB_Y				4EAC_Y
 5BC6	5B93_Y				5C71_Y										
 5BC7	5B80_Y														5143_N;6534_N
 5BCC	5B80_Y				7550_Y										
-5BD0	5B80_Y					672A_Y									
+5BD0	5B80_Y			723F_Y		672A_Y									
 5BD2	21A04_Y				2E80_Y										
 5BD3	5B80_Y				79BA_Y										
-5BDD	5B80_Y					20B36_Y									
+5BDD	5B80_Y			4E2C_Y		20B36_Y									
 5BDE	5B80_Y				83AB_Y										
 5BDF	5B80_Y				796D_Y										
 5BE1															
@@ -1743,11 +1743,11 @@ F979			51AB_Y				4EAC_Y
 5C1C	5C0F_N				5935_Y										
 5C1D	9FB8_Y				4E91_Y										
 5C24															
-5C25															52FA_N
+5C25				5C22_Y											52FA_N
 5C27	2D80D_Y				5140_Y										
-5C2C															4ECB_N
+5C2C				5C22_Y											4ECB_N
 5C31			4EAC_Y				5C24_Y								
-5C34															76D1_N
+5C34				5C22_Y											76D1_N
 5C39															
 5C3A															
 5C3B		5C38_Y				4E5D_Y									
@@ -1792,7 +1792,7 @@ F979			51AB_Y				4EAC_Y
 5C98			5C71_Y				89C1_Y								
 5C99	592D_Y				5C71_Y										
 5C9A	5C71_Y				98CE_Y										
-5C9B															5C71_N
+5C9B								9E1F_N							5C71_N
 5C9C	5C71_Y				5DF4_Y										
 5CA2	5C71_Y				53EF_Y										
 5CA3			5C71_Y				53E5_Y								
@@ -1839,7 +1839,7 @@ F979			51AB_Y				4EAC_Y
 5D34	5C71_Y				5A01_Y										
 5D3D	5C71_Y				601D_Y										
 5D3E			5C71_Y				8981_Y								
-5D47			79BE_Y			5C71_Y									
+5D47			79BE_Y			5C71_Y		5C24_Y							
 5D4A			5C71_Y				4E58_Y								
 5D4B			5C71_Y				7709_Y								
 5D4C	5C71_Y				2389F_Y										
@@ -1859,7 +1859,7 @@ F979			51AB_Y				4EAC_Y
 5DCD	5C71_Y				9B4F_Y										
 5DDD															
 5DDE															
-5DE1															
+5DE1				8FB6_Y				5DDB_Y							
 5DE2	5DDB_Y				679C_Y										
 5DE6		20087_Y				5DE5_Y									
 5DE7			5DE5_Y				4E02_Y								
@@ -1872,7 +1872,7 @@ F979			51AB_Y				4EAC_Y
 5DF3															
 5DF4															
 5DF7	5171_Y				5DF3_Y										
-5DFD		5DF3_Y			5171_Y										
+5DFD		5DF3_Y			5171_Y			5DF3_Y							
 5E01	4E3F_Y				5DFE_Y										
 5E02	4EA0_Y				5DFE_Y										
 5E03		20087_Y				5DFE_Y									
@@ -1918,7 +1918,7 @@ F979			51AB_Y				4EAC_Y
 5E78	571F_Y				22189_Y										
 5E7B			5E7A_Y				200CC_Y								
 5E7C			5E7A_Y				529B_Y								
-5E7D															221B6_N
+5E7D											5C71_Y				221B6_N
 5E80		5E7F_Y				5315_Y									
 5E84		5E7F_Y				571F_Y									
 5E86		5E7F_Y				5927_Y									
@@ -1959,9 +1959,9 @@ F979			51AB_Y				4EAC_Y
 5EDB		5E7F_Y				58A8_N									
 5EE8		5E7F_Y				89E3_Y									
 5EEA		5E7F_Y				7980_Y									
-5EF6															
-5EF7															
-5EFA															
+5EF6				5EF4_Y				6B63_N							
+5EF7				5EF4_Y				58EC_Y							
+5EFA				5EF4_Y				807F_Y							
 5EFF															
 5F00															
 5F01	53B6_Y				5EFE_Y										
@@ -1970,7 +1970,7 @@ F979			51AB_Y				4EAC_Y
 5F04	738B_Y				5EFE_Y										
 5F08	4EA6_Y				5EFE_Y										
 5F0A	655D_Y				5EFE_Y										
-5F0F															5DE5_N
+5F0F								5F0B_Y							5DE5_N
 5F11			6740_Y				5F0F_Y								
 5F15			5F13_Y												4E28_N
 5F17															
@@ -1994,14 +1994,14 @@ F979			51AB_Y				4EAC_Y
 5F53	2E8C_Y				5F50_Y										
 5F55	5F50_Y				6C3A_Y										
 5F56	5F51_Y				27C28_Y										
-5F57		4E30_Y			5F50_Y										
+5F57		4E30_Y			5F50_Y			4E30_Y							
 5F58	5F51_Y														5315_N;5315_N;77E2_N
 5F5D	5F51_Y														7C73_N;7CF8_N;5EFE_N
 5F62			5F00_Y				5F61_Y								
 5F64			4E39_Y				5F61_Y								
 5F66		4EA7_Y				5F61_Y									
 5F69			91C7_Y				5F61_Y								
-5F6A															5F61_N
+5F6A				864E_Y											5F61_N
 5F6C			6797_Y				5F61_Y								
 5F6D			58F4_Y				5F61_Y								
 5F70			7AE0_Y				5F61_Y								
@@ -2020,7 +2020,7 @@ F979			51AB_Y				4EAC_Y
 5F89			5F73_Y				7F8A_Y								
 5F8A			5F73_Y				56DE_Y								
 5F8B			5F73_Y				807F_Y								
-5F8C			5F73_Y			5902_Y									
+5F8C			5F73_Y			5902_Y		5E7A_Y							
 5F90			5F73_Y				4F59_Y								
 5F92			5F73_Y				8D70_Y								
 5F95			5F73_Y				6765_Y								
@@ -2046,7 +2046,7 @@ F979			51AB_Y				4EAC_Y
 5FCF			5FC4_Y				5343_Y								
 5FD0	4E0A_Y				5FC3_Y										
 5FD1	4E0B_Y				5FC3_Y										
-5FD2															
+5FD2				5FC3_Y				5F0B_Y							
 5FD6			5FC4_Y				5BF8_Y								
 5FD7	58EB_Y				5FC3_Y										
 5FD8	4EA1_Y				5FC3_Y										
@@ -2179,7 +2179,7 @@ F979			51AB_Y				4EAC_Y
 60ED			5FC4_Y				65A9_Y								
 60EE			5FC4_Y				5355_Y								
 60EF			5FC4_Y				8D2F_Y								
-60F0			5FC4_Y			6708_Y									
+60F0			5FC4_Y			6708_Y		5DE6_Y							
 60F3	76F8_Y				5FC3_Y										
 60F4			5FC4_Y				8011_Y								
 60F6			5FC4_Y				7687_Y								
@@ -2222,7 +2222,7 @@ F979			51AB_Y				4EAC_Y
 619D	6566_Y				5FC3_Y										
 61A7			5FC4_Y				7AE5_Y								
 61A8	6562_Y				5FC3_Y										
-61A9		820C_Y			5FC3_Y										
+61A9		820C_Y			5FC3_Y			81EA_Y							
 61AC			5FC4_Y				666F_Y								
 61B7			5FC4_Y				695A_Y								
 61BE			5FC4_Y				611F_Y								
@@ -2239,29 +2239,29 @@ F979			51AB_Y				4EAC_Y
 6206	8D63_Y				5FC3_Y										
 620A															
 620B															
-620C															4E00_N
-620D															4E36_N
-620E															20087_N
+620C									620A_Y						4E00_N
+620D									620A_Y						4E36_N
+620E								6208_Y							20087_N
 620F			53C8_Y				6208_Y								
-6210															200CC_N
+6210									620A_Y						200CC_N
 6211															
-6212															5EFE_N
+6212								6208_Y							5EFE_N
 6215			723F_Y				6208_Y								
-6216															4E00_N;53E3_N
+6216								6208_Y							4E00_N;53E3_N
 6217			4ED3_Y				6208_Y								
 6218			5360_Y				6208_Y								
-621A															5C17_N
+621A									620A_Y						5C17_N
 621B	268FB_Y				6208_Y										
 621F			9FBA_Y				6208_Y								
 6221			751A_Y				6208_Y								
 6222			54A0_Y				6208_Y								
 6224			76C8_Y				6208_Y								
 6225			661F_Y				6208_Y								
-622A															96B9_N
+622A								2298F_Y							96B9_N
 622C			664B_Y				6208_Y								
 622E			7FCF_Y				6208_Y								
 6233			7FDF_Y				6208_Y								
-6234															7570_N
+6234								2298F_Y							7570_N
 6237															
 623D		6237_Y				6597_Y									
 623E		6237_Y				72AC_Y									
@@ -2348,7 +2348,7 @@ F979			51AB_Y				4EAC_Y
 62D9			624C_Y				51FA_Y								
 62DA			624C_Y				5F01_Y								
 62DB			624C_Y				53EC_Y								
-62DC			9FB5_Y			4E30_Y									
+62DC			9FB5_Y			4E30_Y		4E00_Y							
 62DF			624C_Y				4EE5_Y								
 62E2			624C_Y				9F99_Y								
 62E3			624C_Y				2B823_Y								
@@ -2577,8 +2577,8 @@ F979			51AB_Y				4EAC_Y
 655B			4F65_Y				6535_Y								
 655D			3840_Y				6535_Y								
 655E			5C1A_Y				6535_Y								
-6562		4E5B_Y					6535_Y								
-6563		9FB7_Y					6535_Y								
+6562		4E5B_Y		8033_Y			6535_Y								
+6563		9FB7_Y		2E9D_Y			6535_Y								
 6566			4EAB_Y				6535_Y								
 656B							6535_Y								767D_N;65B9_N
 656C			82DF_Y				6535_Y								
@@ -2595,7 +2595,7 @@ F979			51AB_Y				4EAC_Y
 659B			89D2_Y				6597_Y								
 659C			4F59_Y				6597_Y								
 659F			751A_Y				6597_Y								
-65A1			9FBA_Y			6597_Y									
+65A1			9FBA_Y			6597_Y		4EBA_Y							
 65A5															
 65A7	7236_Y				65A4_Y										
 65A9			8F66_Y				65A4_Y								
@@ -2606,24 +2606,24 @@ F979			51AB_Y				4EAC_Y
 65BC			65B9_Y				4ED2_Y								
 65BD			65B9_Y				340C_Y								
 65C1	7ACB_N				65B9_Y										
-65C3			65B9_Y			4E39_Y									
-65C4			65B9_Y			6BDB_Y									
-65C5			65B9_Y			200A2_N									
-65C6			65B9_Y			5DFF_Y									
-65CB			65B9_Y			758B_Y									
-65CC			65B9_Y			751F_Y									
-65CE			65B9_Y			5C3C_Y									
-65CF			65B9_Y			77E2_Y									
-65D2			65B9_Y			342C_Y									
-65D6			65B9_Y			5947_Y									
-65D7			65B9_Y			5176_Y									
+65C3			65B9_Y			4E39_Y		20089_Y							
+65C4			65B9_Y			6BDB_Y		20089_Y							
+65C5			65B9_Y			200A2_N		20089_Y							
+65C6			65B9_Y			5DFF_Y		20089_Y							
+65CB			65B9_Y			758B_Y		20089_Y							
+65CC			65B9_Y			751F_Y		20089_Y							
+65CE			65B9_Y			5C3C_Y		20089_Y							
+65CF			65B9_Y			77E2_Y		20089_Y							
+65D2			65B9_Y			342C_Y		20089_Y							
+65D6			65B9_Y			5947_Y		20089_Y							
+65D7			65B9_Y			5176_Y		20089_Y							
 65E2			826E_N				65E1_Y								
 65E6	65E5_Y				4E00_Y										
 65E7			4E28_Y				65E5_Y								
 65E8	5315_Y				65E5_Y										
 65E9	65E5_Y				5341_Y										
-65EC															65E5_N
-65ED															65E5_N
+65EC								52F9_Y							65E5_N
+65ED				4E5D_Y											65E5_N
 65EE	4E5D_Y				65E5_Y										
 65EF	65E5_Y				4E5D_Y										
 65F0			65E5_Y				5E72_Y								
@@ -2654,7 +2654,7 @@ F979			51AB_Y				4EAC_Y
 6631	65E5_Y				7ACB_Y										
 6634	65E5_Y				536F_Y										
 6635			65E5_Y				5C3C_Y								
-6636															65E5_N
+6636				6C38_Y											65E5_N
 663C	5C3A_Y				65E6_Y										
 663E	65E5_Y				4E1A_Y										
 6641	65E5_Y				5146_Y										
@@ -2694,7 +2694,7 @@ F979			51AB_Y				4EAC_Y
 66A8	65E2_Y				65E6_Y										
 66AE	83AB_Y				65E5_Y										
 66B4	65E5_Y				3CDF_Y										
-66B9															96B9_N;65E5_N
+66B9				8FB6_Y											96B9_N;65E5_N
 66BE			65E5_Y				6566_Y								
 66D9			65E5_Y				7F72_Y								
 66DB			65E5_Y				718F_Y								
@@ -2719,7 +2719,7 @@ F979			51AB_Y				4EAC_Y
 6714			5C70_Y				6708_Y								
 6715			6708_Y				5173_Y								
 6717			826E_N				6708_Y								
-671B		4EA1_Y			738B_Y										
+671B		4EA1_Y			738B_Y			6708_Y							
 671D			9FBA_Y				6708_Y								
 671F			5176_Y				6708_Y								
 6726			6708_Y				8499_Y								
@@ -2785,7 +2785,7 @@ F979			51AB_Y				4EAC_Y
 67A8			6728_Y				957F_Y								
 67AA			6728_Y				4ED3_Y								
 67AB			6728_Y				98CE_Y								
-67AD															
+67AD				6728_Y				9E1F_N							
 67AF			6728_Y				53E4_Y								
 67B0			6728_Y				5E73_Y								
 67B3			6728_Y				53EA_Y								
@@ -2844,7 +2844,7 @@ F979			51AB_Y				4EAC_Y
 6838			6728_Y				4EA5_Y								
 6839			6728_Y				826E_Y								
 683C			6728_Y				5404_Y								
-683D															6728_N
+683D								2298F_Y							6728_N
 683E	4EA6_N				6728_Y										
 6840	821B_Y				6728_Y										
 6841			6728_Y				884C_Y								
@@ -2871,13 +2871,13 @@ F979			51AB_Y				4EAC_Y
 6865			6728_Y				4E54_Y								
 6866			6728_Y				534E_Y								
 6867			6728_Y				4F1A_Y								
-6868		4E2C_Y			6728_Y										
+6868		4E2C_Y			6728_Y			5915_Y							
 6869			6728_Y				5E84_Y								
 686B			6728_Y				6C99_Y								
 6874			6728_Y				5B5A_Y								
 6876			6728_Y				752C_Y								
 6877			6728_Y				89D2_Y								
-6881		6C35_Y			6728_Y										
+6881		6C35_Y			6728_Y			5205_Y							
 6883			6728_Y				5EF7_Y								
 6885			6728_Y				6BCF_Y								
 6886			6728_Y				90A6_Y								
@@ -3019,7 +3019,7 @@ F979			51AB_Y				4EAC_Y
 6B37			5E0C_Y				6B20_Y								
 6B39			5947_Y				6B20_Y								
 6B3A			5176_Y				6B20_Y								
-6B3E		58EB_Y					6B20_Y								
+6B3E		58EB_Y		793A_Y			6B20_Y								
 6B43			81FF_Y				6B20_Y								
 6B46			97F3_Y				6B20_Y								
 6B47			66F7_Y				6B20_Y								
@@ -3029,7 +3029,7 @@ F979			51AB_Y				4EAC_Y
 6B63															
 6B64			6B62_Y				5315_Y								
 6B65	6B62_Y				23942_Y										
-6B66															4E00_N;6B62_N
+6B66								5F0B_Y							4E00_N;6B62_N
 6B67			6B62_Y				652F_Y								
 6B6A	4E0D_Y				6B63_Y										
 6B7B															
@@ -3039,7 +3039,7 @@ F979			51AB_Y				4EAC_Y
 6B83			6B79_Y				592E_Y								
 6B84			6B79_Y				3431_Y								
 6B86			6B79_Y				53F0_Y								
-6B87			6B79_Y			200D3_Y									
+6B87			6B79_Y			200D3_Y		20089_Y							
 6B89			6B79_Y				65EC_Y								
 6B8A			6B79_Y				6731_Y								
 6B8B			6B79_Y				620B_Y								
@@ -3056,7 +3056,7 @@ F979			51AB_Y				4EAC_Y
 6BB7			3406_Y				6BB3_Y								
 6BBF			21C52_Y				6BB3_Y								
 6BC1			2C6F8_Y				6BB3_Y								
-6BC2		58EB_Y					6BB3_Y								5196_N
+6BC2		58EB_Y		8F66_Y			6BB3_Y								5196_N
 6BC5			8C59_Y				6BB3_Y								
 6BCD															
 6BCF	20089_Y				6BCD_Y										
@@ -3066,40 +3066,40 @@ F979			51AB_Y				4EAC_Y
 6BD6	6BD4_Y				5FC5_Y										
 6BD7			7530_Y				6BD4_Y								
 6BD9	6BD4_Y				6B7B_Y										
-6BE1															5360_N
-6BEA															725F_N
+6BE1				6BDB_Y											5360_N
+6BEA				6BDB_Y											725F_N
 6BEB	2F07_Y				6BDB_Y										5196_N;53E3_N
-6BEF															708E_N
+6BEF				6BDB_Y											708E_N
 6BF3	6BDB_Y				3C8E_Y										
 6BF5			53C2_Y				6BDB_Y								
 6BF9			4FDE_Y				6BDB_Y								
-6BFD															5EFA_N
+6BFD				6BDB_Y											5EFA_N
 6C05	655E_Y				6BDB_Y										
-6C06															666E_N
-6C07															9C81_N
+6C06				6BDB_Y											666E_N
+6C07				6BDB_Y											9C81_N
 6C0D			77BF_Y				6BDB_Y								
 6C10															
 6C11															
 6C13			4EA1_Y				6C11_Y								
-6C15															4E3F_N
-6C16															4E43_N
-6C18															5DDD_N
-6C19															5C71_N
-6C1A															5DDD_N
-6C1B															5206_N
-6C1F															5F17_N
-6C21															51AC_N
-6C22															22016_N
-6C24															56E0_N
-6C26															4EA5_N
-6C27															7F8A_N
-6C28															5B89_N
-6C29															4E9A_N
-6C2A															514B_N
-6C2E															708E_N
-6C2F															5F55_N
-6C30															9752_N
-6C32															6637_N
+6C15								6C14_Y							4E3F_N
+6C16								6C14_Y							4E43_N
+6C18								6C14_Y							5DDD_N
+6C19								6C14_Y							5C71_N
+6C1A								6C14_Y							5DDD_N
+6C1B								6C14_Y							5206_N
+6C1F								6C14_Y							5F17_N
+6C21								6C14_Y							51AC_N
+6C22								6C14_Y							22016_N
+6C24								6C14_Y							56E0_N
+6C26								6C14_Y							4EA5_N
+6C27								6C14_Y							7F8A_N
+6C28								6C14_Y							5B89_N
+6C29								6C14_Y							4E9A_N
+6C2A								6C14_Y							514B_N
+6C2E								6C14_Y							708E_N
+6C2F								6C14_Y							5F55_N
+6C30								6C14_Y							9752_N
+6C32								6C14_Y							6637_N
 6C35															
 6C38															
 6C3D	4EBA_Y				6C34_Y										
@@ -3167,7 +3167,7 @@ F979			51AB_Y				4EAC_Y
 6CBC			6C35_Y				53EC_Y								
 6CBD			6C35_Y				53E4_Y								
 6CBE			6C35_Y				5360_Y								
-6CBF			6C35_Y			53E3_Y									
+6CBF			6C35_Y			53E3_Y		51E0_Y							
 6CC4			6C35_Y				4E16_Y								
 6CC5			6C35_Y				56DA_Y								
 6CC9	767D_Y				6C34_Y										
@@ -3232,7 +3232,7 @@ F979			51AB_Y				4EAC_Y
 6D41			6C35_Y				342C_Y								
 6D43			6C35_Y				5939_Y								
 6D45			6C35_Y				620B_Y								
-6D46		4E2C_Y			6C34_Y										
+6D46		4E2C_Y			6C34_Y			5915_Y							
 6D47			6C35_Y				5C27_Y								
 6D48			6C35_Y				8D1E_Y								
 6D4A			6C35_Y				866B_Y								
@@ -3280,7 +3280,7 @@ F979			51AB_Y				4EAC_Y
 6DA6			6C35_Y				95F0_Y								
 6DA7			6C35_Y				95F4_Y								
 6DA8			6C35_Y				5F20_Y								
-6DA9			6C35_Y			6B62_Y									
+6DA9			6C35_Y			6B62_Y		5203_Y							
 6DAA			6C35_Y				5485_Y								
 6DAB			6C35_Y				5B98_Y								
 6DAE			6C35_Y				5237_Y								
@@ -3430,7 +3430,7 @@ F979			51AB_Y				4EAC_Y
 6F6E			6C35_Y				671D_Y								
 6F72			6C35_Y				7A0D_Y								
 6F74			6C35_Y				732A_Y								
-6F78			6C35_Y			6708_Y									
+6F78			6C35_Y			6708_Y		6797_Y							
 6F7A			6C35_Y				5B71_Y								
 6F7C			6C35_Y				7AE5_Y								
 6F84			6C35_Y				767B_Y								
@@ -3534,7 +3534,7 @@ F979			51AB_Y				4EAC_Y
 712F			706B_Y				5353_Y								
 7130			706B_Y				81FD_Y								
 7131	706B_Y				708F_Y										
-7136		5915_N			706C_Y										
+7136		5915_N			706C_Y			72AC_Y							
 7145			706B_Y				6BB5_Y								
 714A			706B_Y				5BA3_Y								
 714C			706B_Y				7687_Y								
@@ -3576,7 +3576,7 @@ F979			51AB_Y				4EAC_Y
 7206			706B_Y				66B4_Y								
 721D			706B_Y				7235_Y								
 7228	8208_N				2437E_Y										540C_N;81FC_N;5F50_N;5196_N
-722C															5DF4_N
+722C				722A_Y											5DF4_N
 7230															
 7231	722B_Y				53CB_Y									5196_Y	
 7235	722B_Y				21B20_Y									7F52_Y	
@@ -3788,7 +3788,7 @@ F979			51AB_Y				4EAC_Y
 750F	5F6D_Y				74E6_Y										
 7511			66FE_Y				74E6_Y								
 7513	8F9F_Y				74E6_Y										
-7519															7518_N
+7519								5F0B_Y							7518_N
 751A															
 751C			820C_Y				7518_Y								
 7525			751F_Y				7537_Y								
@@ -3802,7 +3802,7 @@ F979			51AB_Y				4EAC_Y
 7533															
 7535															
 7537	7530_Y				529B_Y										
-7538															7530_N
+7538								52F9_Y							7530_N
 753A			7530_Y				4E01_Y								
 753B															
 753E	5DDB_Y				7530_Y										
@@ -3829,7 +3829,7 @@ F979			51AB_Y				4EAC_Y
 7583			7530_Y				7AE5_Y								
 7586							757A_Y								5F13_N;571F_N
 758F			24D14_Y				342C_Y								
-7591			20915_Y			758B_Y									
+7591			20915_Y			758B_Y		9FB4_Y							
 7594		7592_Y				4E01_Y									
 7596		7592_Y				2F19_N									
 7597		7592_Y				4E86_Y									
@@ -3955,7 +3955,7 @@ F979			51AB_Y				4EAC_Y
 76CE	592E_Y				76BF_Y										
 76CF	620B_Y				76BF_Y										
 76D0	5724_Y				76BF_Y										
-76D1		3022_Y			76BF_Y										
+76D1		3022_Y			76BF_Y			2EAE_N							
 76D2	5408_Y				76BF_Y										
 76D4	7070_Y				76BF_Y										
 76D6	2634C_Y				76BF_Y										
@@ -4038,7 +4038,7 @@ F979			51AB_Y				4EAC_Y
 77BD	9F13_Y				76EE_Y										
 77BF	4020_Y				96B9_Y										
 77CD	77BF_Y				53C8_Y										
-77D7	76F4_Y					76F4_Y									
+77D7	76F4_Y			76F4_Y		76F4_Y									
 77DC			77DB_Y				4ECA_Y								
 77E3	53B6_Y				77E2_Y										
 77E5			77E2_Y				53E3_Y								
@@ -4230,7 +4230,7 @@ F979			51AB_Y				4EAC_Y
 7A39			79BE_Y				771F_Y								
 7A3B			79BE_Y				8200_Y								
 7A3C			79BE_Y				5BB6_Y								
-7A3D			79BE_Y			65E8_Y									
+7A3D			79BE_Y			65E8_Y		5C24_Y							
 7A3F			79BE_Y				9AD8_Y								
 7A46			79BE_Y				38CE_Y								
 7A51			79BE_Y				556C_Y								
@@ -4266,7 +4266,7 @@ F979			51AB_Y				4EAC_Y
 7AAD	7A74_Y				5A04_Y										
 7AB3	7A74_Y				3F0C_Y										
 7ABF	7A74_Y				9686_Y										
-7AD6		3022_Y			7ACB_Y										
+7AD6		3022_Y			7ACB_Y			53C8_Y							
 7AD9			7ACB_Y				5360_Y								
 7ADE	7ACB_Y				513F_Y									53E3_Y	
 7ADF	7ACB_Y				513F_Y									65E5_Y	
@@ -4405,7 +4405,7 @@ F979			51AB_Y				4EAC_Y
 7CA5			5F13_Y				5F13_Y							7C73_Y	
 7CAA	7C73_Y				5171_Y										
 7CAE			7C73_Y				826F_Y								
-7CB1		6C35_Y			7C73_Y										
+7CB1		6C35_Y			7C73_Y			5205_Y							
 7CB2	239BC_Y				7C73_Y										
 7CB3			7C73_Y				66F4_Y								
 7CB9			7C73_Y				5352_Y								
@@ -4432,7 +4432,7 @@ F979			51AB_Y				4EAC_Y
 7D0A	6587_Y				7CF8_Y										
 7D20	9FB6_Y				7CF8_Y										
 7D22	5341_Y				7CF8_Y									5196_Y	
-7D27		3022_Y			7CF8_Y										
+7D27		3022_Y			7CF8_Y			53C8_Y							
 7D2B	6B64_Y				7CF8_Y										
 7D2F	7530_Y				7CF8_Y										
 7D6E	5982_Y				7CF8_Y										
@@ -4586,15 +4586,15 @@ F979			51AB_Y				4EAC_Y
 7F35			7E9F_Y				8D5E_Y								
 7F38			7F36_Y				5DE5_Y								
 7F3A			7F36_Y				592C_Y								
-7F42		8D1D_Y			7F36_Y										
+7F42		8D1D_Y			7F36_Y			8D1D_Y							
 7F44	6BB8_Y				7F36_Y										
 7F45			7F36_Y				8656_Y								
 7F50			7F36_Y				96DA_Y								
-7F54														20147_Y	
+7F54									5182_Y					20147_Y	
 7F55	34C1_Y				5E72_Y										
 7F57	7F52_Y				5915_Y										
 7F58	7F52_Y				4E0D_Y										
-7F5A	7F52_Y					5202_Y									
+7F5A	7F52_Y			8BA0_Y		5202_Y									
 7F5F	7F52_Y				53E4_Y										
 7F61	7F52_Y				6B63_Y										
 7F62	7F52_Y				53BB_Y										
@@ -4607,7 +4607,7 @@ F979			51AB_Y				4EAC_Y
 7F74	7F62_Y				706C_Y										
 7F79	7F52_Y				60DF_Y										
 7F7E	7F52_Y				66FE_Y										
-7F81	7F52_Y					9A6C_Y									
+7F81	7F52_Y			9769_Y		9A6C_Y									
 7F8C															
 7F8E	2634C_Y				5927_Y										
 7F94	2634C_Y				706C_Y										
@@ -4626,13 +4626,13 @@ F979			51AB_Y				4EAC_Y
 7FBC		5C38_Y				7FB4_Y									
 7FBF	7FBD_N				5EFE_Y										
 7FC1	516C_Y				7FBD_Y										
-7FC5															
+7FC5				652F_Y				7FBD_Y							
 7FCA			7ACB_Y				7FBD_Y								
 7FCC	7FBD_N				7ACB_Y										
 7FCE			4EE4_Y				7FBD_Y								
 7FD4			7F8A_Y				7FBD_Y								
 7FD5	5408_Y				7FBD_Y										
-7FD8															7FBD_N
+7FD8				5C27_Y											7FBD_N
 7FDF	7FBD_Y				96B9_Y										
 7FE0	7FBD_Y				5352_Y										
 7FE1	975E_Y				7FBD_Y										
@@ -4640,7 +4640,7 @@ F979			51AB_Y				4EAC_Y
 7FE6	524D_Y				7FBD_Y										
 7FE9			6241_Y				7FBD_Y								
 7FEE			9B32_Y				7FBD_Y								
-7FF0			9FBA_Y			7FBD_Y									
+7FF0			9FBA_Y			7FBD_Y		4EBA_Y							
 7FF1			768B_Y				7FBD_Y								
 7FF3	6BB9_Y				7FBD_Y										
 7FFB			756A_Y				7FBD_Y								
@@ -4723,7 +4723,7 @@ F979			51AB_Y				4EAC_Y
 80BA			6708_Y				5DFF_Y								
 80BC			6708_Y				4E95_Y								
 80BD			6708_Y				592A_Y								
-80BE		3022_Y			6708_Y										
+80BE		3022_Y			6708_Y			53C8_Y							
 80BF			6708_Y				4E2D_Y								
 80C0			6708_Y				957F_Y								
 80C1			6708_Y				529E_Y								
@@ -4812,7 +4812,7 @@ F979			51AB_Y				4EAC_Y
 817B			6708_Y				8D30_Y								
 817C			6708_Y				9762_Y								
 817D			6708_Y				6637_Y								
-817E			6708_Y			9A6C_Y									
+817E			6708_Y			9A6C_Y		9FB9_Y							
 817F			6708_Y				9000_Y								
 8180			6708_Y				65C1_Y								
 8182	65C5_Y				6708_Y										
@@ -4873,7 +4873,7 @@ F979			51AB_Y				4EAC_Y
 8236			821F_Y				767D_Y								
 8237			821F_Y				7384_Y								
 8238			821F_Y				53EF_Y								
-8239			821F_Y			53E3_Y									
+8239			821F_Y			53E3_Y		51E0_Y							
 823B			821F_Y				5362_Y								
 823E			821F_Y				897F_Y								
 8244			821F_Y				8096_Y								
@@ -5102,7 +5102,7 @@ F979			51AB_Y				4EAC_Y
 8425	2B1E6_Y				5415_Y										
 8426	2B1E6_Y				7CF8_Y										
 8427	8279_Y				8083_Y										
-8428	8279_Y					4EA7_Y									
+8428	8279_Y			961D_Y		4EA7_Y									
 8431	8279_Y				5BA3_Y										
 8438	8279_Y				81FE_Y										
 843C	8279_Y				54A2_Y										
@@ -5189,17 +5189,17 @@ F979			51AB_Y				4EAC_Y
 855E	8279_Y				6700_Y										
 8564	8279_Y				7524_Y										
 8568	8279_Y				53A5_Y										
-8572	8279_Y					65A4_Y									
+8572	8279_Y			5355_Y		65A4_Y									
 8574	8279_Y				7F0A_Y										
 8579	8279_Y				96CD_Y										
 857A	8279_Y				6222_Y										
-857B	8279_Y					5171_Y									
+857B	8279_Y			9578_Y		5171_Y									
 857E	8279_Y				96F7_Y										
 8584	8279_Y				6EA5_Y										
 8585	8279_Y				5AB7_Y										
 8587	8279_Y				5FAE_Y										
 858F	8279_Y				610F_Y										
-859B	8279_Y					8F9B_Y									
+859B	8279_Y			200A4_Y		8F9B_Y									
 859C	8279_Y				8F9F_Y										
 85A4	8279_Y				29401_Y										
 85A8	8279_Y				6B7B_Y										5196_N;7F52_N
@@ -5237,9 +5237,9 @@ F979			51AB_Y				4EAC_Y
 8662			5BFD_Y				864E_Y								
 866C			866B_Y				4E5A_Y								
 866E			866B_Y				51E0_Y								
-8671															
+8671				459D_Y				2E84_Y							
 8679			866B_Y				5DE5_Y								
-867A															866B_N
+867A				5140_Y											866B_N
 867B			866B_Y				4EA1_Y								
 867C			866B_Y				4E5E_Y								
 867D	53E3_Y				866B_Y										
@@ -5414,7 +5414,7 @@ F979			51AB_Y				4EAC_Y
 8881	571F_Y				27607_Y									53E3_Y	
 8882			8864_Y				592C_Y								
 8884			8864_Y				592D_Y								
-8885															
+8885				8863_Y				9E1F_N							
 8888	52A0_Y				8863_Y										
 888B	4EE3_Y				8863_Y										
 888D			8864_Y				5305_Y								
@@ -5428,7 +5428,7 @@ F979			51AB_Y				4EAC_Y
 88B1			8864_Y				4F0F_Y								
 88B7			8864_Y				5408_Y								
 88BC			8864_Y				5404_Y								
-88C1															8863_N
+88C1								2298F_Y							8863_N
 88C2	5217_Y				8863_Y										
 88C5	58EE_Y				8863_Y										
 88C6			8864_Y				5F53_Y								
@@ -5484,7 +5484,7 @@ F979			51AB_Y				4EAC_Y
 89C5	722B_Y				89C1_Y										
 89C6			793B_Y				89C1_Y								
 89C7			5360_Y				89C1_Y								
-89C8		3022_Y			89C1_Y										
+89C8		3022_Y			89C1_Y			2EAE_N							
 89C9					89C1_Y										2E8D_N;2F0D_N
 89CA			5C82_Y				89C1_Y								
 89CB			5DEB_Y				89C1_Y								
@@ -5496,14 +5496,14 @@ F979			51AB_Y				4EAC_Y
 89D6			89D2_Y				592C_Y								
 89DA			89D2_Y				74DC_Y								
 89DC	6B64_Y				89D2_Y										
-89DE			89D2_Y			200D3_Y									
+89DE			89D2_Y			200D3_Y		20089_Y							
 89E3			89D2_Y				2DDD4_Y								
 89E5			89D2_Y				5149_Y								
 89E6			89D2_Y				866B_Y								
 89EB			89D2_Y				675F_Y								
 89EF			89D2_Y				5355_Y								
-89F3		58EB_Y					6BB3_Y								4E00_N;5196_N
-8A07														8A00_Y	
+89F3		58EB_Y		89D2_Y			6BB3_Y								4E00_N;5196_N
+8A07								52F9_Y						8A00_Y	
 8A3E	6B64_Y				8A00_Y										
 8A48	7F52_Y				8A00_Y										
 8A79															
@@ -5666,7 +5666,7 @@ F979			51AB_Y				4EAC_Y
 8C62	9FB9_Y				8C55_Y										
 8C6A	4EA0_Y				8C55_Y										5196_N;53E3_N
 8C6B			4E88_Y				8C61_Y								
-8C73															8C69_N
+8C73											5C71_Y				8C69_N
 8C79			8C78_Y				52FA_Y								
 8C7A			8C78_Y				624D_Y								
 8C82			8C78_Y				53EC_Y								
@@ -5682,7 +5682,7 @@ F979			51AB_Y				4EAC_Y
 8D21	5DE5_Y				8D1D_Y										
 8D22			8D1D_Y				624D_Y								
 8D23	9FB6_Y				8D1D_Y										
-8D24		3022_Y			8D1D_Y										
+8D24		3022_Y			8D1D_Y			53C8_Y							
 8D25			8D1D_Y				6535_Y								
 8D26			8D1D_Y				957F_Y								
 8D27	5316_Y				8D1D_Y										
@@ -5694,7 +5694,7 @@ F979			51AB_Y				4EAC_Y
 8D2D			8D1D_Y				52FE_Y								
 8D2E			8D1D_Y				3749_Y								
 8D2F	6BCC_Y				8D1D_Y										
-8D30															4E8C_N;8D1D_N
+8D30								5F0B_Y							4E8C_N;8D1D_N
 8D31			8D1D_Y				620B_Y								
 8D32	5349_Y				8D1D_Y										
 8D33	4E16_Y				8D1D_Y										
@@ -5741,26 +5741,26 @@ F979			51AB_Y				4EAC_Y
 8D60			8D1D_Y				66FE_Y								
 8D61			8D1D_Y				8A79_Y								
 8D62	5402_Y														51E1_N;6708_N;8D1D_N
-8D63			7AE0_Y			8D21_Y									
+8D63			7AE0_Y			8D21_Y		5902_Y							
 8D66			8D64_Y				6535_Y								
 8D67			8D64_Y				20B1D_Y								
 8D6B			8D64_Y				8D64_Y								
 8D6D			8D64_Y				8005_Y								
-8D73															4E29_N
-8D74															535C_N
-8D75															3405_N
-8D76															5E72_N
-8D77															5DF1_N
-8D81															3431_N
-8D84															4E14_N
-8D85															53EC_N
-8D8A															6209_N
-8D8B															520D_N
-8D91															6B21_N
-8D94															5217_N
-8D9F															5C1A_N
-8DA3															53D6_N
-8DB1															8D5E_N
+8D73				8D70_Y											4E29_N
+8D74				8D70_Y											535C_N
+8D75				8D70_Y											3405_N
+8D76				8D70_Y											5E72_N
+8D77				8D70_Y											5DF1_N
+8D81				8D70_Y											3431_N
+8D84				8D70_Y											4E14_N
+8D85				8D70_Y											53EC_N
+8D8A				8D70_Y											6209_N
+8D8B				8D70_Y											520D_N
+8D91				8D70_Y											6B21_N
+8D94				8D70_Y											5217_N
+8D9F				8D70_Y											5C1A_N
+8DA3				8D70_Y											53D6_N
+8DB1				8D70_Y											8D5E_N
 8DB4			27FB7_Y				516B_Y								
 8DB5			27FB7_Y				52FA_Y								
 8DB8	4E07_Y				8DB3_Y										
@@ -5877,7 +5877,7 @@ F979			51AB_Y				4EAC_Y
 8F7A			8F66_Y				53EC_Y								
 8F7B			8F66_Y				22016_Y								
 8F7C			8F66_Y				5F0F_Y								
-8F7D															8F66_N
+8F7D								2298F_Y							8F66_N
 8F7E			8F66_Y				81F3_Y								
 8F7F			8F66_Y				4E54_Y								
 8F81			8F66_Y				5168_Y								
@@ -5913,108 +5913,108 @@ F979			51AB_Y				4EAC_Y
 8FAB			8F9B_Y				8F9B_Y							7E9F_Y	
 8FB1	8FB0_Y				5BF8_Y										
 8FB6															
-8FB9															
-8FBD															
-8FBE															
-8FC1															
-8FC2															
-8FC4															
-8FC5															
-8FC7															
-8FC8															
-8FCE															
-8FD0															
-8FD1															
-8FD3															
-8FD4															
-8FD5															
-8FD8															
-8FD9															
-8FDB															
-8FDC															
-8FDD															
-8FDE															
-8FDF															
-8FE2															
-8FE4															
-8FE5															
-8FE6															
-8FE8															
-8FE9															
-8FEA															
-8FEB															
-8FED															
-8FEE															
-8FF0															
-8FF3															
-8FF7															
-8FF8															
-8FF9															
-8FFD															
-9000															
-9001															
-9002															
-9003															
-9004															
-9005															
-9006															
-9009															
-900A															
-900B															
-900D															
-900F															
-9010															
-9011															
-9012															
-9014															
-9016															
-9017															
-901A															
-901B															
-901D															
-901E															
-901F															
-9020															
-9021															
-9022															
-9026															
-902D															
-902E															
-902F															
-9035															
-9036															
-9038															
-903B															
-903C															
-903E															
-9041															
-9042															
-9044															
-9047															
-904D															
-904F															
-9050															
-9051															
-9052															
-9053															
-9057															
-9058															
-905B															
-9062															
-9063															
-9065															
-9068															
-906D															
-906E															
-9074															
-9075															
-907D															
-907F															
-9080															
-9082															
-9083															
-9088															
-908B															
+8FB9				8FB6_Y				529B_Y							
+8FBD				8FB6_Y				4E86_Y							
+8FBE				8FB6_Y				5927_Y							
+8FC1				8FB6_Y				5343_Y							
+8FC2				8FB6_Y				4E8E_Y							
+8FC4				8FB6_Y				4E5E_Y							
+8FC5				8FB6_Y				5342_Y							
+8FC7				8FB6_Y				5BF8_Y							
+8FC8				8FB6_Y				4E07_Y							
+8FCE				8FB6_Y				536C_Y							
+8FD0				8FB6_Y				4E91_Y							
+8FD1				8FB6_Y				65A4_Y							
+8FD3				8FB6_Y				7259_Y							
+8FD4				8FB6_Y				53CD_Y							
+8FD5				8FB6_Y				5348_Y							
+8FD8				8FB6_Y				4E0D_Y							
+8FD9				8FB6_Y				6587_Y							
+8FDB				8FB6_Y				4E95_Y							
+8FDC				8FB6_Y				5143_Y							
+8FDD				8FB6_Y				97E6_Y							
+8FDE				8FB6_Y				8F66_Y							
+8FDF				8FB6_Y				5C3A_Y							
+8FE2				8FB6_Y				53EC_Y							
+8FE4				8FB6_Y				340C_Y							
+8FE5				8FB6_Y				518B_Y							
+8FE6				8FB6_Y				52A0_Y							
+8FE8				8FB6_Y				53F0_Y							
+8FE9				8FB6_Y				5C14_Y							
+8FEA				8FB6_Y				7531_Y							
+8FEB				8FB6_Y				767D_Y							
+8FED				8FB6_Y				5931_Y							
+8FEE				8FB6_Y				4E4D_Y							
+8FF0				8FB6_Y				672F_Y							
+8FF3				8FB6_Y				22016_Y							
+8FF7				8FB6_Y				7C73_Y							
+8FF8				8FB6_Y				5E76_Y							
+8FF9				8FB6_Y				4EA6_Y							
+8FFD				8FB6_Y				200A4_Y							
+9000				8FB6_Y				826E_Y							
+9001				8FB6_Y				5173_Y							
+9002				8FB6_Y				820C_Y							
+9003				8FB6_Y				5146_Y							
+9004				8FB6_Y				5905_Y							
+9005				8FB6_Y				540E_Y							
+9006				8FB6_Y				5C70_Y							
+9009				8FB6_Y				5148_Y							
+900A				8FB6_Y				5B59_Y							
+900B				8FB6_Y				752B_Y							
+900D				8FB6_Y				8096_Y							
+900F				8FB6_Y				79C0_Y							
+9010				8FB6_Y				8C55_Y							
+9011				8FB6_Y				6C42_Y							
+9012				8FB6_Y				5F1F_Y							
+9014				8FB6_Y				4F59_Y							
+9016				8FB6_Y				72C4_Y							
+9017				8FB6_Y				8C46_Y							
+901A				8FB6_Y				752C_Y							
+901B				8FB6_Y				72C2_Y							
+901D				8FB6_Y				6298_Y							
+901E				8FB6_Y				5448_Y							
+901F				8FB6_Y				675F_Y							
+9020				8FB6_Y				544A_Y							
+9021				8FB6_Y				590B_Y							
+9022				8FB6_Y				5906_Y							
+9026				8FB6_Y				4E3D_Y							
+902D				8FB6_Y				5B98_Y							
+902E				8FB6_Y				96B6_Y							
+902F				8FB6_Y				5F55_Y							
+9035				8FB6_Y				5774_Y							
+9036				8FB6_Y				59D4_Y							
+9038				8FB6_Y				5154_Y							
+903B				8FB6_Y				7F57_Y							
+903C				8FB6_Y				7550_Y							
+903E				8FB6_Y				4FDE_Y							
+9041				8FB6_Y				76FE_Y							
+9042				8FB6_Y				34B8_Y							
+9044				8FB6_Y				8011_Y							
+9047				8FB6_Y				79BA_Y							
+904D				8FB6_Y				6241_Y							
+904F				8FB6_Y				66F7_Y							
+9050				8FB6_Y				53DA_Y							
+9051				8FB6_Y				7687_Y							
+9052				8FB6_Y				914B_Y							
+9053				8FB6_Y				9996_Y							
+9057				8FB6_Y				8D35_Y							
+9058				8FB6_Y				5193_Y							
+905B				8FB6_Y				7559_Y							
+9062				8FB6_Y				26407_Y							
+9063				8FB6_Y				20CCB_Y							
+9065				8FB6_Y				4343_Y							
+9068				8FB6_Y				6556_Y							
+906D				8FB6_Y				66F9_Y							
+906E				8FB6_Y				5EB6_Y							
+9074				8FB6_Y				7CA6_Y							
+9075				8FB6_Y				5C0A_Y							
+907D				8FB6_Y				8C66_Y							
+907F				8FB6_Y				8F9F_Y							
+9080				8FB6_Y				656B_Y							
+9082				8FB6_Y				89E3_Y							
+9083				8FB6_Y				41A5_Y							
+9088				8FB6_Y				8C8C_Y							
+908B				8FB6_Y				5DE4_Y							
 9093			53C8_Y				961D_Y								
 9095	5DDB_Y				9091_Y										
 9097			5E72_Y				961D_Y								
@@ -6100,7 +6100,7 @@ F979			51AB_Y				4EAC_Y
 916E			9149_Y				540C_Y								
 916F			9149_Y				65E8_Y								
 9170			9149_Y				5148_Y								
-9171		4E2C_Y			9149_Y										
+9171		4E2C_Y			9149_Y			5915_Y							
 9172			9149_Y				5448_Y								
 9174			9149_Y				4F59_Y								
 9175			9149_Y				5B5D_Y								
@@ -6127,7 +6127,7 @@ F979			51AB_Y				4EAC_Y
 91AA			9149_Y				7FCF_Y								
 91AD			9149_Y				83D0_Y								
 91AE			9149_Y				7126_Y								
-91AF			9149_Y			76BF_Y									
+91AF			9149_Y			76BF_Y		342C_Y							
 91B4			9149_Y				8C4A_Y								
 91B5			9149_Y				8C66_Y								
 91BA			9149_Y				718F_Y								
@@ -6138,7 +6138,7 @@ F979			51AB_Y				4EAC_Y
 91CE			91CC_Y				4E88_Y								
 91CF	65E6_Y				91CC_Y										
 91DC															
-9274		3022_Y			91D1_Y										
+9274		3022_Y			91D1_Y			2EAE_N							
 928E	5DE9_Y				91D1_Y										
 92AE	4EA6_N				91D1_Y										
 92C8	6C83_Y				91D1_Y										
@@ -6210,7 +6210,7 @@ F979			51AB_Y				4EAC_Y
 94C2			9485_Y				767D_Y								
 94C3			9485_Y				4EE4_Y								
 94C4			9485_Y				4E50_Y								
-94C5			9485_Y			53E3_Y									
+94C5			9485_Y			53E3_Y		20627_Y							
 94C6			9485_Y				536F_Y								
 94C8			9485_Y				5E02_Y								
 94C9			9485_Y				7384_Y								
@@ -6369,51 +6369,51 @@ F979			51AB_Y				4EAC_Y
 9576			9485_Y				8944_Y								
 957F															
 95E8															
-95E9															4E00_N
-95EA															4EBA_N
-95EB															4E09_N
-95ED															624D_N
-95EE															53E3_N
-95EF															9A6C_N
-95F0															738B_N
-95F1															97E6_N
-95F2															6728_N
-95F3															53B7_N
-95F4															65E5_N
-95F5															6587_N
-95F6															4EA2_N
-95F7															5FC3_N
-95F8															7532_N
-95F9															5E02_N
-95FA															572D_N
-95FB															8033_N
-95FC															8FBE_N
-95FD															866B_N
-95FE															5415_N
-9600															4F10_N
-9601															5404_N
-9602															4EA5_N
-9603															56F0_N
-9604															9F9F_N
-9605															5151_N
-9606															826F_N
-9608															6216_N
-9609															5944_N
-960A															660C_N
-960B															5152_N
-960C															53D7_N
-960D															660F_N
-960E															81FD_N
-960F															65BC_N
-9610															5355_N
-9611															67EC_N
-9612															72CA_N
-9614															6D3B_N
-9615															7678_N
-9616															76CD_N
-9617															771F_N
-9619															6B2E_N
-961A															6562_N
+95E9									95E8_Y						4E00_N
+95EA									95E8_Y						4EBA_N
+95EB									95E8_Y						4E09_N
+95ED									95E8_Y						624D_N
+95EE									95E8_Y						53E3_N
+95EF									95E8_Y						9A6C_N
+95F0									95E8_Y						738B_N
+95F1									95E8_Y						97E6_N
+95F2									95E8_Y						6728_N
+95F3									95E8_Y						53B7_N
+95F4									95E8_Y						65E5_N
+95F5									95E8_Y						6587_N
+95F6									95E8_Y						4EA2_N
+95F7									95E8_Y						5FC3_N
+95F8									95E8_Y						7532_N
+95F9									95E8_Y						5E02_N
+95FA									95E8_Y						572D_N
+95FB									95E8_Y						8033_N
+95FC									95E8_Y						8FBE_N
+95FD									95E8_Y						866B_N
+95FE									95E8_Y						5415_N
+9600									95E8_Y						4F10_N
+9601									95E8_Y						5404_N
+9602									95E8_Y						4EA5_N
+9603									95E8_Y						56F0_N
+9604									95E8_Y						9F9F_N
+9605									95E8_Y						5151_N
+9606									95E8_Y						826F_N
+9608									95E8_Y						6216_N
+9609									95E8_Y						5944_N
+960A									95E8_Y						660C_N
+960B									95E8_Y						5152_N
+960C									95E8_Y						53D7_N
+960D									95E8_Y						660F_N
+960E									95E8_Y						81FD_N
+960F									95E8_Y						65BC_N
+9610									95E8_Y						5355_N
+9611									95E8_Y						67EC_N
+9612									95E8_Y						72CA_N
+9614									95E8_Y						6D3B_N
+9615									95E8_Y						7678_N
+9616									95E8_Y						76CD_N
+9617									95E8_Y						771F_N
+9619									95E8_Y						6B2E_N
+961A									95E8_Y						6562_N
 961D															
 961F			961D_Y				4EBA_Y								
 9621			961D_Y				5343_Y								
@@ -6462,7 +6462,7 @@ F979			51AB_Y				4EAC_Y
 9685			961D_Y				79BA_Y								
 9686			961D_Y				3685_Y								
 9688			961D_Y				754F_Y								
-968B			961D_Y			5DE6_Y									
+968B			961D_Y			5DE6_Y		5DE6_Y							
 968D			961D_Y				7687_Y								
 968F			961D_Y				8FF6_Y								
 9690			961D_Y				6025_Y								
@@ -6485,7 +6485,7 @@ F979			51AB_Y				4EAC_Y
 96C7		6237_Y				96B9_Y									
 96C9			77E2_Y				96B9_Y								
 96CC			6B64_Y				96B9_Y								
-96CD	4EA0_Y					96B9_Y									
+96CD	4EA0_Y			4E61_Y		96B9_Y									
 96CE			4E14_Y				96B9_Y								
 96CF			520D_Y				96B9_Y								
 96D2			5404_Y				96B9_Y								
@@ -6549,7 +6549,7 @@ F979			51AB_Y				4EAC_Y
 97E6															
 97E7			97E6_Y				5203_Y								
 97E9			9FBA_Y				97E6_Y								
-97EA															97E6_N
+97EA				662F_Y											97E6_N
 97EB			97E6_Y				6637_Y								
 97EC			97E6_Y				8200_Y								
 97F5			97F3_Y				5300_Y								
@@ -6577,15 +6577,15 @@ F979			51AB_Y				4EAC_Y
 9889			5409_Y				9875_Y								
 988A			5939_Y				9875_Y								
 988C			5408_Y				9875_Y								
-988D		5315_Y					9875_Y								
+988D		5315_Y		6C34_Y			9875_Y								
 988F			4EA5_Y				9875_Y								
 9890			268DE_Y				9875_Y								
 9891			6B65_Y				9875_Y								
 9893			79C3_Y				9875_Y								
 9894			542B_Y				9875_Y								
-9896		5315_Y					9875_Y								
+9896		5315_Y		79BE_Y			9875_Y								
 9897			679C_Y				9875_Y								
-9898															9875_N
+9898				662F_Y											9875_N
 989A			54A2_Y				9875_Y								
 989B			8011_Y				9875_Y								
 989C			5F66_Y				9875_Y								
@@ -6599,14 +6599,14 @@ F979			51AB_Y				4EAC_Y
 98A5			9700_Y				9875_Y								
 98A6	9891_Y				5351_Y										
 98A7			96DA_Y				9875_Y								
-98CE															3405_N
-98D1															5305_N
+98CE									2E87_Y						3405_N
+98D1				98CE_Y											5305_N
 98D2			7ACB_Y				98CE_Y								
-98D3															5177_N
-98D5															53DF_N
+98D3				98CE_Y											5177_N
+98D5				98CE_Y											53DF_N
 98D8			7968_Y				98CE_Y								
 98D9			730B_Y				98CE_Y								
-98DA															7131_N
+98DA				98CE_Y											7131_N
 98DE															
 98E7			5915_Y				98DF_Y								
 98E8			4E61_Y				98DF_Y								
@@ -6622,11 +6622,11 @@ F979			51AB_Y				4EAC_Y
 9969			9963_Y				6C14_Y								
 996A			9963_Y				58EC_Y								
 996B			9963_Y				592D_Y								
-996C			9963_Y			529B_Y									
+996C			9963_Y			529B_Y		20089_Y							
 996D			9963_Y				53CD_Y								
 996E			9963_Y				6B20_Y								
 996F			9963_Y				620B_Y								
-9970			9963_Y			5DFE_Y									
+9970			9963_Y			5DFE_Y		20089_Y							
 9971			9963_Y				5305_Y								
 9972			9963_Y				53F8_Y								
 9974			9963_Y				53F0_Y								
@@ -6654,7 +6654,7 @@ F979			51AB_Y				4EAC_Y
 9993			9963_Y				6563_Y								
 9994			9963_Y				5DFD_Y								
 9995			9963_Y				56CA_Y								
-9997															9996_N
+9997				4E5D_Y											9996_N
 9998			9996_Y				6216_Y								
 99A5			9999_Y				590D_Y								
 99A8	6BB8_Y				9999_Y										
@@ -6738,17 +6738,17 @@ F979			51AB_Y				4EAC_Y
 9B1F	9ADF_Y				7758_Y										
 9B23	9ADF_Y				5DE4_Y										
 9B3B	7CA5_Y				9B32_Y										
-9B41															6597_N
+9B41				9B3C_Y											6597_N
 9B42			4E91_Y				9B3C_Y								
-9B43															72AE_N
+9B43				9B3C_Y											72AE_N
 9B44			767D_Y				9B3C_Y								
-9B45															672A_N
+9B45				9B3C_Y											672A_N
 9B47		538C_Y													9B3C_N
-9B48															8096_N
-9B49															4E24_N
-9B4D															7F54_N
+9B48				9B3C_Y											8096_N
+9B49				9B3C_Y											4E24_N
+9B4D				9B3C_Y											7F54_N
 9B4F			59D4_Y				9B3C_Y								
-9B51															79BB_N
+9B51				9B3C_Y											79BB_N
 9B54		9EBB_Y													9B3C_N
 9C7C	2E88_Y				4E00_Y									7530_Y	
 9C7F			9C7C_Y				5C24_Y								
@@ -6821,7 +6821,7 @@ F979			51AB_Y				4EAC_Y
 9CDE			9C7C_Y				7CA6_Y								
 9CDF			9C7C_Y				5C0A_Y								
 9CE2			9C7C_Y				8C4A_Y								
-9E1F															4E00_N
+9E1F								9E1F_N							4E00_N
 9E20			4E5D_Y				9E1F_Y								
 9E21			53C8_Y				9E1F_Y								
 9E22	5F0B_Y				9E1F_Y										
@@ -7320,7 +7320,7 @@ F979			51AB_Y				4EAC_Y
 2642															
 2E3A															
 3000															
-3001		4E5B_Y													
+3001		4E5B_Y		8033_Y											
 3002															
 3003															
 3005															
