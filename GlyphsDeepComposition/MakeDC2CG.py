@@ -13,8 +13,12 @@ for l in f:
 sorted_d = {k: v for k, v in sorted(d.items(), key=lambda item: len(item[1]), reverse=True)}
 
 s = ''
+dc = ''
 for DC, CGs in sorted_d.items():
 	s += ('{}:{}'.format(DC, ''.join(CGs))) + '\n'
-
+	dc += DC
 output = open('DeepComponents2characters.txt', 'w', encoding='utf-8')
 output.write(s)
+
+onlyDC = open('AllDeepComponents.txt', 'w', encoding='utf-8')
+onlyDC.write(dc)
