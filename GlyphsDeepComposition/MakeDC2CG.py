@@ -1,6 +1,7 @@
 # coding: utf-8
 f = open('Characters2DeepComponents.txt', encoding='utf-8').readlines()
 d = {}
+
 for l in f:
 	CG, DCs = l.split(':')
 	DCs = DCs.strip()
@@ -11,6 +12,7 @@ for l in f:
 			d[DC].add(CG)
 
 sorted_d = {k: v for k, v in sorted(d.items(), key=lambda item: len(item[1]), reverse=True)}
+
 
 s = ''
 dc = ''
