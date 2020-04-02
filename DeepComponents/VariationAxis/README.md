@@ -88,7 +88,7 @@ BR      |Bottom Right |底部右
 - Stroke names is based on Pinyin spelling.
 
 - For the sake of brevity, the compound strokes in the axis name will use the name of the part that changed.</br>
-Exemple the stroke Vertical Rise ![image](/images/VR.png) often only change its "Rise" part so, we simply use "T" ![image](/images/T.png) in the axis name but not "ST" (Vertical Rise).
+Exemple the stroke Vertical Rise ![image](./images/VR.png) often only change its "Rise" part so, we simply use "T" ![image](./images/T.png) in the axis name but not "ST" (Vertical Rise).
 
 - Stroke Naming Reference: [CJK stroke](http://www.unicode.org/charts/PDF/U31C0.pdf)
 
@@ -97,22 +97,22 @@ Exemple the stroke Vertical Rise ![image](/images/VR.png) often only change its 
 Code |Meaning      |PinYin|Hanzi|Glyph
 :---:|:-----------:|:----:|:---:|:---:
 H    |Horizontal   |Heng  |横   |![image](./images/H.png)   
-S    |Vertical     |Shu   |竖   |![image](/images/S.png)   
-P    |Throw Away   |Pie   |撇   |![image](/images/P.png)     
-N    |Press Down   |Na    |捺   |![image](/images/N.png)   
-D    |Dot          |Dian  |点   |![image](/images/D.png)   
-T    |Rise         |Ti    |提   |![image](/images/T.png)   
+S    |Vertical     |Shu   |竖   |![image](./images/S.png)   
+P    |Throw Away   |Pie   |撇   |![image](./images/P.png)     
+N    |Press Down   |Na    |捺   |![image](./images/N.png)   
+D    |Dot          |Dian  |点   |![image](./images/D.png)   
+T    |Rise         |Ti    |提   |![image](./images/T.png)   
 
 ### Compound Strokes
 
 Code    |Meaning                |PinYin     |Hanzi |Glyph |
 :------:|:---------------------:|:---------:|:----:|:----:
-HG      |Horizontal Hook        |Heng Gou   |横勾  |![image](/images/HG.png)    
-HP      |Horizontal Throw       |Heng Pie   |横撇  |![image](/images/HP.png)    
-SG      |Vertical Hook          |Shu Gou    |竖勾  |![image](/images/SG.png)    
-SWG     |Vertical Turning Hook  |Shu Wan Gou|竖弯钩|![image](/images/SWG.png)    
-XG      |Slant Hook             |Xie Gou    |斜勾  |![image](/images/XG.png)    
-SW      |Vertical Turning       |Shu Wan    |竖弯  |![image](/images/SW.png)    
+HG      |Horizontal Hook        |Heng Gou   |横勾  |![image](./images/HG.png)    
+HP      |Horizontal Throw       |Heng Pie   |横撇  |![image](./images/HP.png)    
+SG      |Vertical Hook          |Shu Gou    |竖勾  |![image](./images/SG.png)    
+SWG     |Vertical Turning Hook  |Shu Wan Gou|竖弯钩|![image](./images/SWG.png)    
+XG      |Slant Hook             |Xie Gou    |斜勾  |![image](./images/XG.png)    
+SW      |Vertical Turning       |Shu Wan    |竖弯  |![image](./images/SW.png)    
 
 ### Special Elements
 
