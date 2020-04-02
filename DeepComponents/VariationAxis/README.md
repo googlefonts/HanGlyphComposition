@@ -96,7 +96,7 @@ Exemple the stroke Vertical Rise ![image](/images/VR.png) often only change its 
 
 Code |Meaning      |PinYin|Hanzi|Glyph
 :---:|:-----------:|:----:|:---:|:---:
-H    |Horizontal   |Heng  |横   |![image](/images/H.png)   
+H    |Horizontal   |Heng  |横   |![image](./images/H.png)   
 S    |Vertical     |Shu   |竖   |![image](/images/S.png)   
 P    |Throw Away   |Pie   |撇   |![image](/images/P.png)     
 N    |Press Down   |Na    |捺   |![image](/images/N.png)   
