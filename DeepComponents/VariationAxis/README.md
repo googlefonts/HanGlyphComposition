@@ -140,7 +140,7 @@ Code    |Meaning       |Hanzi
 :------:|:------------:|:-------:
 sh      |shorter       |缩短/避让
 lo      |longer        |加长     
-bo      |boloder       |加粗     
+bo      |bolder        |加粗     
 th      |thiner        |减细     
 mo      |move          |位移     
 ro      |rotation      |旋转     
