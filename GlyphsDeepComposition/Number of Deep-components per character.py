@@ -88,10 +88,10 @@ for d in diametersList:
     x += inc
 
 s = W-margins*2
-l = s/(maxc)
+l = s/(maxc+1)
 maxq = max([v for k, v in nbCompo2quantity.items()])
 
-for i in range(maxc):
+for i in range(maxc+1):
     colgreen = i/maxc
     colred = 1-colgreen
     fill(colred, colgreen, 0, 1)
