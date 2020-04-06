@@ -65,6 +65,7 @@ rect(0, 0, W, H)
 fill(1, 0, 0, 1)
 
 maxc = max([d['q'] for d in diametersList])
+minc = min([d['q'] for d in diametersList])
 
 y = H-margins
 x = margins
@@ -88,17 +89,18 @@ for d in diametersList:
     x += inc
 
 s = W-margins*2
-l = s/(maxc+1)
+l = s/(maxc-minc+1)
 maxq = max([v for k, v in nbCompo2quantity.items()])
 
-for i in range(maxc+1):
-    colgreen = i/maxc
+for i in range(maxc-minc+1):
+    colgreen = (minc+i)/maxc
     colred = 1-colgreen
     fill(colred, colgreen, 0, 1)
-    rect(margins+l*i, margins*2.5, l, margins*.5)
+    rect(margins+l*(i), margins*2.5, l, margins*.5)
     font("DriveMono-Book", min(H,W)/100)
     fill(1)
-    text(str(i+1), (margins+l*i+l/2, margins*3.5), align='center')
+    text(str(minc+i), (margins+l*(i)+l/2, margins*3.5), align='center')
+
     
 text('Black[Foundry] Number of deep-components per character (%s characters)' % nbChar, (margins, margins), align='left')
 text(month_year, (W-margins, margins), align='right')
