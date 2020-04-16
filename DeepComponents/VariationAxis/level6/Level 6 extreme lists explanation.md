@@ -4,9 +4,11 @@
 
 ## Concept of level 6
 
-- DC only contains strokes as "一" (horizontal stroke) and "丨" (vertical stroke) and their combined strokes (eg."𠃊")
+- DC only contains strokes as "一" (horizontal stroke) and "丨" (vertical stroke) and their combined strokes (eg."𠃊") 
 
-- Easy to make the extremes to cover all the situations
+*This level grouping only applies to DCs' basic shapes, some of other versions of these DCs may contain curve strokes
+
+- Easy to make the extremes for cover all the situations
 
 ## Concept of this list
 
@@ -20,7 +22,7 @@
     
     - All we have to do is make sure that all possible situations are covered
 
-### "口" as exelple
+### "口" as exemple
 
 - Master: A full-width square without bottom foots)
 
