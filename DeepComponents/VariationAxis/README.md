@@ -107,20 +107,22 @@ T    |Rise         |Ti    |提   |![image](./images/T.png)
 
 Code    |Meaning                |PinYin     |Hanzi |Glyph |
 :------:|:---------------------:|:---------:|:----:|:----:
-HG      |Horizontal Hook        |Heng Gou   |横勾  |![image](./images/HG.png)    
-HP      |Horizontal Throw       |Heng Pie   |横撇  |![image](./images/HP.png)    
-SG      |Vertical Hook          |Shu Gou    |竖勾  |![image](./images/SG.png)    
-SWG     |Vertical Turning Hook  |Shu Wan Gou|竖弯钩|![image](./images/SWG.png)    
-XG      |Slant Hook             |Xie Gou    |斜勾  |![image](./images/XG.png)    
-SW      |Vertical Turning       |Shu Wan    |竖弯  |![image](./images/SW.png)    
+HG      |Horizontal Hook        |Heng Gou   |横勾   |![image](./images/HG.png)    
+HP      |Horizontal Throw       |Heng Pie   |横撇   |![image](./images/HP.png)    
+SG      |Vertical Hook          |Shu Gou    |竖勾   |![image](./images/SG.png)    
+SWG     |Vertical Turning Hook  |Shu Wan Gou|竖弯钩 |![image](./images/SWG.png)    
+XG      |Slant Hook             |Xie Gou    |斜勾   |![image](./images/XG.png)    
+SW      |Vertical Turning       |Shu Wan    |竖弯   |![image](./images/SW.png)    
 
 ### Special Elements
 
-Code   |Meaning     |Zi Qiang |字腔
-:-----:|:----------:|:-------:|:--:
-ZH     |Combination |Zu He    |组合
-ZX     |Barycenter  |Zhong Xin|重心
-ZQ     |Counter     |Zi Qiang |字腔
+Code   |Meaning        |PinYin   |Hanzi
+:-----:|:-------------:|:-------:|:--:
+ZH     |Combination    |Zu He    |组合
+ZX     |Barycenter     |Zhong Xin|重心
+ZQ     |Counter        |Zi Qiang |字腔
+WV         |Weight  Vertical      |X                |横字重
+WH         |Counter  Horizontal |X                |竖字重
 
 ## Type of Alteration
 
@@ -138,12 +140,11 @@ mi      |minify       |缩小
 
 Code    |Meaning       |Hanzi    
 :------:|:------------:|:-------:
-sh      |shorter       |缩短/避让
-lo      |longer        |加长     
-bo      |bolder        |加粗     
-th      |thiner        |减细     
+sh      |shorter       |缩短
+lo      |longer        |加长         
 mo      |move          |位移     
-ro      |rotation      |旋转     
+ro      |rotation      |旋转
+sl             |slant                    |倾斜      
 2s      |2 side shorter|两边缩进 
 2l      |2 side longer |两边加长 
 
@@ -160,3 +161,10 @@ Code  |Meaning          |Hanzi
 :----:|:---------------:|:------:
 hi    |higher barycenter|提高重心
 lo    |lower barycenter |降低重心
+
+## 
+
+Code  |Meaning          |Hanzi   
+:----:|:---------------:|:------:
+bo    |bolder           |加粗     
+th    |thiner           |减细 
