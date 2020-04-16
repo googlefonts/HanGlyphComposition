@@ -121,8 +121,8 @@ Code   |Meaning        |PinYin   |Hanzi
 ZH     |Combination    |Zu He    |组合
 ZX     |Barycenter     |Zhong Xin|重心
 ZQ     |Counter        |Zi Qiang |字腔
-WV         |Weight  Vertical      |X                |横字重
-WH         |Counter  Horizontal |X                |竖字重
+WV      |Weight  Vertical       |X     |横字重
+WH      |Weight  Horizontal     |X     |竖字重
 
 ## Type of Alteration
 
@@ -144,7 +144,7 @@ sh      |shorter       |缩短
 lo      |longer        |加长         
 mo      |move          |位移     
 ro      |rotation      |旋转
-sl             |slant                    |倾斜      
+sl      |slant         |倾斜      
 2s      |2 side shorter|两边缩进 
 2l      |2 side longer |两边加长 
 
@@ -152,15 +152,15 @@ sl             |slant                    |倾斜
 
 Code  |Meaning       |Hanzi  
 :----:|:------------:|:------:
-re    |reduce counter|字腔收缩
-op    |open counter  |字腔放大
+re    |reduce counter|收缩
+op    |open counter  |放大
 
 ### Barycenter Alterations
 
 Code  |Meaning          |Hanzi   
 :----:|:---------------:|:------:
-hi    |higher barycenter|提高重心
-lo    |lower barycenter |降低重心
+hi    |higher barycenter|提高
+lo    |lower barycenter |降低
 
 ## 
 
