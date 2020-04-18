@@ -1,4 +1,4 @@
-# Han Glyphs Composition Rules
+# Han Character Glyphs Deep-composition
 
 ## Deep-components' key usage in characters:
 
