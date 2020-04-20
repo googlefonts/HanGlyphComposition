@@ -121,5 +121,5 @@ font("DriveMono-Book", min(H,W)/100)
 text('Black[Foundry] Deep-components’ key usage in characters by level (%s keys)' % len(compo2char.keys()), (margins, margins), align='left')
 text(month_year, (W-margins, margins), align='right')
 
-saveImage('Deep-components-key-usage-in-characters-by-level.pdf')
-saveImage('Deep-components-key-usage-in-characters-by-level.png')
+saveImage('../DeepComponents/Deep-components-key-usage-in-characters-by-level.pdf')
+saveImage('../DeepComponents/Deep-components-key-usage-in-characters-by-level.png')
