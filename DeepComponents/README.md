@@ -22,7 +22,7 @@ Each Deep Component (DC) that differs from its GB (China Mainland) form due to l
 
 Example:
 
-	艹.V_htxx\*0
+	艹.V_htxx*0
 
 
 
@@ -82,6 +82,6 @@ Some DCs have more than one version, layer, or existing change. A number is adde
 
 Examples:
 
-	(DC).V_hxxx\*0
-	(DC).V_hxxx\*1
-	(DC).V_hxxx\*2
+	(DC).V_hxxx*0
+	(DC).V_hxxx*1
+	(DC).V_hxxx*2
