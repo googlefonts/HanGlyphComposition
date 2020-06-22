@@ -35,22 +35,26 @@ We have categorised the DC localisation changes into 5 Types:
 
 This DC changes to another form across all characters in its region.
 
-• Version Added: (DC).V_
+• Version Added: 
+	(DC).#V#_
 
 This DC uses its original GB form when localized, but in addition to that, one or more versions have to be designed for use within its region. i.e. New versions are added on top of its GB form. The use of which version is character dependent.  Versions are bigger formal changes and are usually non-interpolatable with the GB form.
 
 
-• Layer Add: (DC).L_
+• Layer Add: 
+	(DC).#L#_
 
 This DC has small variable change that is interpolatable with its GB form. A layer is added in the DC to achieve this. E.g. a longer or shorter leg or tail.
 
 
-• Existing Version Switch: (DC).E_
+• Existing Version Switch: 
+	(DC).#E#_
 
 This DC exists in GB but as a different version. 
 
 
-• Compo Change: (C).C_
+• Compo Change: 
+	(DC).#C#_
 
 This Character has one or more DCs that are replaced by a different DC in its region.
 
