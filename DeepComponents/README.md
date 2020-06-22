@@ -31,7 +31,7 @@ Example:
 We have categorised the DC localisation changes into 5 Types:
 
 
-• All Change: (DC)
+• All Change:
 	**A**
 
 This DC changes to another form across all characters in its region.
