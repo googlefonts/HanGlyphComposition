@@ -143,11 +143,16 @@ Code    |Meaning       |Hanzi
 :------:|:------------:|:-------:
 sh      |shorter       |缩短
 lo      |longer        |加长         
-mo      |move          |位移     
+mo      |move          |位移 
+mr      |move to right |右移 
+ml      |move to left  |左移     
 ro      |rotation      |旋转
 sl      |slant         |倾斜      
 2s      |2 side shorter|两边缩进 
-2l      |2 side longer |两边加长 
+2l      |2 side longer |两边加长
+ro      |rotation      |旋转     
+sl      |slant         |倾斜 
+cu      |curve         |弯曲  
 
 ### Counter Alterations
 
@@ -160,12 +165,14 @@ op    |open counter  |放大
 
 Code  |Meaning          |Hanzi   
 :----:|:---------------:|:------:
-hi    |higher barycenter|提高
-lo    |lower barycenter |降低
+hi    |higher           |提高
+lo    |lower            |降低
 
-## 
+### Weight
 
 Code  |Meaning          |Hanzi   
 :----:|:---------------:|:------:
 bo    |bolder           |加粗     
 th    |thiner           |减细 
+
+
