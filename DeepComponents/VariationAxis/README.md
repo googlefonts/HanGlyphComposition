@@ -121,8 +121,8 @@ Code   |Meaning        |PinYin   |Hanzi
 ZH     |Combination    |Zu He    |组合
 ZX     |Barycenter     |Zhong Xin|重心
 ZQ     |Counter        |Zi Qiang |字腔
-WV      |Weight  Vertical       |X     |横字重
-WH      |Weight  Horizontal     |X     |竖字重
+WV      |Weight  Vertical       |X     |竖字重
+WH      |Weight  Horizontal     |X     |横字重
 W            |Weight  Horizontal                 |X          |字重
 
 ## Type of Alteration
