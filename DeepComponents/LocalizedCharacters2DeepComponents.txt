@@ -488,7 +488,7 @@
 䶉.htxx: 留 鼠.V_htxx*0
 䶜.hxxx: 口 牛.L_hxjx*0 齒.E_htxx*0
 丂.xxjk: 丂.A_xxjk
-七.C_xtxx.xtxx: ㇀ ㇄
+七.C_xtxx.xtxx: ㇀ 𠃊
 丐.xxjk: ⺊ ㇉.L_xxjk*0 一
 丑.htjk: 丑.A_htjk
 世.xxjk: 世.A_xxjk
@@ -7413,7 +7413,7 @@
 癴.xxxk: 手 疒.A_xxjk 糸.A_xxjk 糹 言.A_xxjk
 癸.htxx: 一 大.E_htjk*0 癶
 發.C_xxjk.xxjk: 几 又 弓.A_xxjk 癶
-皂.C_xtxx.xtxx: ㇄ 巩 白
+皂.C_xtxx.xtxx: 𠃊 巩 白
 皆.htxx: 比.A_htxx 白
 皆.xxjk: 比.A_xxjk 白
 皈.xtjk: 反.A_xtjk 白
