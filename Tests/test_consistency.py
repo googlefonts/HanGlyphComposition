@@ -13,11 +13,11 @@ def parseDict(src):
 
 repoRoot = pathlib.Path(__file__).resolve().parent.parent
 
-allPath = repoRoot / "GlyphsDeepComposition" / "AllDeepComponents.txt"
+alldcPath = repoRoot / "GlyphsDeepComposition" / "AllDeepComponents.txt"
 cg2dcPath = repoRoot / "GlyphsDeepComposition" / "Characters2DeepComponents.txt"
 dc2cgPath = repoRoot / "GlyphsDeepComposition" / "DeepComponents2characters.txt"
 
-alldc = set(ord(c) for c in allPath.read_text(encoding="utf-8"))
+alldc = set(ord(c) for c in alldcPath.read_text(encoding="utf-8"))
 cg2dc = parseDict(cg2dcPath.read_text(encoding="utf-8"))
 dc2cg = parseDict(dc2cgPath.read_text(encoding="utf-8"))
 
