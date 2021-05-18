@@ -3,9 +3,10 @@ import pathlib
 
 def parseDict(src):
     d = {}
-    for line in src.splitlines():
+    for lineno, line in enumerate(src.splitlines(), 1):
         assert ":" in line, line
         k, v = line.split(":")
+        assert k.strip(), (lineno, line)
         # if "." in k:
         #     assert len(k.split(".")[0]) == 1
         # else:
