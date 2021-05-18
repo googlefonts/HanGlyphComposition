@@ -13,8 +13,7 @@ def parseDict(src):
         if "." in v:
             d[k] = {c for c in v.split()}
         else:
-            d[k] = set(v.strip())
-        d[k] = {sc for c in v.split() for sc in c}
+            d[k] = set(v.strip().replace(" ", ""))
     return d
 
 
@@ -36,6 +35,8 @@ def test_matching_keys():
 def test_cg2dc_to_dc2cg_consistency():
     for k, v in cg2dc.items():
         for c in v:
+            if not k in dc2cg[c]:
+                print(dc2cg[c])
             assert k in dc2cg[c], (k, c)
 
 
