@@ -24,7 +24,7 @@ alldcPath = repoRoot / "GlyphsDeepComposition" / "AllDeepComponents.txt"
 cg2dcPath = repoRoot / "GlyphsDeepComposition" / "Characters2DeepComponents.txt"
 dc2cgPath = repoRoot / "GlyphsDeepComposition" / "DeepComponents2characters.txt"
 
-alldc = set(alldcPath.read_text(encoding="utf-8"))
+alldc = set(alldcPath.read_text(encoding="utf-8").split())
 cg2dc = parseDict(cg2dcPath.read_text(encoding="utf-8"))
 dc2cg = parseDict(dc2cgPath.read_text(encoding="utf-8"))
 
