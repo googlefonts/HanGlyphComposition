@@ -6,8 +6,15 @@ def parseDict(src):
     for line in src.splitlines():
         assert ":" in line, line
         k, v = line.split(":")
-        assert len(k) == 1
-        d[ord(k)] = {ord(c) for c in v}
+        # if "." in k:
+        #     assert len(k.split(".")[0]) == 1
+        # else:
+        #     assert len(k) == 1
+        if "." in v:
+            d[k] = {c for c in v.split()}
+        else:
+            d[k] = set(v.strip())
+        d[k] = {sc for c in v.split() for sc in c}
     return d
 
 
@@ -17,7 +24,7 @@ alldcPath = repoRoot / "GlyphsDeepComposition" / "AllDeepComponents.txt"
 cg2dcPath = repoRoot / "GlyphsDeepComposition" / "Characters2DeepComponents.txt"
 dc2cgPath = repoRoot / "GlyphsDeepComposition" / "DeepComponents2characters.txt"
 
-alldc = set(ord(c) for c in alldcPath.read_text(encoding="utf-8"))
+alldc = set(alldcPath.read_text(encoding="utf-8"))
 cg2dc = parseDict(cg2dcPath.read_text(encoding="utf-8"))
 dc2cg = parseDict(dc2cgPath.read_text(encoding="utf-8"))
 
