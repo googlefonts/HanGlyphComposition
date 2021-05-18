@@ -24,14 +24,21 @@ length = defaultdict(list)
 for k, v in dc2char.items():
     length[len(v)].append(k)
     
+dcs = []
 output = ""
 for i in sorted(list(length.keys()), reverse = True):
     # print(list(length[i]))
     for k in sorted(list(length[i])):
         output += k + ":" + " ".join(sorted(list(dc2char[k]))) + "\n"
+        dcs.append(k)
 
 outputpath = '/Users/gaetanbaehr/Documents/BlackFoundry/Tech/Git/HAnGlyphComposition/GlyphsDeepComposition/DeepComponents2characters.txt'
 with open(outputpath, "w", encoding = "utf-8") as file:
     file.write(output)
+    
+outalldc = '/Users/gaetanbaehr/Documents/BlackFoundry/Tech/Git/HAnGlyphComposition/GlyphsDeepComposition/AllDeepComponents.txt'
+
+with open(outalldc, "w", encoding = "utf-8") as file:
+    file.write(" ".join(sorted(dcs)))
 
 # print(dc2char.keys())

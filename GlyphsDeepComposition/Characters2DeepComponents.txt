@@ -43452,6 +43452,6 @@
 龟.htxx:电.V_htxx*0 𠂊 
 龣.C_xtjk.xtxx:彑 氺.E_htxx*0 龠 
 龣.C_xtjk.xxjk:彑.A_xxjk 氺 龠 
-龤.htxx: 比.A_htxx 龠 
+龤.htxx:比.A_htxx 龠 
 鿁.xxjk:共 言.A_xxjk 
-鿌.xxjk: 亠.A_xxjk 日 氵
+鿌.xxjk:亠.A_xxjk 日 氵
