@@ -1,5 +1,5 @@
 from collections import defaultdict
-path = '/Users/gaetanbaehr/Documents/BlackFoundry/Tech/Git/HAnGlyphComposition/GlyphsDeepComposition/Characters2DeepComponents.txt'
+path = 'Characters2DeepComponents.txt'
 
 with open(path, 'r', encoding = 'utf-8') as file:
     f = file.readlines()
@@ -32,11 +32,11 @@ for i in sorted(list(length.keys()), reverse = True):
         output += k + ":" + " ".join(sorted(list(dc2char[k]))) + "\n"
         dcs.append(k)
 
-outputpath = '/Users/gaetanbaehr/Documents/BlackFoundry/Tech/Git/HAnGlyphComposition/GlyphsDeepComposition/DeepComponents2characters.txt'
+outputpath = 'DeepComponents2characters.txt'
 with open(outputpath, "w", encoding = "utf-8") as file:
     file.write(output)
     
-outalldc = '/Users/gaetanbaehr/Documents/BlackFoundry/Tech/Git/HAnGlyphComposition/GlyphsDeepComposition/AllDeepComponents.txt'
+outalldc = 'AllDeepComponents.txt'
 
 with open(outalldc, "w", encoding = "utf-8") as file:
     file.write(" ".join(sorted(dcs)))
