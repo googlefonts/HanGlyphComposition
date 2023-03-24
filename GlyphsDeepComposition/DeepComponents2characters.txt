@@ -672,6 +672,7 @@
 畢.xtxx*0:㻫.xtxx 嗶.xtxx 彃.xtxx 滭.xtxx 熚.xtxx 畢.xtxx 篳.xtxx 縪.xtxx 罼.xtxx 蓽.xtxx 蹕.xtxx 鏎.xtxx 驆.hxxx 驆.xtxx
 羊.V_xxjk*0:羏.xxjk 羖.C_xxjk.xxjk 羚.C_xxjk.xxjk 羜.xxjk 羝.C_htjk.xxjk 羢.xxjk 羦.xxjk 羪.C_xxjk.xxjk 羫.xxjk 羭.xxjk 羯.xxjk 羶.xxjk 翔.xxjx 翔.xxxk
 褱:㜳 㜳.htxx 䃶 壞 懷 櫰 瀤 瓌 耲 蘹 蘹.htxx 蘾 蘾.htxx 褱
+具:㖵 㮂 俱 具 具.xxjx 埧 埧.xxjk 惧 椇 犋 颶 颶.C_htxx.htxx 飓
 出.A_xxjk:䖓.htjk 䪼.xxjk 屈.xxjk 崫.xxjk 昢.xxjk 柮.xxjk 泏.xxjk 窋.xxjk 窟.xxjk 絀.C_xxjk.xxjk 茁.xxjk 詘.xxjk 誳.xxjk
 夂.L_xtxx*2:麧.xtxx 麩.xtxx 麫.xtxx 麬.xtxx 麭.xtxx 麮.xtxx 麯.xtxx 麰.xtxx 麱.xtxx 麴.xtxx 麵.xtxx 麶.xtxx 麷.xtxx
 爭.xxjk:凈.xxjk 崢.xxjk 掙.xxjk 淨.xxjk 瀞.C_xxjk.xxjk 爭.xxjk 猙.xxjk 琤.C_htjk.xxjk 睜.xxjk 竫.C_htjk.xxjk 箏.xxjk 諍.C_htjk.xxjk 靜.A_xxjk.xxjk
@@ -689,7 +690,6 @@
 亦.V_xtxx*0:亦.xxjk 変.hxxx 変.xtxx 峦.xxjk 弈.xtxx 弯.xxjk 挛.xxjk 湾.xxjk 蛮.xxjk 跡.xxjk 迹.xxjk
 以:㕽 䎣 䬮 以 似 姒 娰 拟 泤 笖 鉯
 以.A_htjk:以.htjk 似.htjk 姒.htxx 姒.xxjk 娰.htxx 娰.xxjk 拟.htjk 苡 苡.htxx 苡.xxjk 鉯.htjk
-具:㖵 㮂 俱 具 埧 惧 椇 犋 颶 颶.C_htxx.htxx 飓
 册:㹪 册 删 删.hxxx 姗 栅 珊 笧 粣 跚 銏
 包.xxjx:包.xxjx 抱.xxjx 泡.xxjx 砲.xxjx 胞.xxjx 萢.xxjk 飽.xxjx 髱.xxjk 麭.hxxx 麭.xtxx 麭.xxjx
 囊:㚂 儾 囊 囔 攮 欜 灢 饢 饢.htxx 馕 齉
@@ -852,7 +852,6 @@
 丹.V_xxjk*1:雘.xxjx 雘.xxxk
 久.A_xxjk:羐.xxjk 羑.xxjk
 俞.V_xxjx:俞.xxjk 偷.xxjk
-具.A_xxjx:具.xxjx 埧.xxjk
 卑.V_xxjx*0:卑.xxjx 碑.xxjx
 反.V_xtxx*0:瓪.xtxx 返.xtxx
 囊.A_xxjk:囊.xxjk 攮.xxjk
