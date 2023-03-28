@@ -997,10 +997,10 @@
 㝟:一 宀 見
 㝠:六 宀 日
 㝡:又 宀 耳
-㝡.xxjk:又.E_xxxk*0 宀.A_xxjk 耳
+㝡.xxjk:又.E_xxxk*0 宀 耳
 㝢:宀 禹
 㝢.htxx:宀 禹.A_htxx
-㝢.xxjk:宀.A_xxjk 禹
+㝢.xxjk:宀 禹
 㝣:丰 刀 大 宀
 㝤:一 井 冉 宀
 㝥:宀 爿 米
@@ -1010,10 +1010,10 @@
 㝩:宀 广 隶
 㝪:丶 九 工 宀 𢆉
 㝫:㇌ 一 丨 夂 宀 生
-㝫.xxjk:㇌ 一 丨 夂 宀.A_xxjk 生
+㝫.xxjk:㇌ 一 丨 夂 宀 生
 㝬:一 丰 口 大 宀
 㝬.htxx:一 丰.V_htjk*0 口 大 宀
-㝬.xxjk:一 丰.V_htjk*0 口 大 宀.A_xxjk
+㝬.xxjk:一 丰.V_htjk*0 口 大 宀
 㝭:宀 忄 日 生
 㝮:出 又 宀 示
 㝯:喬 宀
@@ -4965,7 +4965,7 @@
 䖼:冂 去 虫
 䖽:刂 禾 虫
 䖾:一 兀 宀 虫
-䖾.xxjk:一 兀 宀.A_xxjk 虫
+䖾.xxjk:一 兀 宀 虫
 䖿:丿 勹 禾 虫
 䗀:夌 虫
 䗁:可 大 虫
@@ -6608,7 +6608,7 @@
 䯙:甫 骨
 䯚:幺 月 骨
 䯛:㔾 夕 宀 骨
-䯛.htjk:㔾 夕 宀.A_xxjk 骨.A_hxjk
+䯛.htjk:㔾 夕 宀 骨.A_hxjk
 䯜:勿 日 骨
 䯝:工 月 骨 𠂇
 䯞:咼 骨
@@ -7507,7 +7507,7 @@
 伩:亻 文
 伪:丶 亻 力
 伫:一 亻 宀
-伫.xxjk:一 亻 宀.A_xxjk
+伫.xxjk:一 亻 宀
 伬:亻 尺
 伬.htxx:亻 尺
 伭:亠 亻 幺
@@ -7544,7 +7544,7 @@
 佅:一 亻 木
 但:一 亻 日
 佇:丁 亻 宀
-佇.xxjk:丁 亻 宀.A_xxjk
+佇.xxjk:丁 亻 宀
 佈:亻 巾 𠂇
 佉:亻 去
 佉.xxjk:亻 去.A_xxjk
@@ -7567,7 +7567,7 @@
 何:亻 可
 佖:亻 必
 佗:亻 匕 宀
-佗.xxjk:亻 匕 宀.A_xxjk
+佗.xxjk:亻 匕 宀
 佘:人 示
 佘.xtxx:人 示.A_xtxx
 余:一 人 朩
@@ -7656,7 +7656,7 @@
 侑.xtxx:亻 月.E_xtjk*0 𠂇
 侒:亻 女 宀
 侒.htxx:亻 女.A_htxx 宀
-侒.xxjk:亻 女.A_xxjk 宀.A_xxjk
+侒.xxjk:亻 女.A_xxjk 宀
 侓:亻 聿
 侔:亻 厶 牛
 侔.xxjk:亻 厶.A_xxjk 牛
@@ -7665,7 +7665,7 @@
 侗:一 亻 冂 口
 侘:乇 亻 宀
 侘.htxx:乇.E_htxx*0 亻 宀
-侘.xxjk:乇 亻 宀.A_xxjk
+侘.xxjk:乇 亻 宀
 侙:亻 工 弋
 侚:亻 勹 日
 供:亻 共
@@ -7756,7 +7756,7 @@
 俐:亻 刂 禾
 俑:亻 用 龴
 俒:一 亻 兀 宀
-俒.xxjk:一 亻 兀 宀.A_xxjk
+俒.xxjk:一 亻 兀 宀
 俓:亻 巠
 俔:亻 見
 俕:亻 宀 木
@@ -7834,7 +7834,7 @@
 倆:一 亻 入 巾
 倆.htjk:一 亻 入.A_htjk 巾
 倇:㔾 亻 夕 宀
-倇.xxjk:㔾 亻 夕 宀.A_xxjk
+倇.xxjk:㔾 亻 夕 宀
 倈:亻 來
 倉:倉
 倉.htjk:倉.A_htjk
@@ -7842,7 +7842,7 @@
 倊.xxjx:亻 公.V_xxjx0 心
 個:亻 十 口
 倌:㠯 亻 宀
-倌.xxjk:㠯 亻 宀.A_xxjk
+倌.xxjk:㠯 亻 宀
 倍:亻 口 立
 倍.xxjk:亻 口 立.A_xxjk
 倎:亻 典
@@ -7890,7 +7890,7 @@
 倦.xxjk:㔾 亻 龹.A_xxjx
 倧:亻 宀 示
 倧.xtxx:亻 宀 示.A_xtxx
-倧.xxjk:亻 宀.A_xxjk 示
+倧.xxjk:亻 宀 示
 倨:亻 十 口 尸
 倩:亻 月 龶
 倩.C_xxjk.xxjk:一 丨 亻 冂 龶
@@ -8089,7 +8089,7 @@
 傚:交 亻 攵
 傚.xxjk:交 亻 攵
 傛:亻 宀 谷
-傛.xxjk:亻 宀.A_xxjk 谷
+傛.xxjk:亻 宀 谷
 傜:亻 爫 缶
 傜.C_hxjk.hxxx:丶 亻 夕 缶
 傜.C_hxjk.xxjk:丶 亻 夕 缶
@@ -8109,7 +8109,7 @@
 傡:亻 立 立
 傡.xxjk:亻 立.A_xxjk 立.V_xxjk*0
 傢:一 亻 宀 𧰨
-傢.xxjk:一 亻 宀.A_xxjk 𧰨.V_xxjk*0
+傢.xxjk:一 亻 宀 𧰨.V_xxjk*0
 傣:亻 氺 𡗗
 傣.hxxx:亻 氺 𡗗
 傣.xxjk:亻 氺 𡗗.V_xxjk*0
@@ -8311,7 +8311,7 @@
 儎:亻 十 戈 車
 儏:⺊ 亻 又 夕 米
 儐:一 亻 宀 貝 𣥂
-儐.xxjk:一 亻 宀.A_xxjk 貝 𣥂
+儐.xxjk:一 亻 宀 貝 𣥂
 儑:亻 幺 日 灬
 儒:⻗ 亻 而
 儒.htxx:⻗.A_hxxx 亻 而
@@ -8332,7 +8332,7 @@
 儛:㐄 一 亻 卌 夕 𠂉
 儛.xxjk:㐄.V_xxjk0 一 亻 卌 夕 𠂉
 儜:丁 亻 宀 心 皿
-儜.xxjk:丁 亻 宀.A_xxjk 心 皿
+儜.xxjk:丁 亻 宀 心 皿
 儝:亻 冖 木 火
 儞:亻 爾
 償:⺌ 亻 冖 口 貝
@@ -8822,7 +8822,7 @@
 剛.xxjk:䒑 冂 刂 山.A_xxjk
 剜:㔾 刂 夕 宀
 剜.hxxx:㔾.hxxx 刂 夕 宀
-剜.xxjk:㔾 刂 夕 宀.A_xxjk
+剜.xxjk:㔾 刂 夕 宀
 剝:刂 彑 氺
 剝.hxxx:刂 彑 氺
 剝.xxjk:刂 彑.A_xxjk 氺
@@ -8857,8 +8857,8 @@
 剱:㑒 丿 刀
 割:丰 刂 口 宀
 割.htxx:丰.V_htjk*0 刂 口 宀
-割.xxjx:丰 刂 口 宀.A_xxjk
-割.xxxk:丰 刂 口 宀.A_xxjk
+割.xxjx:丰 刂 口 宀
+割.xxxk:丰 刂 口 宀
 剳:一 人 刂 口 艹
 剳.htxx:一 人 刂 口 艹.V_htxx*0
 剴:刂 山 豆
@@ -9430,7 +9430,7 @@
 叟.hxxx:丨 又 臼
 叟.xtjx:丨 又 臼.xtxx
 叠:目 冖 又
-叠.xxjk:目 又 宀.A_xxjk
+叠.xxjk:目 又 宀
 叡:⺊ 一 人 八 冖 又 目
 叢:业 又 耳 𢆉
 叢.htjk:业 又 耳 𢆉
@@ -9683,7 +9683,7 @@
 咚:冬 口
 咛:丁 口 宀
 咜:匕 口 宀
-咜.xxjk:匕 口 宀.A_xxjk
+咜.xxjk:匕 口 宀
 咝:一 口 𠃋
 咞:口 开
 咟:一 口 白
@@ -9696,7 +9696,7 @@
 咣:光 口
 咤:乇 口 宀
 咤.htxx:乇.E_htxx*0 口 宀
-咤.xxjk:乇 口 宀.A_xxjk
+咤.xxjk:乇 口 宀
 咥:口 至
 咥.xxjk:口 至.A_xxjk
 咦:口 夷
@@ -9730,7 +9730,7 @@
 咸:一 口 戊
 咹:口 女 宀
 咹.htxx:口 女.A_htxx 宀
-咹.xxjk:口 女.A_xxjk 宀.A_xxjk
+咹.xxjk:口 女.A_xxjk 宀
 咺:一 口 日
 咻:亻 口 木
 咼:咼
@@ -9843,7 +9843,7 @@
 唌.htxx:口 延.A_htxx
 唌.xxjk:口 延.A_xxxk
 唍:一 丿 乚 口 宀
-唍.xxjk:一 丿 乚 口 宀.A_xxjk
+唍.xxjk:一 丿 乚 口 宀
 唎:刂 口 禾
 唏:㐅 口 巾 𠂇
 唐:口 广 肀
@@ -9960,7 +9960,7 @@
 啗:口 臼 𠂊
 啗.xxjk:丿 口 臼 𠃌
 啘:㔾 口 夕 宀
-啘.xxjk:㔾 口 夕 宀.A_xxjk
+啘.xxjk:㔾 口 夕 宀
 啙:匕 口 止
 啚:十 口 回
 啚.xxjk:十 口 回
@@ -10015,7 +10015,7 @@
 啿.htxx:口 甚.A_htxx
 啿.xxjk:口 甚.A_xxjk
 喀:口 夂 宀
-喀.xxjk:口 夂 宀.A_xxjk
+喀.xxjk:口 夂 宀
 喁:口 禺
 喁.htxx:口 禺.A_htxx
 喂:口 畏
@@ -10083,7 +10083,7 @@
 喥:又 口 广 廿
 喦:口 山
 喧:一 口 宀 日
-喧.xxjk:一 口 宀.A_xxjk 日
+喧.xxjk:一 口 宀 日
 喨:亠 冖 几 口
 喨.htxx:亠 儿 冖 口
 喨.xxjk:亠.A_xxjk 儿 冖 口
@@ -10461,7 +10461,7 @@
 噿:习 卒 口
 噿.htxx:习 卒 口
 嚀:丁 口 宀 心 皿
-嚀.xxjk:丁 口 宀.A_xxjk 心 皿
+嚀.xxjk:丁 口 宀 心 皿
 嚁:习 口 隹
 嚁.htxx:习 口 隹
 嚂:丶 口 皿 臣 𠂉
@@ -10822,7 +10822,7 @@
 坦:一 工 日
 坧:工 石
 坨:匕 工 宀
-坨.xxjk:匕 工 宀.A_xxjk
+坨.xxjk:匕 工 宀
 坩:工 甘
 坪:丷 工 工
 坪.xxxk:八 工 工
@@ -10858,7 +10858,7 @@
 坽:丶 今 工
 坽.htxx:丶 今.A_htjk 工
 坾:丁 工 宀
-坾.xxjk:丁 工 宀.A_xxjk
+坾.xxjk:丁 工 宀
 坿:亻 工 寸
 垀:乎 工
 垁:工 矢
@@ -10899,7 +10899,7 @@
 垝:㔾 厃 工
 垞:乇 工 宀
 垞.htxx:乇.E_htxx*0 工 宀
-垞.xxjk:乇 工 宀.A_xxjk
+垞.xxjk:乇 工 宀
 垟:工 羊
 垠:工 艮
 垠.xxjk:工 艮.A_xxjk
@@ -10912,7 +10912,7 @@
 垦:工 艮
 垧:丿 冂 口 工
 垨:工 宀 寸
-垨.xxjk:工 宀.A_xxjk 寸
+垨.xxjk:工 宀 寸
 垩:一 业 工
 垪:丷 工 开
 垫:丶 九 工 扌
@@ -10931,7 +10931,7 @@
 垶:十 工 立
 垷:工 見
 垸:一 兀 工 宀
-垸.xxjk:一.L_xxxk*0 兀 工 宀.A_xxjk
+垸.xxjk:一.L_xxxk*0 兀 工 宀
 垹:㇌ 丨 丰 工
 垺:一 了 工 爫
 垻:工 貝
@@ -10986,7 +10986,7 @@
 埝:今 工 心
 埝.htjk:今.A_htjk 工 心
 埞:工 宀 𤴓
-埞.xxjk:工 宀.A_xxjk 𤴓
+埞.xxjk:工 宀 𤴓
 域:一 口 工 戈
 埠:㠯 丿 十 工
 埡:亞 工
@@ -10997,7 +10997,7 @@
 埥:工 月 龶
 埥.xtxx:工 月 龶
 埦:㔾 工 夕 宀
-埦.xxjk:㔾 工 夕 宀.A_xxjk
+埦.xxjk:㔾 工 夕 宀
 埧:具 工
 埧.xxjk:具 工
 埨:侖 工
@@ -11516,7 +11516,7 @@
 夣:亠 冖 厶 夕 罒
 夣.xxjk:亠.A_xxjk 冖 厶.A_xxjk 夕 罒
 夤:一 八 夕 宀 田
-夤.xxjk:一 八 夕 宀.A_xxjk 田
+夤.xxjk:一 八 夕 宀 田
 夥:夕 果
 夦:夕 甚
 大:大
@@ -11956,7 +11956,7 @@
 姱.xxjk:一 丂.A_xxjk 大 女.V_xxjk0
 姲:女 女 宀
 姲.htxx:女.A_htxx 女.V_htxx*0 宀
-姲.xxjk:女.A_xxjk 女.V_xxjk0 宀.A_xxjk
+姲.xxjk:女.A_xxjk 女.V_xxjk0 宀
 姳:口 夕 女
 姳.htxx:口 夕 女.V_htxx*0
 姴:一 刂 夕 女
@@ -12169,7 +12169,7 @@
 婈.xxjk:夌.A_xxjk 女.V_xxjk0
 婉:㔾 夕 女 宀
 婉.htxx:㔾 夕 女.V_htxx*0 宀
-婉.xxjk:㔾 夕 女.V_xxjk0 宀.A_xxjk
+婉.xxjk:㔾 夕 女.V_xxjk0 宀
 婊:女 龶 𧘇
 婊.htxx:女.V_htxx*0 龶 𧘇
 婋:几 女 虍
@@ -12462,7 +12462,7 @@
 嫀.xtxx:女.V_htxx*0 禾 𡗗
 嫁:一 女 宀 𧰨
 嫁.htxx:一 女.V_htxx*0 宀 𧰨
-嫁.xxjk:一 女.V_xxjk0 宀.A_xxjk 𧰨
+嫁.xxjk:一 女.V_xxjk0 宀 𧰨
 嫂:丨 又 女 臼
 嫂.htxx:丨 又 女.V_htxx*0 臼
 嫂.xxjk:丨 又 女.V_xxjk0 臼
@@ -12475,7 +12475,7 @@
 嫅:女 工 羊
 嫆:女 宀 谷
 嫆.htxx:女.V_htxx*0 宀 谷
-嫆.xxjk:女.V_xxjk0 宀.A_xxjk 谷
+嫆.xxjk:女.V_xxjk0 宀 谷
 嫇:六 冖 女 日
 嫇.htxx:六 冖 女.V_htxx*0 日
 嫈:冖 女 火
@@ -12719,7 +12719,7 @@
 嬩:女 與
 嬪:一 女 宀 貝 𣥂
 嬪.htxx:一 女.V_htxx*0 宀 貝 𣥂
-嬪.xxjk:一 女.V_xxjk0 宀.A_xxjk 貝 𣥂
+嬪.xxjk:一 女.V_xxjk0 宀 貝 𣥂
 嬫:冖 女 木 火
 嬫.htxx:冖 女.V_htxx*0 木 火
 嬬:⻗ 女 而
@@ -12751,7 +12751,7 @@
 嬷:么 女 广 木 木
 嬸:女 宀 田 釆
 嬸.htxx:女.V_htxx*0 宀 田 釆
-嬸.xxjk:女.V_xxjk0 宀.A_xxjk 田 釆
+嬸.xxjk:女.V_xxjk0 宀 田 釆
 嬹:一 八 冂 口 女 𦥑
 嬺:匚 口 女 心 艹 𠂇
 嬻:工 女 罒 貝
@@ -12811,7 +12811,7 @@
 孕.xxjk:一 乃.A_xxjk 了
 孖:㇀ 一 了
 字:一 了 宀
-字.xxjk:一 了 宀.A_xxjk
+字.xxjk:一 了 宀
 存:一 丨 了 𠂇
 孙:㇀ 了 小
 孚:一 了 爫
@@ -12847,7 +12847,7 @@
 孭:㇀ 了 貝
 孮:㇀ 了 宀 示
 孮.xtxx:㇀ 了 宀 示.A_xtxx
-孮.xxjk:㇀ 了 宀.A_xxjk 示
+孮.xxjk:㇀ 了 宀 示
 孯:一 了 又 臣
 孰:㇀ 丶 九 亨
 孰.xxjk:㇀ 丶 九 亨.A_xxjk
@@ -12878,168 +12878,168 @@
 孿:一 了 糹 言
 孿.C_xxjk.xxjk:一 了 小 幺.A_xxjk 言
 宀:宀
-宀.xxjk:宀.A_xxjk
+宀.xxjk:宀
 宁:丁 宀
-宁.xxjk:丁 宀.A_xxjk
+宁.xxjk:丁 宀
 宂:几 宀
 宂.C_htxk.htxx:儿 宀
-宂.C_htxk.xxxk:儿 宀.A_xxjk
-宂.xxjx:几 宀.A_xxjk
+宂.C_htxk.xxxk:儿 宀
+宂.xxjx:几 宀
 它:匕 宀
-它.xxjk:匕 宀.A_xxjk
+它.xxjk:匕 宀
 宄:九 宀
-宄.xxjk:九 宀.A_xxjk
+宄.xxjk:九 宀
 宅:乇 宀
 宅.htxx:乇.E_htxx*0 宀
-宅.xxjk:乇 宀.A_xxjk
+宅.xxjk:乇 宀
 宆:宀 弓
-宆.xxjk:宀.A_xxjk 弓.A_xxjk
+宆.xxjk:宀 弓.A_xxjk
 宇:于 宀
-宇.xxjk:于 宀.A_xxjk
+宇.xxjk:于 宀
 守:宀 寸
-守.xxjk:宀.A_xxjk 寸
+守.xxjk:宀 寸
 安:女 宀
 安.htxx:女.A_htxx 宀
-安.xxjk:女.A_xxjk 宀.A_xxjk
+安.xxjk:女.A_xxjk 宀
 宊:宀 犬
-宊.xxjk:宀.A_xxjk 犬
+宊.xxjk:宀 犬
 宋:宀 木
-宋.xxjk:宀.A_xxjk 木
+宋.xxjk:宀 木
 完:一 兀 宀
-完.xxjk:一 兀 宀.A_xxjk
+完.xxjk:一 兀 宀
 宍:六 宀
-宍.xxjk:六.A_xxjk 宀.A_xxjk
+宍.xxjk:六.A_xxjk 宀
 宎:夭 宀
-宎.xxjk:夭 宀.A_xxjk
+宎.xxjk:夭 宀
 宏:厷 宀
-宏.xxjk:厷.A_xxjk 宀.A_xxjk
+宏.xxjk:厷.A_xxjk 宀
 宐:一 丶 丿 乛 宀
 宐.C_hxxx.hxxx:一 夕 宀
-宐.C_xxjk.xxjk:一 丶 丿 乛 宀.A_xxjk
+宐.C_xxjk.xxjk:一 丶 丿 乛 宀
 宑:井 宀
-宑.xxjk:井 宀.A_xxjk
+宑.xxjk:井 宀
 宒:宀 毛
 宓:宀 必
-宓.xxjk:宀.A_xxjk 必
+宓.xxjk:宀 必
 宔:丶 宀 王
-宔.C_xxjk.xxjk:丨 宀.A_xxjk 王.L_xxjk*0
+宔.C_xxjk.xxjk:丨 宀 王.L_xxjk*0
 宕:宀 石
-宕.xxjk:宀.A_xxjk 石
+宕.xxjk:宀 石
 宖:厶 宀 弓
-宖.xxjk:厶.A_xxjk 宀.A_xxjk 弓.A_xxjk
+宖.xxjk:厶.A_xxjk 宀 弓.A_xxjk
 宗:宀 示
 宗.xtxx:宀 示.A_xtxx
-宗.xxjk:宀.A_xxjk 示
+宗.xxjk:宀 示
 官:㠯 宀
-官.xxjk:㠯 宀.A_xxjk
+官.xxjk:㠯 宀
 宙:宀 田
-宙.xxjk:宀.A_xxjk 田
+宙.xxjk:宀 田
 定:宀 𤴓
-定.xxjk:宀.A_xxjk 𤴓
+定.xxjk:宀 𤴓
 宛:㔾 夕 宀
-宛.xxjk:㔾 夕 宀.A_xxjk
+宛.xxjk:㔾 夕 宀
 宜:目 宀
-宜.xxjk:目 宀.A_xxjk
+宜.xxjk:目 宀
 宝:丶 宀 王
-宝.xxjk:丶 宀.A_xxjk 王
+宝.xxjk:丶 宀 王
 实:头 宀
 実:宀 𡗗
-実.xxjk:宀.A_xxjk 𡗗
+実.xxjk:宀 𡗗
 宠:宀 龙
 审:宀 田
 客:口 夂 宀
-客.xxjk:口 夂 宀.A_xxjk
+客.xxjk:口 夂 宀
 宣:一 宀 日
-宣.xxjk:一 宀.A_xxjk 日
+宣.xxjk:一 宀 日
 室:宀 至
-室.xxjk:宀.A_xxjk 至.A_xxjk
+室.xxjk:宀 至.A_xxjk
 宥:宀 月 𠂇
 宥.xtxx:宀 月.E_xtjk*0 𠂇
-宥.xxjk:宀.A_xxjk 月 𠂇
+宥.xxjk:宀 月 𠂇
 宦:宀 臣
-宦.xxjk:宀.A_xxjk 臣.L_xxjk*0
+宦.xxjk:宀 臣.L_xxjk*0
 宧:宀 𦣞
 宨:兆 宀
-宨.xxjk:兆 宀.A_xxjk
+宨.xxjk:兆 宀
 宩:宀 米
-宩.xxjk:宀.A_xxjk 米
+宩.xxjk:宀 米
 宪:儿 宀 牛
 宫:口 宀
 宬:宀 戊 𠃌
-宬.xxjx:宀.A_xxjk 戊 𠃌.V_xxjk*0
-宬.xxxk:宀.A_xxjk 戊 𠃌
+宬.xxjx:宀 戊 𠃌.V_xxjk*0
+宬.xxxk:宀 戊 𠃌
 宭:口 宀 尹
-宭.xxjk:口 宀.A_xxjk 尹
+宭.xxjk:口 宀 尹
 宮:丿 口 宀
-宮.xxjk:丿 口 宀.A_xxjk
+宮.xxjk:丿 口 宀
 宯:一 了 宀 耂
-宯.xxjk:一 了 宀.A_xxjk 耂
+宯.xxjk:一 了 宀 耂
 宰:十 宀 立
-宰.xxjk:十 宀.A_xxjk 立.A_xxjk
+宰.xxjk:十 宀 立.A_xxjk
 宱:乍 亻 宀
-宱.xxjk:乍 亻 宀.A_xxjk
+宱.xxjk:乍 亻 宀
 宲:口 宀 木
-宲.C_xxjk.xxjk:口 宀.A_xxjk 朩
+宲.C_xxjk.xxjk:口 宀 朩
 害:丰 口 宀
 害.htxx:丰.V_htjk*0 口 宀
-害.xxjk:丰 口 宀.A_xxjk
+害.xxjk:丰 口 宀
 宴:女 宀 日
 宴.htxx:女.A_htxx 宀 日
-宴.xxjk:女.A_xxjk 宀.A_xxjk 日
+宴.xxjk:女.A_xxjk 宀 日
 宵:⺌ 宀 月
 宵.C_xtxx.xtxx:⺌ ⺼ 宀
-宵.C_xxxk.xxxk:⺌ 宀.A_xxjk 月
-宵.xxjx:⺌ 宀.A_xxjk 月
+宵.C_xxxk.xxxk:⺌ 宀 月
+宵.xxjx:⺌ 宀 月
 家:一 宀 𧰨
-家.xxjk:一 宀.A_xxjk 𧰨.V_xxjk*0
+家.xxjk:一 宀 𧰨.V_xxjk*0
 宷:宀 釆
-宷.xxjk:宀.A_xxjk 釆
+宷.xxjk:宀 釆
 宸:宀 辰
 宸.htxx:宀 辰
-宸.xxjk:宀.A_xxjk 辰.A_xxjk
+宸.xxjk:宀 辰.A_xxjk
 容:宀 谷
-容.xxjk:宀.A_xxjk 谷
+容.xxjk:宀 谷
 宺:一 口 宀 𫶧
-宺.xxjk:一 口 宀.A_xxjk 𫶧
+宺.xxjk:一 口 宀 𫶧
 宻:丷 又 宀 山
 宼:一 兀 女 宀
-宼.xxjk:一 兀 女.A_xxjk 宀.A_xxjk
+宼.xxjk:一 兀 女.A_xxjk 宀
 宽:宀 艹 见
 宾:丘 八 宀
 宿:一 亻 宀 白
-宿.xxjk:一 亻 宀.A_xxjk 白
+宿.xxjk:一 亻 宀 白
 寀:宀 木 爫
-寀.xxjk:宀.A_xxjk 木 爫.A_xxjk
+寀.xxjk:宀 木 爫.A_xxjk
 寁:宀 疌
-寁.xxjk:宀.A_xxjk 疌
+寁.xxjk:宀 疌
 寂:又 宀 尗
-寂.xxjk:又 宀.A_xxjk 尗
+寂.xxjk:又 宀 尗
 寃:丶 免 宀
-寃.xxjk:丶 免 宀.A_xxjk
+寃.xxjk:丶 免 宀
 寄:可 大 宀
-寄.xxjk:可 大 宀.A_xxjk
+寄.xxjk:可 大 宀
 寅:一 八 宀 田
-寅.xxjk:一 八 宀.A_xxjk 田
+寅.xxjk:一 八 宀 田
 密:宀 山 必
-密.xxjk:宀.A_xxjk 山.A_xxjk 必
+密.xxjk:宀 山.A_xxjk 必
 寇:⺊ 一 兀 又 宀
-寇.xxjk:⺊ 一 兀 又 宀.A_xxjk
+寇.xxjk:⺊ 一 兀 又 宀
 寈:宀 月 龶
 寉:宀 隹
-寉.xxjk:宀.A_xxjk 隹.A_xxjk
+寉.xxjk:宀 隹.A_xxjk
 寊:⺊ 宀 貝
 寋:㔾 𡨄
 富:一 口 宀 田
-富.xxjk:一 口 宀.A_xxjk 田
+富.xxjk:一 口 宀 田
 寍:宀 心 皿
-寍.xxjk:宀.A_xxjk 心 皿
+寍.xxjk:宀 心 皿
 寎:一 内 宀 爿
-寎.xxjk:一 内 宀.A_xxjk 爿
+寎.xxjk:一 内 宀 爿
 寏:八 冂 大 宀 𠂊
-寏.C_xxjk.xxjk:一 儿.A_htxx 八 冂 宀.A_xxjk 𠂊
+寏.C_xxjk.xxjk:一 儿.A_htxx 八 冂 宀 𠂊
 寐:一 宀 木 爿
-寐.C_xxjx.xxjx:㇏ 一 丿 亅 宀.A_xxjk 爿
-寐.xxxk:一 宀.A_xxjk 木 爿
+寐.C_xxjx.xxjx:㇏ 一 丿 亅 宀 爿
+寐.xxxk:一 宀 木 爿
 寑:亻 冖 又 宀 彐
 寑.htxx:亻 冖 又 宀 彐.A_htjk
 寒:丶 𡨄
@@ -13047,91 +13047,91 @@
 寒.xxxk:丶 𡨄.V_xxjk*0
 寓:宀 禺
 寓.htxx:宀 禺.A_htxx
-寓.xxjk:宀.A_xxjk 禺
+寓.xxjk:宀 禺
 寔:宀 日 𤴓
-寔.xxjk:宀.A_xxjk 日 𤴓
+寔.xxjk:宀 日 𤴓
 寕:一 丁 丿 宀 罒
 寖:冖 又 宀 彐 氵
 寖.htxx:冖 又 宀 彐.A_htjk 氵
-寖.xxjk:冖 又 宀.A_xxjk 彐.A_htjk 氵
+寖.xxjk:冖 又 宀 彐.A_htjk 氵
 寗:冉 宀 必
-寗.xxjx:冉 宀.A_xxjk 必
-寗.xxxk:冉 宀.A_xxjk 必
+寗.xxjx:冉 宀 必
+寗.xxxk:冉 宀 必
 寘:八 宀 直
-寘.C_xxjk.xxjk:八 匕 宀.A_xxjk 目 𠃊
+寘.C_xxjk.xxjk:八 匕 宀 目 𠃊
 寘.hxxx:八 宀 直.hxxx*0
 寙:宀 瓜 瓜
 寙.htxx:宀 瓜 瓜
-寙.xxjk:宀.A_xxjk 瓜.A_xxjk 瓜.V_xxjk*0
+寙.xxjk:宀 瓜.A_xxjk 瓜.V_xxjk*0
 寚:宀 王 缶
-寚.xxjk:宀.A_xxjk 王 缶
+寚.xxjk:宀 王 缶
 寛:宀 艹 見
-寛.xxjk:宀.A_xxjk 艹 見
+寛.xxjk:宀 艹 見
 寜:亅 宀 心 皿
 寝:丬 冖 又 宀 彐
-寝.xxjk:丬 冖 又 宀.A_xxjk 彐.A_htjk
+寝.xxjk:丬 冖 又 宀 彐.A_htjk
 寞:大 宀 日 艹
 寞.htxx:大.E_htjk*0 宀 日 艹.V_htxx*0
-寞.xxjx:大 宀.A_xxjk 日 艹
-寞.xxxk:大 宀.A_xxjk 日 艹
+寞.xxjx:大 宀 日 艹
+寞.xxxk:大 宀 日 艹
 察:宀 祭
 察.xtxx:宀 祭.A_xtxx
-察.xxjk:宀.A_xxjk 祭
+察.xxjk:宀 祭
 寠:婁 宀
 寠.hxxx:婁.A_hxxx 宀
 寠.xtxx:婁.A_xtxx 宀
-寠.xxjk:婁.A_xxjk 宀.A_xxjk
+寠.xxjk:婁.A_xxjk 宀
 寡:一 目 丿 八 刀 宀
-寡.xxjk:一 目 丿 八 刀 宀.A_xxjk
+寡.xxjk:一 目 丿 八 刀 宀
 寢:冖 又 宀 彐 爿
 寢.htxx:冖 又 宀 彐.A_htjk 爿
-寢.xxjk:冖 又 宀.A_xxjk 彐.A_htjk 爿
+寢.xxjk:冖 又 宀 彐.A_htjk 爿
 寣:宀 爿 言
 寤:五 口 宀 爿
-寤.xxjk:五.A_xxjk 口 宀.A_xxjk 爿
+寤.xxjk:五.A_xxjk 口 宀 爿
 寥:㐱 习 宀
-寥.xxjx:㐱 习.xxjk 宀.A_xxjk
-寥.xxxk:㐱 习.xxjk 宀.A_xxjk
+寥.xxjx:㐱 习.xxjk 宀
+寥.xxxk:㐱 习.xxjk 宀
 實:宀 毌 貝
-實.xxjk:宀.A_xxjk 毌.A_xxjk 貝
+實.xxjk:宀 毌.A_xxjk 貝
 寧:丁 宀 心 皿
-寧.xxjk:丁 宀.A_xxjk 心 皿
+寧.xxjk:丁 宀 心 皿
 寨:朩 𡨄
 寨.C_htjk.hxxx:木 𡨄
 寨.C_htjk.xtxx:木 𡨄
 寨.C_htjk.xxjk:木 𡨄
 審:宀 田 釆
 審.htxx:宀 田 釆.A_htxx
-審.xxjk:宀.A_xxjk 田 釆
+審.xxjk:宀 田 釆
 寪:宀 爲
 寪.C_htxx.htxx:宀 為
 寫:勹 宀 灬 臼
-寫.xxjk:勹 宀.A_xxjk 灬 臼
+寫.xxjk:勹 宀 灬 臼
 寬:丶 宀 艹 見
 寬.htxx:丶 宀 艹.V_htxx*0 見
-寬.xxjk:丶 宀.A_xxjk 艹 見
+寬.xxjk:丶 宀 艹 見
 寭:丶 宀 心 車
-寭.xxjk:丶 宀.A_xxjk 心 車
+寭.xxjk:丶 宀 心 車
 寮:宀 尞
-寮.xxjk:宀.A_xxjk 尞
+寮.xxjk:宀 尞
 寯:宀 雋
-寯.xxjk:宀.A_xxjk 雋.A_xxjk
+寯.xxjk:宀 雋.A_xxjk
 寰:一 口 宀 罒 𧘇
-寰.xxjk:一 口 宀.A_xxjk 罒 𧘇.xxjk
+寰.xxjk:一 口 宀 罒 𧘇.xxjk
 寱:宀 木 爿 自
 寱.xtxx:宀 木 爿 自
-寱.xxjk:宀.A_xxjk 木 爿 自
+寱.xxjk:宀 木 爿 自
 寲:匕 宀 疋 矢 龴
 寲.htxx:匕.V_htxx*1 宀 疋 矢 龴
 寳:宀 小 王 貝 𠂊
-寳.xxjk:宀.A_xxjk 小 王 貝 𠂉
+寳.xxjk:宀 小 王 貝 𠂉
 寴:宀 朩 立 見
-寴.htjk:宀.A_xxjk 木.E_htjk*0 立.A_xxjk 見
+寴.htjk:宀 木.E_htjk*0 立.A_xxjk 見
 寵:宀 龍
 寵.xtxx:宀 龍.A_xtxx
-寵.xxjk:宀.A_xxjk 龍.A_xxjk
+寵.xxjk:宀 龍.A_xxjk
 寶:宀 王 缶 貝
-寶.xxjk:宀.A_xxjk 王 缶.A_xxjk 貝
+寶.xxjk:宀 王 缶.A_xxjk 貝
 寷:丰 宀 山 豆
 寸:寸
 对:又 寸
@@ -13579,7 +13579,7 @@
 峴.xxjk:山.A_xxjk 見
 峵:厷 宀 山
 峵.htxx:厷 宀 山
-峵.xxjk:厷.A_xxjk 宀.A_xxjk 山.A_xxjk
+峵.xxjk:厷.A_xxjk 宀 山.A_xxjk
 島:一 丨 丿 山 𠃌 𠃍
 島.xxjk:一 丨 丿 山.A_xxjk 𠃌 𠃍
 峷:十 山 立
@@ -13612,7 +13612,7 @@
 崆.xxjk:山.A_xxjk 工 穴.V_xxjk*0
 崇:宀 山 示
 崇.xtxx:宀 山 示.A_xtxx
-崇.xxjk:宀.A_xxjk 山.A_xxjk 示
+崇.xxjk:宀 山.A_xxjk 示
 崈:宀 山 示
 崉:山 日 水
 崊:山 木 木
@@ -13834,7 +13834,7 @@
 嵰.xxjk:兼.xxjk 山.A_xxjk
 嵱:宀 山 谷
 嵱.htxx:宀 山 谷
-嵱.xxjk:宀.A_xxjk 山.A_xxjk 谷
+嵱.xxjk:宀 山.A_xxjk 谷
 嵲:山 木 自
 嵲.hxxx:山 木 自
 嵲.xtxx:山 木 自
@@ -14191,7 +14191,7 @@
 帳.xxjk:巾 長.xxjk
 帴:巾 戈
 帵:㔾 夕 宀 巾
-帵.xxjk:㔾 夕 宀.A_xxjk 巾
+帵.xxjk:㔾 夕 宀 巾
 帶:帶
 帶.htxx:帶.A_htxx
 帷:巾 隹
@@ -14280,7 +14280,7 @@
 幯:⺮ 一 丶 冂 巾 𠃍 𠄌
 幰:丰 宀 巾 心 罒
 幰.htxx:丰.V_htjk*0 宀 巾 心 罒
-幰.xxjx:丰.V_xxjx*1 宀.A_xxjk 巾 心 罒
+幰.xxjx:丰.V_xxjx*1 宀 巾 心 罒
 幰.xxxk:丰 宀 巾 心 罒
 幱:巾 柬 門
 幱.xxjk:巾 柬.E_xxjk*0 門
@@ -14841,7 +14841,7 @@
 徕:彳 来
 徖:宀 彳 示
 徖.xtxx:宀 彳 示.A_xtxx
-徖.xxjk:宀.A_xxjk 彳 示
+徖.xxjk:宀 彳 示
 得:一 寸 彳 日
 得.hxxx:一 寸 彳 日
 徘:彳 非
@@ -15269,7 +15269,7 @@
 悯:忄 文 门
 悰:宀 忄 示
 悰.xtxx:宀 忄 示.A_xtxx
-悰.xxjk:宀.A_xxjk 忄 示
+悰.xxjk:宀 忄 示
 悱:忄 非
 悱.htjk:忄 非.V_htjk0
 悲:心 非
@@ -15319,7 +15319,7 @@
 惊:亠 口 小 忄
 惊.xxjk:亠.A_xxjk 口 小 忄
 惋:㔾 夕 宀 忄
-惋.xxjk:㔾 夕 宀.A_xxjk 忄
+惋.xxjk:㔾 夕 宀 忄
 惌:㔾 夕 宀 心
 惍:忄 金
 惎:其 心
@@ -15397,7 +15397,7 @@
 愁.htxx:心 火.V_htxx*0 禾
 愂:力 孛 心
 愃:一 宀 忄 日
-愃.xxjk:一 宀.A_xxjk 忄 日
+愃.xxjk:一 宀 忄 日
 愄:忄 畏
 愅:忄 革
 愆:一 丁 彳 心 氵
@@ -15439,7 +15439,7 @@
 愗:丿 予 心 攵
 愘:口 夂 宀 忄
 愙:口 夂 宀 心
-愙.xxjk:口 夂 宀.A_xxjk 心
+愙.xxjk:口 夂 宀 心
 愚:心 禺
 愚.htxx:心 禺.A_htxx
 愛:冖 夂 心 爫
@@ -15492,7 +15492,7 @@
 愷.xxjk:山.A_xxjk 忄 豆
 愸:來 力 心
 愹:宀 忄 谷
-愹.xxjk:宀.A_xxjk 忄 谷
+愹.xxjk:宀 忄 谷
 愺:十 忄 日 艹
 愻:㇀ 丿 了 小 幺 心
 愻.xtxx:㇀ 丿 了 小 幺 心
@@ -15710,7 +15710,7 @@
 憱:丶 亠 口 小 尢 忄
 憲:丰 宀 心 罒
 憲.htxx:丰.V_htjk*0 宀 心 罒
-憲.xxjk:丰 宀.A_xxjk 心 罒
+憲.xxjk:丰 宀 心 罒
 憳:口 寸 工 彐 忄
 憳.htjk:口 寸 工 彐.A_htjk 忄
 憴:忄 黽
@@ -15804,7 +15804,7 @@
 懦:⻗ 忄 而
 懦.htxx:⻗.A_hxxx 忄 而
 懧:丁 宀 心 忄 皿
-懧.xxjk:丁 宀.A_xxjk 心 忄 皿
+懧.xxjk:丁 宀 心 忄 皿
 懨:厂 忄 日 月 犬
 懨.C_xtxx.xtxx:⺼ 厂 忄 日 犬
 懨.hxxx:厂 忄 日 月 犬
@@ -16188,7 +16188,7 @@
 拔:扌 犮
 拔.htjk:扌 犮.A_htjk
 拕:匕 宀 扌
-拕.xxjk:匕 宀.A_xxjk 扌
+拕.xxjk:匕 宀 扌
 拖:也 扌 𠂉
 拖.htxx:也.A_htxx 扌 𠂉
 拗:力 幺 扌
@@ -16262,7 +16262,7 @@
 挈.xxjx:丰.V_xxjx*1 刀 手
 按:女 宀 扌
 按.htxx:女.A_htxx 宀 扌
-按.xxjk:女.A_xxjk 宀.A_xxjk 扌
+按.xxjk:女.A_xxjk 宀 扌
 挊:⺊ 一 卜 扌
 挋:扌 臣
 挋.xxjk:扌 臣.L_xxjk*0
@@ -16278,7 +16278,7 @@
 挒:一 刂 夕 扌
 挓:乇 宀 扌
 挓.htxx:乇.E_htxx*0 宀 扌
-挓.xxjk:乇 宀.A_xxjk 扌
+挓.xxjk:乇 宀 扌
 挔:扌 衣
 挕:扌 耳
 挖:乙 扌 穴
@@ -16401,7 +16401,7 @@
 捣:㇉ 丶 丿 山 扌 𠃌
 捤:尸 扌 毛
 捥:㔾 夕 宀 扌
-捥.xxjk:㔾 夕 宀.A_xxjk 扌
+捥.xxjk:㔾 夕 宀 扌
 捦:扌 金
 捧:工 扌 𡗗
 捧.xxjk:工 扌 𡗗.V_xxjk*0
@@ -16493,7 +16493,7 @@
 掞:扌 火 火
 掞.htxx:扌 火.V_htxx*0 火.V_htxx*0
 掟:宀 扌 𤴓
-掟.xxjk:宀.A_xxjk 扌 𤴓
+掟.xxjk:宀 扌 𤴓
 掠:亠 口 小 扌
 掠.xxjk:亠.A_xxjk 口 小 扌
 採:扌 木 爫
@@ -16572,7 +16572,7 @@
 揌:心 扌 田
 揍:一 大 扌 𡗗
 揎:一 宀 扌 日
-揎.xxjk:一 宀.A_xxjk 扌 日
+揎.xxjk:一 宀 扌 日
 描:扌 田 艹
 描.htxx:扌 田 艹.V_htxx*0
 提:扌 日 𤴓
@@ -17066,7 +17066,7 @@
 擥.C_hxjk.hxjk:一 手 罒 臣 𠂉
 擦:宀 扌 祭
 擦.xtxx:宀 扌 祭.A_xtxx
-擦.xxjk:宀.A_xxjk 扌 祭
+擦.xxjk:宀 扌 祭
 擧:手 與
 擧.htxx:手 與.A_htxx
 擨:几 扌 欠 虍 𠂆
@@ -17084,9 +17084,9 @@
 擭.xxjk:又 扌 艹 隹.A_xxjk
 擮:十 戈 扌 隹
 擯:一 宀 扌 貝 𣥂
-擯.xxjk:一 宀.A_xxjk 扌 貝 𣥂
+擯.xxjk:一 宀 扌 貝 𣥂
 擰:丁 宀 心 扌 皿
-擰.xxjk:丁 宀.A_xxjk 心 扌 皿
+擰.xxjk:丁 宀 心 扌 皿
 擱:口 夂 扌 門
 擱.htxx:口 夂 扌 門
 擲:㇌ 丨 丷 大 扌 酉
@@ -17139,7 +17139,7 @@
 攆.htxx:一 大 扌 車
 攇:丰 宀 心 扌 罒
 攇.htxx:丰.V_htjk*0 宀 心 扌 罒
-攇.xxjk:丰 宀.A_xxjk 心 扌 罒
+攇.xxjk:丰 宀 心 扌 罒
 攈:扌 禾 鹿
 攈.xxjk:扌 禾 鹿.A_xxjk
 攉:⻗ 扌 隹
@@ -17675,7 +17675,7 @@
 晎:共 日
 晏:女 宀 日
 晏.htxx:女.A_htxx 宀 日
-晏.xxjk:女.A_xxjk 宀.A_xxjk 日
+晏.xxjk:女.A_xxjk 宀 日
 晐:亥 日
 晑:丿 冂 口 日
 晒:日 西
@@ -17704,7 +17704,7 @@
 晤:五 口 日
 晤.hxjk:五.A_xxjk 口 日
 晥:一 兀 宀 日
-晥.xxjk:一 兀 宀.A_xxjk 日
+晥.xxjk:一 兀 宀 日
 晦:日 母 𠂉
 晦.xxjk:日 母.A_xxjk 𠂉
 晧:口 日 牛
@@ -17742,7 +17742,7 @@
 晻:大 日 电
 晻.xtxx:大 日 电.V_htxx*0
 晼:㔾 夕 宀 日
-晼.xxjk:㔾 夕 宀.A_xxjk 日
+晼.xxjk:㔾 夕 宀 日
 晽:日 木 木
 晾:亠 口 小 日
 晾.xxjk:亠.A_xxjk 口 小 日
@@ -17754,7 +17754,7 @@
 暃:日 非
 暃.xxjk:日 非.V_htjk0
 暄:一 宀 日
-暄.xxjk:一 宀.A_xxjk 日
+暄.xxjk:一 宀 日
 暅:一 忄 日
 暆:万 丶 也 日 𠂉
 暆.htxx:万 丶 也.A_htxx 日 𠂉
@@ -18257,7 +18257,7 @@
 枿:十 廾 木
 柀:木 皮
 柁:匕 宀 木
-柁.xxjk:匕 宀.A_xxjk 木
+柁.xxjk:匕 宀 木
 柂:也 木 𠂉
 柂.htxx:也.A_xtxx 木 𠂉
 柃:丶 今 木
@@ -18467,7 +18467,7 @@
 案.xxjk:女.A_xxjk 宀 木
 桉:女 宀 木
 桉.htxx:女.A_htxx 宀 木
-桉.xxjk:女.A_xxjk 宀.A_xxjk 木
+桉.xxjk:女.A_xxjk 宀 木
 桊:木 龹
 桊.xxjk:木 龹.A_xxjx
 桋:夷 木
@@ -18600,7 +18600,7 @@
 梠:口 木
 梠.C_htjk.htjk:丿 口 木
 梡:一 兀 宀 木
-梡.xxjk:一 兀 宀.A_xxjk 木
+梡.xxjk:一 兀 宀 木
 梢:⺌ 月 木
 梢.C_xtxx.xtxx:⺌ ⺼ 木
 梢.C_xxxk.xxxk:小 月 木
@@ -18610,7 +18610,7 @@
 梤:八 刀 山 木
 梤.xtxx:八.V_xtxx*0 刀 山 木
 梥:公 宀 木
-梥.xxjk:公.V_xxjx0 宀.A_xxjk 木
+梥.xxjk:公.V_xxjx0 宀 木
 梦:夕 木 木
 梦.htxx:夕 木
 梧:五 口 木
@@ -18692,7 +18692,7 @@
 棔.xxjk:日 木 氏.A_xxjk
 棕:宀 木 示
 棕.xtxx:宀 木 示.A_xtxx
-棕.xxjk:宀.A_xxjk 木 示
+棕.xxjk:宀 木 示
 棖:木 長
 棖.xxjk:木 長.xxjk
 棗:朿
@@ -18757,7 +18757,7 @@
 棸.xtxx:又 木 耳.L_htjk*0
 棹:⺊ 十 日 木
 棺:㠯 宀 木
-棺.xxjk:㠯 宀.A_xxjk 木
+棺.xxjk:㠯 宀 木
 棻:八 刀 木 艹
 棻.hxxx:八 刀 木 艹.V_htxx*0
 棻.xtxx:八.V_xtxx*0 刀 木.L_xtjk*0 艹.V_htxx*0
@@ -18771,7 +18771,7 @@
 棾:冖 几 木 木
 棿:儿 木 臼
 椀:㔾 夕 宀 木
-椀.xxjk:㔾 夕 宀.A_xxjk 木
+椀.xxjk:㔾 夕 宀 木
 椁:一 亨 木
 椁.xxjk:一 亨.A_xxjk 木
 椂:彐 木 氺
@@ -18819,7 +18819,7 @@
 椖:万 丶 户 木
 椖.htjk:万 丨 户.htjk 木
 椗:宀 木 𤴓
-椗.xxjk:宀.A_xxjk 木 𤴓
+椗.xxjk:宀 木 𤴓
 椘:之 木
 椙:日 木
 椙.hxxx:日 日.L_htxx*0 木
@@ -18945,7 +18945,7 @@
 楥:一 友 木 爫
 楥.xxjk:一 友 木 爫.A_xxjk
 楦:一 宀 日 木
-楦.xxjk:一 宀.A_xxjk 日 木
+楦.xxjk:一 宀 日 木
 楧:央 木 艹
 楨:⺊ 木 貝
 楩:亻 更 木
@@ -18993,7 +18993,7 @@
 楿:日 木 禾
 榀:口 木
 榁:宀 木 至
-榁.xxjk:宀.A_xxjk 木 至.A_xxjk
+榁.xxjk:宀 木 至.A_xxjk
 概:一 丶 旡 木 𠃍 𠄌
 概.htxx:一 丶 旡.A_htxx 木 𠃍 𠄌
 概.xxjk:一 丶 旡.V_xxjk*0 木 𠃍 𠄌.A_xxjk
@@ -19025,7 +19025,7 @@
 榔:㇌ 一 丨 丶 木 𠃍 𠄌
 榔.xxjk:㇌ 一 丨 丶 木 𠃍 𠄌
 榕:宀 木 谷
-榕.xxjk:宀.A_xxjk 木 谷
+榕.xxjk:宀 木 谷
 榖:一 冖 又 工 木 𠘧
 榖.C_xxjk.xxjk:一 冖 几 又 工 木
 榗:一 业 日 木
@@ -19044,7 +19044,7 @@
 榝:㐅 又 木 朩 𠘧
 榞:厂 小 木 白
 榟:十 宀 木 立
-榟.xxjk:十 宀.A_xxjk 木 立.A_xxjk
+榟.xxjk:十 宀 木 立.A_xxjk
 榠:六 冖 日 木
 榠.xxjk:六.A_xxjk 冖 日 木
 榡:小 幺 木 龶
@@ -19171,7 +19171,7 @@
 槢:习 木 白
 槢.xxjk:习.xxjk 木 白
 槣:可 大 宀 木
-槣.xxjk:可 大 宀.A_xxjk 木
+槣.xxjk:可 大 宀 木
 槤:木 車 辶
 槤.htxx:木 車 辶.A_htxx
 槥:丰 彐 木
@@ -19261,7 +19261,7 @@
 樑.C_htxx.hxxx:丶 丿 刀 木 木 氵
 樑.C_htxx.xtxx:丶 丿 刀 木 木 氵
 樒:宀 山 必 木
-樒.xxjk:宀.A_xxjk 山.A_xxjk 必 木
+樒.xxjk:宀 山.A_xxjk 必 木
 樓:婁 木
 樓.hxxx:婁.A_hxxx 木
 樓.xtxx:婁.A_xtxx 木
@@ -19521,7 +19521,7 @@
 檪:丶 丿 冫 木 木 白
 檫:宀 木 祭
 檫.xtxx:宀 木 祭.A_xtxx
-檫.xxjk:宀.A_xxjk 木 祭
+檫.xxjk:宀 木 祭
 檬:一 冖 木 艹 𧰨
 檬.htxx:一 冖 木 艹.V_htxx*0 𧰨
 檬.xxjk:一 冖 木 艹 𧰨.V_xxjk*0
@@ -19534,7 +19534,7 @@
 檱:⺮ 其 木
 檲:丶 口 寸 木 車
 檳:一 宀 木 貝 𣥂
-檳.xxjk:一 宀.A_xxjk 木 貝 𣥂
+檳.xxjk:一 宀 木 貝 𣥂
 檴:又 木 艹 隹
 檴.htxx:又 木 艹.V_htjk*0 隹
 檴.xxjk:又 木 艹 隹.A_xxjk
@@ -19544,7 +19544,7 @@
 檶.xxjk:匚.L_xxjk*0 口 大 木
 檷:木 爾
 檸:丁 宀 心 木 皿
-檸.xxjk:丁 宀.A_xxjk 心 木 皿
+檸.xxjk:丁 宀 心 木 皿
 檹:万 丶 可 大 木 𠂉
 檺:一 亠 冖 口 木 𧰨
 檻:丶 木 皿 臣 𠂉
@@ -19560,7 +19560,7 @@
 檿.htjk:厂 日 月 木 犬
 櫀:其 小 幺 木
 櫁:宀 必 木 虫
-櫁.xxjk:宀.A_xxjk 必 木 虫
+櫁.xxjk:宀 必 木 虫
 櫂:习 木 隹
 櫂.htxx:习 木 隹
 櫂.xxjk:习.xxjk 木 隹.A_xxjk
@@ -19653,7 +19653,7 @@
 櫵:木 灬 艹 隹
 櫶:丰 宀 心 木 罒
 櫶.htxx:丰.V_htjk*0 宀 心 木 罒
-櫶.xxjk:丰 宀.A_xxjk 心 木 罒
+櫶.xxjk:丰 宀 心 木 罒
 櫷:木 龜
 櫸:工 木 與
 櫸.htxx:工 木 與.A_htxx
@@ -19943,7 +19943,7 @@
 殭:一 夕 田
 殮:一 僉 夕
 殯:一 夕 宀 貝 𣥂
-殯.xxjk:一 夕 宀.A_xxjk 貝 𣥂
+殯.xxjk:一 夕 宀 貝 𣥂
 殰:一 工 夕 罒 貝
 殰.hxxx:一 四 工 夕 貝
 殰.xxjk:一 四 工 夕 貝
@@ -20120,7 +20120,7 @@
 氍:毛 目 隹
 氍.xxjk:毛 目 隹.A_xxjk
 氎:一 丶 丿 乛 冖 毛 田
-氎.C_xxjk.xxjk:一 丶 丿 乛 宀.A_xxjk 毛 田
+氎.C_xxjk.xxjk:一 丶 丿 乛 宀 毛 田
 氏:氏
 氏.xxjk:氏.A_xxjk
 氐:丶 氏
@@ -20164,7 +20164,7 @@
 氧:气 羊
 氨:女 宀 气
 氨.htxx:女.A_htxx 宀 气
-氨.xxjk:女.A_xxjk 宀.A_xxjk 气
+氨.xxjk:女.A_xxjk 宀 气
 氩:一 业 气
 氪:儿 十 口 气
 氫:巠 气
@@ -20360,7 +20360,7 @@
 沯:水 石
 沰:氵 石
 沱:匕 宀 氵
-沱.xxjk:匕 宀.A_xxjk 氵
+沱.xxjk:匕 宀 氵
 沲:也 氵 𠂉
 沲.htxx:也.A_htxx 氵 𠂉
 河:可 氵
@@ -20605,9 +20605,9 @@
 浡:孛 氵
 浢:氵 豆
 浣:一 兀 宀 氵
-浣.xxjk:一 兀 宀.A_xxjk 氵
+浣.xxjk:一 兀 宀 氵
 浤:厷 宀 氵
-浤.xxjk:厷.A_xxjk 宀.A_xxjk 氵
+浤.xxjk:厷.A_xxjk 宀 氵
 浥:口 巴 氵
 浦:氵 甫
 浧:口 氵 王
@@ -20711,7 +20711,7 @@
 涪:口 氵 立
 涪.xxjk:口 氵 立.A_xxjk
 涫:㠯 宀 氵
-涫.xxjk:㠯 宀.A_xxjk 氵
+涫.xxjk:㠯 宀 氵
 涬:工 氵 𢆉
 涬.xxjk:工 氵 𢆉
 涭:冖 又 氵 爫
@@ -20725,7 +20725,7 @@
 涳:工 氵 穴
 涳.htxx:工 氵 穴.V_htxx*0
 涴:㔾 夕 宀 氵
-涴.xxjk:㔾 夕 宀.A_xxjk 氵
+涴.xxjk:㔾 夕 宀 氵
 涵:乛 凵 氵 氺
 涵.htxx:乛 凵 氵 氺
 涵.xxjk:一 凵.A_xxjk 氵 氺 𠃋.L_xxjk*0
@@ -20747,7 +20747,7 @@
 涿.htxx:一 丶 氵 𧰨
 涿.xxjk:一 丶 氵 𧰨.V_xxjk*0
 淀:宀 氵 𤴓
-淀.xxjk:宀.A_xxjk 氵 𤴓
+淀.xxjk:宀 氵 𤴓
 淁:女 氵 立
 淂:一 寸 日 氵
 淂.hxxx:一 寸 日 氵
@@ -20793,7 +20793,7 @@
 淘.xxjk:勹 氵 缶.A_xxjk
 淙:宀 氵 示
 淙.xtxx:宀 氵 示.A_xtxx
-淙.xxjk:宀.A_xxjk 氵 示
+淙.xxjk:宀 氵 示
 淚:户 氵 犬
 淚.C_xtjk.xtjk:户.htjk 氵 犬
 淛:刂 巾 氵 牛
@@ -20945,7 +20945,7 @@
 渰:一 人 口 廾 氵
 渱:工 氵 虫
 渲:一 宀 日 氵
-渲.xxjk:一 宀.A_xxjk 日 氵
+渲.xxjk:一 宀 日 氵
 渳:弓 氵 耳
 渳.htxx:弓 氵 耳.A_htxx
 渴:匃 日 氵
@@ -21160,7 +21160,7 @@
 溵:㐆 又 氵 𠘧
 溵.xxjk:㐆 几 又 氵
 溶:宀 氵 谷
-溶.xxjk:宀.A_xxjk 氵 谷
+溶.xxjk:宀 氵 谷
 溷:一 口 氵 𧰨
 溸:小 幺 氵 龶
 溹:冖 十 小 幺 氵
@@ -21220,7 +21220,7 @@
 滑.xtxx:氵 骨.A_xtxx*0
 滒:一 丨 口 可 氵
 滓:十 宀 氵 立
-滓.xxjk:十 宀.A_xxjk 氵 立.A_xxjk
+滓.xxjk:十 宀 氵 立.A_xxjk
 滔:氵 爫 臼
 滔.xxjk:氵 爫.A_xxjk 臼
 滕:月 氺 龹
@@ -21281,7 +21281,7 @@
 滴:啇 氵
 滴.xxjk:啇.A_xxjk 氵
 滵:宀 山 必 氵
-滵.xxjk:宀.A_xxjk 山.A_xxjk 必 氵
+滵.xxjk:宀 山.A_xxjk 必 氵
 滶:力 攵 氵 龶
 滶.C_htxx.htxx:万 丶 工 攵 氵
 滷:⺊ 口 氵 𠂭
@@ -21341,7 +21341,7 @@
 漓.htxx:氵 离.A_htxx
 漓.xxjk:氵 离.A_xxjk
 演:一 八 宀 氵 田
-演.xxjk:一 八 宀.A_xxjk 氵 田
+演.xxjk:一 八 宀 氵 田
 漕:一 日 曲 氵
 漕.hxxx:一 日 曲 氵
 漖:一 了 攵 氵 耂
@@ -21571,7 +21571,7 @@
 澛:日 氵 鱼
 澜:柬 氵 门
 澝:宀 心 氵 用
-澝.xxjk:宀.A_xxjk 心 氵 用
+澝.xxjk:宀 心 氵 用
 澞:一 口 大 氵 虍
 澞.C_htxx.htxx:口 大 氵 虍.A_htxx 𠃑
 澟:亠 回 氵 禾
@@ -21646,7 +21646,7 @@
 濄:咼 氵 辶
 濄.htxx:咼.A_htjk 氵 辶.A_htxx
 濅:冖 又 宀 巾 彐 氵
-濅.xxjk:冖 又 宀.A_xxjk 巾 彐.A_htjk 氵
+濅.xxjk:冖 又 宀 巾 彐.A_htjk 氵
 濆:十 氵 艹 貝
 濇:人 回 工 氵
 濈:丶 丿 乚 口 氵 耳
@@ -21673,7 +21673,7 @@
 濖:日 氵 罒 耂
 濗:大 巾 日 氵 艹
 濘:丁 宀 心 氵 皿
-濘.xxjk:丁 宀.A_xxjk 心 氵 皿
+濘.xxjk:丁 宀 心 氵 皿
 濙:冖 氵 火 火
 濙.htxx:冖 氵 火.V_htxx*0 火.V_htxx*0
 濚:冖 木 氵 火
@@ -21719,14 +21719,14 @@
 濰:氵 糹 隹
 濰.C_xxjk.xxjk:小 幺.A_xxjk 氵 隹.A_xxjk
 濱:一 宀 氵 貝 𣥂
-濱.xxjk:一 宀.A_xxjk 氵 貝 𣥂
+濱.xxjk:一 宀 氵 貝 𣥂
 濲:一 冖 又 工 木 氵 𠘧
 濳:儿 儿 日 氵 牛
 濳.xxjk:儿 儿 日 氵 牛
 濴:冖 水 氵 火
 濴.htxx:冖 水 氵 火.V_htxx*0
 濵:宀 氵 貝 𠃜
-濵.xxjk:宀.A_xxjk 氵 貝 𠃜
+濵.xxjk:宀 氵 貝 𠃜
 濶:工 口 氵 門
 濷:入 巾 廿 水 氵
 濷.htxx:入.A_htjk 巾 廿 水 氵
@@ -21760,13 +21760,13 @@
 瀇.C_xtxx.xtxx:一 八 广 氵 田 艹
 瀈:习 冖 氵 車
 瀉:勹 宀 氵 灬 臼
-瀉.xxjk:勹 宀.A_xxjk 氵 灬 臼
+瀉.xxjk:勹 宀 氵 灬 臼
 瀊:又 氵 皿 舟 𠘧
 瀊.C_xxjk.xxjk:几 又 氵 皿 舟.V_xxjk*0
 瀊.htxx:又 氵 皿 舟.V_htxx*0 𠘧
 瀋:宀 氵 田 釆
 瀋.htxx:宀 氵 田 釆
-瀋.xxjk:宀.A_xxjk 氵 田 釆
+瀋.xxjk:宀 氵 田 釆
 瀌:氵 灬 鹿
 瀌.htxx:氵 灬 鹿.A_htxx
 瀍:八 工 广 氵 里
@@ -21786,7 +21786,7 @@
 瀖.htxx:⻗.A_hxxx 氵 隹
 瀗:丰 宀 心 氵 罒
 瀗.htxx:丰.V_htjk*0 宀 心 氵 罒
-瀗.xxjk:丰.V_xxjx*1 宀.A_xxjk 心 氵 罒
+瀗.xxjk:丰.V_xxjx*1 宀 心 氵 罒
 瀘:氵 田 皿 虍
 瀘.htxx:氵 田 皿 虍.A_htxx
 瀙:朩 氵 立 見
@@ -21982,7 +21982,7 @@
 災.xtxx:巛 火.V_htxx*0
 灾:宀 火
 灾.htxx:宀 火.V_htxx*0
-灾.xxjk:宀.A_xxjk 火
+灾.xxjk:宀 火
 灿:山 火
 灿.htxx:山 火.V_htxx*0
 炀:火 𠃓
@@ -22355,7 +22355,7 @@
 煉.htxx:柬 火.V_htxx*0
 煊:一 宀 日 火
 煊.htxx:一 宀 日 火.V_htxx*0
-煊.xxjk:一 宀.A_xxjk 日 火
+煊.xxjk:一 宀 日 火
 煋:日 火 生
 煋.htxx:日 火.V_htxx*0 生
 煌:火 王 白
@@ -22512,7 +22512,7 @@
 熓:火 烏
 熔:宀 火 谷
 熔.htxx:宀 火.V_htxx*0 谷
-熔.xxjk:宀.A_xxjk 火 谷
+熔.xxjk:宀 火 谷
 熕:工 火 貝
 熖:火 爫 臼
 熖.htxx:火.V_htxx*0 爫 臼
@@ -22941,7 +22941,7 @@
 牠.htxx:也.A_htxx 牛
 牡:工 牛
 牢:宀 牛
-牢.xxjk:宀.A_xxjk 牛
+牢.xxjk:宀 牛
 牣:丿 刀 牛
 牣.C_htxx.htxx:丶 刀 牛
 牤:亡 牛
@@ -22969,7 +22969,7 @@
 牷:人 牛 王
 牷.htjk:入.A_htjk 牛 王
 牸:一 了 宀 牛
-牸.xxjk:一 了 宀.A_xxjk 牛
+牸.xxjk:一 了 宀 牛
 特:工 寸 牛
 特.xtxx:工 寸 牛
 牺:牛 西
@@ -23132,7 +23132,7 @@
 狧:工 口 犭
 狨:戈 犭 𠂇
 狩:宀 寸 犭
-狩.xxjk:宀.A_xxjk 寸 犭
+狩.xxjk:宀 寸 犭
 狪:一 冂 口 犭
 狫:匕 犭 耂
 狫.xtxx:匕.V_htxx*0 犭 耂
@@ -23353,9 +23353,9 @@
 獮:爾 犭
 獯:熏 犭
 獰:丁 宀 心 犭 皿
-獰.xxjk:丁 宀.A_xxjk 心 犭 皿
+獰.xxjk:丁 宀 心 犭 皿
 獱:一 宀 犭 貝 𣥂
-獱.xxjk:一 宀.A_xxjk 犭 貝 𣥂
+獱.xxjk:一 宀 犭 貝 𣥂
 獲:又 犭 艹 隹
 獲.htxx:又 犭 艹.V_htjk*0 隹
 獲.xxjk:又 犭 艹 隹.A_xxjk
@@ -23592,7 +23592,7 @@
 琑.C_xxjk.xxjk:小 月 王
 琒:丰 夂 王
 琓:一 兀 宀 王
-琓.xxjk:一 兀 宀.A_xxjk 王
+琓.xxjk:一 兀 宀 王
 琔:宀 王 𤴓
 琕:卑 王
 琖:戈 王
@@ -23630,14 +23630,14 @@
 琫:工 王 𡗗
 琫.xxjk:工 王 𡗗
 琬:㔾 夕 宀 王
-琬.xxjk:㔾 夕 宀.A_xxjk 王
+琬.xxjk:㔾 夕 宀 王
 琭:彐 氺 王
 琭.C_htjk.htxx:彑 氺 王
 琮:宀 王 示
 琮.xtxx:宀 王 示.A_xtxx
-琮.xxjk:宀.A_xxjk 王 示
+琮.xxjk:宀 王 示
 琯:㠯 宀 王
-琯.xxjk:㠯 宀.A_xxjk 王
+琯.xxjk:㠯 宀 王
 琰:火 火 王
 琰.htxx:火.V_htxx*0 王
 琱:⺆ 口 工 王
@@ -23671,7 +23671,7 @@
 瑃:日 王 𡗗
 瑃.xxjk:日 王 𡗗.V_xxjk*0
 瑄:一 宀 日 王
-瑄.xxjk:一 宀.A_xxjk 日 王
+瑄.xxjk:一 宀 日 王
 瑅:日 王 𤴓
 瑆:日 王 生
 瑇:母 王 龶
@@ -23721,7 +23721,7 @@
 瑠.xxjk:王 留.A_xxjk
 瑡:㠯 一 丿 巾 王
 瑢:宀 王 谷
-瑢.xxjk:宀.A_xxjk 王 谷
+瑢.xxjk:宀 王 谷
 瑣:⺌ 王 貝
 瑣.C_xxjk.xxjk:小 王 貝
 瑤:丶 夕 王 缶
@@ -24131,7 +24131,7 @@
 甮.hxxx:勿 用
 甯:宀 心 用
 甯.xtxx:宀 心 用.E_xtxx*0
-甯.xxjk:宀.A_xxjk 心 用
+甯.xxjk:宀 心 用
 田:田
 由:田
 甲:田
@@ -24238,7 +24238,7 @@
 畷:又 又 田
 畸:可 大 田
 畹:㔾 夕 宀 田
-畹.xxjk:㔾 夕 宀.A_xxjk 田
+畹.xxjk:㔾 夕 宀 田
 畺:一 田
 畻:工 田 龹
 畻.xxjk:工 田.A_xtjk 龹.A_xxjx
@@ -24449,7 +24449,7 @@
 痮:疒 長
 痮.xxjk:疒.A_xxjk 長.xxjk
 痯:㠯 宀 疒
-痯.xxjk:㠯 宀.A_xxjk 疒.A_xxjk
+痯.xxjk:㠯 宀 疒.A_xxjk
 痰:火 火 疒
 痰.htxx:火.V_htxx*0 火.V_htxx*0 疒
 痰.xxjk:火 火 疒.A_xxjk
@@ -24785,7 +24785,7 @@
 皔:工 日 白
 皕:一 白
 皖:一 兀 宀 白
-皖.xxjk:一 兀 宀.A_xxjk 白
+皖.xxjk:一 兀 宀 白
 皗:⺆ 口 工 白
 皘:月 白 龶
 皙:斤 木 白
@@ -25044,7 +25044,7 @@
 睄.C_xtxx.xtxx:⺌ ⺼ 目
 睅:工 日 目
 睆:一 兀 宀 目
-睆.xxjk:一 兀 宀.A_xxjk 目
+睆.xxjk:一 兀 宀 目
 睇:弟 目
 睇.xxjk:弟.A_xxjk 目
 睈:口 王 目
@@ -25159,8 +25159,8 @@
 瞍.htjk:丨 又 目 臼
 瞎:丰 口 宀 目
 瞎.htxx:丰.V_htjk*0 口 宀 目
-瞎.xxjx:丰.V_htjk*0 口 宀.A_xxjk 目
-瞎.xxxk:丰 口 宀.A_xxjk 目
+瞎.xxjx:丰.V_htjk*0 口 宀 目
+瞎.xxxk:丰 口 宀 目
 瞏:口 工 罒 𧘇
 瞐:目
 瞑:六 冖 日 目
@@ -25177,7 +25177,7 @@
 瞙:大 日 目 艹
 瞙.htxx:大 日 目 艹.V_htxx*0
 瞚:一 八 宀 田 目
-瞚.xxjk:一 八 宀.A_xxjk 田 目
+瞚.xxjk:一 八 宀 田 目
 瞛:人 彳 目 龰
 瞜:婁 目
 瞜.hxxx:婁.A_hxxx 目
@@ -25248,7 +25248,7 @@
 矂:口 木 目
 矂.xtxx:口 木.L_xtjk*0 目
 矃:丁 宀 心 皿 目
-矃.xxjk:丁 宀.A_xxjk 心 皿 目
+矃.xxjk:丁 宀 心 皿 目
 矄:熏 目
 矅:习 目 隹
 矅.htxx:习 目 隹
@@ -25258,7 +25258,7 @@
 矇.xxjk:一 冖 目 艹 𧰨.V_xxjk*0
 矈:万 丶 白 目 穴
 矉:一 宀 目 貝 𣥂
-矉.xxjk:一 宀.A_xxjk 目 貝 𣥂
+矉.xxjk:一 宀 目 貝 𣥂
 矊:巾 白 目 糹
 矋:厂 目 禺 艹
 矋.htxx:厂 目 禺.A_htxx 艹.V_htxx*0
@@ -25401,7 +25401,7 @@
 砡:丶 王 石
 砢:可 石
 砣:匕 宀 石
-砣.xxjk:匕 宀.A_xxjk 石
+砣.xxjk:匕 宀 石
 砤:也 石 𠂉
 砥:丶 氏 石
 砥.C_htjk.htxx:一 氏.A_xxjk 石
@@ -25484,7 +25484,7 @@
 硠:丶 石 艮
 硠.C_xxjk.xxjk:丨 石 艮.A_xxjk
 硡:厷 宀 石
-硡.xxjk:厷.A_xxjk 宀.A_xxjk 石
+硡.xxjk:厷.A_xxjk 宀 石
 硢:一 人 朩 石
 硣:一 了 石 耂
 硤:人 大 石
@@ -25539,7 +25539,7 @@
 碆:氵 皮 石
 碆.xtxx:氵 皮 石
 碇:宀 石 𤴓
-碇.xxjk:宀.A_xxjk 石 𤴓
+碇.xxjk:宀 石 𤴓
 碈:日 氏 石
 碉:⺆ 口 工 石
 碉.hxxx:⺆ 口 工 石
@@ -25564,7 +25564,7 @@
 碕:可 大 石
 碖:侖 石
 碗:㔾 夕 宀 石
-碗.xxjk:㔾 夕 宀.A_xxjk 石
+碗.xxjk:㔾 夕 宀 石
 碘:典 石
 碙:䒑 冂 山 石
 碚:口 石 立
@@ -26314,7 +26314,7 @@
 稻:爫 禾 臼
 稻.xxjk:爫.A_xxjk 禾 臼
 稼:一 宀 禾 𧰨
-稼.xxjk:一 宀.A_xxjk 禾 𧰨.V_xxjk*0
+稼.xxjk:一 宀 禾 𧰨.V_xxjk*0
 稽:丶 匕 尢 日 禾
 稽.htxx:丶 匕.V_htxx*0 尢 日 禾
 稾:禾 高
@@ -26326,7 +26326,7 @@
 穁:禾 耳 艹
 穂:一 心 田 禾
 穃:宀 禾 谷
-穃.xxjk:宀.A_xxjk 禾 谷
+穃.xxjk:宀 禾 谷
 穄:祭 禾
 穄.xtxx:祭.A_xtxx 禾
 穅:广 禾 隶
@@ -26671,7 +26671,7 @@
 站:占 立
 站.xxjk:占 立.V_xxjk*0
 竚:丁 宀 立
-竚.xxjk:丁 宀.A_xxjk 立.V_xxjk*0
+竚.xxjk:丁 宀 立.V_xxjk*0
 竛:丶 今 立
 竛.C_xxjk.xxjk:令.A_xxjk 立.V_xxjk*0
 竛.htxx:丶 今.A_htjk 立
@@ -26703,7 +26703,7 @@
 竨:⺊ 十 日 立
 竨.xxjk:⺊ 十 日 立.V_xxjk*0
 竩:目 宀 立
-竩.xxjk:目 宀.A_xxjk 立.V_xxjk*0
+竩.xxjk:目 宀 立.V_xxjk*0
 竪:又 立 臣
 竪.xxjk:又 立.A_xxjk 臣
 竫:争 立
@@ -26881,7 +26881,7 @@
 筥:⺮ 口
 筥.C_htjk.htjk:⺮ 丿 口
 筦:⺮ 一 兀 宀
-筦.xxjk:⺮ 一 兀 宀.A_xxjk
+筦.xxjk:⺮ 一 兀 宀
 筧:⺮ 見
 筨:⺮ 今 口
 筩:⺮ 用 龴
@@ -26974,7 +26974,7 @@
 箠.htxx:⺮ 垂.A_htxx
 箠.xxjk:⺮ 垂.A_xxjk
 管:⺮ 㠯 宀
-管.xxjk:⺮ 㠯 宀.A_xxjk
+管.xxjk:⺮ 㠯 宀
 箢:⺮ 㔾 夕 宀
 箣:⺮ 刂 朿
 箤:⺮ 卒
@@ -27134,7 +27134,7 @@
 簅.htxx:⺮ 产.V_htjk*0 生
 簆:⺊ ⺮ 一 兀 又 宀
 簆.hxxx:⺮ 一 兀 宀 攵
-簆.xxjk:⺮ 一 兀 宀.A_xxjk 攵
+簆.xxjk:⺮ 一 兀 宀 攵
 簇:⺮ 万 丶 矢 𠂉
 簇.C_xxjk.xxjk:⺮ 万 丨 矢 𠂉
 簇.htxx:⺮ 万 丶 矢 𠂉
@@ -27480,7 +27480,7 @@
 粼.xxjx:㐄.V_xxjk0 夕 米 𡿨
 粽:宀 示 米
 粽.xtxx:宀 示.A_xtxx 米.A_xtxx
-粽.xxjk:宀.A_xxjk 示 米
+粽.xxjk:宀 示 米
 精:月 米 龶
 精.C_xxxk.xxxk:一 丨 冂 米 龶
 精.xtxx:月.E_xtjk*0 米 龶
@@ -27543,7 +27543,7 @@
 糗.hxxx:犬 米 自
 糗.xtxx:犬 米.A_xtxx 自
 糘:一 宀 米 𧰨
-糘.xxjk:一 宀.A_xxjk 米 𧰨
+糘.xxjk:一 宀 米 𧰨
 糙:口 牛 米 辶
 糙.hxxx:口 牛 米 辶.A_htxx
 糙.xtxx:口 牛 米.A_xtxx 辶.A_htxx
@@ -27746,7 +27746,7 @@
 紳.C_xxjk.xxjk:小 幺.A_xxjk 田
 紴:皮 糹
 紵:丁 宀 糹
-紵.C_xxjk.xxjk:丁 宀.A_xxjk 小 幺.A_xxjk
+紵.C_xxjk.xxjk:丁 宀 小 幺.A_xxjk
 紶:去 糹
 紷:丶 今 糹
 紸:丶 王 糹
@@ -27759,7 +27759,7 @@
 紼:弗 糹
 紼.C_xxjk.xxjk:小 幺.A_xxjk 弗.A_xxjk
 紽:匕 宀 糹
-紽.C_xxjk.xxjk:匕 宀.A_xxjk 小 幺.A_xxjk
+紽.C_xxjk.xxjk:匕 宀 小 幺.A_xxjk
 紾:㐱 糹
 紾.C_xxjk.xxjk:㐱 小 幺.A_xxjk
 紿:厶 口 糹
@@ -27917,7 +27917,7 @@
 綉.htxx:乃 禾 糹
 綊:人 大 糹
 綋:厷 宀 糹
-綋.C_xxjk.xxjk:厷.A_xxjk 宀.A_xxjk 小 幺.A_xxjk
+綋.C_xxjk.xxjk:厷.A_xxjk 宀 小 幺.A_xxjk
 綌:糹 谷
 綌.C_xxjk.xxjk:小 幺.A_xxjk 谷
 綍:孛 糹
@@ -27953,7 +27953,7 @@
 綛.C_xxjx.xxjx:丶 刀 小 幺.A_xxjk 心
 綛.C_xxxk.xxxk:丶 刀 小 幺.A_xxjk 心
 綜:宀 示 糹
-綜.C_xxjk.xxjk:宀.A_xxjk 小 幺.A_xxjk 示
+綜.C_xxjk.xxjk:宀 小 幺.A_xxjk 示
 綜.xtxx:宀 示.A_xtxx 糹
 綝:木 木 糹
 綝.C_xxjk.xxjk:小 幺.A_xxjk 木 木
@@ -28001,7 +28001,7 @@
 綯:勹 糹 缶
 綯.C_xxjk.xxjk:勹 小 幺.A_xxjk 缶
 綰:㠯 宀 糹
-綰.C_xxjk.xxjk:㠯 宀.A_xxjk 小 幺.A_xxjk
+綰.C_xxjk.xxjk:㠯 宀 小 幺.A_xxjk
 綱:䒑 冂 山 糹
 綱.C_xxjk.xxjk:䒑 冂 小 山 幺.A_xxjk
 網:䒑 亡 冂 糹
@@ -28026,7 +28026,7 @@
 綺:可 大 糹
 綺.C_xxjk.xxjk:可 大 小 幺.A_xxjk
 綻:宀 糹 𤴓
-綻.C_xxjk.xxjk:宀.A_xxjk 小 幺.A_xxjk 𤴓
+綻.C_xxjk.xxjk:宀 小 幺.A_xxjk 𤴓
 綼:卑 糹
 綽:⺊ 十 日 糹
 綽.C_xxjk.xxjk:⺊ 十 小 幺.A_xxjk 日
@@ -28244,7 +28244,7 @@
 縠:一 冖 又 工 小 幺 𠘧
 縠.C_xxjk.xxjk:一 冖 几 又 工 小 幺.A_xxjk
 縡:十 宀 立 糹
-縡.C_xxjk.xxjk:十 宀.A_xxjk 小 幺.A_xxjk 立.A_xxjk
+縡.C_xxjk.xxjk:十 宀 小 幺.A_xxjk 立.A_xxjk
 縢:小 幺 月 龹
 縢.C_xxjk.xxjk:小 幺.A_xxjk 月 龹.A_xxjx
 縣:一 目 丿 小 幺
@@ -28276,9 +28276,9 @@
 縭.C_xxjk.xxjk:小 幺.A_xxjk 离.A_xxjk
 縭.htxx:离.A_htxx 糹
 縮:一 亻 宀 白 糹
-縮.C_xxjk.xxjk:一 亻 宀.A_xxjk 小 幺.A_xxjk 白
+縮.C_xxjk.xxjk:一 亻 宀 小 幺.A_xxjk 白
 縯:一 八 宀 田 糹
-縯.C_xxjk.xxjk:一 八 宀.A_xxjk 小 幺.A_xxjk 田
+縯.C_xxjk.xxjk:一 八 宀 小 幺.A_xxjk 田
 縰:彳 止 糹 龰
 縱:人 彳 糹 龰
 縱.C_xxjk.xxjk:人 小 幺.A_xxjk 彳 龰
@@ -28445,7 +28445,7 @@
 繼:幺 糹 𠃊
 繼.C_xxjk.xxjk:小 幺.A_xxjk 𠃊
 繽:一 宀 糹 貝 𣥂
-繽.C_xxjk.xxjk:一 宀.A_xxjk 小 幺.A_xxjk 貝 𣥂
+繽.C_xxjk.xxjk:一 宀 小 幺.A_xxjk 貝 𣥂
 繾:㠯 一 中 糹 辶
 繾.C_xxjk.xxjk:㠯 一 中 小 幺.A_xxjk 辶.V_xxjk*0
 繾.htxx:㠯 一 中 糹 辶.A_htxx
@@ -28866,7 +28866,7 @@
 羚.htxx:丶 今.A_htjk 羊
 羛:弗 羊
 羜:丁 宀 羊
-羜.xxjk:丁 宀.A_xxjk 羊.V_xxjk*0
+羜.xxjk:丁 宀 羊.V_xxjk*0
 羝:丶 氏 羊
 羝.C_htjk.htxx:一 氏 羊
 羝.C_htjk.xxjk:一 氏.A_xxjk 羊.V_xxjk*0
@@ -28883,7 +28883,7 @@
 群:口 尹 羊
 羥:巠 羊
 羦:一 兀 宀 羊
-羦.xxjk:一 兀 宀.A_xxjk 羊.V_xxjk*0
+羦.xxjk:一 兀 宀 羊.V_xxjk*0
 羧:夋 羊
 羧.htxx:夋.A_htxx 羊
 羨:欠 氵 羊
@@ -28891,7 +28891,7 @@
 羪:丶 羊 艮
 羪.C_xxjk.xxjk:丨 羊.V_xxjk*0 艮.A_xxjk
 羫:工 穴 羊
-羫.xxjk:八.V_xtxx*0 宀.A_xxjk 工 羊.V_xxjk*0
+羫.xxjk:八.V_xtxx*0 宀 工 羊.V_xxjk*0
 羬:一 口 戊 羊
 羭:俞 羊
 羭.xtxx:俞.A_xtxx 羊
@@ -29273,8 +29273,8 @@
 聡.xxxk:公.V_xxxk0 心 耳
 聢:宀 耳 𤴓
 聢.htxx:宀 耳 𤴓
-聢.xxjx:宀.A_xxjk 耳.L_htjk*0 𤴓
-聢.xxxk:宀.A_xxjk 耳 𤴓
+聢.xxjx:宀 耳.L_htjk*0 𤴓
+聢.xxxk:宀 耳 𤴓
 聣:儿 耳 臼
 聣.htxx:儿 耳.L_htjk*0 臼
 聤:丁 亠 冖 口 耳
@@ -29326,8 +29326,8 @@
 聸.C_htxx.htxx:儿.A_htxx 厃 耳.L_htjk*0 言
 聹:丁 宀 心 皿 耳
 聹.htxx:丁 宀 心 皿 耳
-聹.xxjx:丁 宀.A_xxjk 心 皿 耳
-聹.xxxk:丁 宀.A_xxjk 心 皿 耳
+聹.xxjx:丁 宀 心 皿 耳
+聹.xxxk:丁 宀 心 皿 耳
 聺:宀 祭 耳
 聻:斤 氵 耳 車
 聼:一 乛 十 心 罒 耳
@@ -29581,7 +29581,7 @@
 胹.C_htxx.htxx:⺼ 而
 胺:女 宀 月
 胺.C_htxx.htxx:⺼ 女.A_htxx 宀
-胺.xxjk:女.A_xxjk 宀.A_xxjk 月
+胺.xxjk:女.A_xxjk 宀 月
 胻:一 丁 彳 月
 胻.C_htxx.htxx:⺼ 一 丁 彳
 胼:丷 开 月
@@ -29640,7 +29640,7 @@
 脗.C_htxx.htxx:⺼ 勿 口
 脘:一 兀 宀 月
 脘.C_htxx.htxx:⺼ 一 兀 宀
-脘.xxjk:一 兀 宀.A_xxjk 月
+脘.xxjk:一 兀 宀 月
 脙:月 求
 脚:冂 去 月
 脚.C_htxx.htxx:⺼ 冂 去
@@ -29763,7 +29763,7 @@
 腔.xxjk:工 月 穴.V_xxjk*0
 腕:㔾 夕 宀 月
 腕.C_htxx.htxx:⺼ 㔾 夕 宀
-腕.xxjk:㔾 夕 宀.A_xxjk 月
+腕.xxjk:㔾 夕 宀 月
 腖:月 東
 腗:廾 月 田
 腘:丶 口 月 王
@@ -29780,7 +29780,7 @@
 腞:彑 月 𧰨
 腞.C_htxx.htxx:⺼ 彑 𧰨
 腟:宀 月 至
-腟.xxjk:宀.A_xxjk 月 至.A_xxjk
+腟.xxjk:宀 月 至.A_xxjk
 腠:一 大 月 𡗗
 腠.C_htxx.htxx:⺼ 一 大.E_htjk*0 𡗗
 腠.C_xxjk.xxjk:丿 大.E_hxjk*0 月 𡗗.V_xxjk*0
@@ -30035,7 +30035,7 @@
 臎.xxjk:习.xxjk 卒.A_xxjk 月
 臏:一 宀 月 貝 𣥂
 臏.C_htxx.htxx:⺼ 一 宀 貝 𣥂
-臏.xxjk:一 宀.A_xxjk 月 貝 𣥂
+臏.xxjk:一 宀 月 貝 𣥂
 臐:月 熏
 臑:⻗ 月 而
 臑.C_htxx.htxx:⺼ ⻗.A_hxxx 而
@@ -30050,7 +30050,7 @@
 臖.xxjk:一 八 冂 口 月 𦥑
 臗:丶 儿 宀 月 目 艹
 臗.C_htxx.htxx:丶 儿 宀 月 目 艹.V_htjk*0
-臗.xxjk:丶 儿 宀.A_xxjk 月 目 艹
+臗.xxjk:丶 儿 宀 月 目 艹
 臘:巤 月
 臘.C_htxx.hxxx:⺼ 巤.A_htjx
 臘.C_htxx.xtxx:⺼ 巤.V_xtxx*0
@@ -30178,7 +30178,7 @@
 舖:人 口 工 甫
 舗:人 口 工 甫
 舘:㠯 人 口 宀 工
-舘.xxjk:㠯 人 口 宀.A_xxjk 工
+舘.xxjk:㠯 人 口 宀 工
 舙:工 口
 舚:八 工 厃 口 言
 舚.C_htxx.hxxx:儿.A_htxx 工 厃 口 言
@@ -30249,7 +30249,7 @@
 舴.xxjk:乍 舟.V_xxjk*0
 舵:匕 宀 舟
 舵.htxx:匕 宀 舟.V_htxx*0
-舵.xxjk:匕 宀.A_xxjk 舟.V_xxjk*0
+舵.xxjk:匕 宀 舟.V_xxjk*0
 舶:白 舟
 舶.htxx:白 舟.V_htxx*0
 舶.xxjk:白 舟.V_xxjk*0
@@ -30641,7 +30641,7 @@
 苦.htxx:十 口 艹.V_htxx*0
 苧:丁 宀 艹
 苧.htxx:丁 宀 艹.V_htxx*0
-苧.xxjk:丁 宀.A_xxjk 艹
+苧.xxjk:丁 宀 艹
 苨:匕 尸 艹
 苨.hxxx:匕 尸 艹.V_htxx*0
 苨.xtxx:匕.V_htxx*0 尸 艹.V_htxx*0
@@ -30757,7 +30757,7 @@
 茟:聿 艹
 茠:亻 木 艹
 茡:一 了 宀 艹
-茡.xxjk:一 了 宀.A_xxjk 艹
+茡.xxjk:一 了 宀 艹
 茢:一 刂 夕 艹
 茢.htxx:一 刂 夕 艹.V_htxx*0
 茣:一 口 大 艹
@@ -30892,7 +30892,7 @@
 荡:氵 艹 𠃓
 荢:于 宀 艹
 荢.htxx:于 宀 艹.V_htxx*0
-荢.xxjk:于 宀.A_xxjk 艹
+荢.xxjk:于 宀 艹
 荣:冖 木 艹
 荤:冖 艹 车
 荥:冖 水 艹
@@ -31005,7 +31005,7 @@
 莝.htxx:人 工 艹.V_htxx*0
 莞:一 兀 宀 艹
 莞.htxx:一 兀 宀 艹.V_htxx*0
-莞.xxjk:一.L_xxxk*0 兀 宀.A_xxjk 艹.V_htxx*0
+莞.xxjk:一.L_xxxk*0 兀 宀 艹.V_htxx*0
 莟:今 口 艹
 莟.htxx:今.A_htjk 口 艹.V_htxx*0
 莟.xxjk:今.A_htjk 口 艹
@@ -31065,7 +31065,7 @@
 莿.htxx:刂 朿 艹.V_htxx*0
 菀:㔾 夕 宀 艹
 菀.htxx:㔾 夕 宀 艹.V_htxx*0
-菀.xxjk:㔾.E_hxjk*0 夕 宀.A_xxjk 艹.V_htxx*0
+菀.xxjk:㔾.E_hxjk*0 夕 宀 艹.V_htxx*0
 菁:月 艹 龶
 菁.C_xxjk.xxjk:一 丨 冂 艹 龶
 菁.hxxx:月 艹.V_htxx*0 龶
@@ -31077,7 +31077,7 @@
 菄:東 艹
 菅:㠯 宀 艹
 菅.htxx:㠯 宀 艹.V_htxx*0
-菅.xxjk:㠯 宀.A_xxjk 艹.V_htxx*0
+菅.xxjk:㠯 宀 艹.V_htxx*0
 菆:又 耳 艹
 菆.htxx:又 耳.L_htjk*0 艹.V_htxx*0
 菇:十 口 女 艹
@@ -31161,7 +31161,7 @@
 菩.xxjk:口 立.A_xxjk 艹
 菪:宀 石 艹
 菪.htxx:宀 石 艹.V_htxx*0
-菪.xxjk:宀.A_xxjk 石 艹.V_htxx*0
+菪.xxjk:宀 石 艹.V_htxx*0
 菫:一 口 艹 龶
 菫.htxx:一 口 艹.V_htxx*0 龶
 菬:刀 口 氵 艹
@@ -31259,7 +31259,7 @@
 萒.hxxx:亠 儿 公 艹.V_htxx*0
 萓:目 宀 艹
 萓.htxx:目 宀 艹.V_htxx*0
-萓.xxjk:目 宀.A_xxjk 艹.V_htxx*0
+萓.xxjk:目 宀 艹.V_htxx*0
 萔:刀 口 扌 艹
 萔.htxx:刀 口 扌 艹.V_htxx*0
 萕:一 丨 丿 文 艹
@@ -31267,7 +31267,7 @@
 萖:儿 臼 艹
 萖.htxx:儿 臼 艹.V_htxx*0
 萗:宀 示 艹
-萗.xxjk:宀.A_xxjk 示 艹
+萗.xxjk:宀 示 艹
 萘:大 示 艹
 萘.htxx:大 示 艹.V_htxx*0
 萙:冘 木 艹
@@ -31312,7 +31312,7 @@
 萰.htxx:柬 艹.V_htxx*0
 萱:一 宀 日 艹
 萱.htxx:一 宀 日 艹.V_htxx*0
-萱.xxjk:一 宀.A_xxjk 日 艹.V_htxx*0
+萱.xxjk:一 宀 日 艹.V_htxx*0
 萲:一 友 爫 艹
 萲.htxx:一 友 爫 艹.V_htxx*0
 萳:冂 十 艹 𢆉
@@ -31672,7 +31672,7 @@
 蓈.xxjk:㇌ 一 丨 丶 艹 𠃍 𠄌.A_xxjk
 蓉:宀 艹 谷
 蓉.htxx:宀 艹.V_htxx*0 谷
-蓉.xxjk:宀.A_xxjk 艹.V_htxx*0 谷
+蓉.xxjk:宀 艹.V_htxx*0 谷
 蓊:习 公 艹
 蓊.hxxx:习 公 艹.V_htxx*0
 蓊.xtxx:习 公.A_xtxx 艹.V_htxx*0
@@ -31799,7 +31799,7 @@
 蓾.htxx:⺊ 口 艹.V_htxx*0 𠂭
 蓿:一 亻 宀 白 艹
 蓿.htxx:一 亻 宀 白 艹.V_htxx*0
-蓿.xxjk:一 亻 宀.A_xxjk 白 艹
+蓿.xxjk:一 亻 宀 白 艹
 蔀:㇌ 丨 口 立 艹
 蔀.htxx:㇌ 丨 口 立 艹.V_htxx*0
 蔀.xxjk:㇌ 丨 口 立.A_xxjk 艹
@@ -31893,7 +31893,7 @@
 蔣.hxxx:丶 夕 寸 爿 艹.V_htxx*0
 蔤:宀 山 必 艹
 蔤.htxx:宀 山 必 艹.V_htxx*0
-蔤.xxjk:宀.A_xxjk 山 必 艹
+蔤.xxjk:宀 山 必 艹
 蔥:囱 心 艹
 蔥.C_xtxx.xtxx:丿 丿 口 心 艹.V_htxx*0
 蔥.hxxx:囱 心 艹.V_htxx*0
@@ -31929,7 +31929,7 @@
 蔱:㐅 又 朩 艹 𠘧
 蔱.C_htxx.htxx:㐅 又 艹.V_htxx*0 𠘧 𣎳.E_htxx*0
 蔲:一 兀 宀 攵 艹
-蔲.xxjk:一 兀 宀.A_xxjk 攵 艹
+蔲.xxjk:一 兀 宀 攵 艹
 蔳:月 氵 艹 龶
 蔳.C_xxjk.xxjk:一 丨 冂 氵 艹 龶
 蔳.htxx:月 氵 艹.V_htxx*0 龶
@@ -32238,7 +32238,7 @@
 薳.htxx:口 工 艹.V_htxx*0 辶.A_htxx 𧘇
 薴:丁 宀 心 皿 艹
 薴.htxx:丁 宀 心 皿 艹.V_htxx*0
-薴.xxjk:丁 宀.A_xxjk 心 皿 艹
+薴.xxjk:丁 宀 心 皿 艹
 薵:壽 艹
 薵.htxx:壽 艹.V_htxx*0
 薶:艹 豸 里
@@ -32415,8 +32415,8 @@
 藻.xtxx:口 木 氵 艹.V_htxx*0
 藼:丰 宀 心 罒 艹
 藼.htxx:丰.V_htjk*0 宀 心 罒 艹.V_htxx*0
-藼.xxjx:丰.V_xxjx*1 宀.A_xxjk 心 罒 艹
-藼.xxxk:丰.V_xxjx*1 宀.A_xxjk 心 罒 艹
+藼.xxjx:丰.V_xxjx*1 宀 心 罒 艹
+藼.xxxk:丰.V_xxjx*1 宀 心 罒 艹
 藽:朩 立 艹 見
 藽.C_htxk.hxxx:木.E_htjk*0 立 艹.V_htxx*0 見
 藽.C_htxk.xtxx:木 立 艹.V_htxx*0 見
@@ -32815,7 +32815,7 @@
 蛅:占 虫
 蛆:目 虫
 蛇:匕 宀 虫
-蛇.xxjk:匕.L_hxjk*0 宀.A_xxjk 虫
+蛇.xxjk:匕.L_hxjk*0 宀 虫
 蛈:矢 虫
 蛉:丶 今 虫
 蛉.C_xxjk.xxjk:令.A_xxjk 虫
@@ -32942,7 +32942,7 @@
 蜚.htjk:虫 非.V_htjk0
 蜛:十 口 尸 虫
 蜜:宀 必 虫
-蜜.xxjk:宀.A_xxjk 必 虫
+蜜.xxjk:宀 必 虫
 蜝:其 虫
 蜞:其 虫
 蜟:亠 厶 月 虫
@@ -32995,7 +32995,7 @@
 蜽.xxjk:一 入.A_htjk 巾 虫
 蜾:果 虫
 蜿:㔾 夕 宀 虫
-蜿.xxjk:㔾 夕 宀.A_xxjk 虫
+蜿.xxjk:㔾 夕 宀 虫
 蝀:東 虫
 蝁:亞 虫
 蝂:反 片 虫
@@ -33224,7 +33224,7 @@
 螽:冬 虫
 螽.xxjk:冬.V_xxjk*0 虫
 螾:一 八 宀 田 虫
-螾.xxjk:一.L_xxxk*0 八.E_htjk*0 宀.A_xxjk 田 虫
+螾.xxjk:一.L_xxxk*0 八.E_htjk*0 宀 田 虫
 螿:丶 夕 寸 爿 虫
 螿.xtxx:㇀ 夕 寸 爿 虫
 蟀:率 虫
@@ -33387,7 +33387,7 @@
 蠘:十 戈 虫 隹
 蠘.xxjk:十 戈 虫 隹.A_xxjk
 蠙:一 宀 虫 貝 𣥂
-蠙.xxjk:一 宀.A_xxjk 虫 貝 𣥂
+蠙.xxjk:一 宀 虫 貝 𣥂
 蠚:口 艹 虫 𠂇
 蠛:丶 戊 罒 艹 虫
 蠛.htxx:丶 戊 罒 艹.V_htjk*0 虫
@@ -34487,7 +34487,7 @@
 詐:乍 言
 詐.xxjk:乍 言.A_xxjk
 詑:匕 宀 言
-詑.xxjk:匕 宀.A_xxjk 言.A_xxjk
+詑.xxjk:匕 宀 言.A_xxjk
 詒:厶 口 言
 詒.xxjk:厶.A_xxjk 口 言.A_xxjk
 詓:去 言
@@ -34510,7 +34510,7 @@
 詜:又 屮 言
 詜.xxjk:又 屮 言.A_xxjk
 詝:丁 宀 言
-詝.xxjk:丁 宀.A_xxjk 言.A_xxjk
+詝.xxjk:丁 宀 言.A_xxjk
 詞:一 口 言 𠃌
 詞.xxjk:一 口 言.A_xxjk 𠃌
 詟:言 龙
@@ -34538,7 +34538,7 @@
 詪:艮 言
 詫:乇 宀 言
 詫.htxx:乇.E_htxx*0 宀 言
-詫.xxjk:乇 宀.A_xxjk 言.A_xxjk
+詫.xxjk:乇 宀 言.A_xxjk
 詬:一 口 言 𠂆
 詬.xxjk:一 口 言.A_xxjk 𠂆
 詭:㔾 厃 言
@@ -34705,7 +34705,7 @@
 誻.hxxx:日.L_htxx*0 水 言
 誻.xxjk:日 水 言.A_xxjk
 誼:目 宀 言
-誼.xxjk:目 宀.A_xxjk 言.A_xxjk
+誼.xxjk:目 宀 言.A_xxjk
 誽:儿 臼 言
 誾:言 門
 誾.xxjk:言.A_xxjk 門
@@ -34771,7 +34771,7 @@
 諘:言 龶 𧘇
 諙:日 氏 言
 諚:宀 言 𤴓
-諚.xxjk:宀.A_xxjk 言.A_xxjk 𤴓
+諚.xxjk:宀 言.A_xxjk 𤴓
 諛:臾 言
 諛.xxjx:臾.A_xxjx 言.A_xxjk
 諛.xxxk:臾 言.A_xxjk
@@ -34788,7 +34788,7 @@
 諟:日 言 𤴓
 諟.xxjk:日 言.A_xxjk 𤴓
 諠:一 宀 日 言
-諠.xxjk:一 宀.A_xxjk 日 言.A_xxjk
+諠.xxjk:一 宀 日 言.A_xxjk
 諡:丂 八 皿 言
 諡.xtxx:丂 八.V_xtxx*0 皿 言
 諡.xxjk:丂.A_xxjk 八.V_xxjk0 皿 言.A_xxjk
@@ -35160,7 +35160,7 @@
 讄.xxjk:田 言.A_xxjk
 讅:宀 田 言 釆
 讅.htxx:宀 田 言 釆
-讅.xxjk:宀.A_xxjk 田 言.A_xxjk 釆
+讅.xxjk:宀 田 言.A_xxjk 釆
 讆:㐄 一 丁 口 彳 言 𫝀
 讇:臼 言 門 𠂊
 讈:厂 止 禾 禾 言
@@ -35389,7 +35389,7 @@
 豀:大 幺 爫 谷
 豁:丰 口 宀 谷
 豁.htxx:丰.V_htjk*0 口 宀 谷
-豁.xxjk:丰 口 宀.A_xxjk 谷
+豁.xxjk:丰 口 宀 谷
 豂:㐱 习 谷
 豂.htxx:㐱 习 谷
 豃:乛 攵 耳 谷
@@ -35407,7 +35407,7 @@
 豋:㇏ 丶 乛 夕 豆
 豋.xtxx:㇏ 丶 乛 夕 豆
 豌:㔾 夕 宀 豆
-豌.xxjk:㔾.E_hxjk*0 夕 宀.A_xxjk 豆
+豌.xxjk:㔾.E_hxjk*0 夕 宀 豆
 豍:卑 豆
 豎:又 臣 豆
 豏:兼 豆
@@ -35564,7 +35564,7 @@
 貭:十 貝 𠂆
 貮:一 弋 貝
 貯:丁 宀 貝
-貯.xxjk:丁 宀.A_xxjk 貝
+貯.xxjk:丁 宀 貝
 貰:世 貝
 貱:皮 貝
 貲:匕 止 貝
@@ -35619,7 +35619,7 @@
 賒:人 示 貝
 賒.xtxx:人 示.A_xtxx 貝
 賓:一 宀 貝 𣥂
-賓.xxjk:一 宀.A_xxjk 貝 𣥂
+賓.xxjk:一 宀 貝 𣥂
 賔:宀 貝 𠃜
 賕:求 貝
 賕.htjk:求 貝
@@ -35651,7 +35651,7 @@
 賧.htxx:火.V_htxx*0 火.V_htxx*0 貝
 賨:宀 示 貝
 賨.xtxx:宀 示.A_xtxx 貝
-賨.xxjk:宀.A_xxjk 示.V_xtjk*0 貝
+賨.xxjk:宀 示.V_xtjk*0 貝
 賩:宀 示 貝
 質:斤 貝
 賫:人 冖 十 貝
@@ -35973,7 +35973,7 @@
 跌:矢 足
 跍:十 口 足
 跎:匕 宀 足
-跎.xxjk:匕 宀.A_xxjk 足
+跎.xxjk:匕 宀 足
 跏:力 口 足
 跐:匕 止 足
 跐.xtxx:匕.V_htxx*0 止 足
@@ -36090,7 +36090,7 @@
 踞:十 口 尸 足
 踟:口 矢 足
 踠:㔾 夕 宀 足
-踠.xxjk:㔾 夕 宀.A_xxjk 足
+踠.xxjk:㔾 夕 宀 足
 踡:㔾 足 龹
 踡.xxjk:㔾 足 龹.A_xxjx
 踢:勿 日 足
@@ -36104,7 +36104,7 @@
 踨:人 足 龰
 踩:木 爫 足
 踪:宀 示 足
-踪.xxjk:宀.A_xxjk 示 足
+踪.xxjk:宀 示 足
 踫:䒑 业 足
 踬:十 贝 足 𠂆
 踭:争 足
@@ -36194,7 +36194,7 @@
 蹛:帶 足
 蹛.htxx:帶.A_htxx 足
 蹜:一 亻 宀 白 足
-蹜.xxjk:一 亻 宀.A_xxjk 白 足
+蹜.xxjk:一 亻 宀 白 足
 蹝:彳 止 足 龰
 蹞:匕 足 頁
 蹞.xxjk:匕.A_xxjk 足 頁
@@ -36493,7 +36493,7 @@
 輎.C_xtxx.xtxx:⺌ ⺼ 車
 輏:車 酉
 輐:一 儿 宀 車
-輐.xxjk:一.L_xxxk*0 儿 宀.A_xxjk 車
+輐.xxjk:一.L_xxxk*0 儿 宀 車
 輑:口 尹 車
 輒:乚 耳 車
 輒.htjk:乚 耳.L_htjk*0 車
@@ -36537,7 +36537,7 @@
 輧:丿 工 工 車
 輧.xxxk:丿 工 工 車
 輨:㠯 宀 車
-輨.xxjk:㠯 宀.A_xxjk 車
+輨.xxjk:㠯 宀 車
 輩:車 非
 輩.htjk:車 非.V_htjk0
 輪:侖 車
@@ -36590,7 +36590,7 @@
 轃.xxjk:禾 車 𡗗.V_xxjk*0
 轄:丰 口 宀 車
 轄.htxx:丰.V_htjk*0 口 宀 車
-轄.xxjk:丰 口 宀.A_xxjk 車
+轄.xxjk:丰 口 宀 車
 轅:口 工 車 𧘇
 轅.xxjk:口 工 車 𧘇.xxjk
 轆:車 鹿
@@ -36912,7 +36912,7 @@
 述.C_xxxk.xxxk:丶 辶.V_xxjk*0 𣎳
 述.xxjx:丶 木 辶
 迱:匕 宀 辶
-迱.xxjk:匕 宀.A_xxjk 辶.V_xxjk*0
+迱.xxjk:匕 宀 辶.V_xxjk*0
 迲:去 辶
 迲.xxjx:去.A_xxjk 辶.V_xxjk*0
 迲.xxxk:去.A_xxjk 辶.V_xxjk*0
@@ -37077,7 +37077,7 @@
 逬.xxjk:丿 工 工 辶.V_xxjk*0
 逭:㠯 宀 辶
 逭.htxx:㠯 宀 辶.A_htxx
-逭.xxjk:㠯 宀.A_xxjk 辶.V_xxjk*0
+逭.xxjk:㠯 宀 辶.V_xxjk*0
 逮:辶 隶
 逮.htxx:辶.A_htxx 隶.A_htxx
 逮.xxxk:辶.V_xxjk*0 隶
@@ -37715,7 +37715,7 @@
 酠.htxx:可 酉
 酡:匕 宀 酉
 酡.xtxx:匕 宀 酉
-酡.xxjk:匕.L_hxjk*0 宀.A_xxjk 酉
+酡.xxjk:匕.L_hxjk*0 宀 酉
 酢:乍 酉
 酢.htxx:乍 酉
 酣:甘 酉
@@ -37727,7 +37727,7 @@
 酦:发 酉
 酧:宀 寸 酉
 酧.htxx:宀 寸 酉
-酧.xxjk:宀.A_xxjk 寸 酉
+酧.xxjk:宀 寸 酉
 酨:十 戈 酉
 酨.htxx:十 戈 酉
 酩:口 夕 酉
@@ -38117,7 +38117,7 @@
 鉆:占 釒
 鉇:也 釒 𠂉
 鉈:匕 宀 釒
-鉈.xxjk:匕 宀.A_xxjk 釒
+鉈.xxjk:匕 宀 釒
 鉉:亠 幺 釒
 鉉.xxjk:亠.A_xxjk 幺.A_xxjk 釒
 鉊:刀 口 釒
@@ -38254,7 +38254,7 @@
 銧:光 釒
 銨:女 宀 釒
 銨.htxx:女.A_htxx 宀 釒
-銨.xxjk:女.A_xxjk 宀.A_xxjk 釒.V_xxjk*0
+銨.xxjk:女.A_xxjk 宀 釒.V_xxjk*0
 銩:丿 去 釒
 銪:月 釒 𠂇
 銪.xtxx:月.htxx 釒 𠂇
@@ -38318,10 +38318,10 @@
 鋌.xxjk:壬 廴.A_xxjk 釒
 鋍:孛 釒
 鋎:一 兀 宀 釒
-鋎.xxjk:一.L_xxxk*0 兀 宀.A_xxjk 釒.V_xxjk*0
+鋎.xxjk:一.L_xxxk*0 兀 宀 釒.V_xxjk*0
 鋏:人 大 釒
 鋐:厷 宀 釒
-鋐.xxjk:厷.A_xxjk 宀.A_xxjk 釒
+鋐.xxjk:厷.A_xxjk 宀 釒
 鋑:夋 釒
 鋑.htxx:夋.A_htxx 釒
 鋑.xxjk:夋.A_xxjk 釒
@@ -38385,7 +38385,7 @@
 鋹:釒 長
 鋹.xxjk:釒.V_xxjk*0 長.xxjk
 鋺:㔾 夕 宀 釒
-鋺.xxjk:㔾.E_hxjk*0 夕 宀.A_xxjk 釒.V_xxjk*0
+鋺.xxjk:㔾.E_hxjk*0 夕 宀 釒.V_xxjk*0
 鋻:又 臣 金
 鋼:䒑 冂 山 釒
 鋼.xxjk:䒑 冂 山.A_xxjk 釒
@@ -38444,13 +38444,13 @@
 錜.htjk:今.A_htjk 心 釒.V_xxjk*0
 錝:宀 示 釒
 錝.xtxx:宀 示.A_xtxx 釒
-錝.xxjk:宀.A_xxjk 示 釒
+錝.xxjk:宀 示 釒
 錞:一 亨 釒
 錞.xxjk:一 亨.A_xxjk 釒
 錟:火 火 釒
 錟.htxx:火.V_htxx*0 火.V_htxx*0 釒
 錠:宀 釒 𤴓
-錠.xxjk:宀.A_xxjk 釒 𤴓
+錠.xxjk:宀 釒 𤴓
 錡:可 大 釒
 錢:戈 釒
 錣:又 又 釒
@@ -38460,7 +38460,7 @@
 錥.xxjk:亠.A_xxjk 厶.A_xxjk 月 釒
 錦:巾 白 釒
 錧:㠯 宀 釒
-錧.xxjk:㠯 宀.A_xxjk 釒
+錧.xxjk:㠯 宀 釒
 錨:田 艹 釒
 錨.htxx:田 艹.V_htxx*0 釒
 錩:日 釒
@@ -38623,7 +38623,7 @@
 鎊:旁 釒
 鎊.xxjk:旁.A_xxjk 釒
 鎋:丰 口 宀 釒
-鎋.xxjk:丰.V_htjk*0 口 宀.A_xxjk 釒
+鎋.xxjk:丰.V_htjk*0 口 宀 釒
 鎌:兼 釒
 鎌.xxxk:兼.xxjk 釒
 鎍:冖 十 小 幺 釒
@@ -38642,7 +38642,7 @@
 鎒.xxjk:寸 辰.A_xxjk 釒.V_xxjk*0
 鎓:习 公 釒
 鎔:宀 谷 釒
-鎔.xxjk:宀.A_xxjk 谷 釒
+鎔.xxjk:宀 谷 釒
 鎕:口 广 肀 釒
 鎕.xxjk:口 广.A_xxjk 肀 釒
 鎖:⺌ 貝 釒
@@ -38703,7 +38703,7 @@
 鎳.xtxx:木 自 釒
 鎴:心 自 釒
 鎵:一 宀 釒 𧰨
-鎵.xxjk:一 宀.A_xxjk 釒 𧰨.V_xxjk*0
+鎵.xxjk:一 宀 釒 𧰨.V_xxjk*0
 鎶:一 丨 口 可 釒
 鎶.C_xxjk.xxjk:可 釒
 鎷:釒 馬
@@ -38787,7 +38787,7 @@
 鏤.xtxx:婁.A_hxxx 釒
 鏤.xxjk:婁.A_xxjk 釒
 鏥:一 亻 宀 白 釒
-鏥.xxjk:一 亻 宀.A_xxjk 白 釒
+鏥.xxjk:一 亻 宀 白 釒
 鏦:人 彳 釒 龰
 鏧:又 工 金 𠃜 𠘧
 鏧.C_xxjk.xxjk:几 又 工 金 𠃜
@@ -38960,7 +38960,7 @@
 鑊.xxjk:又 艹 釒 隹.A_xxjk
 鑋:巠 車 金
 鑌:一 宀 貝 釒 𣥂
-鑌.xxjk:一 宀.A_xxjk 貝 釒 𣥂
+鑌.xxjk:一 宀 貝 釒 𣥂
 鑍:貝 金
 鑎:一 中 匚 貝 釒
 鑏:丁 宀 心 皿 釒
@@ -39579,7 +39579,7 @@
 阾:㇌ 丨 丶 今
 阿:㇌ 丨 可
 陀:㇌ 丨 匕 宀
-陀.xxjk:㇌ 丨 匕 宀.A_xxjk
+陀.xxjk:㇌ 丨 匕 宀
 陁:㇌ 丨 也 𠂉
 陁.htxx:㇌ 丨 也.A_htxx 𠂉
 陂:㇌ 丨 皮
@@ -39629,7 +39629,7 @@
 陠:㇌ 丨 甫
 陡:㇌ 丨 走
 院:㇌ 一 丨 兀 宀
-院.xxjk:㇌ 一.L_xxxk*0 丨.L_htjk*0 兀 宀.A_xxjk
+院.xxjk:㇌ 一.L_xxxk*0 丨.L_htjk*0 兀 宀
 陣:㇌ 丨 車
 除:㇌ 一 丨 人 朩
 陥:㇌ 丨 日 𠂊
@@ -40107,7 +40107,7 @@
 靋:⻗ 厂 止 氵 禾 禾
 靋.htxx:⻗.A_hxxx 厂 止 氵 禾
 靌:⻗ 宀 小 王 貝 𠂊
-靌.xxjk:⻗ 宀.A_xxjk 小 王 貝 𠂊
+靌.xxjk:⻗ 宀 小 王 貝 𠂊
 靍:⻗ 隹 鳥
 靎:⻗ 釒 鳥
 靏:⻗ 隺 鳥
@@ -40134,7 +40134,7 @@
 靚.C_xxjk.xxjk:一 丨 冂 見 龶
 靚.xtxx:月.E_xtjk*0 見 龶
 靛:宀 月 龶 𤴓
-靛.C_xxjk.xxjk:一 丨 冂 宀.A_xxjk 龶 𤴓
+靛.C_xxjk.xxjk:一 丨 冂 宀 龶 𤴓
 靛.xtxx:宀 月.E_xtjk*0 龶 𤴓
 靜:月 爭 龶
 靜.A_xxjk.xxjk:月 爭.xxjk 龶
@@ -40212,7 +40212,7 @@
 鞌:女 宀 革
 鞍:女 宀 革
 鞍.htxx:女.A_htxx 宀 革
-鞍.xxjk:女.A_xxjk 宀.A_xxjk 革
+鞍.xxjk:女.A_xxjk 宀 革
 鞎:艮 革
 鞏:丶 几 工 革
 鞏.C_hxxx.hxxx:丶 几 工 革
@@ -40467,7 +40467,7 @@
 頝:交 頁
 頞:女 宀 頁
 頞.htxx:女.A_htxx 宀 頁
-頞.xxjk:女.A_xxjk 宀.A_xxjk 頁
+頞.xxjk:女.A_xxjk 宀 頁
 頟:口 夂 頁
 頠:㔾 厃 頁
 頠.hxjk:㔾.E_hxjk*0 厃 頁
@@ -40536,7 +40536,7 @@
 顋:心 田 頁
 題:日 頁 𤴓
 額:口 夂 宀 頁
-額.xxjk:口 夂 宀.A_xxjk 頁
+額.xxjk:口 夂 宀 頁
 顎:一 丂 口 頁
 顎.xxjk:一 丂.A_xxjk 口 頁
 顏:㐅 亠 厂 彡 頁
@@ -40960,8 +40960,8 @@
 餧.xxjk:女.A_xxjk 禾 飠
 館:㠯 宀 飠
 館.htxx:㠯 宀 飠.A_htxx
-館.xxjx:㠯 宀.A_xxjk 飠.A_xxjk
-館.xxxk:㠯 宀.A_xxjk 飠
+館.xxjx:㠯 宀 飠.A_xxjk
+館.xxxk:㠯 宀 飠
 餩:亥 人 飠
 餩.htxx:亥 人 飠.A_htxx
 餪:大 而 飠
@@ -41297,7 +41297,7 @@
 駛:史 馬
 駜:必 馬
 駝:匕 宀 馬
-駝.xxjk:匕 宀.A_xxjk 馬
+駝.xxjk:匕 宀 馬
 駞:也 馬 𠂉
 駟:四 馬
 駠:冂 馬 𠂎
@@ -41369,7 +41369,7 @@
 騊.xxjk:勹 缶.A_xxjk 馬
 騋:來 馬
 騌:宀 示 馬
-騌.xxjk:宀.A_xxjk 示 馬
+騌.xxjk:宀 示 馬
 騍:果 馬
 騎:可 大 馬
 騏:其 馬
@@ -41741,12 +41741,12 @@
 髕:一 宀 貝 骨 𣥂
 髕.hxxx:一 宀 貝 骨.A_hxjk 𣥂
 髕.xtxx:一 宀 貝 骨.A_xtxx 𣥂
-髕.xxjx:一 宀.A_xxjk 貝 骨.A_hxjk 𣥂
-髕.xxxk:一 宀.A_xxjk 貝 骨.A_hxjk 𣥂
+髕.xxjx:一 宀 貝 骨.A_hxjk 𣥂
+髕.xxxk:一 宀 貝 骨.A_hxjk 𣥂
 髖:丶 宀 艹 見 骨
 髖.hxxx:丶 宀 艹.V_htjk*0 見 骨.A_hxjk
 髖.xtxx:丶 宀 艹.V_htjk*0 見 骨.A_xtxx
-髖.xxjk:丶 宀.A_xxjk 艹 見 骨.A_hxjk
+髖.xxjk:丶 宀 艹 見 骨.A_hxjk
 髗:田 皿 虍 骨
 髗.hxxx:田 皿 虍.A_htxx 骨.A_hxjk
 髗.xtxx:田 皿 虍.A_htxx 骨.A_xtxx
@@ -41839,7 +41839,7 @@
 鬂.xxjk:丘 八 彡 镸.A_xxjk
 鬃:宀 彡 示 镸
 鬃.xtxx:宀 彡 示.A_xtxx 镸
-鬃.xxjk:宀.A_xxjk 彡 示 镸.A_xxjk
+鬃.xxjk:宀 彡 示 镸.A_xxjk
 鬄:勿 彡 日 镸
 鬄.xxjk:勿 彡 日 镸.A_xxjk
 鬅:彡 月 镸
@@ -41910,7 +41910,7 @@
 鬠.xxjk:彡 會.A_hxxx 镸.A_xxjk
 鬡:丁 宀 彡 心 皿 镸
 鬢:一 宀 彡 貝 镸 𣥂
-鬢.xxjk:一 宀.A_xxjk 彡 貝 镸.A_xxjk 𣥂
+鬢.xxjk:一 宀 彡 貝 镸.A_xxjk 𣥂
 鬣:巤 彡 镸
 鬣.hxxx:巤.A_htjx 彡 镸
 鬣.xtxx:巤.V_xtxx*0 彡 镸
@@ -42107,7 +42107,7 @@
 魿.C_xxjk.xxjk:令.A_xxjk 魚
 魿.htxx:丶 今.A_htjk 魚
 鮀:匕 宀 魚
-鮀.xxjk:匕 宀.A_xxjk 魚
+鮀.xxjk:匕 宀 魚
 鮁:犮 魚
 鮁.htxx:犮.A_htjk 魚
 鮂:人 口 魚
@@ -42147,7 +42147,7 @@
 鮞:而 魚
 鮟:女 宀 魚
 鮟.htxx:女.A_htxx 宀 魚
-鮟.xxjk:女.A_xxjk 宀.A_xxjk 魚
+鮟.xxjk:女.A_xxjk 宀 魚
 鮠:㔾 厃 魚
 鮡:兆 魚
 鮢:朱 魚
@@ -42202,7 +42202,7 @@
 鯅:延 魚
 鯆:甫 魚
 鯇:一 兀 宀 魚
-鯇.xxjk:一 兀 宀.A_xxjk 魚
+鯇.xxjk:一 兀 宀 魚
 鯈:丨 亻 夂 魚
 鯈.C_htjk.htjk:丨 亻 攵 魚
 鯉:里 魚
@@ -42267,7 +42267,7 @@
 鯬:丿 勹 禾 魚
 鯭:一 了 皿 魚
 鯮:宀 示 魚
-鯮.xxjk:宀.A_xxjk 示 魚
+鯮.xxjk:宀 示 魚
 鯯:刂 巾 牛 魚
 鯰:今 心 魚
 鯰.htjk:今.A_htjk 心 魚
@@ -42338,10 +42338,10 @@
 鰗.C_xtxx.xtxx:⺼ 十 口 魚
 鰗.hxxx:十 口 月 魚
 鰘:宀 至 魚
-鰘.xxjk:宀.A_xxjk 至.A_xxjk 魚
+鰘.xxjk:宀 至.A_xxjk 魚
 鰙:口 艹 魚 𠂇
 鰚:一 宀 日 魚
-鰚.xxjk:一 宀.A_xxjk 日 魚
+鰚.xxjk:一 宀 日 魚
 鰛:日 皿 魚
 鰜:兼 魚
 鰜.xxjk:兼.xxjk 魚
@@ -42698,7 +42698,7 @@
 鴓:必 鳥
 鴔:丿 之 鳥
 鴕:匕 宀 鳥
-鴕.xxjk:匕.L_hxjk*0 宀.A_xxjk 鳥
+鴕.xxjk:匕.L_hxjk*0 宀 鳥
 鴖:民 鳥
 鴗:立 鳥
 鴗.xxjk:立.V_xxjk*0 鳥
@@ -42727,7 +42727,7 @@
 鴨:田 鳥
 鴩:矢 鳥
 鴪:八 宀 鳥
-鴪.xxjk:八.V_xtxx*0 宀.A_xxjk 鳥
+鴪.xxjk:八.V_xtxx*0 宀 鳥
 鴫:田 鳥
 鴬:冖 鳥 𭕄
 鴭:㠯 丿 鳥
@@ -42739,7 +42739,7 @@
 鴲:匕 日 鳥
 鴳:女 宀 鳥
 鴳.htxx:女.A_htxx 宀 鳥
-鴳.xxjk:女.A_xxjk 宀.A_xxjk 鳥
+鴳.xxjk:女.A_xxjk 宀 鳥
 鴴:一 丁 彳 鳥
 鴵:兆 鳥
 鴶:口 工 鳥
@@ -42843,7 +42843,7 @@
 鵶:亞 鳥
 鵷:㔾 夕 宀 鳥
 鵷.hxxx:㔾.E_hxjk*0 夕 宀 鳥
-鵷.xxjk:㔾.E_hxjk*0 夕 宀.A_xxjk 鳥
+鵷.xxjk:㔾.E_hxjk*0 夕 宀 鳥
 鵸:可 大 鳥
 鵹:丿 勹 禾 鳥
 鵺:夜 鳥
@@ -42879,7 +42879,7 @@
 鶌.htxx:出 尸 鳥
 鶍:勿 日 鳥
 鶎:宀 示 鳥
-鶎.xxjk:宀.A_xxjk 示 鳥
+鶎.xxjk:宀 示 鳥
 鶏:一 大 爫 鳥
 鶐:丶 木 辶 鳥
 鶐.C_htxx.htxx:丶 辶.A_htxx 鳥 𣎳.E_htxx*0
@@ -42978,7 +42978,7 @@
 鷂.C_xtxx.xtxx:㇀ 夕 缶 鳥
 鷃:女 宀 日 鳥
 鷃.htxx:女.A_htxx 宀 日 鳥
-鷃.xxjk:女.A_xxjk 宀.A_xxjk 日 鳥
+鷃.xxjk:女.A_xxjk 宀 日 鳥
 鷄:大 幺 爫 鳥
 鷄.xxjk:大 幺.A_xxjk 爫.A_xxjk 鳥
 鷅:木 覀 鳥
@@ -43708,7 +43708,7 @@
 鼸.xxjk:兼.xxjk 鼠.A_xxjk
 鼹:女 宀 日 鼠
 鼹.htxx:女.A_htxx 宀 日 鼠.V_htxx*0
-鼹.xxjk:女.A_xxjk 宀.A_xxjk 日 鼠.V_xxjk*0
+鼹.xxjk:女.A_xxjk 宀 日 鼠.V_xxjk*0
 鼺:田 鼠
 鼺.xxjk:田 鼠.A_xxjk
 鼻:廾 田 自
