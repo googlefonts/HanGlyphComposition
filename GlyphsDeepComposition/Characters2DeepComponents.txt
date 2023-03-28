@@ -154,7 +154,7 @@
 㑢:亻 冂 去
 㑣:亻 木 木
 㑤:亻 田 艹
-㑤.htxx:亻 田 艹.V_htxx*0
+㑤.htxx:亻 田 艹
 㑥:亻 勿 日
 㑦:亻 户 犬
 㑦.htjk:亻 户.htjk 犬
@@ -210,7 +210,7 @@
 㒔:亻 勹 罒 虫
 㒕:乡 亠 亻 隹
 㒖:亻 禺 艹
-㒖.htxx:亻 禺.A_htxx 艹.V_htxx*0
+㒖.htxx:亻 禺.A_htxx 艹
 㒗:一 丨 亻 冖 至
 㒘:亻 又 立 臣
 㒙:亻 巾 白 糹
@@ -2237,9 +2237,9 @@
 㯲:木 木 示
 㯲.hxxx:木 示
 㯳:句 攵 木 艹
-㯳.htxx:句 攵 木 艹.V_htjk*0
+㯳.htxx:句 攵 木 艹
 㯴:宀 木 艹 谷
-㯴.htxx:宀 木 艹.V_htxx*0 谷
+㯴.htxx:宀 木 艹 谷
 㯵:木 艹 重
 㯶:八 凵 夂 木 𠂭
 㯷:业 丷 亻 木 𡗗
@@ -2631,7 +2631,7 @@
 㵧:匃 日 氵 艹
 㵨:十 口 尸 水 立
 㵩:世 木 氵 艹
-㵩.htxx:世 木 氵 艹.V_htxx*0
+㵩.htxx:世 木 氵 艹
 㵪:冫 欠 氵 羊
 㵪.C_htxx.htxx:欠 氵 羊
 㵫:一 了 日 氵
@@ -3069,7 +3069,7 @@
 㻱:丰 夂 王 辶
 㻲:婁 王
 㻳:刂 王 禾 艹
-㻳.htxx:刂 王 禾 艹.V_htxx*0
+㻳.htxx:刂 王 禾 艹
 㻴:又 日 王 罒
 㻴.htxx:又 日.L_htxx*0 王 罒
 㻵:一 了 尸 王
@@ -3463,7 +3463,7 @@
 䁣:丶 寸 目 車
 䁤:啇 目
 䁥:匚 口 目 艹 𠂇
-䁥.htxx:一 口 目 艹.V_htxx*0 𠂇 𠃊.V_hxjk*0
+䁥.htxx:一 口 目 艹 𠂇 𠃊.V_hxjk*0
 䁦:目 目 虍
 䁧:一 中 大 廿 目
 䁨:㇌ 一 丨 亨 目
@@ -4050,8 +4050,8 @@
 䊒:米 隹
 䊓:日 米 𤴓
 䊔:央 米 艹
-䊔.hxxx:央.htxx 米 艹.V_htxx*0
-䊔.xtxx:央.htxx 米 艹.V_htxx*0
+䊔.hxxx:央.htxx 米 艹
+䊔.xtxx:央.htxx 米 艹
 䊕:廴 米 聿
 䊖:冂 十 米 𢆉
 䊗:王 白 米
@@ -4610,12 +4610,12 @@
 䒝:㐅 乂 艹
 䒞:冘 艹
 䒟:丹 艹
-䒟.htxx:丹 艹.V_htxx*0
+䒟.htxx:丹 艹
 䒠:丰 艹
-䒠.htxx:丰.V_htjk*0 艹.V_htxx*0
+䒠.htxx:丰.V_htjk*0 艹
 䒡:丨 弓 艹
 䒢:卬 艹
-䒢.htxx:卬 艹.V_htxx*0
+䒢.htxx:卬 艹
 䒣:一 冂 艹
 䒤:日 艹
 䒥:一 巾 艹
@@ -4630,7 +4630,7 @@
 䒮:丶 冖 几 艹
 䒯:丶 九 冖 艹
 䒰:匚 王 艹
-䒰.htxx:匚 王 艹.V_htxx*0
+䒰.htxx:匚 王 艹
 䒱:一 乛 水 艹
 䒲:乇 女 艹
 䒳:乃 木 艹
@@ -4639,26 +4639,26 @@
 䒵:一 了 女 艹
 䒶:曳 艹
 䒷:工 口 艹
-䒷.htxx:工 口 艹.V_htxx*0
+䒷.htxx:工 口 艹
 䒸:丿 皿 艹
 䒹:一 木 艹
 䒺:小 幺 艹
 䒻:山 巳 艹
 䒼:曲 艹
 䒽:㐅 冂 艹
-䒽.htxx:㐅 冂 艹.V_htxx*0
+䒽.htxx:㐅 冂 艹
 䒾:艹 衣
 䒾.xxjk:艹 衣.A_xxjk
 䒿:冖 月 艹
 䓀:口 工 艹
-䓀.htxx:口 工 艹.V_htxx*0
+䓀.htxx:口 工 艹
 䓁:工 寸 艹
 䓂:艹 言
 䓃:口 巴 艹
-䓃.htxx:口 巴 艹.V_htxx*0
+䓃.htxx:口 巴 艹
 䓄:斤 犭 艹
 䓅:斤 氵 艹
-䓅.htxx:斤 氵 艹.V_htxx*0
+䓅.htxx:斤 氵 艹
 䓆:扌 斤 艹
 䓇:艹 赤
 䓈:又 彳 艹 𠘧
@@ -4668,7 +4668,7 @@
 䓌:工 心 艹
 䓍:工 日 艹
 䓎:丶 勹 火 艹
-䓎.htxx:丶 勹 火 艹.V_htxx*0
+䓎.htxx:丶 勹 火 艹
 䓏:不 口 艹
 䓐:大 屯 艹
 䓑:开 氵 艹
@@ -4684,43 +4684,43 @@
 䓛:出 尸 艹
 䓜:丶 氏 氵 艹
 䓝:一 了 皿 艹
-䓝.htxx:一 了 皿 艹.V_htxx*0
+䓝.htxx:一 了 皿 艹
 䓞:户 犬 艹
-䓞.C_xtxx.xtxx:户.htjk 犬 艹.V_htxx*0
-䓞.hxxx:户 犬 艹.V_htxx*0
+䓞.C_xtxx.xtxx:户.htjk 犬 艹
+䓞.hxxx:户 犬 艹
 䓟:⺆ 口 工 艹
-䓟.htxx:⺆ 口 工 艹.V_htxx*0
+䓟.htxx:⺆ 口 工 艹
 䓠:日 水 艹
 䓡:口 矢 艹
-䓡.htxx:口 矢 艹.V_htxx*0
+䓡.htxx:口 矢 艹
 䓢:十 口 艹
 䓣:一 入 巾 艹
 䓤:勿 心 艹
-䓤.htxx:勿 心 艹.V_htxx*0
+䓤.htxx:勿 心 艹
 䓥:入 十 日 艹
 䓦:典 艹
 䓧:一 了 又 口 艹
 䓨:冖 缶 艹
 䓩:十 又 木 艹
-䓩.htxx:十 又 木 艹.V_htxx*0
+䓩.htxx:十 又 木 艹
 䓪:勿 日 艹
-䓪.htxx:勿 日 艹.V_htxx*0
+䓪.htxx:勿 日 艹
 䓫:可 大 艹
-䓫.htxx:可 大 艹.V_htxx*0
+䓫.htxx:可 大 艹
 䓬:⺊ 十 日 艹
-䓬.htxx:⺊ 十 日 艹.V_htxx*0
+䓬.htxx:⺊ 十 日 艹
 䓭:㐅 刂 朩 艹
 䓮:丿 予 攵 艹
 䓯:母 艹 龶
 䓰:工 艹 覀
 䓱:匕 木 止 艹
 䓲:丷 亻 儿 口 艹
-䓲.C_xtjk.xtxx:亻 儿 八 口 艹.V_htxx*0
+䓲.C_xtjk.xtxx:亻 儿 八 口 艹
 䓲.C_xtjk.xxjk:亻 儿 八.V_xtxx*0 口 艹
-䓲.hxxx:丷 亻 儿 口 艹.V_htxx*0
+䓲.hxxx:丷 亻 儿 口 艹
 䓳:彳 艮 艹
 䓴:大 而 艹
-䓴.htxx:大 而 艹.V_htxx*0
+䓴.htxx:大 而 艹
 䓵:口 艹
 䓶:刂 束 艹
 䓷:一 丁 彳 氵 艹
@@ -4736,19 +4736,19 @@
 䔁:木 艹 覀
 䔂:十 宀 立 艹
 䔃:目 礻 艹
-䔃.htxx:目 礻 艹.V_htxx*0
+䔃.htxx:目 礻 艹
 䔄:爫 缶 艹
-䔄.C_hxxx.hxxx:丶 夕 缶 艹.V_htxx*0
-䔄.C_xtxx.xtxx:丶 夕 缶 艹.V_htxx*0
+䔄.C_hxxx.hxxx:丶 夕 缶 艹
+䔄.C_xtxx.xtxx:丶 夕 缶 艹
 䔅:可 可 艹
 䔆:犭 艹 里
 䔇:山 艹 豆
 䔈:工 艹 貝
 䔉:禾 禾 艹
-䔉.htxx:禾 禾.E_htxx*0 艹.V_htxx*0
+䔉.htxx:禾 禾.E_htxx*0 艹
 䔊:丷 开 王 艹
 䔋:少 糹 艹
-䔋.htxx:少.A_hxjk 糹 艹.V_htxx*0
+䔋.htxx:少.A_hxjk 糹 艹
 䔌:十 大 白 艹
 䔍:艹 馬
 䔎:束 艹 辶
@@ -4760,17 +4760,17 @@
 䔔:儿 日 立 艹
 䔕:月 甫 艹
 䔖:㇌ 丨 夌 艹
-䔖.hxxx:㇌ 丨 夌.A_hxxx 艹.V_htxx*0
-䔖.xtxx:㇌ 丨 夌.A_xtxx 艹.V_htxx*0
+䔖.hxxx:㇌ 丨 夌.A_hxxx 艹
+䔖.xtxx:㇌ 丨 夌.A_xtxx 艹
 䔗:礻 羊 艹
 䔘:目 缶 艹
 䔙:丶 勹 艹 釒
 䔚:月 艹 辰
 䔛:匕 艹 頁
-䔛.htxx:匕 艹.V_htxx*0 頁
+䔛.htxx:匕 艹 頁
 䔜:冉 耳 艹
 䔝:匕 小 幺 止 艹
-䔝.htxx:匕.V_htxx*0 小 幺 止 艹.V_htxx*0
+䔝.htxx:匕.V_htxx*0 小 幺 止 艹
 䔞:率 艹
 䔟:夕 禾 艹
 䔠:⺌ 月 木 艹
@@ -4782,8 +4782,8 @@
 䔥.xxjk:粛.V_xxjk*0 艹
 䔦:木 母 艹 𠂉
 䔧:刂 木 禾 艹
-䔧.hxxx:刂 木 禾 艹.V_htxx*0
-䔧.xtxx:刂 木 禾 艹.V_htxx*0
+䔧.hxxx:刂 木 禾 艹
+䔧.xtxx:刂 木 禾 艹
 䔨:乡 艹 隹
 䔩:攵 束 艹
 䔪:㐅 大 艹
@@ -4791,35 +4791,35 @@
 䔬:共 田 艹
 䔭:宀 心 用 艹
 䔮:其 斤 艹
-䔮.htxx:其 斤 艹.V_htxx*0
+䔮.htxx:其 斤 艹
 䔯:十 口 艹 酉
 䔰:一 口 宀 田 艹
 䔱:口 扌 耳 艹
 䔲:癶 艹 豆
 䔳:丶 夕 灬 犬 艹
-䔳.C_xtxx.xtxx:丶 夕 灬 犬 艹.V_htxx*0
-䔳.hxxx:丶 夕 灬 犬 艹.V_htxx*0
+䔳.C_xtxx.xtxx:丶 夕 灬 犬 艹
+䔳.hxxx:丶 夕 灬 犬 艹
 䔴:出 又 示 艹
 䔵:木 艹 門
 䔶:扌 日 艹 𤴓
-䔶.htxx:扌 日 艹.V_htxx*0 𤴓
+䔶.htxx:扌 日 艹 𤴓
 䔷:今 王 艹
 䔸:犬 犬 艹
 䔹:㇌ 䒑 丨 艹 𧰨
 䔺:㇌ 丨 工 月 艹 𠂇
 䔻:一 亨 攵 艹
-䔻.htxx:一 亨 攵 艹.V_htxx*0
+䔻.htxx:一 亨 攵 艹
 䔼:丿 刀 止 止 艹
 䔽:匃 日 氵 艹
-䔽.htxx:人 勹 日.L_htxx*0 氵 艹.V_htxx*0 𠃊.V_hxjk*0
+䔽.htxx:人 勹 日.L_htxx*0 氵 艹 𠃊.V_hxjk*0
 䔾:匃 扌 日 艹
 䔿:丷 寸 艹 酉
-䔿.htxx:丷 寸 艹.V_htxx*0 酉
+䔿.htxx:丷 寸 艹 酉
 䕀:工 欠 示 艹
 䕁:木 艹 非
 䕂:厶 口 艹 辶 𧘇
 䕃:㇌ 丨 人 艹 镸
-䕃.htxx:㇌ 丨 人 艹.V_htxx*0 镸
+䕃.htxx:㇌ 丨 人 艹 镸
 䕃.xxjk:㇌ 丨 人 艹 镸.A_xxjk
 䕄:一 乛 水 皿 艹
 䕅:丨 又 女 臼 艹
@@ -4835,30 +4835,30 @@
 䕏:我 羊 艹
 䕐:一 口 田 礻 艹
 䕑:女 爫 糹 艹
-䕑.htxx:女.A_htxx 爫 糹 艹.V_htxx*0
+䕑.htxx:女.A_htxx 爫 糹 艹
 䕒:力 十 口 艹 豆
-䕒.htxx:力 十 口 艹.V_htxx*0 豆
+䕒.htxx:力 十 口 艹 豆
 䕓:宀 祭 艹
 䕔:一 丁 彳 艹 釒
 䕕:又 日 氵 罒 艹
-䕕.htxx:又 日.L_htxx*0 氵 罒 艹.V_htxx*0
+䕕.htxx:又 日.L_htxx*0 氵 罒 艹
 䕖:一 丿 了 小 幺 艹 辶
 䕗:廾 田 自 艹
 䕘:丶 今 艹 頁
-䕘.htxx:丶 今.A_htjk 艹.V_htxx*0 頁
+䕘.htxx:丶 今.A_htjk 艹 頁
 䕙:十 戈 艹 隹
 䕚:一 中 匚 艹 貝
 䕛:人 大 艹 言
 䕜:习 卒 艹
-䕜.htxx:习.E_htxx*0 卒 艹.V_htxx*0
+䕜.htxx:习.E_htxx*0 卒 艹
 䕝:冉 爫 禾 艹
 䕞:丶 艮 艹 門
 䕟:一 八 冂 口 艹 𦥑
 䕠:又 广 弓 癶 艹 𠘧
 䕡:口 艹 門
-䕡.C_htxk.htxk:丿 口 艹.V_htxx*0 門
+䕡.C_htxk.htxk:丿 口 艹 門
 䕢:工 石 羊 艹
-䕢.C_htxx.htxx:丿 工 石 羊 艹.V_htxx*0
+䕢.C_htxx.htxx:丿 工 石 羊 艹
 䕣:匃 日 艹 衤
 䕤:㇌ 一 丨 口 田 艹
 䕥:㐅 八 八 巾 艹
@@ -4867,11 +4867,11 @@
 䕨:小 幺 月 艹 龹
 䕩:尞 木 艹
 䕪:工 氵 罒 艹 𢆉
-䕪.htxx:工 氵 罒 艹.V_htxx*0 𢆉
+䕪.htxx:工 氵 罒 艹 𢆉
 䕫:八 夂 巳 止 白 艹
 䕬:一 弓 田 艹
 䕭:坴 火 火 艹
-䕭.htxx:坴 火.V_htxx*0 火.V_htxx*0 艹.V_htxx*0
+䕭.htxx:坴 火.V_htxx*0 火.V_htxx*0 艹
 䕮:勹 工 米 艹 𢆉
 䕯:瓜 示 艹 覀
 䕰:火 田 艹 釆
@@ -4882,12 +4882,12 @@
 䕵:口 工 艹 鳥
 䕶:又 艹 言 隹
 䕷:小 幺 广 木 木 艹
-䕷.C_htxx.htxx:小 幺 广 木 艹.V_htxx*0
+䕷.C_htxx.htxx:小 幺 广 木 艹
 䕸:口 工 艹 黑
-䕸.htxx:口 工 艹.V_htxx*0 黑
+䕸.htxx:口 工 艹 黑
 䕹:亠 人 朩 艹 隹
 䕺:业 又 耳 艹 𢆉
-䕺.htxx:业 又 耳.L_htjk*0 艹.V_htxx*0 𢆉
+䕺.htxx:业 又 耳.L_htjk*0 艹 𢆉
 䕺.xxjk:业 又 耳.L_htjk*0 艹 𢆉
 䕻:丽 艹 鹿
 䕼:一 中 大 廿 艹 隹
@@ -4901,7 +4901,7 @@
 䖃:口 艹 𠂇
 䖄:一 中 大 廿 灬 艹 隹
 䖅:⻗ 人 口 工 艹
-䖅.htxx:⻗.A_hxxx 人 口 工 艹.V_htxx*0
+䖅.htxx:⻗.A_hxxx 人 口 工 艹
 䖆:艹 襄 酉
 䖇:冖 凵 匕 彡 木 缶 艹 𠂭
 䖈:匕 虍
@@ -5319,13 +5319,13 @@
 䜑:亞 心 言
 䜒:奥 言
 䜓:世 木 艹 言
-䜓.htxx:世 木 艹.V_htxx*0 言
+䜓.htxx:世 木 艹 言
 䜔:工 月 言 辶 𠂇
 䜕:禺 艹 言
 䜖:覀 言 貝
 䜗:一 口 心 戊 言
 䜘:勹 口 攵 艹 言
-䜘.htxx:勹 口 攵 艹.V_htjk*0 言
+䜘.htxx:勹 口 攵 艹 言
 䜙:幺 日 灬 言
 䜚:眔 言 辶
 䜛:免 言
@@ -5782,7 +5782,7 @@
 䣎:㇌ 丨 巛 田
 䣏:㇌ 丨 亻 共
 䣐:㇌ 丨 央 艹
-䣐.htxx:㇌ 丨 央 艹.V_htxx*0
+䣐.htxx:㇌ 丨 央 艹
 䣑:㇌ 丨 厂 里
 䣒:㇌ 一 丨 中 贝
 䣓:㇌ 丨 鬲
@@ -7928,7 +7928,7 @@
 倾:一 亻 页 𠄌
 倿:亻 女 立
 偀:亻 央 艹
-偀.htxx:亻 央.htxx 艹.V_htxx*0
+偀.htxx:亻 央.htxx 艹
 偁:亻 冉 爫
 偁.xxjx:亻 冉.V_xxjx*0 爫.A_xxjk
 偁.xxxk:亻 冉.V_xxjx*0 爫.A_xxjk
@@ -7953,7 +7953,7 @@
 偊.htxx:亻 禹.A_htxx
 偋:丷 亻 尸 开
 偌:亻 口 艹 𠂇
-偌.htxx:亻 口 艹.V_htxx*0 𠂇
+偌.htxx:亻 口 艹 𠂇
 偍:亻 日 𤴓
 偎:亻 畏
 偎.xxjk:亻 畏.A_xxjk
@@ -8293,7 +8293,7 @@
 億.xxjk:亻 心 日 立.A_xxjk
 儅:⺌ 亻 冖 口 田
 儆:亻 勹 口 攵 艹
-儆.htxx:亻 勹 口 攵 艹.V_htjk*0
+儆.htxx:亻 勹 口 攵 艹
 儇:一 亻 口 罒 𧘇
 儇.xxjk:一 亻 口 罒 𧘇.xxjk
 儈:亻 會
@@ -8328,7 +8328,7 @@
 儙:㠯 一 中 亻 辶
 儙.xxjk:㠯 一 中 亻 辶.V_xxjk*0
 儚:亻 冖 夕 罒 艹
-儚.htxx:亻 冖 夕 罒 艹.V_htxx*0
+儚.htxx:亻 冖 夕 罒 艹
 儛:㐄 一 亻 卌 夕 𠂉
 儛.xxjk:㐄.V_xxjk0 一 亻 卌 夕 𠂉
 儜:丁 亻 宀 心 皿
@@ -8366,7 +8366,7 @@
 儯:亻 馬 龹
 儯.xxjk:亻 馬 龹.A_xxjx
 儰:亻 爲 艹
-儰.C_htxx.htxx:亻 為 艹.V_htxx*0
+儰.C_htxx.htxx:亻 為 艹
 儱:亻 龍
 儱.xtxx:亻 龍.A_xtxx
 儱.xxjk:亻 龍.A_xxjk
@@ -8563,7 +8563,7 @@
 冨:一 冖 口 田
 冩:冖 勹 灬 臼
 冪:冖 大 巾 日 艹
-冪.htxx:冖 大 巾 日 艹.V_htxx*0
+冪.htxx:冖 大 巾 日 艹
 冫:冫
 冬:冬
 冬.xxxk:冬.V_xxjk*0
@@ -8860,7 +8860,7 @@
 割.xxjx:丰 刂 口 宀
 割.xxxk:丰 刂 口 宀
 剳:一 人 刂 口 艹
-剳.htxx:一 人 刂 口 艹.V_htxx*0
+剳.htxx:一 人 刂 口 艹
 剴:刂 山 豆
 創:倉 刂
 創.htjk:倉.A_htjk 刂
@@ -8905,7 +8905,7 @@
 劎:僉 刀
 劏:⺌ 冖 刂 口 田
 劐:刂 又 艹 隹
-劐.htxx:刂 又.E_htjx*0 艹.V_htxx*0 隹
+劐.htxx:刂 又.E_htjx*0 艹 隹
 劑:刂 齊
 劑.hxxx:刂 齊.A_hxxx
 劑.xxjk:刂 齊.A_xxjk
@@ -9021,7 +9021,7 @@
 勞:冖 力 火
 勞.htxx:冖 力 火.V_htxx*0
 募:力 大 日 艹
-募.htxx:力 大 日 艹.V_htxx*0
+募.htxx:力 大 日 艹
 勠:㐱 习 力
 勠.xxjx:㐱 习.xxjk 力
 勠.xxxk:㐱 习.xxjk 力
@@ -9049,19 +9049,19 @@
 勯:一 亠 力 回 日
 勰:力 心 田
 勱:力 禺 艹
-勱.htxx:力 禺.A_htxx 艹.V_htxx*0
+勱.htxx:力 禺.A_htxx 艹
 勲:力 灬 重
 勳:力 熏
 勴:力 心 田 虍
 勴.htxx:力 心 田 虍.A_htxx
 勵:力 厂 禺 艹
-勵.htxx:力 厂 禺.A_htxx 艹.V_htxx*0
+勵.htxx:力 厂 禺.A_htxx 艹
 勶:亠 力 厶 彳 攵 月
 勶.xxjk:亠 力 厶.A_xxjk 彳 攵 月
 勷:力 襄
 勷.xxjk:力 襄.A_xxjk
 勸:力 口 艹 隹
-勸.htxx:力 口 艹.V_htxx*0 隹
+勸.htxx:力 口 艹 隹
 勸.xxjk:力 口 艹 隹.A_xxjk
 勹:勹
 勺:丶 勹
@@ -9101,7 +9101,7 @@
 匑.htxx:勹 弓 身.A_xtjk
 匑.xxjk:勹 弓.A_xxjk 身
 匒:一 人 勹 口 艹
-匒.htxx:一 人 勹 口 艹.V_htxx*0
+匒.htxx:一 人 勹 口 艹
 匓:一 丶 勹 又 𠃍 𠄌 𠘧
 匓.C_xxjk.xxjk:几 勹 匕 又 白
 匔:勹 口 身
@@ -9189,7 +9189,7 @@
 匾.xxjx:一 扁.A_xtjk 𠃊.V_hxjk*0
 匾.xxxk:匚.L_xxjk*0 扁.A_xtjk
 匿:匚 口 艹 𠂇
-匿.htxx:一 口 艹.V_htxx*0 𠂇 𠃊.V_hxjk*0
+匿.htxx:一 口 艹 𠂇 𠃊.V_hxjk*0
 匿.xxjk:匚.L_xxjk*0 口 艹 𠂇
 區:匚 口
 區.htxx:一 口 𠃊.V_hxjk*0
@@ -9355,7 +9355,7 @@
 厰.C_xxjk.xxjk:冂 厂 口 小 攵
 厱:僉 厂
 厲:厂 禺 艹
-厲.htxx:厂 禺.A_htxx 艹.V_htxx*0
+厲.htxx:厂 禺.A_htxx 艹
 厳:乛 厂 攵 耳 𭕄
 厳.C_htjk.htjk:一 丨 厂 攵 耳 𭕄
 厴:厂 日 月 犬 田
@@ -9756,7 +9756,7 @@
 哌:㇏ 丿 丿 口 𠂆 𠄌
 响:丿 冂 口
 哎:乂 口 艹
-哎.htxx:乂 口 艹.V_htxx*0
+哎.htxx:乂 口 艹
 哏:口 艮
 哐:匚 口 王
 哑:一 业 口
@@ -10041,7 +10041,7 @@
 喎:口 咼
 喎.htjk:口 咼.A_htjk
 喏:口 艹 𠂇
-喏.htxx:口 艹.V_htxx*0 𠂇
+喏.htxx:口 艹 𠂇
 喐:㇌ 丨 口 月 𠂇
 喑:口 日 立
 喑.xxjk:口 日 立.A_xxjk
@@ -10113,7 +10113,7 @@
 喴:一 口 女 戊
 喴.htxx:一 口 女.V_htxx*0 戊
 喵:口 田 艹
-喵.htxx:口 田 艹.V_htxx*0
+喵.htxx:口 田 艹
 営:冖 口 𭕄
 営.C_xxjk.xxjk:丿 冖 口 𭕄
 喷:十 口 艹 贝
@@ -10156,14 +10156,14 @@
 嗍:口 屰 月
 嗎:口 馬
 嗏:人 口 朩 艹
-嗏.C_hxxx.hxxx:人 口 木 艹.V_htxx*0
-嗏.C_xtxx.xtxx:人 口 木 艹.V_htxx*0
+嗏.C_hxxx.hxxx:人 口 木 艹
+嗏.C_xtxx.xtxx:人 口 木 艹
 嗐:丰 口 宀
 嗐.htxx:丰.V_htjk*0 口 宀
 嗑:去 口 皿
 嗑.xxjk:去.A_xxjk 口 皿
 嗒:一 人 口 艹
-嗒.htxx:一 人 口 艹.V_htxx*0
+嗒.htxx:一 人 口 艹
 嗓:又 口 木
 嗓.xtxx:又 口 木.L_xtjk*0
 嗔:八 口 直
@@ -10189,7 +10189,7 @@
 嗝:口 鬲
 嗝.xxjk:口 鬲.V_xxjk*0
 嗞:䒑 口 幺
-嗞.hxxx:口 幺 艹.V_htxx*0
+嗞.hxxx:口 幺 艹
 嗞.xxjk:一 丨 口 幺.A_xxjk
 嗟:口 工 羊
 嗟.C_htjk.htjk:丿 口 工 羊
@@ -10210,7 +10210,7 @@
 嗪:口 禾 𡗗
 嗫:又 又 口 耳
 嗬:亻 口 可 艹
-嗬.htxx:亻 口 可 艹.V_htxx*0
+嗬.htxx:亻 口 可 艹
 嗭:匕 口 直
 嗮:口 日 西
 嗯:口 大 心
@@ -10236,7 +10236,7 @@
 嗺:口 山 隹
 嗻:口 广 廿 灬
 嗼:口 大 日 艹
-嗼.htxx:口 大.E_htjk*0 日 艹.V_htxx*0
+嗼.htxx:口 大.E_htjk*0 日 艹
 嗽:口 束 欠
 嗾:万 丶 口 矢 𠂉
 嗾.C_xxjk.xxjk:万 丶 口 矢 𠂉
@@ -10442,8 +10442,8 @@
 噵:䒑 口 自 辶
 噵.xxjk:䒑 口 自 辶.V_xxjk*0
 噶:匃 口 日 艹
-噶.hxxx:人 勹 口 日.L_htxx*0 艹.V_htxx*0 𠃊.V_hxjk*0
-噶.xtxx:人 勹 口 日 艹.V_htxx*0 𠃊.V_hxjk*0
+噶.hxxx:人 勹 口 日.L_htxx*0 艹 𠃊.V_hxjk*0
+噶.xtxx:人 勹 口 日 艹 𠃊.V_hxjk*0
 噶.xxjk:匃.A_xxjk 口 日 艹
 噷:口 日 欠 立
 噸:口 屯 頁
@@ -10469,12 +10469,12 @@
 嚃:口 眔 辶
 嚃.C_htxx.htxx:丨 丷 八 口 罒 辶.A_htxx
 嚄:又 口 艹 隹
-嚄.htxx:又 口 艹.V_htjk*0 隹
+嚄.htxx:又 口 艹 隹
 嚄.xxjk:又 口 艹 隹.A_xxjk
 嚅:⻗ 口 而
 嚅.htxx:⻗.A_hxxx 口 而
 嚆:口 艹 高
-嚆.htxx:口 艹.V_htxx*0 高
+嚆.htxx:口 艹 高
 嚆.xxjk:口 艹 高.A_xxjx
 嚇:口 赤
 嚇.hxxx:口 赤.A_hxxx
@@ -10572,10 +10572,10 @@
 嚽:力 口 攵 貝 龶
 嚽.C_htxx.htxx:一 丶 力 口 工 攵 貝
 嚾:口 艹 隹
-嚾.htxx:口 艹.V_htjk*0 隹
-嚾.xxjk:口 艹.V_htjk*0 隹.A_xxjk
+嚾.htxx:口 艹 隹
+嚾.xxjk:口 艹 隹.A_xxjk
 嚿:口 臼 艹 隹
-嚿.htxx:口 臼 艹.V_htjk*0 隹
+嚿.htxx:口 臼 艹 隹
 囀:丶 口 寸 車 車
 囁:口 耳
 囁.htxx:口 耳 耳.A_htxx
@@ -10591,7 +10591,7 @@
 囆:口 禺 艹 虫
 囇:丽 口 鹿
 囈:丶 九 云 口 坴 艹
-囈.htxx:丶 九 云 口 坴.V_htxx*0 艹.V_htxx*0
+囈.htxx:丶 九 云 口 坴.V_htxx*0 艹
 囈.xxjk:丶 九 云.A_xxjk 口 坴.V_xxjk*0 艹
 囉:口 糹 罒 隹
 囉.C_xxjk.xxjk:口 小 幺.A_xxjk 罒 隹.A_xxjk
@@ -10600,7 +10600,7 @@
 囋:儿 儿 口 牛 貝
 囋.xxjk:儿 儿 口 牛 貝
 囌:口 禾 艹 魚
-囌.htxx:口 禾 艹.V_htxx*0 魚
+囌.htxx:口 禾 艹 魚
 囍:十 口 豆
 囎:口 曾 貝
 囎.xxjk:口 曾.A_xxjk 貝
@@ -11176,7 +11176,7 @@
 塒.xtxx:工 工 寸 日
 塓:六 冖 工 日
 塔:一 人 口 工 艹
-塔.htxx:一 人 口 工 艹.V_htxx*0
+塔.htxx:一 人 口 工 艹
 塕:习 公 工
 塕.xtxx:习 公.A_xtxx 工
 塕.xxjx:习.A_xxjk 公.V_xxjx0 工
@@ -11199,7 +11199,7 @@
 塞:工 𡨄
 塞.xxjk:工 𡨄.V_xxjk*0
 塟:一 匕 工 夕 艹
-塟.htxx:一 匕 工 夕 艹.V_htxx*0
+塟.htxx:一 匕 工 夕 艹
 塠:㠯 丿 工 辶
 塡:八 匕 工 目 𠃊
 塢:工 烏
@@ -11286,7 +11286,7 @@
 墒:丷 亠 冏 工
 墒.htxx:丷 亠 冏.A_htxx 工
 墓:工 大 日 艹
-墓.htxx:工 大 日 艹.V_htxx*0
+墓.htxx:工 大 日 艹
 墔:工 山 隹
 墔.xxjk:工 山 隹.A_xxjk
 墕:一 丂 工 止 灬
@@ -11383,7 +11383,7 @@
 壐:工 爾
 壑:⺊ 一 冖 又 工 谷
 壒:去 工 皿 艹
-壒.htxx:去 工 皿 艹.V_htxx*0
+壒.htxx:去 工 皿 艹
 壒.xxjk:去.A_xxjk 工 皿 艹
 壓:厂 工 日 月 犬
 壓.C_xtxx.xtxx:⺼ 厂 工 日 犬
@@ -11512,7 +11512,7 @@
 夠:勹 口 夕
 夡:口 工 夕
 夢:冖 夕 罒 艹
-夢.htxx:冖 夕 罒 艹.V_htjk*0
+夢.htxx:冖 夕 罒 艹
 夣:亠 冖 厶 夕 罒
 夣.xxjk:亠 冖 厶.A_xxjk 夕 罒
 夤:一 八 夕 宀 田
@@ -12283,7 +12283,7 @@
 婻.htxx:冂 十 女.V_htxx*0 𢆉
 婻.xxjk:冂 十 女.V_xxjk0 𢆉
 婼:口 女 艹 𠂇
-婼.htxx:口 女.V_htxx*0 艹.V_htxx*0 𠂇
+婼.htxx:口 女.V_htxx*0 艹 𠂇
 婽:叚 女
 婽.htxx:叚 女.V_htxx*0
 婾:一 人 女 月 𡿨
@@ -12318,7 +12318,7 @@
 媋.htxx:女.V_htxx*0 日 𡗗
 媋.xxjk:女.V_xxjk0 日 𡗗.V_xxjk*0
 媌:女 田 艹
-媌.htxx:女.V_htxx*0 田 艹.V_htxx*0
+媌.htxx:女.V_htxx*0 田 艹
 媍:女 貝 𠂊
 媎:女 日 耂
 媎.htxx:女.V_htxx*0 日 耂
@@ -12343,7 +12343,7 @@
 媕.htxx:一 人 口 女.V_htxx*0 廾
 媕.xxjk:一 人 口 女.V_xxjk0 廾
 媖:央 女 艹
-媖.htxx:央.htxx 女.V_htxx*0 艹.V_htxx*0
+媖.htxx:央.htxx 女.V_htxx*0 艹
 媖.xxjk:央 女.V_xxjk0 艹
 媗:一 女 宀 日
 媗.htxx:一 女.V_htxx*0 宀 日
@@ -12430,7 +12430,7 @@
 媵.xxjx:女.A_xxjk 月.V_xxjx*0 龹.A_xxjx
 媵.xxxk:女.A_xxjk 月.htxx 龹.A_xxjx
 媶:女 耳 艹
-媶.htxx:女.V_htxx*0 耳.A_htxx 艹.V_htxx*0
+媶.htxx:女.V_htxx*0 耳.A_htxx 艹
 媷:女 寸 辰
 媷.htxx:女.V_htxx*0 寸 辰
 媸:一 女 屮 虫
@@ -12539,7 +12539,7 @@
 嫞.hxxx:女.V_htxx*0 广 用 肀
 嫞.xtxx:女.V_htxx*0 广 用.E_xtxx*0 肀
 嫟:匚 口 女 艹 𠂇
-嫟.htxx:一 口 女.V_htxx*0 艹.V_htxx*0 𠂇 𠃊.V_hxjk*0
+嫟.htxx:一 口 女.V_htxx*0 艹 𠂇 𠃊.V_hxjk*0
 嫠:一 厂 女 攵 木
 嫠.htxx:一 厂 女.A_htxx 攵 木
 嫠.xxjk:一 厂 女.A_xxjk 攵 木
@@ -12570,7 +12570,7 @@
 嫪.htxx:㐱 习 女.V_htxx*0
 嫪.xxjk:㐱 习.xxjk 女.V_xxjk0
 嫫:大 女 日 艹
-嫫.htxx:大.E_htjk*0 女.V_htxx*0 日 艹.V_htxx*0
+嫫.htxx:大.E_htjk*0 女.V_htxx*0 日 艹
 嫫.xxjk:大 女.V_xxjk0 日 艹
 嫬:女 广 廿 灬
 嫬.htxx:女.V_htxx*0 广 廿 灬
@@ -12688,7 +12688,7 @@
 嬝.htxx:一 丨 丿 女.V_htxx*0 衣 𠃌 𠃍
 嬝.xxjk:一 丨 丿 女.V_xxjk0 衣.A_xxjk 𠃌 𠃍
 嬞:女 艹 重
-嬞.htxx:女.V_htxx*0 艹.V_htxx*0 重
+嬞.htxx:女.V_htxx*0 艹 重
 嬟:女 我 羊
 嬟.htxx:女.V_htxx*0 我 羊
 嬠:口 女 木
@@ -12713,7 +12713,7 @@
 嬧:一 女 灬 皿 肀
 嬧.htxx:一 女.V_htxx*0 灬 皿 肀
 嬨:䒑 女 幺 心
-嬨.hxxx:女.V_htxx*0 幺 心 艹.V_htxx*0
+嬨.hxxx:女.V_htxx*0 幺 心 艹
 嬨.xtxx:䒑 女.V_htxx*0 幺 心
 嬨.xxjk:女.V_xxjk0 幺.A_xxjk 心 艹
 嬩:女 與
@@ -12801,7 +12801,7 @@
 孎:丨 丷 八 勹 女 尸 罒 虫
 孎.htxx:丨 丷 八 勹 女.V_htxx*0 尸 罒 虫
 孏:女 柬 艹 門
-孏.htxx:女.V_htxx*0 柬 艹.V_htxx*0 門
+孏.htxx:女.V_htxx*0 柬 艹 門
 子:一 了
 孑:㇀ 了
 孒:一 了
@@ -12859,7 +12859,7 @@
 孵:一 丶 了 冂 爫 𠂎
 孵.xxjk:一 丶 了 冂 爫.A_xxjk 𠂎.A_xxjk
 孶:一 了 幺 艹
-孶.htxx:一 了 幺 艹.V_htxx*0
+孶.htxx:一 了 幺 艹
 孶.xxjk:一 了 幺.A_xxjk 艹
 孷:一 了 厂 攵 木
 孷.htxx:一 了 厂 攵 木
@@ -12872,7 +12872,7 @@
 孼.xxjx:㠯 一 丨 丿 了 屮 立.A_xxjk
 孼.xxxk:㠯 一 丨 丿 了 屮 立.A_xxjk
 孽:㠯 一 丨 丿 了 立 艹
-孽.htxx:㠯 一 丨 丿 了 立 艹.V_htxx*0
+孽.htxx:㠯 一 丨 丿 了 立 艹
 孽.xxjk:㠯 一 丨 丿 了 立.A_xxjk 艹
 孾:㇀ 了 女 貝
 孿:一 了 糹 言
@@ -13071,7 +13071,7 @@
 寝:丬 冖 又 宀 彐
 寝.xxjk:丬 冖 又 宀 彐.A_htjk
 寞:大 宀 日 艹
-寞.htxx:大.E_htjk*0 宀 日 艹.V_htxx*0
+寞.htxx:大.E_htjk*0 宀 日 艹
 寞.xxjx:大 宀 日 艹
 寞.xxxk:大 宀 日 艹
 察:宀 祭
@@ -13108,7 +13108,7 @@
 寫:勹 宀 灬 臼
 寫.xxjk:勹 宀 灬 臼
 寬:丶 宀 艹 見
-寬.htxx:丶 宀 艹.V_htxx*0 見
+寬.htxx:丶 宀 艹 見
 寬.xxjk:丶 宀 艹 見
 寭:丶 宀 心 車
 寭.xxjk:丶 宀 心 車
@@ -13971,8 +13971,8 @@
 嶰.htxx:刀 山 牛 角
 嶰.xxjk:刀 山 牛 角
 嶱:匃 山 日 艹
-嶱.hxxx:匃.A_htxx 山 日.L_htxx*0 艹.V_htxx*0
-嶱.xtxx:匃.A_htxx 山 日.L_htxx*0 艹.V_htxx*0
+嶱.hxxx:匃.A_htxx 山 日.L_htxx*0 艹
+嶱.xtxx:匃.A_htxx 山 日.L_htxx*0 艹
 嶲:山 雋
 嶲.xxjk:山.A_xxjk 雋
 嶳:一 工 工 山 𧰨
@@ -14007,7 +14007,7 @@
 巀:山 戈 雀
 巀.hxxx:山 戈 雀.A_hxxx
 巁:厂 山 禺 艹
-巁.htxx:厂 山 禺.A_htxx 艹.V_htxx*0
+巁.htxx:厂 山 禺.A_htxx 艹
 巂:冏 山 隹
 巂.htxx:冏.A_htxx 山 隹
 巃:山 龍
@@ -14038,7 +14038,7 @@
 巎:一 八 夂 山 巳 止 自
 巎.C_xxjk.xxjk:一 儿 夂 山 巳 止 自
 巏:口 山 艹 隹
-巏.htxx:口 山 艹.V_htxx*0 隹
+巏.htxx:口 山 艹 隹
 巐:升 山 日 高
 巐.xxjk:升 山.A_xxjk 日 高.A_xxjx
 巑:儿 儿 山 牛 貝
@@ -14050,8 +14050,8 @@
 巔:八 山 直 頁
 巔.hxxx:八 山 直.hxxx*0 頁
 巕:㠯 䒑 丿 十 女 山 立
-巕.hxxx:㠯 丿 十 女 山 立 艹.V_htxx*0
-巕.xtxx:㠯 丿 十 女 山 立 艹.V_htxx*0
+巕.hxxx:㠯 丿 十 女 山 立 艹
+巕.xtxx:㠯 丿 十 女 山 立 艹
 巖:乛 厂 口 山 攵 耳
 巖.htjk:一 丨 厂 口 山 攵 耳.L_htjk*0
 巗:乛 厂 口 山 攵 耳
@@ -14236,7 +14236,7 @@
 幔:又 巾 日 罒
 幔.htxx:又 巾 日 罒
 幕:大 巾 日 艹
-幕.htxx:大 巾 日 艹.V_htxx*0
+幕.htxx:大 巾 日 艹
 幖:巾 示 覀
 幗:一 口 巾 戈
 幘:巾 貝 龶
@@ -14269,12 +14269,12 @@
 幨.C_xxjk.xxjk:儿 厃 巾 言.A_xxjk
 幩:十 巾 艹 貝
 幪:一 冖 巾 艹 𧰨
-幪.htxx:一 冖 巾 艹.V_htxx*0 𧰨
+幪.htxx:一 冖 巾 艹 𧰨
 幪.xxjk:一 冖 巾 艹 𧰨.V_xxjk*0
 幫:工 工 寸 巾 白
 幬:壽 巾
 幭:丶 巾 戊 罒 艹
-幭.htxx:丶 巾 戊 罒 艹.V_htjk*0
+幭.htxx:丶 巾 戊 罒 艹
 幮:十 寸 巾 广 豆
 幮.xxjk:十 寸 巾 广.A_xxjk 豆
 幯:⺮ 一 丶 冂 巾 𠃍 𠄌
@@ -15189,7 +15189,7 @@
 恼:㐅 亠 凵 忄
 恽:冖 忄 车
 恾:亡 忄 艹
-恾.htxx:亡.A_hxxx.A_xtxx 忄 艹.V_htxx*0
+恾.htxx:亡.A_hxxx.A_xtxx 忄 艹
 恾.xxjk:亡.A_xxjk 忄 艹
 恿:心 用 龴
 悀:忄 用 龴
@@ -15380,7 +15380,7 @@
 惷.xxjk:心 日 𡗗.V_xxjk*0
 惸:一 了 勹 忄 日
 惹:口 心 艹 𠂇
-惹.htxx:口 心 艹.V_htxx*0 𠂇
+惹.htxx:口 心 艹 𠂇
 惺:忄 日 生
 惻:刂 忄 貝
 惼:忄 扁
@@ -15529,8 +15529,8 @@
 態.hxxx:匕.V_htxx*1 厶 心 月
 態.xxjk:匕 厶.A_xxjk 心 月
 慌:亡 忄 艹 𫶧
-慌.hxxx:亡.A_hxxx 忄 艹.V_htxx*0 𫶧
-慌.xtxx:亡.A_hxxx.A_xtxx 忄 艹.V_htxx*0 𫶧.A_xtxx
+慌.hxxx:亡.A_hxxx 忄 艹 𫶧
+慌.xtxx:亡.A_hxxx.A_xtxx 忄 艹 𫶧.A_xtxx
 慌.xxjk:亡.A_xxjk 忄 艹 𫶧
 慍:人 口 忄 皿
 慎:八 忄 直
@@ -15545,7 +15545,7 @@
 慓.xtxx:忄 示.A_xtxx 覀
 慔:大 忄 日 艹
 慕:丶 大 小 日 艹
-慕.htxx:丶 大 小 日 艹.V_htxx*0
+慕.htxx:丶 大 小 日 艹
 慖:一 口 忄 戈
 慗:心 攵 束
 慘:㐱 厶 忄
@@ -15556,7 +15556,7 @@
 慜:心 攵 母 𠂉
 慜.htxx:心 攵.E_htxx*0 母 𠂉
 慝:匚 口 心 艹 𠂇
-慝.htxx:一 口 心 艹.V_htxx*0 𠂇 𠃊.V_hxjk*0
+慝.htxx:一 口 心 艹 𠂇 𠃊.V_hxjk*0
 慞:十 忄 日 立
 慞.xxjk:十 忄 日 立.A_xxjk
 慟:力 忄 重
@@ -15729,7 +15729,7 @@
 憻:一 亠 回 忄 日
 憻.xxjk:一 亠 回 忄 日
 憼:句 心 攵 艹
-憼.htxx:句 心 攵.E_htxx*0 艹.V_htjk*0
+憼.htxx:句 心 攵.E_htxx*0 艹
 憽:丶 勿 心 忄 艹
 憾:一 丿 丿 口 弋 心 忄
 憾.htxx:一 丿 丿 口 弋 心 忄
@@ -15739,7 +15739,7 @@
 懁:一 口 忄 罒 𧘇
 懁.xxjk:一 口 忄 罒 𧘇.xxjk
 懂:忄 艹 重
-懂.htxx:忄 艹.V_htxx*0 重
+懂.htxx:忄 艹 重
 懃:力 堇 心
 懄:力 堇 忄
 懅:一 忄 虍 𧰨
@@ -15783,10 +15783,10 @@
 懚.htxx:工 彐.A_htjk 心 忄 爫
 懛:冖 口 工 忄 至
 懜:冖 夕 忄 罒 艹
-懜.xxjk:冖 夕 忄 罒 艹.V_htjk*0
+懜.xxjk:冖 夕 忄 罒 艹
 懝:匕 忄 疋 矢 龴
 懞:一 冖 忄 艹 𧰨
-懞.htxx:一 冖 忄 艹.V_htxx*0 𧰨
+懞.htxx:一 冖 忄 艹 𧰨
 懞.xxjk:一 冖 忄 艹 𧰨.V_xxjk*0
 懟:业 寸 心 羊
 懠:忄 齊
@@ -15833,7 +15833,7 @@
 懳:丰 彐 心 忄
 懴:一 十 忄 戈 非
 懵:冖 忄 目 罒 艹
-懵.htxx:冖 忄 目 罒 艹.V_htjk*0
+懵.htxx:冖 忄 目 罒 艹
 懶:忄 束 貝 𠂊
 懶.htjk:刀 忄 束 貝
 懷:忄 褱
@@ -15850,7 +15850,7 @@
 懼:忄 目 隹
 懼.xxjk:忄 目 隹.A_xxjk
 懽:口 忄 艹 隹
-懽.htxx:口 忄 艹.V_htxx*0 隹
+懽.htxx:口 忄 艹 隹
 懽.xxjk:口 忄 艹 隹.A_xxjk
 懾:忄 耳
 懾.htxx:忄 耳.A_htxx 耳.L_htjk*0
@@ -16574,7 +16574,7 @@
 揎:一 宀 扌 日
 揎.xxjk:一 宀 扌 日
 描:扌 田 艹
-描.htxx:扌 田 艹.V_htxx*0
+描.htxx:扌 田 艹
 提:扌 日 𤴓
 揑:工 扌 臼
 插:扌 臿
@@ -16744,7 +16744,7 @@
 搬.C_xxjk.xxjk:几 又 扌 舟.V_xxjk*0
 搬.htxx:又 扌 舟.V_htxx*0 𠘧
 搭:一 人 口 扌 艹
-搭.htxx:一 人 口 扌 艹.V_htxx*0
+搭.htxx:一 人 口 扌 艹
 搮:扌 木 覀
 搮.xtxx:扌 木.L_xtjk*0 覀
 搯:扌 爫 臼
@@ -16771,8 +16771,8 @@
 搻:一 人 口 手
 搼:手 扌 龹
 搽:人 扌 朩 艹
-搽.C_htjx.hxxx:人 扌 木 艹.V_htxx*0
-搽.C_htjx.xtxx:人 扌 木 艹.V_htxx*0
+搽.C_htjx.hxxx:人 扌 木 艹
+搽.C_htjx.xtxx:人 扌 木 艹
 搽.C_htjx.xxjx:人 扌 木 艹
 搾:乍 扌 穴
 搾.htxx:乍 扌 穴.V_htxx*0
@@ -16874,9 +16874,9 @@
 摶:丶 寸 扌 車
 摷:巛 扌 果
 摸:大 扌 日 艹
-摸.htxx:大 扌 日 艹.V_htxx*0
+摸.htxx:大 扌 日 艹
 摹:大 手 日 艹
-摹.htxx:大 手 日 艹.V_htxx*0
+摹.htxx:大 手 日 艹
 摺:习 扌 白
 摺.xxjk:习.xxjk 扌 白
 摻:㐱 厶 扌
@@ -17019,7 +17019,7 @@
 操:口 扌 木
 操.xtxx:口 扌 木
 擎:句 手 攵 艹
-擎.htxx:句 手 攵 艹.V_htjk*0
+擎.htxx:句 手 攵 艹
 擏:句 扌 攵 艹
 擐:一 口 扌 罒 𧘇
 擐.xxjk:一 口 扌 罒 𧘇.xxjk
@@ -17035,8 +17035,8 @@
 擕:扌 雋
 擕.xxjk:扌 雋.A_xxjk
 擖:匃 扌 日 艹
-擖.hxxx:匃.A_htxx 扌 日.L_htxx*0 艹.V_htxx*0
-擖.xtxx:匃.A_htxx 扌 日 艹.V_htxx*0
+擖.hxxx:匃.A_htxx 扌 日.L_htxx*0 艹
+擖.xtxx:匃.A_htxx 扌 日 艹
 擗:十 口 尸 扌 立
 擗.xxjk:十 口 尸 扌 立.A_xxjk
 擘:十 口 尸 手 立
@@ -17047,8 +17047,8 @@
 據.htxx:一 扌 虍.A_htxx 𧰨
 據.xxjk:一 扌 虍 𧰨.V_xxjk*0
 擛:世 扌 木 艹
-擛.hxxx:世 扌 木 艹.V_htxx*0
-擛.xtxx:世 扌 木 艹.V_htxx*0
+擛.hxxx:世 扌 木 艹
+擛.xtxx:世 扌 木 艹
 擜:冂 十 扌 犬 𢆉
 擝:扌 日 月 皿
 擞:女 扌 攵 米
@@ -17080,7 +17080,7 @@
 擬:匕 扌 疋 矢 龴
 擬.htxx:匕.V_htxx*1 扌 疋 矢 龴
 擭:又 扌 艹 隹
-擭.htxx:又 扌 艹.V_htjk*0 隹
+擭.htxx:又 扌 艹 隹
 擭.xxjk:又 扌 艹 隹.A_xxjk
 擮:十 戈 扌 隹
 擯:一 宀 扌 貝 𣥂
@@ -17130,8 +17130,8 @@
 攁.C_xxxk.xxjk:一 八 扌 羊 艮.A_xxjk
 攂:扌 田
 攃:扌 祭 艹
-攃.hxxx:扌 祭 艹.V_htxx*0
-攃.xtxx:扌 祭.A_xtxx 艹.V_htxx*0
+攃.hxxx:扌 祭 艹
+攃.xtxx:扌 祭.A_xtxx 艹
 攄:心 扌 田 虍
 攄.htxx:心 扌 田 虍.A_htxx
 攅:一 大 大 扌 貝
@@ -17307,7 +17307,7 @@
 敫:万 丶 攵 白
 敫.C_xxjk.xxjk:万 丶 攵 白
 敬:句 攵 艹
-敬.htxx:句 攵 艹.V_htjk*0
+敬.htxx:句 攵 艹
 敭:一 勿 攵 日
 敮:⺊ 又 臿
 敯:⺊ 又 日 民
@@ -17770,7 +17770,7 @@
 暍.hxxx:匃.A_htxx 日
 暍.xxjk:匃.A_xxjk 日
 暎:央 日 艹
-暎.htxx:央.htxx 日 艹.V_htxx*0
+暎.htxx:央.htxx 日 艹
 暏:日 耂
 暐:㐄 口 日 𫝀
 暐.htxx:㐄 口 日 𫝀
@@ -17823,11 +17823,11 @@
 暭:丷 八 十 日 白
 暭.C_xxjk.xxjk:一 十 日 白
 暮:大 日 艹
-暮.htxx:大 日 艹.V_htxx*0
+暮.htxx:大 日 艹
 暯:大 日 艹
 暰:人 彳 日 龰
 暱:匚 口 日 艹 𠂇
-暱.htxx:一 口 日 艹.V_htxx*0 𠂇 𠃊.V_hxjk*0
+暱.htxx:一 口 日 艹 𠂇 𠃊.V_hxjk*0
 暱.xxjk:匚 口 日 艹 𠂇
 暲:十 日 立
 暲.xxjk:十 日 立.A_xxjk
@@ -17896,7 +17896,7 @@
 曙:日 罒 耂
 曙.C_xxxk.xxxk:丶 日 罒 耂
 曚:一 冖 日 艹 𧰨
-曚.htxx:一 冖 日 艹.V_htxx*0 𧰨
+曚.htxx:一 冖 日 艹 𧰨
 曚.xxjk:一 冖 日 艹 𧰨.V_xxjk*0
 曛:日 熏
 曜:习 日 隹
@@ -18024,7 +18024,7 @@
 朞.xxjk:其 月.E_xtjk*0
 期:其 月
 朠:央 月 艹
-朠.htxx:央.htxx 月 艹.V_htxx*0
+朠.htxx:央.htxx 月 艹
 朡:㚇 月
 朡.C_htxx.hxxx:⺼ 㚇.A_xtxx
 朡.C_htxx.xtxx:⺼ 㚇.A_xtxx
@@ -18036,7 +18036,7 @@
 朥:冖 力 月 火
 朥.C_htxx.htxx:⺼ 冖 力 火.V_htxx*0
 朦:一 冖 月 艹 𧰨
-朦.htxx:一 冖 月 艹.V_htxx*0 𧰨
+朦.htxx:一 冖 月 艹 𧰨
 朦.xxjk:一 冖 月 艹 𧰨.V_xxjk*0
 朧:月 龍
 朧.xtxx:月 龍.A_xtxx
@@ -18759,8 +18759,8 @@
 棺:㠯 宀 木
 棺.xxjk:㠯 宀 木
 棻:八 刀 木 艹
-棻.hxxx:八 刀 木 艹.V_htxx*0
-棻.xtxx:八.V_xtxx*0 刀 木.L_xtjk*0 艹.V_htxx*0
+棻.hxxx:八 刀 木 艹
+棻.xtxx:八.V_xtxx*0 刀 木.L_xtjk*0 艹
 棻.xxjk:八.V_xtxx*0 刀 木 艹
 棼:八 刀 木
 棼.xtxx:八.V_xtxx*0 刀 木
@@ -18825,8 +18825,8 @@
 椙.hxxx:日 日.L_htxx*0 木
 椚:木 門
 椛:亻 匕 木 艹
-椛.hxxx:亻 匕.L_hxjk*0 木 艹.V_htxx*0
-椛.xtxx:亻 匕 木 艹.V_htxx*0
+椛.hxxx:亻 匕.L_hxjk*0 木 艹
+椛.xtxx:亻 匕 木 艹
 検:㑒 木
 椝:一 大 木 见
 椞:斤 木 木
@@ -18898,7 +18898,7 @@
 楈:月 木 疋
 楈.C_xtxx.xtxx:⺼ 木 疋
 楉:口 木 艹 𠂇
-楉.htxx:口 木 艹.V_htxx*0 𠂇
+楉.htxx:口 木 艹 𠂇
 楊:一 勿 日 木
 楋:刂 木 束
 楌:产 彡 木
@@ -18925,7 +18925,7 @@
 楚:木 疋
 楚.xxjk:木 木 疋
 楛:十 口 木 艹
-楛.htxx:十 口 木 艹.V_htxx*0
+楛.htxx:十 口 木 艹
 楜:十 口 月 木
 楜.C_xtxx.xtxx:⺼ 十 口 木
 楜.hxxx:十 口 月.E_hxxx*0 木
@@ -19034,7 +19034,7 @@
 榘:巨 木 矢
 榘.hxjk:巨.A_xxjk 木 矢
 榙:一 人 口 木 艹
-榙.htxx:一 人 口 木 艹.V_htxx*0
+榙.htxx:一 人 口 木 艹
 榚:木 灬 羊
 榛:木 禾 𡗗
 榛.xtxx:木 禾 𡗗
@@ -19126,7 +19126,7 @@
 槅:木 鬲
 槅.xxjk:木 鬲.V_xxjk*0
 槆:勹 日 木 艹
-槆.htxx:勹 日 木 艹.V_htxx*0
+槆.htxx:勹 日 木 艹
 槇:八 匕 木 目 𠃊
 槈:寸 木 辰
 槈.xxjk:寸 木 辰.A_xxjk
@@ -19292,13 +19292,13 @@
 樠:入 巾 廿 木
 樠.htjk:入.A_htjk 巾 廿 木
 模:大 日 木 艹
-模.htxx:大 日 木 艹.V_htxx*0
+模.htxx:大 日 木 艹
 樢:木 鳥
 樣:木 永 羊
 樤:丨 亻 夂 木 朩
 樤.htjk:丨 亻 攵 木 木
 樥:丰 夂 木 艹
-樥.htxx:丰 夂 木 艹.V_htxx*0
+樥.htxx:丰 夂 木 艹
 樦:⺮ 丶 木 王
 樧:㐅 丶 又 木 𠘧
 樧.C_htxx.htxx:㐅 丶 又 木 木.E_htxx*0 𠘧
@@ -19502,8 +19502,8 @@
 檞.htjk:刀 木 牛 角
 檟:木 覀 貝
 檠:句 攵 木 艹
-檠.hxxx:句 攵 木 艹.V_htxx*0
-檠.xtxx:句 攵 木 艹.V_htxx*0
+檠.hxxx:句 攵 木 艹
+檠.xtxx:句 攵 木 艹
 檡:工 木 罒 𢆉
 檡.xxjk:工 木 罒 𢆉
 檢:僉 木
@@ -19514,7 +19514,7 @@
 檦:刂 木 示 覀
 檦.xtxx:刂 木 示.A_xtxx 覀
 檧:丶 勿 心 木 艹
-檧.htxx:丶 勿 心 木 艹.V_htxx*0
+檧.htxx:丶 勿 心 木 艹
 檨:冫 木 欠 羊
 檨.C_htxx.htxx:木 欠 氵 羊
 檩:亠 回 木 示
@@ -19523,7 +19523,7 @@
 檫.xtxx:宀 木 祭.A_xtxx
 檫.xxjk:宀 木 祭
 檬:一 冖 木 艹 𧰨
-檬.htxx:一 冖 木 艹.V_htxx*0 𧰨
+檬.htxx:一 冖 木 艹 𧰨
 檬.xxjk:一 冖 木 艹 𧰨.V_xxjk*0
 檭:木 艮 釒
 檮:壽 木
@@ -19536,7 +19536,7 @@
 檳:一 宀 木 貝 𣥂
 檳.xxjk:一 宀 木 貝 𣥂
 檴:又 木 艹 隹
-檴.htxx:又 木 艹.V_htjk*0 隹
+檴.htxx:又 木 艹 隹
 檴.xxjk:又 木 艹 隹.A_xxjk
 檵:幺 木 𠃊
 檶:匚 口 大 木
@@ -19591,7 +19591,7 @@
 櫓:日 木 魚
 櫓.hxxx:日.L_htxx*0 木 魚
 櫔:厂 木 禺 艹
-櫔.htxx:厂 木 禺.A_htxx 艹.V_htxx*0
+櫔.htxx:厂 木 禺.A_htxx 艹
 櫕:一 大 大 木 貝
 櫖:心 木 田 虍
 櫗:丶 戊 木 罒 艹
@@ -19599,7 +19599,7 @@
 櫘.hxxx:丰 丰.V_htjk*1 彐.A_htjk 心 木
 櫘.xtxx:丰 彐.A_htjk 心 木
 櫙:匚 口 木 艹
-櫙.htxx:一 口 木 艹.V_htxx*0 𠃊.V_hxjk*0
+櫙.htxx:一 口 木 艹 𠃊.V_hxjk*0
 櫚:口 木 門
 櫚.htjk:丿 口 木 門
 櫛:⺮ 一 丶 冂 木 𠃍 𠄌
@@ -19659,8 +19659,8 @@
 櫸.htxx:工 木 與.A_htxx
 櫸.xxjk:丰 木 與
 櫹:木 肅 艹
-櫹.hxxx:木 肅.A_hxxx 艹.V_htxx*0
-櫹.xtxx:木 肅 艹.V_htxx*0
+櫹.hxxx:木 肅.A_hxxx 艹
+櫹.xtxx:木 肅 艹
 櫺:⻗ 口 木
 櫺.htxx:⻗.A_hxxx 口 木
 櫻:女 木 貝
@@ -19674,7 +19674,7 @@
 欀:木 襄
 欁:㇏ 一 丿 厂 曲 木 木 𠄌
 欂:寸 木 氵 甫 艹
-欂.htxx:寸 木 氵 甫 艹.V_htxx*0
+欂.htxx:寸 木 氵 甫 艹
 欃:丶 免 口 木 比 𠂊
 欃.htxx:丶 免 口 木 比.A_htxx 𠂊
 欃.xxjk:丶 免 口 木 比.A_xxjk 𠂊
@@ -19692,7 +19692,7 @@
 欉:业 又 木 耳 𢆉
 欉.htjk:业 又 木 耳.L_htjk*0 𢆉
 權:口 木 艹 隹
-權.htxx:口 木 艹.V_htxx*0 隹
+權.htxx:口 木 艹 隹
 權.xxjk:口 木 艹 隹.A_xxjk
 欋:木 目 隹
 欋.xxjk:木 目 隹.A_xxjk
@@ -19716,7 +19716,7 @@
 欖:丶 木 罒 臣 見 𠂉
 欖.C_htjk.htjk:一 木 罒 臣 見 𠂉
 欗:木 柬 艹 門
-欗.htxx:木 柬 艹.V_htxx*0 門
+欗.htxx:木 柬 艹 門
 欗.xxjk:木 柬.E_xxjk*0 艹 門
 欘:丨 丷 八 勹 尸 木 罒 虫
 欙:小 幺 木 田
@@ -19832,7 +19832,7 @@
 歠.htxx:又 欠 酉
 歠.xxjk:又 欠 酉
 歡:口 欠 艹 隹
-歡.htxx:口 欠 艹.V_htjk*0 隹
+歡.htxx:口 欠 艹 隹
 歡.xxjk:口 欠 艹 隹.A_xxjk
 止:止
 正:一 止
@@ -20097,7 +20097,7 @@
 氀.hxxx:婁.V_hxxx*0 毛
 氀.xtxx:婁.A_hxxx 毛
 氁:大 日 毛 艹
-氁.htxx:大 日 毛 艹.V_htxx*0
+氁.htxx:大 日 毛 艹
 氂:一 厂 攵 木 毛
 氂.htxx:一 厂 攵.E_htxx*0 木 毛
 氃:毛 立 里
@@ -20780,7 +20780,7 @@
 淒.htxx:一 女.A_htxx 氵 肀.L_htxx*0
 淒.xxjk:一 女.A_xxjk 氵 肀
 淓:万 丶 氵 艹
-淓.htxx:万 丶 氵 艹.V_htxx*0
+淓.htxx:万 丶 氵 艹
 淔:氵 直
 淔.hxxx:氵 直.hxxx*0
 淕:坴 氵
@@ -20865,7 +20865,7 @@
 淼:水 水
 淼.hxxx:水 水
 淽:止 氵 艹
-淽.htxx:止 氵 艹.V_htxx*0
+淽.htxx:止 氵 艹
 淾:水 金
 淿:巾 氵 白
 渀:十 大 廾 氵
@@ -20939,7 +20939,7 @@
 渭:月 氵 田
 渭.C_xtxx.xtxx:⺼ 氵 田
 渮:可 氵 艹
-渮.htxx:可 氵 艹.V_htxx*0
+渮.htxx:可 氵 艹
 港:共 巳 氵
 港.xxjx:共 巳.L_xtjk*0 氵
 渰:一 人 口 廾 氵
@@ -20952,9 +20952,9 @@
 渴.hxxx:匃.A_htxx 日 氵
 渴.xxjk:匃.A_xxjk 日 氵
 渵:氵 田 艹
-渵.htxx:氵 田 艹.V_htxx*0
+渵.htxx:氵 田 艹
 渶:央 氵 艹
-渶.htxx:央.htxx 氵 艹.V_htxx*0
+渶.htxx:央.htxx 氵 艹
 渷:儿 六 口 氵
 渷.xxjk:儿 六.A_xxjk 口 氵
 游:一 万 丶 了 氵 𠂉
@@ -21108,7 +21108,7 @@
 溙:氵 氺 𡗗
 溙.xxjk:氵 氺 𡗗.V_xxjk*0
 溚:一 人 口 氵 艹
-溚.htxx:一 人 口 氵 艹.V_htxx*0
+溚.htxx:一 人 口 氵 艹
 溛:氵 瓜 穴
 溛.htxx:氵 瓜 穴.V_htxx*0
 溜:氵 留
@@ -21248,7 +21248,7 @@
 滠:又 又 氵 耳
 满:一 人 冂 氵 艹
 滢:丶 冖 氵 王 艹
-滢.htxx:丶 冖 氵 王 艹.V_htxx*0
+滢.htxx:丶 冖 氵 王 艹
 滣:口 氵 辰
 滤:心 氵 虍
 滥:丨 丶 氵 皿 𠂉
@@ -21363,7 +21363,7 @@
 漞:氵 爫 見
 漟:⺌ 冖 口 工 氵
 漠:大 日 氵 艹
-漠.htxx:大 日 氵 艹.V_htxx*0
+漠.htxx:大 日 氵 艹
 漡:一 勿 日 氵 𠂉
 漢:一 中 大 廿 氵
 漢.htxx:一 中 大.E_htjk*0 廿 氵
@@ -21387,7 +21387,7 @@
 漫.htxx:又 日 氵 罒
 漬:氵 貝 龶
 漭:廾 氵 犬 艹
-漭.htxx:廾 氵 犬 艹.V_htxx*0
+漭.htxx:廾 氵 犬 艹
 漮:广 氵 隶
 漮.htxx:广 氵 隶.A_htxx
 漯:小 幺 氵 田
@@ -21660,7 +21660,7 @@
 濌:日 水 重
 濌.hxxx:日 水 重
 濍:丶 勿 心 氵 艹
-濍.htxx:丶 勿 心 氵 艹.V_htxx*0
+濍.htxx:丶 勿 心 氵 艹
 濎:一 丨 氵 爿 目 𠃍
 濏:必 氵 王
 濐:日 氵 耂
@@ -21679,7 +21679,7 @@
 濚:冖 木 氵 火
 濚.htxx:冖 木 氵 火.V_htxx*0
 濛:一 冖 氵 艹 𧰨
-濛.htxx:一 冖 氵 艹.V_htxx*0 𧰨
+濛.htxx:一 冖 氵 艹 𧰨
 濛.xxjk:一 冖 氵 艹 𧰨.V_xxjk*0
 濜:一 氵 灬 皿 肀
 濝:其 小 幺 氵
@@ -21700,17 +21700,17 @@
 濦.htxk:工 彐.A_htjk 心 氵 爫
 濧:业 寸 氵 羊
 濨:䒑 幺 心 氵
-濨.hxxx:幺 心 氵 艹.V_htxx*0
+濨.hxxx:幺 心 氵 艹
 濨.xxjk:䒑 幺.A_xxjk 心 氵
 濩:又 氵 艹 隹
-濩.htxx:又 氵 艹.V_htjk*0 隹
+濩.htxx:又 氵 艹 隹
 濩.xxjk:又 氵 艹 隹.A_xxjk
 濪:巴 月 氵 龶 𠂊
 濫:丶 氵 皿 臣 𠂉
 濫.C_htjk.htjk:丶 氵 皿 臣 𠂉
 濬:⺊ 一 人 八 冖 氵 目
 濭:去 氵 皿 艹
-濭.htxx:去 氵 皿 艹.V_htxx*0
+濭.htxx:去 氵 皿 艹
 濮:业 丷 亻 氵 𡗗
 濮.htxx:业 丷 亻 氵 𡗗.E_htxx*0
 濯:习 氵 隹
@@ -21731,7 +21731,7 @@
 濷:入 巾 廿 水 氵
 濷.htxx:入.A_htjk 巾 廿 水 氵
 濸:倉 氵 艹
-濸.htxx:倉.A_htjk 氵 艹.V_htxx*0
+濸.htxx:倉.A_htjk 氵 艹
 濹:工 氵 黑
 濺:戈 氵 貝
 濻:㇌ 一 丨 中 氵 貝
@@ -21807,8 +21807,8 @@
 瀞.C_htxx.htxx:月 氵 爭 龶
 瀞.C_xxjk.xxjk:一 丨 冂 氵 爭.xxjk 龶
 瀟:氵 肅 艹
-瀟.hxxx:氵 肅.A_hxxx 艹.V_htxx*0
-瀟.xtxx:氵 肅 艹.V_htxx*0
+瀟.hxxx:氵 肅.A_hxxx 艹
+瀟.xtxx:氵 肅 艹
 瀠:冖 小 幺 氵 火
 瀠.C_xxjk.xxjk:冖 小 幺.A_xxjk 氵 火
 瀠.htxx:冖 小 幺 氵 火.V_htxx*0
@@ -21843,7 +21843,7 @@
 瀱:刂 厂 氵 火 罒
 瀲:僉 攵 氵
 瀳:コ 丂 丨 广 氵 灬 艹
-瀳.htxx:コ 丂 丨 广 氵 灬 艹.V_htxx*0
+瀳.htxx:コ 丂 丨 广 氵 灬 艹
 瀴:女 氵 貝
 瀴.htxx:女.A_htxx 氵 貝
 瀴.xxjk:女.A_xxjk 氵 貝
@@ -21875,7 +21875,7 @@
 灄.xxjk:氵 耳
 灅:工 氵 田
 灆:丶 氵 皿 臣 艹 𠂉
-灆.C_htxx.htxx:一 氵 皿 臣 艹.V_htxx*0 𠂉
+灆.C_htxx.htxx:一 氵 皿 臣 艹 𠂉
 灇:业 又 氵 耳 𢆉
 灈:氵 目 隹
 灈.xxjk:氵 目 隹.A_xxjk
@@ -21889,7 +21889,7 @@
 灋:コ 丂 丨 去 广 氵 灬
 灋.xxjk:コ 丂.A_xxjk 丨 去.A_xxjk 广.A_xxjk 氵 灬
 灌:口 氵 艹 隹
-灌.htxx:口 氵 艹.V_htjk*0 隹
+灌.htxx:口 氵 艹 隹
 灌.xxjk:口 氵 艹 隹.A_xxjk
 灍:丿 乛 人 屰 氵 門
 灎:去 曲 氵 皿 豆
@@ -21927,7 +21927,7 @@
 灠:丶 氵 罒 臣 見 𠂉
 灠.C_htjk.htjk:一 氵 罒 臣 見 𠂉
 灡:柬 氵 艹 門
-灡.htxx:柬 氵 艹.V_htxx*0 門
+灡.htxx:柬 氵 艹 門
 灢:囊 氵
 灣:弓 氵 糹 言
 灣.C_xxjk.xxjk:小 幺.A_xxjk 弓.A_xxjk 氵 言.A_xxjk
@@ -22196,7 +22196,7 @@
 烳:火 甫
 烴:巠 火
 烵:丶 勹 火 艹
-烵.htxx:丶 勹 火.V_htxx*0 艹.V_htxx*0
+烵.htxx:丶 勹 火.V_htxx*0 艹
 烶:壬 廴 火
 烶.htxx:壬 廴 火
 烷:一 兀 宀 火
@@ -22299,7 +22299,7 @@
 焩.htxx:月 火.V_htxx*0
 焪:弓 火 穴
 焫:内 火 艹
-焫.htxx:内.V_htjk*0 火.V_htxx*0 艹.V_htxx*0
+焫.htxx:内.V_htjk*0 火.V_htxx*0 艹
 焫.xxjk:内.V_htjk*0 火 艹
 焬:勿 日 火
 焭:冖 几 火
@@ -22366,7 +22366,7 @@
 煎.xxjx:䒑 刂 月.V_xxjx*0 灬
 煏:一 口 火 田
 煐:央 火 艹
-煐.htxx:央.htxx 火.V_htxx*0 艹.V_htxx*0
+煐.htxx:央.htxx 火.V_htxx*0 艹
 煑:日 火 耂
 煑.C_xxjk.xxjk:丶 日 火 耂
 煑.htxx:日 火.V_htxx*0 耂
@@ -22759,7 +22759,7 @@
 爆:共 日 氺 火
 爆.htxx:共 日 氺 火.V_htxx*0
 爇:丶 九 坴 灬 艹
-爇.htxx:丶 九 坴 灬 艹.V_htxx*0
+爇.htxx:丶 九 坴 灬 艹
 爇.xxjk:丶 九 坴.V_xxjk*0 灬 艹
 爈:心 火 田 虍
 爉:巤 火
@@ -22812,8 +22812,8 @@
 爝.htxx:一 丶 寸 火.V_htxx*0 爫 罒 𠃍 𠄌
 爞:火 虫
 爟:口 火 艹 隹
-爟.htxx:口 火.V_htxx*0 艹.V_htjk*0 隹
-爟.xxjx:口 火 艹.V_htjk*0 隹.A_xxjk
+爟.htxx:口 火.V_htxx*0 艹 隹
+爟.xxjx:口 火 艹 隹.A_xxjk
 爟.xxxk:口 火 艹 隹.A_xxjk
 爠:火 目 隹
 爡:火 禺 艹 虫
@@ -22822,7 +22822,7 @@
 爢.hxxx:广 木 灬 非.V_htjk0
 爣:⺌ 冖 口 火 黑
 爤:柬 火 艹 門
-爤.htxx:柬 火.V_htxx*0 艹.V_htxx*0 門
+爤.htxx:柬 火.V_htxx*0 艹 門
 爤.xxjk:柬.E_xxjk*0 火 艹 門
 爥:丨 丷 八 勹 尸 火 罒 虫
 爥.C_xxjk.xxjk:一 丨 勹 尸 火 罒 虫
@@ -23234,7 +23234,7 @@
 猪:日 犭 耂
 猪.C_xxxk.xxxk:丶 日 犭 耂
 猫:犭 田 艹
-猫.htxx:犭 田 艹.V_htxx*0
+猫.htxx:犭 田 艹
 猬:月 犭 田
 猭:彑 犭 𧰨
 献:冂 十 犬 𢆉
@@ -23299,7 +23299,7 @@
 獎.C_xtxx.xtxx:一 夕 寸 爿 犬
 獎.hxxx:丶 夕 寸 爿 犬
 獏:大 日 犭 艹
-獏.htxx:大 日 犭 艹.V_htxx*0
+獏.htxx:大 日 犭 艹
 獐:十 日 犭 立
 獐.xxjk:十 日 犭 立.A_xxjk
 獑:斤 犭 車
@@ -23337,8 +23337,8 @@
 獤:一 亨 攵 犭
 獥:万 丶 攵 犭 白
 獦:匃 日 犭 艹
-獦.hxxx:匃.A_htxx 日 犭 艹.V_htxx*0
-獦.xtxx:匃.A_htxx 日 犭 艹.V_htxx*0
+獦.hxxx:匃.A_htxx 日 犭 艹
+獦.xtxx:匃.A_htxx 日 犭 艹
 獦.xxjk:匃.A_xxjk 日 犭 艹
 獧:一 口 犭 罒 𧘇
 獧.xxjk:一 口 犭 罒 𧘇.xxjk
@@ -23357,11 +23357,11 @@
 獱:一 宀 犭 貝 𣥂
 獱.xxjk:一 宀 犭 貝 𣥂
 獲:又 犭 艹 隹
-獲.htxx:又 犭 艹.V_htjk*0 隹
+獲.htxx:又 犭 艹 隹
 獲.xxjk:又 犭 艹 隹.A_xxjk
 獳:⻗ 犭 而
 獴:一 冖 犭 艹 𧰨
-獴.htxx:一 冖 犭 艹.V_htxx*0 𧰨
+獴.htxx:一 冖 犭 艹 𧰨
 獵:巤 犭
 獵.hxxx:巤.A_htjx 犭
 獵.xtxx:巤.V_xtxx*0 犭
@@ -23383,7 +23383,7 @@
 獼.xxjk:弓.A_xxjk 爾 犭
 獽:犭 襄
 獾:口 犭 艹 隹
-獾.htxx:口 犭 艹.V_htjk*0 隹
+獾.htxx:口 犭 艹 隹
 獿:一 八 夂 巳 止 犭 自
 獿.xtxx:一 八 夂.L_xtxx*1 巳 止 犭 自
 玀:犭 糹 罒 隹
@@ -23392,7 +23392,7 @@
 玁.C_htjk.htjx:一 丨 厂 口 攵 犭 耳.L_htjk*0
 玁.C_htjk.xxxk:一 丨 厂 口 攵 犭 耳
 玂:一 口 斤 犭 田 艹
-玂.htxx:一 口 斤 犭 田 艹.V_htxx*0
+玂.htxx:一 口 斤 犭 田 艹
 玃:又 犭 目 隹
 玃.xxjk:又 犭 目 隹.A_xxjk
 玄:亠 幺
@@ -23708,7 +23708,7 @@
 瑚.C_xtxx.xtxx:⺼ 十 口 王
 瑚.hxxx:十 口 月.E_hxxx*0 王
 瑛:央 王 艹
-瑛.htxx:央.htxx 王 艹.V_htxx*0
+瑛.htxx:央.htxx 王 艹
 瑜:俞 王
 瑜.xtxx:俞.A_xtxx 王
 瑜.xxjx:俞.V_xxxk*0 王
@@ -23765,7 +23765,7 @@
 瑷:冖 友 爫 王
 瑸:丘 八 宀 王
 瑹:一 人 朩 王 艹
-瑹.htxx:一 人 朩 王 艹.V_htxx*0
+瑹.htxx:一 人 朩 王 艹
 瑺:⺌ 冖 口 巾 王
 瑻:毌 王 貝
 瑼:丶 寸 王 車
@@ -23845,7 +23845,7 @@
 璣.xxjk:幾.A_xxjk 王
 璤:丶 心 王 車
 璥:勹 口 攵 王 艹
-璥.htxx:勹 口 攵 王 艹.V_htjk*0
+璥.htxx:勹 口 攵 王 艹
 璦:冖 夂 心 爫 王
 璦.xtxx:冖 夂.L_xtxx*1 心 爫 王
 璧:丶 十 口 尸 王 立
@@ -23896,9 +23896,9 @@
 瓀:⻗ 王 而
 瓀.htxx:⻗.A_hxxx 王 而
 瓁:又 王 艹 隹
-瓁.htxx:又 王 艹.V_htjk*0 隹
+瓁.htxx:又 王 艹 隹
 瓂:去 王 皿 艹
-瓂.htxx:去 王 皿 艹.V_htxx*0
+瓂.htxx:去 王 皿 艹
 瓃:王 田
 瓄:工 王 罒 貝
 瓅:幺 木 王 白
@@ -23934,7 +23934,7 @@
 瓗:冏 山 王 隹
 瓗.htxx:冏.A_htxx 山 王 隹
 瓘:口 王 艹 隹
-瓘.htxx:口 王 艹.V_htjk*0 隹
+瓘.htxx:口 王 艹 隹
 瓘.xxjk:口 王 艹 隹.A_xxjk
 瓙:壽 灬 王
 瓚:儿 儿 牛 王 貝
@@ -24066,7 +24066,7 @@
 甌.htxx:一 口 瓦.A_htjk 𠃊.V_hxjk*0
 甌.xxjk:匚.L_xxjk*0 口 瓦.V_xxjk*0
 甍:冖 瓦 罒 艹
-甍.htxx:冖 瓦.A_htjk 罒 艹.V_htjk*0
+甍.htxx:冖 瓦.A_htjk 罒 艹
 甍.xxjk:冖 瓦.V_xxjk*0 罒 艹
 甎:丶 寸 瓦 車
 甎.htxx:丶 寸 瓦.A_htjk 車
@@ -24528,7 +24528,7 @@
 瘓.C_htxx.htxx:人 冂 大 疒 𠂊
 瘓.C_xxjk.xxjk:儿 冂 大 疒.A_xxjk 𠂊
 瘔:十 口 疒 艹
-瘔.htxx:十 口 疒 艹.V_htxx*0
+瘔.htxx:十 口 疒 艹
 瘕:叚 疒
 瘕.xxjk:叚 疒.A_xxjk
 瘖:日 疒 立
@@ -24583,7 +24583,7 @@
 瘨.C_xxjk.xxjk:八 匕 疒.A_xxjk 目 𠃊
 瘨.hxxx:八 疒 直.hxxx*0
 瘩:一 人 口 疒 艹
-瘩.htxx:一 人 口 疒 艹.V_htxx*0
+瘩.htxx:一 人 口 疒 艹
 瘩.xxjk:一 人 口 疒.A_xxjk 艹
 瘪:人 匕 疒 自
 瘫:又 疒 隹
@@ -24621,7 +24621,7 @@
 瘻.htxx:婁.V_hxxx*0 疒
 瘻.xxjk:婁.A_xxjk 疒.A_xxjk
 瘼:大 日 疒 艹
-瘼.htxx:大 日 疒 艹.V_htxx*0
+瘼.htxx:大 日 疒 艹
 瘼.xxjk:大 日 疒.A_xxjk 艹
 瘽:堇 疒
 瘾:㇌ 丨 彐 心 疒 𠂊
@@ -24678,7 +24678,7 @@
 癗:⻗ 田 疒
 癗.htxx:⻗.A_hxxx 田 疒
 癘:疒 禺 艹
-癘.htxx:疒 禺.A_htxx 艹.V_htxx*0
+癘.htxx:疒 禺.A_htxx 艹
 癘.xxjk:疒.A_xxjk 禺 艹
 癙:疒 鼠
 癙.htxx:疒 鼠.A_htxx
@@ -25139,7 +25139,7 @@
 瞃:十 目 𠂆
 瞃.htxx:十 目 𠂆
 瞄:田 目 艹
-瞄.htxx:田 目 艹.V_htxx*0
+瞄.htxx:田 目 艹
 瞅:火 目 禾
 瞅.htxx:火.V_htxx*0 目 禾
 瞆:一 中 目 贝
@@ -25175,7 +25175,7 @@
 瞘:匚 口 目
 瞘.htxx:一 口 目 𠃊.V_hxjk*0
 瞙:大 日 目 艹
-瞙.htxx:大 日 目 艹.V_htxx*0
+瞙.htxx:大 日 目 艹
 瞚:一 八 宀 田 目
 瞚.xxjk:一 八 宀 田 目
 瞛:人 彳 目 龰
@@ -25191,7 +25191,7 @@
 瞠:⺌ 冖 口 工 目
 瞡:一 大 目 見
 瞢:冖 目 罒 艹
-瞢.htxx:冖 目 罒 艹.V_htxx*0
+瞢.htxx:冖 目 罒 艹
 瞣:中 口 心 目
 瞤:王 目 門
 瞥:㡀 攵 目
@@ -25254,14 +25254,14 @@
 矅.htxx:习 目 隹
 矆:又 目 艹 隹
 矇:一 冖 目 艹 𧰨
-矇.htxx:一 冖 目 艹.V_htxx*0 𧰨
+矇.htxx:一 冖 目 艹 𧰨
 矇.xxjk:一 冖 目 艹 𧰨.V_xxjk*0
 矈:万 丶 白 目 穴
 矉:一 宀 目 貝 𣥂
 矉.xxjk:一 宀 目 貝 𣥂
 矊:巾 白 目 糹
 矋:厂 目 禺 艹
-矋.htxx:厂 目 禺.A_htxx 艹.V_htxx*0
+矋.htxx:厂 目 禺.A_htxx 艹
 矌:一 八 广 田 目 艹
 矌.C_htxx.htxx:一 八 广 廿 田 目
 矍:又 目 隹
@@ -25273,11 +25273,11 @@
 矐.htxx:⻗.A_hxxx 目 隹
 矑:田 皿 目 虍
 矒:冖 目 罒 艹
-矒.xxjk:冖 目 罒 艹.V_htjk*0
+矒.xxjk:冖 目 罒 艹
 矓:目 龍
 矓.xtxx:目 龍.A_xtxx
 矔:口 目 艹 隹
-矔.htxx:口 目 艹.V_htjk*0 隹
+矔.htxx:口 目 艹 隹
 矕:目 糹 言
 矕.C_xxjk.xxjk:小 幺.A_xxjk 目 言.A_xxjk
 矖:丽 目 鹿
@@ -25330,7 +25330,7 @@
 矰.hxxx:曾.A_hxxx 矢
 矰.xxjk:曾.A_xxjk 矢
 矱:又 矢 艹 隹
-矱.htxx:又 矢 艹.V_htjk*0 隹
+矱.htxx:又 矢 艹 隹
 矱.xxjk:又 矢 艹 隹.A_xxjk
 矲:匕 厶 月 矢 罒
 矲.C_xtxx.xtxx:⺼ 匕.V_htxx*0 厶.A_xxjk 矢 罒
@@ -25435,7 +25435,7 @@
 砷:田 石
 砸:匚 巾 石
 砹:乂 石 艹
-砹.htxx:乂 石 艹.V_htxx*0
+砹.htxx:乂 石 艹
 砺:万 厂 石
 砻:石 龙
 砼:人 工 石
@@ -25500,7 +25500,7 @@
 硫.xxjk:亠 厶.A_xxjk 石 𫶧
 硬:更 石
 硭:亡 石 艹
-硭.htxx:亡.A_hxxx.A_xtxx 石 艹.V_htxx*0
+硭.htxx:亡.A_hxxx.A_xtxx 石 艹
 确:石 角
 确.htjk:石 角
 硯:石 見
@@ -25584,7 +25584,7 @@
 碣.hxxx:人 勹 日 石 𠃊.V_hxjk*0
 碣.xxjk:匃.A_xxjk 日 石
 碤:央 石 艹
-碤.htxx:央.htxx 石 艹.V_htxx*0
+碤.htxx:央.htxx 石 艹
 碥:扁 石
 碥.xtxx:扁.A_xtjk 石
 碦:口 夂 宀 石
@@ -25788,18 +25788,18 @@
 礜.htxx:石 與.A_htxx
 礝:⻗ 石 而
 礞:一 冖 石 艹 𧰨
-礞.htxx:一 冖 石 艹.V_htxx*0 𧰨
+礞.htxx:一 冖 石 艹 𧰨
 礞.xxjk:一 冖 石 艹 𧰨.V_xxjk*0
 礟:㐅 乂 石 馬
 礠:䒑 幺 心 石
 礠.xxjk:幺.A_xxjk 心 石 艹
 礡:寸 甫 石 艹
-礡.htxx:寸 甫 石 艹.V_htxx*0
+礡.htxx:寸 甫 石 艹
 礢:丶 丷 石 艮 𡗗
 礣:丶 戊 石 罒 艹
 礤:石 祭 艹
-礤.hxxx:石 祭 艹.V_htxx*0
-礤.xtxx:石 祭.A_xtxx 艹.V_htxx*0
+礤.hxxx:石 祭 艹
+礤.xtxx:石 祭.A_xtxx 艹
 礥:又 石 臣 貝
 礦:一 八 广 田 石 艹
 礦.C_hxjk.hxxx:一 八 广 廿 田 石
@@ -25809,7 +25809,7 @@
 礨:田 石
 礩:斤 石 貝
 礪:厂 石 禺 艹
-礪.htxx:厂 石 禺.A_htxx 艹.V_htxx*0
+礪.htxx:厂 石 禺.A_htxx 艹
 礫:幺 木 白 石
 礫.xtxx:幺 木 白 石
 礫.xxjk:幺.A_xxjk 木 白 石
@@ -25830,11 +25830,11 @@
 礳:广 木 木 石
 礳.htxx:广 木 石
 礴:寸 氵 甫 石 艹
-礴.htxx:寸 氵 甫 石 艹.V_htxx*0
+礴.htxx:寸 氵 甫 石 艹
 礵:⻗ 木 目 石
 礵.htxx:⻗.A_hxxx 木 目 石
 礶:口 石 艹 隹
-礶.htxx:口 石 艹.V_htjk*0 隹
+礶.htxx:口 石 艹 隹
 礷:丶 皿 石 臣 艹 𠂉
 礸:儿 儿 牛 石 貝
 礹:乛 厂 口 攵 石 耳
@@ -26082,7 +26082,7 @@
 禱:壽 礻
 禱.C_xxjk.xxjk:壽 示.V_xxjk*0
 禲:厂 礻 禺 艹
-禲.htxx:厂 礻 禺.A_htxx 艹.V_htxx*0
+禲.htxx:厂 礻 禺.A_htxx 艹
 禳:礻 襄
 禳.C_xxjk.xxjk:示.V_xxjk*0 襄.A_xxjk
 禴:礻 龠
@@ -26396,7 +26396,7 @@
 穩.xxjk:工 彐.A_htjk 心 爫.A_xxjk 禾
 穪:爾 禾
 穫:又 禾 艹 隹
-穫.htxx:又 禾 艹.V_htxx*0 隹
+穫.htxx:又 禾 艹 隹
 穫.xxjk:又 禾 艹 隹.A_xxjk
 穬:一 八 广 田 禾 艹
 穬.C_hxxx.hxxx:一 八 广 田 禾 艹
@@ -26987,7 +26987,7 @@
 箪.xxjk:⺮ 一 丶 丷 田
 箫:⺮ 肃
 箬:⺮ 口 艹 𠂇
-箬.htxx:⺮ 口 艹.V_htxx*0 𠂇
+箬.htxx:⺮ 口 艹 𠂇
 箭:⺮ 䒑 刂 月
 箭.xtxx:⺮ 䒑 刂 月.E_xtjk*0
 箭.xxjx:⺮ 䒑 刂 月.V_xxjx*0
@@ -27515,8 +27515,8 @@
 糌:卜 夂 日 米
 糌.C_xtxx.xtxx:人 夂 日 米.A_xtxx
 糍:䒑 幺 米
-糍.hxxx:幺 米.A_xtxx 艹.V_htxx*0
-糍.xtxx:幺 米 艹.V_htxx*0
+糍.hxxx:幺 米.A_xtxx 艹
+糍.xtxx:幺 米 艹
 糍.xxjk:䒑 幺.A_xxjk 米
 糎:厂 米 里
 糎.xtxx:厂 米.A_xtxx 里
@@ -27550,8 +27550,8 @@
 糙.xxjx:口 牛 米 辶.V_xxjk*0
 糙.xxxk:口 牛 米 辶.V_xxjk*0
 糚:工 爿 米 艹
-糚.hxxx:工 爿 米 艹.V_htxx*0
-糚.xtxx:工 爿 米 艹.V_htxx*0
+糚.hxxx:工 爿 米 艹
+糚.xtxx:工 爿 米 艹
 糛:⺌ 冖 口 工 米
 糜:广 木 木 米
 糜.C_xtjk.xtxx:广 木.E_htxx*0 米.A_xtxx
@@ -27571,8 +27571,8 @@
 糠.xxjk:广.A_xxjk 米 隶
 糡:儿 日 立 米
 糢:大 日 米 艹
-糢.hxxx:大 日 米 艹.V_htxx*0
-糢.xtxx:大 日 米.A_xtxx 艹.V_htxx*0
+糢.hxxx:大 日 米 艹
+糢.xtxx:大 日 米.A_xtxx 艹
 糣:旡 旡 日 米
 糤:一 攵 月 米 艹
 糥:米 而
@@ -27601,24 +27601,24 @@
 糱:㠯 丿 十 屮 立 米
 糱.xtxk:㠯 丿 十 屮 立 米.A_xtxx
 糲:厂 禺 米 艹
-糲.hxxx:厂 禺.A_htxx 米 艹.V_htxx*0
-糲.xtxx:厂 禺.A_htxx 米.A_xtxx 艹.V_htxx*0
+糲.hxxx:厂 禺.A_htxx 米 艹
+糲.xtxx:厂 禺.A_htxx 米.A_xtxx 艹
 糳:业 又 米 臼 𠘧 𢆉
 糴:习 入 米 隹
 糴.hxxx:习 入.A_htjk 米 隹
 糴.xtxx:习 入.A_htjk 米.A_xtxx 隹
 糴.xxjk:习.xxjk 入.A_htjk 米 隹.A_xxjk
 糵:㠯 丿 十 立 米 艹
-糵.hxxx:㠯 丿 十 立 米 艹.V_htxx*0
-糵.xtxx:㠯 丿 十 立 米.A_xtxx 艹.V_htxx*0
+糵.hxxx:㠯 丿 十 立 米 艹
+糵.xtxx:㠯 丿 十 立 米.A_xtxx 艹
 糵.xxjk:㠯 丿 十 立.A_xxjk 米 艹
 糶:习 出 米 隹
 糶.xtxx:习.E_htxx*0 出 米.A_xtxx 隹
 糶.xxjx:习.xxjk 出 米 隹.A_xxjk
 糶.xxxk:习.xxjk 出 米 隹.A_xxjk
 糷:柬 米 艹 門
-糷.hxxx:柬 米 艹.V_htxx*0 門
-糷.xtxx:柬 米.A_xtxx 艹.V_htxx*0 門
+糷.hxxx:柬 米 艹 門
+糷.xtxx:柬 米.A_xtxx 艹 門
 糸:小 幺
 糸.xxjk:小 幺.A_xxjk
 糹:糹
@@ -28081,7 +28081,7 @@
 緒:日 糹 耂
 緒.C_xxjk.xxjk:小 幺.A_xxjk 日 耂
 緓:央 糹 艹
-緓.htxx:央.htxx 糹 艹.V_htxx*0
+緓.htxx:央.htxx 糹 艹
 緔:⺌ 冂 口 糹
 緕:一 丨 丿 文 糹
 緕.C_xxjk.xxjk:一 丨 丿 小 幺.A_xxjk 文.A_xxjk
@@ -28297,7 +28297,7 @@
 縷.hxxx:婁.A_hxxx 糹
 縷.xtxx:婁.A_xtxx 糹
 縸:大 日 糹 艹
-縸.htxx:大 日 糹 艹.V_htxx*0
+縸.htxx:大 日 糹 艹
 縹:示 糹 覀
 縹.C_xxjk.xxjk:小 幺.A_xxjk 示 覀
 縹.xtxx:示.A_xtxx 糹 覀
@@ -28412,7 +28412,7 @@
 繬:人 回 工 糹
 繭:丨 冂 糹 艹 虫
 繭.C_xxjk.xxjx:丨 冂 小 幺.A_xxjk 艹 虫
-繭.htxx:丨 冂 小 幺.A_xxjk 艹.V_htxx*0 虫
+繭.htxx:丨 冂 小 幺.A_xxjk 艹 虫
 繮:一 田 糹
 繮.C_xxjk.xxjk:一 小 幺.A_xxjk 田
 繯:一 口 糹 罒 𧘇
@@ -28736,7 +28736,7 @@
 罏.htxx:田 皿 缶 虍.A_htxx
 罏.xxjk:田 皿 缶.A_xxjk 虍
 罐:口 缶 艹 隹
-罐.htxx:口 缶 艹.V_htjk*0 隹
+罐.htxx:口 缶 艹 隹
 罐.xxjk:口 缶.A_xxjk 艹 隹.A_xxjk
 网:㐅 冂
 网.xxjk:㐅 冂
@@ -28823,7 +28823,7 @@
 羂:口 月 糹 罒
 羂.C_xxjk.xxjk:口 小 幺.A_xxjk 月 罒
 羃:大 巾 日 罒 艹
-羃.htxx:大 巾 日 罒 艹.V_htxx*0
+羃.htxx:大 巾 日 罒 艹
 羄:⺊ 十 日 糹 罒
 羅:糹 罒 隹
 羅.C_xxjk.xxjk:小 幺.A_xxjk 罒 隹.A_xxjk
@@ -29167,7 +29167,7 @@
 耮.C_htjk.htxx:一 丿 冖 力 木 火.V_htxx*0
 耮.C_htjk.xxjk:一 丿 冖 力 木 火
 耯:一 又 木 艹 隹
-耯.C_htxx.htxx:一 丿 又 木 艹.V_htxx*0 隹
+耯.C_htxx.htxx:一 丿 又 木 艹 隹
 耰:一 憂 木
 耰.C_htjk.hxjk:一 丿 憂 木
 耰.C_htjk.xtxx:一 丿 憂.A_xtxx 木
@@ -29917,7 +29917,7 @@
 膛:⺌ 冖 口 工 月
 膛.C_htxx.htxx:⺌ ⺼ 冖 口 工
 膜:大 日 月 艹
-膜.C_htxx.htxx:⺼ 大.E_htjk*0 日 艹.V_htxx*0
+膜.C_htxx.htxx:⺼ 大.E_htjk*0 日 艹
 膝:人 月 木 氺
 膝.htxx:⺼ 人 木 氺
 膞:丶 寸 月 車
@@ -29967,7 +29967,7 @@
 膴:一 卌 月 灬 𠂉
 膴.C_htxx.htxx:⺼ 一 卌 灬 𠂉
 膵:卒 月 艹
-膵.C_htxx.htxx:⺼ 卒 艹.V_htxx*0
+膵.C_htxx.htxx:⺼ 卒 艹
 膵.xxjk:卒.A_xxjk 月 艹
 膶:月 王 門
 膶.C_htxx.htxx:⺼ 王 門
@@ -30017,7 +30017,7 @@
 臇:月 雋
 臇.C_htxx.htxx:⺼ 雋
 臈:匃 日 月 艹
-臈.C_htxx.htxx:⺼ 匃.A_htxx 日 艹.V_htxx*0
+臈.C_htxx.htxx:⺼ 匃.A_htxx 日 艹
 臈.xxjk:匃.A_xxjk 日 月 艹
 臉:僉 月
 臉.htxx:⺼ 僉
@@ -30040,7 +30040,7 @@
 臑:⻗ 月 而
 臑.C_htxx.htxx:⺼ ⻗.A_hxxx 而
 臒:又 月 艹 隹
-臒.C_htxx.htxx:⺼ 又 艹.V_htxx*0 隹
+臒.C_htxx.htxx:⺼ 又 艹 隹
 臓:戊 月 臣 艹
 臔:又 月 臣 貝
 臕:月 灬 鹿
@@ -30049,7 +30049,7 @@
 臖:一 八 冂 口 月 𦥑
 臖.xxjk:一 八 冂 口 月 𦥑
 臗:丶 儿 宀 月 目 艹
-臗.C_htxx.htxx:丶 儿 宀 月 目 艹.V_htjk*0
+臗.C_htxx.htxx:丶 儿 宀 月 目 艹
 臗.xxjk:丶 儿 宀 月 目 艹
 臘:巤 月
 臘.C_htxx.hxxx:⺼ 巤.A_htjx
@@ -30072,7 +30072,7 @@
 臞.C_htxx.htxx:⺼ 目 隹
 臞.xxjk:月 目 隹.A_xxjk
 臟:一 丿 戊 月 臣 艹 𠃊
-臟.C_htxx.htxx:⺼ 一 丿 戊 臣 艹.V_htxx*0 𠃊
+臟.C_htxx.htxx:⺼ 一 丿 戊 臣 艹 𠃊
 臟.xxjk:一 丿 戊 月 臣.L_xxjk*0 艹 𠃊
 臠:糹 肉 言
 臠.C_xxjk.xxjk:小 幺.A_xxjk 肉 言.A_xxjk
@@ -30153,7 +30153,7 @@
 舉.htxx:工 與.A_htxx
 舉.xxjk:工 與
 舊:臼 艹 隹
-舊.htxx:臼 艹.V_htjk*0 隹
+舊.htxx:臼 艹 隹
 舊.xxjk:臼 艹 隹.A_xxjk
 舋:一 目 冂 冖 口 𦥑
 舌:工 口
@@ -30380,7 +30380,7 @@
 艧:又 舟 艹 隹
 艧.xxjk:又 舟.V_xxjk*0 艹 隹.A_xxjk
 艨:一 冖 舟 艹 𧰨
-艨.htxx:一 冖 舟.V_htxx*0 艹.V_htxx*0 𧰨
+艨.htxx:一 冖 舟.V_htxx*0 艹 𧰨
 艨.xxjk:一 冖 舟.V_xxjk*0 艹 𧰨.V_xxjk*0
 艩:舟 齊
 艩.hxxx:舟.V_htxx*0 齊.A_hxxx
@@ -30415,315 +30415,315 @@
 艸:屮 屮
 艸.xxjk:屮 屮
 艹:艹
-艹.htxx:艹.V_htxx*0
+艹.htxx:艹
 艺:乙 艹
-艺.htxx:乙 艹.V_htxx*0
+艺.htxx:乙 艹
 艻:力 艹
-艻.htxx:力 艹.V_htxx*0
+艻.htxx:力 艹
 艼:丁 艹
 艽:九 艹
-艽.htxx:九 艹.V_htxx*0
+艽.htxx:九 艹
 艾:乂 艹
-艾.htxx:乂 艹.V_htxx*0
+艾.htxx:乂 艹
 艿:乃 艹
-艿.htxx:乃 艹.V_htxx*0
+艿.htxx:乃 艹
 艿.xxjk:乃.A_xxjk 艹
 芀:刀 艹
-芀.htxx:刀 艹.V_htxx*0
+芀.htxx:刀 艹
 芁:几 艹
 节:冂 艹
 芃:丶 几 艹
-芃.htxx:丶 几 艹.V_htxx*0
+芃.htxx:丶 几 艹
 芄:丶 九 艹
-芄.htxx:丶 九 艹.V_htxx*0
+芄.htxx:丶 九 艹
 芅:弋 艹
 芆:叉 艹
 芇:巾 艹
-芇.htxx:巾 艹.V_htxx*0
+芇.htxx:巾 艹
 芈:⺊ 一 丨 工
 芉:工 艹
 芊:工 艹
-芊.htxx:工 艹.V_htxx*0
+芊.htxx:工 艹
 芋:于 艹
-芋.htxx:于 艹.V_htxx*0
+芋.htxx:于 艹
 芌:一 丂 艹
 芍:丶 勹 艹
-芍.htxx:丶 勹 艹.V_htxx*0
+芍.htxx:丶 勹 艹
 芎:弓 艹
-芎.htxx:弓 艹.V_htxx*0
+芎.htxx:弓 艹
 芎.xxjk:弓.A_xxjk 艹
 芏:工 艹
-芏.htxx:工 艹.V_htxx*0
+芏.htxx:工 艹
 芐:一 卜 艹
-芐.htxx:一 卜 艹.V_htxx*0
+芐.htxx:一 卜 艹
 芑:巳 艹
-芑.htxx:巳 艹.V_htxx*0
+芑.htxx:巳 艹
 芒:亡 艹
-芒.htxx:亡.A_hxxx.A_xtxx 艹.V_htxx*0
+芒.htxx:亡.A_hxxx.A_xtxx 艹
 芒.xxjk:亡.A_xxjk 艹
 芓:一 了 艹
-芓.htxx:一 了 艹.V_htxx*0
+芓.htxx:一 了 艹
 芔:屮 屮
 芔.xxjk:屮 屮 屮.L_xxjk*0
 芕:夕 艹
 芖:大 艹
 芗:乡 艹
 芘:比 艹
-芘.htxx:比.A_htxx 艹.V_htxx*0
+芘.htxx:比.A_htxx 艹
 芘.xxjk:比.A_xxjk 艹
 芙:一 大 艹
-芙.htxx:一 大 艹.V_htxx*0
+芙.htxx:一 大 艹
 芚:屯 艹
-芚.htxx:屯 艹.V_htxx*0
+芚.htxx:屯 艹
 芚.xxjk:屯.A_xxjk 艹
 芛:尹 艹
-芛.htxx:尹 艹.V_htxx*0
+芛.htxx:尹 艹
 芜:一 尢 艹
 芝:之 艹
-芝.htxx:之 艹.V_htxx*0
+芝.htxx:之 艹
 芝.xxjk:之.A_xxjk 艹
 芞:气 艹
 芟:又 艹 𠘧
 芟.C_xxjk.xxjk:几.E_xxjk*0 又 艹
-芟.htxx:又 艹.V_htxx*0 𠘧
+芟.htxx:又 艹 𠘧
 芠:文 艹
-芠.htxx:文 艹.V_htxx*0
+芠.htxx:文 艹
 芠.xxjk:文.A_xxjk 艹
 芡:欠 艹
-芡.htxx:欠 艹.V_htxx*0
+芡.htxx:欠 艹
 芢:一 亻 艹
-芢.htxx:一 亻 艹.V_htxx*0
+芢.htxx:一 亻 艹
 芣:不 艹
-芣.htxx:不 艹.V_htxx*0
+芣.htxx:不 艹
 芤:一 乚 了 艹
-芤.htxx:一 乚 了 艹.V_htxx*0
+芤.htxx:一 乚 了 艹
 芥:介 艹
-芥.htxx:介 艹.V_htxx*0
+芥.htxx:介 艹
 芦:户 艹
-芦.C_xtjk.xtxx:户 艹.V_htxx*0
+芦.C_xtjk.xtxx:户 艹
 芦.C_xtjk.xxjk:户.htjk 艹
-芦.hxxx:户 艹.V_htxx*0
+芦.hxxx:户 艹
 芧:予 艹
-芧.htxx:予 艹.V_htxx*0
+芧.htxx:予 艹
 芨:及 艹
-芨.hxxx:及 艹.V_htxx*0
-芨.xtxx:及.A_xtxk 艹.V_htxx*0
+芨.hxxx:及 艹
+芨.xtxx:及.A_xtxk 艹
 芨.xxjx:及.A_xxjx 艹
 芨.xxxk:及.A_xtxk 艹
 芩:今 艹
-芩.htxx:今.A_htjk 艹.V_htxx*0
+芩.htxx:今.A_htjk 艹
 芩.xxjk:今.A_htjk 艹
 芪:氏 艹
-芪.htxx:氏 艹.V_htxx*0
+芪.htxx:氏 艹
 芪.xxjk:氏.A_xxjk 艹
 芫:一 兀 艹
-芫.htxx:一 兀 艹.V_htxx*0
+芫.htxx:一 兀 艹
 芬:八 刀 艹
-芬.hxxx:八 刀 艹.V_htxx*0
-芬.xtxx:八 刀 艹.V_htxx*0
+芬.hxxx:八 刀 艹
+芬.xtxx:八 刀 艹
 芬.xxjk:八.V_xxjk0 刀 艹
 芭:巴 艹
-芭.htxx:巴 艹.V_htxx*0
+芭.htxx:巴 艹
 芮:内 艹
-芮.htxx:内.V_htjk*0 艹.V_htxx*0
+芮.htxx:内.V_htjk*0 艹
 芮.xxjk:内.V_htjk*0 艹
 芯:心 艹
-芯.htxx:心 艹.V_htxx*0
+芯.htxx:心 艹
 芰:十 又 艹
-芰.htxx:十 又 艹.V_htxx*0
+芰.htxx:十 又 艹
 花:亻 匕 艹
-花.hxxx:亻 匕.L_hxjk*0 艹.V_htxx*0
-花.xtxx:亻 匕.V_htxx*0 艹.V_htxx*0
+花.hxxx:亻 匕.L_hxjk*0 艹
+花.xtxx:亻 匕.V_htxx*0 艹
 花.xxjk:亻 匕.L_hxjk*0 艹
 芲:人 匕 艹
 芲.xxjk:人 匕 艹
 芳:万 丶 艹
 芳.C_xxjk.xxjk:万 丶 艹
-芳.htxx:万 丶 艹.V_htxx*0
+芳.htxx:万 丶 艹
 芴:勿 艹
-芴.htxx:勿 艹.V_htxx*0
+芴.htxx:勿 艹
 芵:夬 艹
 芶:勹 厶 艹
-芶.htxx:勹 厶 艹.V_htxx*0
+芶.htxx:勹 厶 艹
 芷:止 艹
-芷.htxx:止 艹.V_htxx*0
+芷.htxx:止 艹
 芸:云 艹
-芸.htxx:云 艹.V_htxx*0
+芸.htxx:云 艹
 芸.xxjk:云.A_xxjk 艹
 芹:斤 艹
-芹.htxx:斤 艹.V_htxx*0
+芹.htxx:斤 艹
 芺:夭 艹
-芺.htxx:夭 艹.V_htxx*0
+芺.htxx:夭 艹
 芻:勹 屮
 芻.xxjk:勹 屮
 芼:毛 艹
-芼.htxx:毛 艹.V_htxx*0
+芼.htxx:毛 艹
 芽:牙 艹
-芽.htxx:牙.A_htxx 艹.V_htxx*0
+芽.htxx:牙.A_htxx 艹
 芽.xxjk:牙.A_xxxk 艹
 芾:一 巾 艹
-芾.htxx:一 巾 艹.V_htxx*0
+芾.htxx:一 巾 艹
 芿:乃 亻 艹
-芿.htxx:乃 亻 艹.V_htxx*0
+芿.htxx:乃 亻 艹
 芿.xxjk:乃.A_xxjk 亻 艹
 苀:亠 几 艹
-苀.htxx:亠 几 艹.V_htxx*0
+苀.htxx:亠 几 艹
 苁:人 人 艹
 苂:火 艹
-苂.htxx:火.V_htxx*0 艹.V_htxx*0
+苂.htxx:火.V_htxx*0 艹
 苃:友 艹
 苄:亠 卜 艹
-苄.htxx:亠 卜 艹.V_htxx*0
+苄.htxx:亠 卜 艹
 苅:㐅 刂 艹
 苆:㇀ 刀 艹 𠄌
 苇:艹 韦
 苈:力 厂 艹
 苉:儿 匚 艹
 苊:㔾 厂 艹
-苊.htxx:㔾 厂 艹.V_htxx*0
+苊.htxx:㔾 厂 艹
 苋:艹 见
 苌:艹 长
 苍:㔾 人 艹
 苎:一 宀 艹
 苏:丶 丿 力 艹
-苏.htxx:丶 丿 力 艹.V_htxx*0
+苏.htxx:丶 丿 力 艹
 苐:丨 丿 弓 艹
-苐.htxx:丨 丿 弓 艹.V_htxx*0
+苐.htxx:丨 丿 弓 艹
 苐.xxjk:丨 丿 弓.A_xxjk 艹
 苑:㔾 夕 艹
-苑.htxx:㔾 夕 艹.V_htxx*0
+苑.htxx:㔾 夕 艹
 苒:冉 艹
-苒.htxx:冉 艹.V_htxx*0
+苒.htxx:冉 艹
 苒.xxxk:冉 艹
 苓:丶 今 艹
 苓.C_xxjk.xxjk:令.A_xxjk 艹
-苓.htxx:丶 今.A_htjk 艹.V_htxx*0
+苓.htxx:丶 今.A_htjk 艹
 苔:厶 口 艹
-苔.htxx:厶 口 艹.V_htxx*0
+苔.htxx:厶 口 艹
 苔.xxjk:厶.A_xxjk 口 艹
 苕:刀 口 艹
-苕.htxx:刀 口 艹.V_htxx*0
+苕.htxx:刀 口 艹
 苖:田 艹
 苗:田 艹
-苗.htxx:田 艹.V_htxx*0
+苗.htxx:田 艹
 苘:冂 口 艹
-苘.htxx:冂 口 艹.V_htxx*0
+苘.htxx:冂 口 艹
 苙:立 艹
-苙.htxx:立 艹.V_htxx*0
+苙.htxx:立 艹
 苙.xxjk:立.A_xxjk 艹
 苚:用 艹
 苛:可 艹
-苛.htxx:可 艹.V_htxx*0
+苛.htxx:可 艹
 苜:目 艹
-苜.htxx:目 艹.V_htxx*0
+苜.htxx:目 艹
 苝:北 艹
 苞:包 艹
-苞.htxx:包 艹.V_htxx*0
+苞.htxx:包 艹
 苟:句 艹
-苟.htxx:句 艹.V_htxx*0
+苟.htxx:句 艹
 苠:民 艹
-苠.htxx:民 艹.V_htxx*0
+苠.htxx:民 艹
 苠.xxjk:民.A_xxjk 艹
 苡:以.A_htjk 艹
-苡.htxx:以.A_htjk 艹.V_htxx*0
+苡.htxx:以.A_htjk 艹
 苡.xxjk:以.A_htjk 艹
 苢:㠯 艹
-苢.htxx:㠯 艹.V_htxx*0
+苢.htxx:㠯 艹
 苣:巨.A_xxjk 艹
-苣.htxx:巨.A_xxjk 艹.V_htxx*0
+苣.htxx:巨.A_xxjk 艹
 苣.xxjx:巨.A_xxjk 艹
 苣.xxxk:巨.A_xxjk 艹
 苤:一 不 艹
-苤.htxx:一 不 艹.V_htxx*0
+苤.htxx:一 不 艹
 若:口 艹 𠂇
-若.htxx:口 艹.V_htxx*0 𠂇
+若.htxx:口 艹 𠂇
 苦:十 口 艹
-苦.htxx:十 口 艹.V_htxx*0
+苦.htxx:十 口 艹
 苧:丁 宀 艹
-苧.htxx:丁 宀 艹.V_htxx*0
+苧.htxx:丁 宀 艹
 苧.xxjk:丁 宀 艹
 苨:匕 尸 艹
-苨.hxxx:匕 尸 艹.V_htxx*0
-苨.xtxx:匕.V_htxx*0 尸 艹.V_htxx*0
+苨.hxxx:匕 尸 艹
+苨.xtxx:匕.V_htxx*0 尸 艹
 苩:白 艹
 苪:一 内 艹
-苪.htxx:一 内 艹.V_htxx*0
+苪.htxx:一 内 艹
 苪.xxjk:一 内.V_htjk*0 艹
 苫:占 艹
-苫.htxx:占 艹.V_htxx*0
+苫.htxx:占 艹
 苬:人 口 艹
-苬.htxx:人 口 艹.V_htxx*0
+苬.htxx:人 口 艹
 苭:力 幺 艹
-苭.htxx:力 幺 艹.V_htxx*0
+苭.htxx:力 幺 艹
 苭.xxjk:力 幺.A_xxjk 艹
 苮:亻 山 艹
-苮.htxx:亻 山 艹.V_htxx*0
+苮.htxx:亻 山 艹
 苯:一 木 艹
-苯.htxx:一 木 艹.V_htxx*0
+苯.htxx:一 木 艹
 苰:厶 弓 艹
-苰.htxx:厶 弓 艹.V_htxx*0
+苰.htxx:厶 弓 艹
 英:央 艹
-英.htxx:央.htxx 艹.V_htxx*0
+英.htxx:央.htxx 艹
 苲:乍 艹
 苳:冬 艹
-苳.htxx:冬 艹.V_htxx*0
+苳.htxx:冬 艹
 苳.xxjk:冬.V_xxjk*0 艹
 苴:目 艹
-苴.htxx:目 艹.V_htxx*0
+苴.htxx:目 艹
 苵:矢 艹
 苶:人 小 艹
-苶.htxx:人 小 艹.V_htxx*0
+苶.htxx:人 小 艹
 苷:甘 艹
-苷.htxx:甘 艹.V_htxx*0
+苷.htxx:甘 艹
 苸:乎 艹
 苹:丷 工 艹
-苹.htxx:丷 工 艹.V_htxx*0
+苹.htxx:丷 工 艹
 苹.xxjk:丷 工 艹
 苺:母 艹
-苺.htxx:母 艹.V_htxx*0
+苺.htxx:母 艹
 苺.xxjk:母.A_xxjk 艹
 苻:亻 寸 艹
-苻.htxx:亻 寸 艹.V_htxx*0
+苻.htxx:亻 寸 艹
 苼:生 艹
 苽:瓜 艹
-苽.htxx:瓜 艹.V_htxx*0
+苽.htxx:瓜 艹
 苽.xxjk:瓜.A_xxjk 艹
 苾:必 艹
-苾.htxx:必 艹.V_htxx*0
+苾.htxx:必 艹
 苿:一 木 艹
-苿.htxx:一 木 艹.V_htxx*0
+苿.htxx:一 木 艹
 茀:弗 艹
-茀.htxx:弗 艹.V_htxx*0
+茀.htxx:弗 艹
 茀.xxjk:弗.A_xxjk 艹
 茁:出 艹
-茁.htxx:出 艹.V_htxx*0
+茁.htxx:出 艹
 茁.xxjk:出.A_xxjk 艹
 茂:戊 艹
-茂.htxx:戊 艹.V_htxx*0
+茂.htxx:戊 艹
 范:㔾 氵 艹
-范.htxx:㔾 氵 艹.V_htxx*0
+范.htxx:㔾 氵 艹
 茄:力 口 艹
-茄.htxx:力 口 艹.V_htxx*0
+茄.htxx:力 口 艹
 茅:丿 予 艹
-茅.htxx:丿 予 艹.V_htxx*0
+茅.htxx:丿 予 艹
 茆:冂 艹 𠂎
-茆.htxx:冂 艹.V_htxx*0 𠂎
+茆.htxx:冂 艹 𠂎
 茆.xxjk:冂 艹 𠂎.A_xxjk
 茇:犮 艹
-茇.htxx:犮.A_htjk 艹.V_htxx*0
+茇.htxx:犮.A_htjk 艹
 茇.xxjk:犮.A_htjk 艹
 茈:匕 止 艹
-茈.hxxx:匕 止 艹.V_htxx*0
-茈.xtxx:匕.V_htxx*0 止 艹.V_htxx*0
+茈.hxxx:匕 止 艹
+茈.xtxx:匕.V_htxx*0 止 艹
 茉:一 木 艹
-茉.htxx:一 木 艹.V_htxx*0
+茉.htxx:一 木 艹
 茊:丘 艹
 茋:丶 氏 艹
-茋.C_htjx.htxx:一 氏 艹.V_htxx*0
+茋.C_htjx.htxx:一 氏 艹
 茋.C_htjx.xxjx:一 氏.A_xxjk 艹
 茋.xxxk:一 氏.A_xxjk 艹
 茌:亻 工 艹
-茌.htxx:亻 工 艹.V_htxx*0
+茌.htxx:亻 工 艹
 茍:十 句
 茎:ス 工 艹
 茎.xxjk:又 工 艹
@@ -30735,150 +30735,150 @@
 茔:冖 工 艹
 茕:⺄ 冖 十 艹
 茖:口 夂 艹
-茖.htxx:口 夂 艹.V_htxx*0
+茖.htxx:口 夂 艹
 茗:口 夕 艹
-茗.htxx:口 夕 艹.V_htxx*0
+茗.htxx:口 夕 艹
 茘:刀 艹
-茘.htxx:刀 艹.V_htxx*0
+茘.htxx:刀 艹
 茙:戈 艹 𠂇
 茚:一 卬 艹
-茚.htxx:一 卬.A_xxjk 艹.V_htxx*0
+茚.htxx:一 卬.A_xxjk 艹
 茛:艮 艹
-茛.htxx:艮 艹.V_htxx*0
+茛.htxx:艮 艹
 茛.xxjk:艮.A_xxjk 艹
 茜:艹 西
-茜.htxx:艹.V_htxx*0 西
+茜.htxx:艹 西
 茝:艹 𦣞
-茝.htxx:艹.V_htxx*0 𦣞
+茝.htxx:艹 𦣞
 茝.xxjk:艹 𦣞
 茞:臣 艹
-茞.htxx:臣 艹.V_htxx*0
+茞.htxx:臣 艹
 茞.xxjk:臣.L_xxjk*0 艹
 茟:聿 艹
 茠:亻 木 艹
 茡:一 了 宀 艹
 茡.xxjk:一 了 宀 艹
 茢:一 刂 夕 艹
-茢.htxx:一 刂 夕 艹.V_htxx*0
+茢.htxx:一 刂 夕 艹
 茣:一 口 大 艹
 茣.xxjk:⺮ 一 口 大
 茤:夕 艹
-茤.htxx:夕 艹.V_htxx*0
+茤.htxx:夕 艹
 茥:工 艹
-茥.htxx:工 艹.V_htxx*0
+茥.htxx:工 艹
 茦:朿 艹
 茧:艹 虫
-茧.htxx:艹.V_htxx*0 虫
+茧.htxx:艹 虫
 茨:冫 欠 艹
-茨.hxxx:冫 欠 艹.V_htxx*0
-茨.xtxx:冫.V_xtxx*0 欠 艹.V_htxx*0
+茨.hxxx:冫 欠 艹
+茨.xtxx:冫.V_xtxx*0 欠 艹
 茨.xxjk:冫.V_xxjk*0 欠 艹
 茩:一 口 艹 𠂆
-茩.htxx:一 口 艹.V_htxx*0 𠂆
+茩.htxx:一 口 艹 𠂆
 茪:光 艹
-茪.htxx:光 艹.V_htxx*0
+茪.htxx:光 艹
 茫:亡 氵 艹
-茫.htxx:一 丶 氵 艹.V_htxx*0 𠃊.V_hxjk*0
+茫.htxx:一 丶 氵 艹 𠃊.V_hxjk*0
 茫.xxjx:亡.A_xxjk 氵 艹
 茫.xxxk:亡.A_xxjk 氵 艹
 茬:丨 工 艹 𠂇
-茬.htxx:丨 工 艹.V_htxx*0 𠂇
+茬.htxx:丨 工 艹 𠂇
 茭:交 艹
-茭.htxx:交 艹.V_htxx*0
+茭.htxx:交 艹
 茭.xxjk:交.A_xxjk 艹
 茮:尗 艹
 茯:亻 犬 艹
-茯.htxx:亻 犬 艹.V_htxx*0
+茯.htxx:亻 犬 艹
 茰:㇏ 丿 日 艹
 茱:朱 艹
-茱.htxx:朱 艹.V_htxx*0
+茱.htxx:朱 艹
 茲:幺 艹
-茲.htxx:幺 艹.V_htxx*0
+茲.htxx:幺 艹
 茲.xxjk:幺.A_xxjk 艹
 茳:工 氵 艹
-茳.htxx:工 氵 艹.V_htxx*0
+茳.htxx:工 氵 艹
 茴:回 艹
-茴.htxx:回 艹.V_htxx*0
+茴.htxx:回 艹
 茵:口 大 艹
-茵.htxx:口 大 艹.V_htxx*0
+茵.htxx:口 大 艹
 茵.xxjk:口 大 艹
 茶:人 朩 艹
-茶.C_htjk.hxxx:人 木 艹.V_htxx*0
-茶.C_htjk.xtxx:人 木 艹.V_htxx*0
+茶.C_htjk.hxxx:人 木 艹
+茶.C_htjk.xtxx:人 木 艹
 茶.C_htjk.xxjk:人 木 艹
 茷:亻 戈 艹
-茷.htxx:亻 戈 艹.V_htxx*0
+茷.htxx:亻 戈 艹
 茸:耳 艹
-茸.htxx:耳.A_htxx 艹.V_htxx*0
+茸.htxx:耳.A_htxx 艹
 茹:口 女 艹
-茹.htxx:口 女.V_htxx*0 艹.V_htxx*0
-茹.xxjk:口 女.V_xxjk0 艹.V_htxx*0
+茹.htxx:口 女.V_htxx*0 艹
+茹.xxjk:口 女.V_xxjk0 艹
 茺:亠 儿 厶 艹
-茺.htxx:一 儿 厶 艹.V_htxx*0
+茺.htxx:一 儿 厶 艹
 茺.xxjk:亠 儿 厶.A_xxjk 艹
 茻:屮 屮
 茼:一 冂 口 艹
-茼.htxx:一 冂 口 艹.V_htxx*0
+茼.htxx:一 冂 口 艹
 茽:中 亻 艹
-茽.htxx:中 亻 艹.V_htxx*0
+茽.htxx:中 亻 艹
 茾:开 艹
 茿:丶 几 工 艹
-茿.C_hxxx.hxxx:⺄ 丨 丶 工 艹.V_htxx*0
+茿.C_hxxx.hxxx:⺄ 丨 丶 工 艹
 荀:勹 日 艹
-荀.htxx:勹 日 艹.V_htxx*0
+荀.htxx:勹 日 艹
 荁:一 日 艹
 荂:一 丂 大 艹
-荂.htxx:一 丂 大 艹.V_htxx*0
+荂.htxx:一 丂 大 艹
 荂.xxjk:一 丂.A_xxjk 大 艹
 荃:人 王 艹
-荃.htxx:入.A_htjk 王 艹.V_htxx*0
+荃.htxx:入.A_htjk 王 艹
 荃.xxjk:入.A_htjk 王 艹
 荄:亥 艹
-荄.htxx:亥 艹.V_htxx*0
+荄.htxx:亥 艹
 荄.xxjk:亥.A_xxjk 艹
 荅:一 人 口 艹
-荅.htxx:一 人 口 艹.V_htxx*0
+荅.htxx:一 人 口 艹
 荆:刂 开 艹
 荇:一 丁 彳 艹
-荇.htxx:一 丁 彳 艹.V_htxx*0
+荇.htxx:一 丁 彳 艹
 荈:㐄 夕 艹
-荈.htxx:㐄 夕 艹.V_htxx*0
+荈.htxx:㐄 夕 艹
 草:十 日 艹
-草.htxx:十 日 艹.V_htxx*0
+草.htxx:十 日 艹
 荊:刂 开 艹
-荊.htxx:刂 开 艹.V_htxx*0
+荊.htxx:刂 开 艹
 荋:而 艹
 荌:女 宀 艹
-荌.htxx:女.A_htxx 宀 艹.V_htxx*0
+荌.htxx:女.A_htxx 宀 艹
 荍:丩 攵 艹
-荍.htxx:丩 攵 艹.V_htxx*0
+荍.htxx:丩 攵 艹
 荍.xxjk:丩.A_xxjk 攵 艹
 荎:至 艹
-荎.htxx:至 艹.V_htxx*0
+荎.htxx:至 艹
 荎.xxjk:至.A_xxjk 艹
 荏:亻 壬 艹
-荏.htxx:亻 壬.V_htxx0 艹.V_htxx*0
+荏.htxx:亻 壬.V_htxx0 艹
 荐:一 丨 了 艹 𠂇
-荐.htxx:一 丨 了 艹.V_htxx*0 𠂇
+荐.htxx:一 丨 了 艹 𠂇
 荑:夷 艹
-荑.htxx:夷 艹.V_htxx*0
+荑.htxx:夷 艹
 荑.xxjk:夷 艹
 荒:亡 艹 𫶧
-荒.hxxx:亡.A_hxxx.A_xtxx 艹.V_htxx*0 𫶧
-荒.xtxx:一 丶 艹.V_htxx*0 𠃊.V_hxjk*0 𫶧.A_xtxx
+荒.hxxx:亡.A_hxxx.A_xtxx 艹 𫶧
+荒.xtxx:一 丶 艹 𠃊.V_hxjk*0 𫶧.A_xtxx
 荒.xxjk:亡.A_xxjk 艹 𫶧
 荓:丷 开 艹
 荓.C_xxjk.xxjx:丿 工 工 艹
 荓.C_xxjk.xxxk:丿 工 工 艹
-荓.htxx:丷 开 艹.V_htxx*0
+荓.htxx:丷 开 艹
 荔:力 艹
-荔.htxx:力 艹.V_htxx*0
+荔.htxx:力 艹
 荕:力 月 艹
 荖:匕 耂 艹
-荖.hxxx:匕 耂 艹.V_htxx*0
-荖.xtxx:匕.V_htxx*0 耂 艹.V_htxx*0
+荖.hxxx:匕 耂 艹
+荖.xtxx:匕.V_htxx*0 耂 艹
 荗:丶 戊 艹
-荗.htxx:丶 戊 艹.V_htxx*0
+荗.htxx:丶 戊 艹
 荗.xxjk:丶 戊 艹
 荘:丬 工 艹
 荙:大 艹 辶
@@ -30891,7 +30891,7 @@
 荠:丨 丿 文 艹
 荡:氵 艹 𠃓
 荢:于 宀 艹
-荢.htxx:于 宀 艹.V_htxx*0
+荢.htxx:于 宀 艹
 荢.xxjk:于 宀 艹
 荣:冖 木 艹
 荤:冖 艹 车
@@ -30910,31 +30910,31 @@
 荱:尸 毛 艹
 荲:艹 里
 荳:艹 豆
-荳.htxx:艹.V_htxx*0 豆
+荳.htxx:艹 豆
 荴:一 大 扌 艹
 荵:丿 刀 心 艹
-荵.C_htjx.htxx:丿 刀 心 艹.V_htxx*0
+荵.C_htjx.htxx:丿 刀 心 艹
 荵.C_htjx.xxjx:丿 刀 心 艹
 荶:今 口 艹
-荶.htxx:今.A_htjk 口 艹.V_htxx*0
+荶.htxx:今.A_htjk 口 艹
 荷:亻 可 艹
-荷.htxx:亻 可 艹.V_htxx*0
+荷.htxx:亻 可 艹
 荸:孛 艹
-荸.htxx:孛 艹.V_htxx*0
+荸.htxx:孛 艹
 荹:止 艹 𣥂
 荺:匀 工 艹
-荺.htxx:匀.V_htjx*0 工 艹.V_htxx*0
+荺.htxx:匀.V_htjx*0 工 艹
 荻:火 犭 艹
-荻.htxx:火.V_htxx*0 犭 艹.V_htxx*0
+荻.htxx:火.V_htxx*0 犭 艹
 荼:一 人 朩 艹
-荼.htxx:一 人 朩 艹.V_htxx*0
+荼.htxx:一 人 朩 艹
 荽:女 爫 艹
-荽.htxx:女 爫 艹.V_htxx*0
+荽.htxx:女 爫 艹
 荽.xxjk:女.A_xxjk 爫.A_xxjk 艹
 荾:夋 艹
-荾.htxx:夋.A_htxx 艹.V_htxx*0
+荾.htxx:夋.A_htxx 艹
 荿:戊 艹 𠃌
-荿.htxx:戊 艹.V_htxx*0 𠃌
+荿.htxx:戊 艹 𠃌
 荿.xxjx:戊 艹 𠃌.V_xxjk*0
 莀:艹 辰
 莀.xxjk:艹 辰.A_xxjk
@@ -30943,107 +30943,107 @@
 莂.xtxx:刂 力 口 艹
 莂.xxjx:刂 力 口 艹
 莃:㐅 巾 艹 𠂇
-莃.htxx:㐅 巾 艹.V_htxx*0 𠂇
+莃.htxx:㐅 巾 艹 𠂇
 莄:更 艹
 莅:亻 立 艹
-莅.htxx:亻 立 艹.V_htxx*0
+莅.htxx:亻 立 艹
 莅.xxjk:亻 立.A_xxjk 艹
 莆:甫 艹
-莆.htxx:甫 艹.V_htxx*0
+莆.htxx:甫 艹
 莇:目 力 艹
-莇.htxx:目 力 艹.V_htxx*0
+莇.htxx:目 力 艹
 莈:又 氵 艹 𠘧
-莈.C_htxx.htxx:勹 又 氵 艹.V_htxx*0
+莈.C_htxx.htxx:勹 又 氵 艹
 莉:刂 禾 艹
-莉.htxx:刂 禾 艹.V_htxx*0
+莉.htxx:刂 禾 艹
 莊:工 爿 艹
-莊.htxx:工 爿 艹.V_htxx*0
+莊.htxx:工 爿 艹
 莋:乍 亻 艹
 莌:丷 儿 口 艹
-莌.hxxx:丷 儿 口 艹.V_htxx*0
-莌.xtxx:儿 八 口 艹.V_htxx*0
+莌.hxxx:丷 儿 口 艹
+莌.xtxx:儿 八 口 艹
 莍:求 艹
-莍.htxx:求 艹.V_htxx*0
+莍.htxx:求 艹
 莎:少 氵 艹
-莎.hxxx:少.A_hxjk 氵 艹.V_htxx*0
-莎.xtxx:少 氵 艹.V_htxx*0
-莎.xxjk:少.A_hxjk 氵 艹.V_htxx*0
+莎.hxxx:少.A_hxjk 氵 艹
+莎.xtxx:少 氵 艹
+莎.xxjk:少.A_hxjk 氵 艹
 莏:少 扌 艹
-莏.hxxx:少.A_hxjk 扌 艹.V_htxx*0
-莏.xtxx:少 扌 艹.V_htxx*0
+莏.hxxx:少.A_hxjk 扌 艹
+莏.xtxx:少 扌 艹
 莐:冘 氵 艹
 莑:丰 夂 艹
-莑.htxx:丰 夂 艹.V_htxx*0
+莑.htxx:丰 夂 艹
 莒:口 艹
-莒.C_htjk.htxx:丿 口 艹.V_htxx*0
+莒.C_htjk.htxx:丿 口 艹
 莒.C_htjk.xxjk:丿 口 艹
 莓:母 艹 𠂉
-莓.htxx:母 艹.V_htxx*0 𠂉
-莓.xxjk:母 艹.V_htxx*0 𠂉
+莓.htxx:母 艹 𠂉
+莓.xxjk:母 艹 𠂉
 莔:丨 八 口 艹 𠃍
-莔.C_htjk.htxx:丨 儿.A_htxx 口 艹.V_htxx*0 𠃍
+莔.C_htjk.htxx:丨 儿.A_htxx 口 艹 𠃍
 莔.C_htjk.xxjk:丨 儿.A_htxx 口 艹 𠃍
 莕:口 木 艹
-莕.htxx:口 木 艹.V_htxx*0
+莕.htxx:口 木 艹
 莖:巠 艹
-莖.htxx:巠 艹.V_htxx*0
+莖.htxx:巠 艹
 莗:艹 車
 莘:十 立 艹
-莘.htxx:十 立 艹.V_htxx*0
+莘.htxx:十 立 艹
 莘.xxjk:十 立.A_xxjk 艹
 莙:口 尹 艹
-莙.htxx:口 尹 艹.V_htxx*0
+莙.htxx:口 尹 艹
 莚:延 艹
-莚.htxx:延.A_htxx 艹.V_htxx*0
+莚.htxx:延.A_htxx 艹
 莚.xxjk:延.A_xxxk 艹
 莛:壬 廴 艹
-莛.htxx:壬 廴 艹.V_htxx*0
+莛.htxx:壬 廴 艹
 莛.xxjk:壬 廴.A_xxjk 艹
 莜:丨 亻 攵 艹
-莜.htxx:丨 亻 攵 艹.V_htxx*0
+莜.htxx:丨 亻 攵 艹
 莝:人 工 艹
-莝.htxx:人 工 艹.V_htxx*0
+莝.htxx:人 工 艹
 莞:一 兀 宀 艹
-莞.htxx:一 兀 宀 艹.V_htxx*0
-莞.xxjk:一.L_xxxk*0 兀 宀 艹.V_htxx*0
+莞.htxx:一 兀 宀 艹
+莞.xxjk:一.L_xxxk*0 兀 宀 艹
 莟:今 口 艹
-莟.htxx:今.A_htjk 口 艹.V_htxx*0
+莟.htxx:今.A_htjk 口 艹
 莟.xxjk:今.A_htjk 口 艹
 莠:乃 禾 艹
-莠.htxx:乃 禾 艹.V_htxx*0
+莠.htxx:乃 禾 艹
 莠.xxjk:乃.A_xxjk 禾 艹
 莡:艹 足
 莢:人 大 艹
-莢.htxx:人 大 艹.V_htxx*0
+莢.htxx:人 大 艹
 莣:亡 心 艹
-莣.htxx:亡.A_hxxx.A_xtxx 心 艹.V_htxx*0
+莣.htxx:亡.A_hxxx.A_xtxx 心 艹
 莤:艹 酉
 莥:丑 犭 艹
-莥.htxx:丑.A_htjk 犭 艹.V_htxx*0
+莥.htxx:丑.A_htjk 犭 艹
 莦:⺌ 月 艹
-莦.C_xtxx.xtxx:⺌ ⺼ 艹.V_htxx*0
+莦.C_xtxx.xtxx:⺌ ⺼ 艹
 莦.C_xxjk.xxjk:小 月 艹
-莦.hxxx:⺌ 月 艹.V_htxx*0
+莦.hxxx:⺌ 月 艹
 莧:艹 見
-莧.htxx:艹.V_htxx*0 見
+莧.htxx:艹 見
 莨:丶 艮 艹
 莨.C_xxjk.xxjk:丶 艮.A_xxjk 艹
-莨.htxx:丶 艮 艹.V_htxx*0
+莨.htxx:丶 艮 艹
 莩:一 了 爫 艹
-莩.htxx:一 了 爫 艹.V_htxx*0
+莩.htxx:一 了 爫 艹
 莩.xxjk:一.L_xxxk*0 了 爫.A_xxjk 艹
 莪:我 艹
-莪.htxx:我 艹.V_htxx*0
+莪.htxx:我 艹
 莫:大 日 艹
-莫.htxx:大 日 艹.V_htxx*0
+莫.htxx:大 日 艹
 莬:免 艹
-莬.htxx:免 艹.V_htxx*0
+莬.htxx:免 艹
 莭:一 丶 冂 艹 𠃍 𠄌
 莭.xxjk:匕 冂 白 艹
 莮:力 田 艹
 莯:木 氵 艹
 莰:工 欠 艹
-莰.htxx:工 欠 艹.V_htxx*0
+莰.htxx:工 欠 艹
 莱:来 艹
 莲:艹 车 辶
 莳:寸 日 艹
@@ -31057,1560 +31057,1560 @@
 莻:乃 匕 口 艹
 莼:屯 纟 艹
 莽:廾 犬 艹
-莽.htxx:廾 犬 艹.V_htxx*0
+莽.htxx:廾 犬 艹
 莽.xxjk:大 廾 艹
 莾:十 大 廾 艹
-莾.htxx:十 大 廾 艹.V_htxx*0
+莾.htxx:十 大 廾 艹
 莿:刂 朿 艹
-莿.htxx:刂 朿 艹.V_htxx*0
+莿.htxx:刂 朿 艹
 菀:㔾 夕 宀 艹
-菀.htxx:㔾 夕 宀 艹.V_htxx*0
-菀.xxjk:㔾.E_hxjk*0 夕 宀 艹.V_htxx*0
+菀.htxx:㔾 夕 宀 艹
+菀.xxjk:㔾.E_hxjk*0 夕 宀 艹
 菁:月 艹 龶
 菁.C_xxjk.xxjk:一 丨 冂 艹 龶
-菁.hxxx:月 艹.V_htxx*0 龶
-菁.xtxx:月.E_xtjk*0 艹.V_htxx*0 龶
+菁.hxxx:月 艹 龶
+菁.xtxx:月.E_xtjk*0 艹 龶
 菂:丶 勹 白 艹
-菂.htxx:丶 勹 白 艹.V_htxx*0
+菂.htxx:丶 勹 白 艹
 菃:巨 氵 艹
-菃.htxx:巨 氵 艹.V_htxx*0
+菃.htxx:巨 氵 艹
 菄:東 艹
 菅:㠯 宀 艹
-菅.htxx:㠯 宀 艹.V_htxx*0
-菅.xxjk:㠯 宀 艹.V_htxx*0
+菅.htxx:㠯 宀 艹
+菅.xxjk:㠯 宀 艹
 菆:又 耳 艹
-菆.htxx:又 耳.L_htjk*0 艹.V_htxx*0
+菆.htxx:又 耳.L_htjk*0 艹
 菇:十 口 女 艹
-菇.htxx:十 口 女.V_htxx*0 艹.V_htxx*0
+菇.htxx:十 口 女.V_htxx*0 艹
 菇.xxjk:十 口 女.V_xxjk0 艹
 菈:扌 立 艹
-菈.htxx:扌 立 艹.V_htxx*0
+菈.htxx:扌 立 艹
 菉:彐 氺 艹
-菉.C_htjk.htxx:彑 氺 艹.V_htxx*0
+菉.C_htjk.htxx:彑 氺 艹
 菉.C_htjk.xxjk:彑.A_xxjk 氺 艹
 菊:勹 米 艹
-菊.hxxx:勹 米 艹.V_htxx*0
-菊.xtxx:勹 米.A_xtxx 艹.V_htxx*0
+菊.hxxx:勹 米 艹
+菊.xtxx:勹 米.A_xtxx 艹
 菋:一 口 木 艹
 菌:口 禾 艹
-菌.htxx:口 禾 艹.V_htxx*0
+菌.htxx:口 禾 艹
 菌.xxjk:口 禾 艹
 菍:今 心 艹
-菍.htxx:今.A_htjk 心 艹.V_htxx*0
+菍.htxx:今.A_htjk 心 艹
 菎:日 比 艹
-菎.htxx:日 比.A_htxx 艹.V_htxx*0
+菎.htxx:日 比.A_htxx 艹
 菎.xxjk:日 比.A_xxjk 艹
 菏:可 氵 艹
-菏.htxx:可 氵 艹.V_htxx*0
+菏.htxx:可 氵 艹
 菐:业 丷 𡗗
 菑:巛 田 艹
-菑.htxx:巛 田 艹.V_htxx*0
+菑.htxx:巛 田 艹
 菒:果 艹
 菓:果 艹
-菓.hxxx:果 艹.V_htxx*0
+菓.hxxx:果 艹
 菔:冂 又 月 艹
-菔.htxx:冂 又 月 艹.V_htxx*0
+菔.htxx:冂 又 月 艹
 菔.xxjx:冂 又 月.V_xxjx*0 艹
 菕:侖 艹
-菕.htxx:侖 艹.V_htxx*0
+菕.htxx:侖 艹
 菖:日 艹
-菖.hxxx:日 日.L_htxx*0 艹.V_htxx*0
-菖.xtxx:日 艹.V_htxx*0
+菖.hxxx:日 日.L_htxx*0 艹
+菖.xtxx:日 艹
 菗:扌 田 艹
 菘:公 木 艹
-菘.hxxx:公 木 艹.V_htxx*0
-菘.xtxx:公.A_xtxx 木 艹.V_htxx*0
+菘.hxxx:公 木 艹
+菘.xtxx:公.A_xtxx 木 艹
 菘.xxjk:公.V_xxjx0 木 艹
 菙:垂 艹
-菙.htxx:垂.A_htxx 艹.V_htxx*0
+菙.htxx:垂.A_htxx 艹
 菚:戈 艹
 菛:艹 門
-菛.htxx:艹.V_htxx*0 門
+菛.htxx:艹 門
 菜:木 爫 艹
-菜.htxx:木 爫 艹.V_htxx*0
+菜.htxx:木 爫 艹
 菜.xxxk:木 爫.A_xxjk 艹
 菝:扌 犮 艹
-菝.htxx:扌 犮.A_htjk 艹.V_htxx*0
+菝.htxx:扌 犮.A_htjk 艹
 菝.xxjk:扌 犮.A_htjk 艹
 菞:丿 勹 禾 艹
-菞.htxx:丿 勹 禾 艹.V_htxx*0
+菞.htxx:丿 勹 禾 艹
 菟:丶 免 艹
-菟.htxx:丶 免 艹.V_htxx*0
+菟.htxx:丶 免 艹
 菟.xxjx:丶 免.V_xxjx*0 艹
 菠:氵 皮 艹
-菠.htxx:氵 皮 艹.V_htxx*0
+菠.htxx:氵 皮 艹
 菡:乛 凵 氺 艹
-菡.htxx:乛 凵 氺 艹.V_htxx*0
+菡.htxx:乛 凵 氺 艹
 菡.xxjk:乛 凵.A_xxjk 氺 艹
 菢:包 扌 艹
-菢.htxx:包 扌 艹.V_htxx*0
+菢.htxx:包 扌 艹
 菣:又 臣 艹
-菣.htxx:又 臣 艹.V_htxx*0
+菣.htxx:又 臣 艹
 菤:㔾 艹 龹
-菤.htxx:㔾 艹.V_htxx*0 龹
+菤.htxx:㔾 艹 龹
 菥:斤 木 艹
-菥.htxx:斤 木 艹.V_htxx*0
+菥.htxx:斤 木 艹
 菦:斤 艹 辶
 菧:丶 广 氏 艹
-菧.C_htxx.htxx:一 广 氏 艹.V_htxx*0
+菧.C_htxx.htxx:一 广 氏 艹
 菨:女 立 艹
-菨.htxx:女 立 艹.V_htxx*0
+菨.htxx:女 立 艹
 菨.xxjk:女.A_xxjk 立.A_xxjk 艹
 菩:口 立 艹
-菩.htxx:口 立 艹.V_htxx*0
+菩.htxx:口 立 艹
 菩.xxjk:口 立.A_xxjk 艹
 菪:宀 石 艹
-菪.htxx:宀 石 艹.V_htxx*0
-菪.xxjk:宀 石 艹.V_htxx*0
+菪.htxx:宀 石 艹
+菪.xxjk:宀 石 艹
 菫:一 口 艹 龶
-菫.htxx:一 口 艹.V_htxx*0 龶
+菫.htxx:一 口 艹 龶
 菬:刀 口 氵 艹
-菬.htxx:刀 口 氵 艹.V_htxx*0
+菬.htxx:刀 口 氵 艹
 菭:厶 口 氵 艹
-菭.htxx:厶 口 氵 艹.V_htxx*0
+菭.htxx:厶 口 氵 艹
 菮:コ 大 广 艹
-菮.htxx:コ 大 广 艹.V_htxx*0
+菮.htxx:コ 大 广 艹
 華:華
 華.htxx:華.A_htxx
 菰:一 了 瓜 艹
-菰.htxx:一 了 瓜 艹.V_htxx*0
+菰.htxx:一 了 瓜 艹
 菰.xxjk:一 了 瓜.A_xxjk 艹
 菱:夌 艹
-菱.hxxx:夌.A_hxxx 艹.V_htxx*0
-菱.xtxx:夌.A_xtxx 艹.V_htxx*0
+菱.hxxx:夌.A_hxxx 艹
+菱.xtxx:夌.A_xtxx 艹
 菱.xxjk:夌.A_xxjk 艹
 菲:艹 非
-菲.htxx:艹.V_htxx*0 非.V_htjk0
+菲.htxx:艹 非.V_htjk0
 菲.xxjk:艹 非.V_htjk0
 菳:艹 金
-菳.htxx:艹.V_htxx*0 金
+菳.htxx:艹 金
 菴:大 电 艹
-菴.hxxx:大 电 艹.V_htxx*0
-菴.xtxx:大 电 艹.V_htxx*0
+菴.hxxx:大 电 艹
+菴.xtxx:大 电 艹
 菵:䒑 亡 冂 艹
-菵.htxx:䒑 亡.A_hxxx.A_xtxx 冂 艹.V_htxx*0
+菵.htxx:䒑 亡.A_hxxx.A_xtxx 冂 艹
 菶:工 艹 𡗗
-菶.htxx:工 艹.V_htxx*0 𡗗
+菶.htxx:工 艹 𡗗
 菶.xxjk:工 艹 𡗗
 菷:冖 巾 彐 艹
 菷.htjk:冖 巾 彐.A_htjk 艹
 菸:万 丶 人 艹
-菸.C_hxxx.hxxx:万 丶 艹.V_htxx*0 𠂉
+菸.C_hxxx.hxxx:万 丶 艹 𠂉
 菸.C_xxjk.xxjk:万 丶 人 艹
-菸.xtxx:万 丶 人 艹.V_htxx*0
+菸.xtxx:万 丶 人 艹
 菹:目 氵 艹
-菹.htxx:目 氵 艹.V_htxx*0
+菹.htxx:目 氵 艹
 菺:户 月 艹
-菺.C_xtxx.xtxx:⺼ 户.htjk 艹.V_htxx*0
-菺.hxxx:户 月 艹.V_htxx*0
+菺.C_xtxx.xtxx:⺼ 户.htjk 艹
+菺.hxxx:户 月 艹
 菻:木 木 艹
-菻.htxx:木 木 艹.V_htxx*0
+菻.htxx:木 木 艹
 菼:火 火 艹
-菼.htxx:火.V_htxx*0 火.V_htxx*0 艹.V_htxx*0
+菼.htxx:火.V_htxx*0 火.V_htxx*0 艹
 菽:又 尗 艹
-菽.htxx:又 尗 艹.V_htxx*0
+菽.htxx:又 尗 艹
 菾:一 丶 大 小 艹
-菾.htxx:一 丶 大 小 艹.V_htxx*0
+菾.htxx:一 丶 大 小 艹
 菿:刂 至 艹
-菿.htxx:刂 至 艹.V_htxx*0
+菿.htxx:刂 至 艹
 萀:几 艹 虍
 萁:其 艹
-萁.htxx:其 艹.V_htxx*0
+萁.htxx:其 艹
 萂:口 禾 艹
 萃:卒 艹
-萃.htxx:卒 艹.V_htxx*0
+萃.htxx:卒 艹
 萃.xxjk:卒.A_xxjk 艹
 萄:勹 缶 艹
-萄.htxx:勹 缶 艹.V_htxx*0
+萄.htxx:勹 缶 艹
 萄.xxjk:勹 缶.A_xxjk 艹
 萅:屯 日 艹
-萅.htxx:屯 日 艹.V_htxx*0
+萅.htxx:屯 日 艹
 萆:卑 艹
-萆.htxx:卑 艹.V_htxx*0
+萆.htxx:卑 艹
 萇:艹 長
-萇.htxx:艹.V_htxx*0 長
+萇.htxx:艹 長
 萇.xxjk:艹 長.xxjk
 萈:丶 艹 見
 萉:巴 月 艹
-萉.C_htxx.htxx:⺼ 巴 艹.V_htxx*0
+萉.C_htxx.htxx:⺼ 巴 艹
 萊:來 艹
-萊.htxx:來 艹.V_htxx*0
+萊.htxx:來 艹
 萋:一 女 肀 艹
-萋.htxx:一 女.A_htxx 肀 艹.V_htxx*0
+萋.htxx:一 女.A_htxx 肀 艹
 萋.xxjk:一 女.A_xxjk 肀 艹
 萌:日 月 艹
-萌.htxx:日 月 艹.V_htxx*0
+萌.htxx:日 月 艹
 萍:丷 工 氵 艹
-萍.htxx:丷 工 氵 艹.V_htxx*0
+萍.htxx:丷 工 氵 艹
 萍.xxjk:丷 工 氵 艹
 萎:女 禾 艹
-萎.htxx:女.A_htxx 禾 艹.V_htxx*0
-萎.xxjk:女.A_xxjk 禾 艹.V_htxx*0
+萎.htxx:女.A_htxx 禾 艹
+萎.xxjk:女.A_xxjk 禾 艹
 萏:臼 艹 𠂊
-萏.htxx:臼 艹.V_htxx*0 𠂊
+萏.htxx:臼 艹 𠂊
 萏.xxjk:丿 臼 艹 𠃌
 萐:疌 艹
-萐.htxx:疌 艹.V_htxx*0
+萐.htxx:疌 艹
 萑:艹 隹
-萑.htxx:艹.V_htxx*0 隹
+萑.htxx:艹 隹
 萑.xxjk:艹 隹.A_xxjk
 萒:亠 儿 公 艹
-萒.C_xtxx.xtxx:儿 六 口 艹.V_htxx*0
-萒.hxxx:亠 儿 公 艹.V_htxx*0
+萒.C_xtxx.xtxx:儿 六 口 艹
+萒.hxxx:亠 儿 公 艹
 萓:目 宀 艹
-萓.htxx:目 宀 艹.V_htxx*0
-萓.xxjk:目 宀 艹.V_htxx*0
+萓.htxx:目 宀 艹
+萓.xxjk:目 宀 艹
 萔:刀 口 扌 艹
-萔.htxx:刀 口 扌 艹.V_htxx*0
+萔.htxx:刀 口 扌 艹
 萕:一 丨 丿 文 艹
 萕.xxjk:一 丨 丿 文.A_xxjk 艹
 萖:儿 臼 艹
-萖.htxx:儿 臼 艹.V_htxx*0
+萖.htxx:儿 臼 艹
 萗:宀 示 艹
 萗.xxjk:宀 示 艹
 萘:大 示 艹
-萘.htxx:大 示 艹.V_htxx*0
+萘.htxx:大 示 艹
 萙:冘 木 艹
 萚:又 工 扌 艹
 萛:廾 目 艹
-萛.htxx:廾 目 艹.V_htxx*0
+萛.htxx:廾 目 艹
 萜:占 巾 艹
-萜.htxx:占 巾 艹.V_htxx*0
+萜.htxx:占 巾 艹
 萝:夕 罒 艹
 萞:内 比 艹
 萟:丶 九 禾 艹
 萠:月 艹
-萠.htxx:月 艹.V_htxx*0
+萠.htxx:月 艹
 萠.xxjx:月.E_xtjk*0 艹
 萡:氵 白 艹
-萡.htxx:氵 白 艹.V_htxx*0
+萡.htxx:氵 白 艹
 萢:包 氵 艹
 萢.xxjk:包.xxjx 氵 艹
 萣:宀 艹 𤴓
-萣.htxx:宀 艹.V_htxx*0 𤴓
+萣.htxx:宀 艹 𤴓
 萤:冖 艹 虫
 营:冖 口 艹
 萦:冖 小 幺 艹
 萧:肃 艹
 萨:㇌ 丨 产 艹
 萩:火 禾 艹
-萩.htxx:火.V_htxx*0 禾 艹.V_htxx*0
+萩.htxx:火.V_htxx*0 禾 艹
 萪:斗 禾 艹
 萫:日 禾 艹
-萫.hxxx:日.L_htxx*0 禾.E_htxx*0 艹.V_htxx*0
-萫.xtxx:日 禾 艹.V_htxx*0
+萫.hxxx:日.L_htxx*0 禾.E_htxx*0 艹
+萫.xtxx:日 禾 艹
 萬:禺 艹
-萬.htxx:禺.A_htxx 艹.V_htxx*0
+萬.htxx:禺.A_htxx 艹
 萭:禹 艹
-萭.htxx:禹.A_htxx 艹.V_htxx*0
+萭.htxx:禹.A_htxx 艹
 萮:俞 艹
-萮.htxx:俞 艹.V_htxx*0
+萮.htxx:俞 艹
 萯:艹 貝 𠂊
 萯.htxx:艹 貝 𠂊
 萯.xxjk:丿 艹 貝 𠃌
 萰:柬 艹
-萰.htxx:柬 艹.V_htxx*0
+萰.htxx:柬 艹
 萱:一 宀 日 艹
-萱.htxx:一 宀 日 艹.V_htxx*0
-萱.xxjk:一 宀 日 艹.V_htxx*0
+萱.htxx:一 宀 日 艹
+萱.xxjk:一 宀 日 艹
 萲:一 友 爫 艹
-萲.htxx:一 友 爫 艹.V_htxx*0
+萲.htxx:一 友 爫 艹
 萳:冂 十 艹 𢆉
-萳.htxx:冂 十 艹.V_htxx*0 𢆉
+萳.htxx:冂 十 艹 𢆉
 萴:刂 艹 貝
-萴.htxx:刂 艹.V_htxx*0 貝
+萴.htxx:刂 艹 貝
 萵:咼 艹
-萵.htxx:咼.A_htjk 艹.V_htxx*0
+萵.htxx:咼.A_htjk 艹
 萵.xxjk:咼.A_htjk 艹
 萶:日 艹 𡗗
-萶.htxx:日 艹.V_htxx*0 𡗗
+萶.htxx:日 艹 𡗗
 萷:⺌ 刂 月 艹
-萷.C_xtxx.xtxx:⺌ ⺼ 刂 艹.V_htxx*0
-萷.hxxx:⺌ 刂 月 艹.V_htxx*0
+萷.C_xtxx.xtxx:⺌ ⺼ 刂 艹
+萷.hxxx:⺌ 刂 月 艹
 萸:臾 艹
-萸.htxx:臾 艹.V_htxx*0
+萸.htxx:臾 艹
 萸.xxjx:臾.A_xxjx 艹
 萹:扁 艹
-萹.hxxx:扁 艹.V_htxx*0
-萹.xtxx:扁.A_xtjk 艹.V_htxx*0
+萹.hxxx:扁 艹
+萹.xtxx:扁.A_xtjk 艹
 萹.xxjk:一 丨 冂 户.htjk 艹
 萺:冒 艹
-萺.hxxx:冒 艹.V_htxx*0
-萺.xtxx:冒 艹.V_htxx*0
+萺.hxxx:冒 艹
+萺.xtxx:冒 艹
 萻:日 立 艹
-萻.htxx:日 立 艹.V_htxx*0
+萻.htxx:日 立 艹
 萼:一 丂 口 艹
-萼.htxx:一 丂 口 艹.V_htxx*0
+萼.htxx:一 丂 口 艹
 萼.xxjk:一 丂.A_xxjk 口 艹
 落:口 夂 氵 艹
-落.htxx:口 夂 氵 艹.V_htxx*0
+落.htxx:口 夂 氵 艹
 萾:乃 又 皿 艹
-萾.htxx:乃 又 皿 艹.V_htxx*0
+萾.htxx:乃 又 皿 艹
 萿:工 口 氵 艹
-萿.htxx:工 口 氵 艹.V_htxx*0
+萿.htxx:工 口 氵 艹
 葀:工 口 扌 艹
-葀.htxx:工 口 扌 艹.V_htxx*0
+葀.htxx:工 口 扌 艹
 葁:女 羊 艹
 葂:免 力 艹
-葂.htxx:免 力 艹.V_htxx*0
+葂.htxx:免 力 艹
 葃:乍 日 艹
-葃.htxx:乍 日 艹.V_htxx*0
+葃.htxx:乍 日 艹
 葄:乍 月 艹
-葄.C_htxx.htxx:⺼ 乍 艹.V_htxx*0
+葄.C_htxx.htxx:⺼ 乍 艹
 葅:目 人 艹
-葅.htxx:目 人 艹.V_htxx*0
+葅.htxx:目 人 艹
 葆:亻 口 木 艹
-葆.hxxx:亻 口 木 艹.V_htxx*0
-葆.xtxx:亻 口 木 艹.V_htxx*0
+葆.hxxx:亻 口 木 艹
+葆.xtxx:亻 口 木 艹
 葇:丿 予 木 艹
-葇.hxxx:丿 予 木 艹.V_htxx*0
-葇.xtxx:丿 予 木 艹.V_htxx*0
+葇.hxxx:丿 予 木 艹
+葇.xtxx:丿 予 木 艹
 葈:厶 口 木 艹
-葈.hxxx:厶 口 木 艹.V_htxx*0
-葈.xtxx:厶 口 木 艹.V_htxx*0
+葈.hxxx:厶 口 木 艹
+葈.xtxx:厶 口 木 艹
 葈.xxjk:厶.A_xxjk 口 木 艹
 葉:世 木 艹
-葉.hxxx:世 木 艹.V_htxx*0
-葉.xtxx:世 木.L_xtjk*0 艹.V_htxx*0
+葉.hxxx:世 木 艹
+葉.xtxx:世 木.L_xtjk*0 艹
 葊:一 人 口 廾 艹
-葊.htxx:一 人 口 廾 艹.V_htxx*0
+葊.htxx:一 人 口 廾 艹
 葋:句 月 艹
-葋.C_htxx.htxx:⺼ 句 艹.V_htxx*0
+葋.C_htxx.htxx:⺼ 句 艹
 葌:女 女 艹
-葌.htxx:女 女.A_htxx 艹.V_htxx*0
+葌.htxx:女 女.A_htxx 艹
 葍:一 口 田 艹
-葍.htxx:一 口 田 艹.V_htxx*0
+葍.htxx:一 口 田 艹
 葎:彳 聿 艹
-葎.htxx:彳 聿 艹.V_htxx*0
+葎.htxx:彳 聿 艹
 葏:氵 聿 艹
 葐:八 刀 皿 艹
-葐.hxxx:八 刀 皿 艹.V_htxx*0
-葐.xtxx:八.V_xtxx*0 刀 皿 艹.V_htxx*0
+葐.hxxx:八 刀 皿 艹
+葐.xtxx:八.V_xtxx*0 刀 皿 艹
 葑:工 工 寸 艹
-葑.htxx:工 工 寸 艹.V_htxx*0
+葑.htxx:工 工 寸 艹
 葒:工 糹 艹
 葒.C_xxjk.xxjk:小 工 幺.A_xxjk 艹
-葒.htxx:工 糹 艹.V_htxx*0
+葒.htxx:工 糹 艹
 葓:共 氵 艹
-葓.htxx:共 氵 艹.V_htxx*0
+葓.htxx:共 氵 艹
 葔:一 乛 亻 矢 艹
-葔.htxx:一 乛 亻 矢 艹.V_htxx*0
+葔.htxx:一 乛 亻 矢 艹
 葕:一 丁 彳 氵 艹
-葕.htxx:一 丁 彳 氵 艹.V_htxx*0
+葕.htxx:一 丁 彳 氵 艹
 葖:犬 穴 艹
-葖.htxx:犬 穴.V_htxx*0 艹.V_htxx*0
+葖.htxx:犬 穴.V_htxx*0 艹
 葖.xxjk:犬 穴.V_xxjk*0 艹
 著:日 耂 艹
 著.C_xxxk.xxxk:丶 日 耂 艹
-著.htxx:日 耂 艹.V_htxx*0
+著.htxx:日 耂 艹
 葘:一 巛 田 艹
-葘.htxx:一 巛 田 艹.V_htxx*0
+葘.htxx:一 巛 田 艹
 葙:木 目 艹
-葙.htxx:木 目 艹.V_htxx*0
+葙.htxx:木 目 艹
 葚:甚 艹
-葚.htxx:甚.A_htxx 艹.V_htxx*0
+葚.htxx:甚.A_htxx 艹
 葚.xxjk:甚.A_xxjk 艹
 葛:匃 日 艹
-葛.hxxx:匃.A_htxx 日.L_htxx*0 艹.V_htxx*0
-葛.xtxx:匃.A_htxx 日 艹.V_htxx*0
+葛.hxxx:匃.A_htxx 日.L_htxx*0 艹
+葛.xtxx:匃.A_htxx 日 艹
 葛.xxjk:匃.A_xxjk 日 艹
 葜:丰 刀 大 艹
-葜.htxx:丰.V_htjk*1 刀 大 艹.V_htxx*0
+葜.htxx:丰.V_htjk*1 刀 大 艹
 葜.xxjk:丰.V_htjk*1 刀 大 艹
 葝:力 巠 艹
-葝.htxx:力 巠 艹.V_htxx*0
+葝.htxx:力 巠 艹
 葞:弓 耳 艹
-葞.htxx:弓 耳.A_htxx 艹.V_htxx*0
+葞.htxx:弓 耳.A_htxx 艹
 葟:王 白 艹
-葟.htxx:王 白 艹.V_htxx*0
+葟.htxx:王 白 艹
 葠:亻 冖 又 彐 艹
-葠.htxx:亻 冖 又 彐.A_htjk 艹.V_htxx*0
+葠.htxx:亻 冖 又 彐.A_htjk 艹
 葠.xxjk:亻 冖 又 彐.A_htjk 艹
 葡:勹 甫 艹
-葡.htxx:勹 甫 艹.V_htxx*0
+葡.htxx:勹 甫 艹
 葢:丶 大 皿 艹
-葢.htxx:丶 大 皿 艹.V_htxx*0
+葢.htxx:丶 大 皿 艹
 董:艹 重
-董.htxx:艹.V_htxx*0 重
+董.htxx:艹 重
 葤:寸 糹 艹
 葤.C_xxjk.xxjk:寸 小 幺.A_xxjk 艹
-葤.htxx:寸 糹 艹.V_htxx*0
+葤.htxx:寸 糹 艹
 葥:䒑 刂 月 艹
-葥.hxxx:䒑 刂 月 艹.V_htxx*0
-葥.xtxx:䒑 刂 月.E_xtjk*0 艹.V_htxx*0
+葥.hxxx:䒑 刂 月 艹
+葥.xtxx:䒑 刂 月.E_xtjk*0 艹
 葥.xxjx:䒑 刂 月.V_xxjx*0 艹
 葦:㐄 口 艹 𫝀
-葦.htxx:㐄 口 艹.V_htxx*0 𫝀
+葦.htxx:㐄 口 艹 𫝀
 葦.xxjx:㐄.V_xxjk0 口 艹 𫝀
 葧:力 孛 艹
-葧.htxx:力 孛 艹.V_htxx*0
+葧.htxx:力 孛 艹
 葨:畏 艹
-葨.htxx:畏 艹.V_htxx*0
+葨.htxx:畏 艹
 葩:巴 白 艹
-葩.htxx:巴 白 艹.V_htxx*0
+葩.htxx:巴 白 艹
 葪:刂 艹 角
-葪.htxx:刂 艹.V_htxx*0 角
+葪.htxx:刂 艹 角
 葪.xxjk:刂 艹 角
 葫:十 口 月 艹
-葫.C_xtxx.xtxx:⺼ 十 口 艹.V_htxx*0
-葫.hxxx:十 口 月 艹.V_htxx*0
+葫.C_xtxx.xtxx:⺼ 十 口 艹
+葫.hxxx:十 口 月 艹
 葬:一 匕 夕 廾 艹
-葬.hxxx:一 匕 夕 廾 艹.V_htxx*0
-葬.xtxx:一 匕.V_htxx*0 夕 廾 艹.V_htxx*0
+葬.hxxx:一 匕 夕 廾 艹
+葬.xtxx:一 匕.V_htxx*0 夕 廾 艹
 葭:叚 艹
-葭.htxx:叚 艹.V_htxx*0
+葭.htxx:叚 艹
 葮:一 丨 丿 又 艹 𠘧
 葮.C_xxjk.xxjk:一 丨 丿 几 又 艹
-葮.htxx:一 丨 丿 又 艹.V_htxx*0 𠘧
+葮.htxx:一 丨 丿 又 艹 𠘧
 葯:丶 勹 糹 艹
 葯.C_xxjk.xxjk:丶 勹 小 幺.A_xxjk 艹
-葯.htxx:丶 勹 糹 艹.V_htxx*0
+葯.htxx:丶 勹 糹 艹
 葰:亻 夋 艹
-葰.htxx:亻 夋.A_htxx 艹.V_htxx*0
+葰.htxx:亻 夋.A_htxx 艹
 葰.xxjk:亻 夋.A_xxjk 艹
 葱:丶 勿 心 艹
-葱.htxx:丶 勿 心 艹.V_htxx*0
+葱.htxx:丶 勿 心 艹
 葲:水 白 艹
-葲.htxx:水 白 艹.V_htxx*0
+葲.htxx:水 白 艹
 葳:一 女 戊 艹
-葳.htxx:一 女 戊 艹.V_htxx*0
+葳.htxx:一 女 戊 艹
 葳.xxjk:一 女.A_xxjk 戊 艹
 葴:一 口 戊 艹
-葴.htxx:一 口 戊 艹.V_htxx*0
+葴.htxx:一 口 戊 艹
 葵:一 人 癶 艹
-葵.htxx:一 大 癶 艹.V_htxx*0
+葵.htxx:一 大 癶 艹
 葵.xxjk:一 人 癶 艹
 葶:丁 亠 冖 口 艹
-葶.htxx:丁 亠 冖 口 艹.V_htxx*0
+葶.htxx:丁 亠 冖 口 艹
 葶.xxjk:丁 亠 冖 口 艹
 葷:冖 艹 車
-葷.htxx:冖 艹.V_htxx*0 車
+葷.htxx:冖 艹 車
 葸:心 田 艹
-葸.htxx:心 田 艹.V_htxx*0
+葸.htxx:心 田 艹
 葹:万 丶 也 艹 𠂉
 葹.C_xxjk.xxjk:万 丶 也 艹 𠂉
-葹.htxx:万 丶 也.A_xtxx 艹.V_htxx*0 𠂉
+葹.htxx:万 丶 也.A_xtxx 艹 𠂉
 葺:口 耳 艹
-葺.htxx:口 耳.A_htxx 艹.V_htxx*0
+葺.htxx:口 耳.A_htxx 艹
 葻:⺇ 丿 艹 虫
 葼:㚇 艹
 葼.xxjk:㚇.A_xxjk 艹
 葽:女 艹 覀
 葽.C_xxjx.xxjx:一 丨 女.A_xxjk 艹
-葽.htxx:女.A_htxx 艹.V_htxx*0 覀
+葽.htxx:女.A_htxx 艹 覀
 葽.xxxk:一 丨 女.A_xxjk 艹
 葾:乚 夕 心 艹 𠃌
-葾.htxx:乚 夕 心 艹.V_htxx*0 𠃌
+葾.htxx:乚 夕 心 艹 𠃌
 葿:目 艹 𠃜
-葿.htxx:目 艹.V_htxx*0 𠃜
+葿.htxx:目 艹 𠃜
 蒀:日 皿 艹
-蒀.htxx:日 皿 艹.V_htxx*0
+蒀.htxx:日 皿 艹
 蒁:丶 木 艹 辶
 蒁.xxjx:丶 木.E_xxjk*0 艹 辶.V_xxjk*0
 蒁.xxxk:丶 木.E_xxjk*0 艹 辶.V_xxjk*0
 蒂:帝 艹
-蒂.htxx:帝 艹.V_htxx*0
+蒂.htxx:帝 艹
 蒂.xxjk:帝.A_xxjk 艹
 蒃:彑 艹 𧰨
 蒄:一 兀 冖 寸 艹
-蒄.htxx:一 兀 冖 寸 艹.V_htxx*0
+蒄.htxx:一 兀 冖 寸 艹
 蒅:九 木 氵 艹
 蒆:丶 几 女 工 艹
-蒆.C_hxxx.hxxx:⺄ 丨 丶 女 工 艹.V_htxx*0
-蒆.C_xtxx.xtxx:丶 几 女.A_htxx 工 艹.V_htxx*0
+蒆.C_hxxx.hxxx:⺄ 丨 丶 女 工 艹
+蒆.C_xtxx.xtxx:丶 几 女.A_htxx 工 艹
 蒇:戊 艹 贝
 蒈:比 白 艹
-蒈.htxx:比.A_htxx 白 艹.V_htxx*0
+蒈.htxx:比.A_htxx 白 艹
 蒉:一 中 艹 贝
 蒊:亻 匕 口 艹
 蒋:丬 夕 寸 艹
 蒋.xxjk:丬 寸 爫 艹
 蒌:女 米 艹
 蒍:為 艹
-蒍.htxx:為 艹.V_htxx*0
+蒍.htxx:為 艹
 蒎:㇏ 丿 丿 氵 艹 𠂆 𠄌
-蒎.htxx:㇏ 丿 丿 氵 艹.V_htxx*0 𠂆 𠄌
+蒎.htxx:㇏ 丿 丿 氵 艹 𠂆 𠄌
 蒏:冖 艹 酉
-蒏.htxx:冖 艹.V_htxx*0 酉
+蒏.htxx:冖 艹 酉
 蒐:艹 鬼
-蒐.htxx:艹.V_htxx*0 鬼.A_xxjk
+蒐.htxx:艹 鬼.A_xxjk
 蒐.xxjk:艹 鬼.A_xxjk
 蒑:㐆 又 艹 𠘧
-蒑.htxx:㐆 又 艹.V_htxx*0 𠘧
+蒑.htxx:㐆 又 艹 𠘧
 蒒:㠯 一 丿 巾 艹
-蒒.htxx:㠯 一 丿 巾 艹.V_htxx*0
+蒒.htxx:㠯 一 丿 巾 艹
 蒓:屯 糹 艹
 蒓.C_xxjk.xxjk:小 屯.A_xxjk 幺.A_xxjk 艹
-蒓.htxx:屯 糹 艹.V_htxx*0
+蒓.htxx:屯 糹 艹
 蒔:工 寸 日 艹
-蒔.C_xtxx.xtxx:工 寸 日 艹.V_htxx*0
-蒔.hxxx:工 寸 日 艹.V_htxx*0
+蒔.C_xtxx.xtxx:工 寸 日 艹
+蒔.hxxx:工 寸 日 艹
 蒕:人 口 皿 艹
 蒖:八 直 艹
-蒖.hxxx:八 直.hxxx*0 艹.V_htxx*0
-蒖.xtxx:八 直.hxxx*0 艹.V_htxx*0
+蒖.hxxx:八 直.hxxx*0 艹
+蒖.xtxx:八 直.hxxx*0 艹
 蒗:丶 氵 艮 艹
 蒗.C_xxjk.xxjk:丨 氵 艮.A_xxjk 艹
-蒗.htxx:丶 氵 艮 艹.V_htxx*0
+蒗.htxx:丶 氵 艮 艹
 蒘:口 女 手 艹
-蒘.htxx:口 女 手 艹.V_htxx*0
+蒘.htxx:口 女 手 艹
 蒙:一 冖 艹 𧰨
-蒙.htxx:一 冖 艹.V_htxx*0 𧰨
+蒙.htxx:一 冖 艹 𧰨
 蒙.xxjk:一 冖 艹 𧰨.V_xxjk*0
 蒚:艹 鬲
-蒚.htxx:艹.V_htxx*0 鬲
+蒚.htxx:艹 鬲
 蒛:夬 缶 艹
-蒛.htxx:夬.htxx 缶 艹.V_htxx*0
+蒛.htxx:夬.htxx 缶 艹
 蒜:示 艹
-蒜.hxxx:示 艹.V_htxx*0
-蒜.xtxx:示.A_xtxx 艹.V_htxx*0
+蒜.hxxx:示 艹
+蒜.xtxx:示.A_xtxx 艹
 蒝:厂 小 白 艹
-蒝.htxx:厂 小 白 艹.V_htxx*0
+蒝.htxx:厂 小 白 艹
 蒞:亻 氵 立 艹
-蒞.htxx:亻 氵 立 艹.V_htxx*0
+蒞.htxx:亻 氵 立 艹
 蒞.xxjk:亻 氵 立.A_xxjk 艹
 蒟:句 立 艹
-蒟.htxx:句 立 艹.V_htxx*0
+蒟.htxx:句 立 艹
 蒟.xxjk:句 立.V_xxjk*0 艹
 蒠:心 自 艹
-蒠.htxx:心 自 艹.V_htxx*0
+蒠.htxx:心 自 艹
 蒡:旁 艹
-蒡.htxx:旁 艹.V_htxx*0
+蒡.htxx:旁 艹
 蒡.xxjk:旁.A_xxjk 艹
 蒢:㇌ 一 丨 人 朩 艹
-蒢.htxx:㇌ 一 丨 人 朩 艹.V_htxx*0
+蒢.htxx:㇌ 一 丨 人 朩 艹
 蒣:一 人 彳 朩 艹
-蒣.htxx:一 人 彳 朩 艹.V_htxx*0
+蒣.htxx:一 人 彳 朩 艹
 蒤:一 人 朩 氵 艹
-蒤.htxx:一 人 朩 氵 艹.V_htxx*0
+蒤.htxx:一 人 朩 氵 艹
 蒥:留 艹
 蒦:又 艹 隹
 蒦.xxjk:又 艹 隹.A_xxjk
 蒧:占 戊 艹
-蒧.htxx:占 戊 艹.V_htxx*0
+蒧.htxx:占 戊 艹
 蒨:亻 月 艹 龶
 蒨.C_xxjk.xxjk:一 丨 亻 冂 艹 龶
-蒨.hxxx:亻 月 艹.V_htxx*0 龶
-蒨.xtxx:亻 月.E_xtjk*0 艹.V_htxx*0 龶
+蒨.hxxx:亻 月 艹 龶
+蒨.xtxx:亻 月.E_xtjk*0 艹 龶
 蒩:目 禾 艹
-蒩.htxx:目 禾 艹.V_htxx*0
+蒩.htxx:目 禾 艹
 蒪:寸 甫 艹
-蒪.htxx:寸 甫 艹.V_htxx*0
+蒪.htxx:寸 甫 艹
 蒫:工 羊 艹
-蒫.C_htxx.htxx:丿 工 羊 艹.V_htxx*0
+蒫.C_htxx.htxx:丿 工 羊 艹
 蒬:丶 免 冖 艹
-蒬.htxx:丶 免 冖 艹.V_htxx*0
+蒬.htxx:丶 免 冖 艹
 蒭:勹 屮 艹
-蒭.htxx:勹 屮 艹.V_htxx*0
+蒭.htxx:勹 屮 艹
 蒮:艹 隺
-蒮.htxx:艹.V_htxx*0 隺
+蒮.htxx:艹 隺
 蒯:刂 月 艹
-蒯.htxx:刂 月 艹.V_htxx*0
+蒯.htxx:刂 月 艹
 蒯.xxjx:刂 月.E_xtjk*0 艹
 蒰:又 舟 艹 𠘧
-蒰.htxx:又 舟.V_htxx*0 艹.V_htxx*0 𠘧
+蒰.htxx:又 舟.V_htxx*0 艹 𠘧
 蒱:扌 甫 艹
-蒱.htxx:扌 甫 艹.V_htxx*0
+蒱.htxx:扌 甫 艹
 蒲:氵 甫 艹
-蒲.htxx:氵 甫 艹.V_htxx*0
+蒲.htxx:氵 甫 艹
 蒳:内 糹 艹
 蒴:屰 月 艹
-蒴.htxx:屰 月 艹.V_htxx*0
+蒴.htxx:屰 月 艹
 蒴.xxjk:屰.A_xxjk 月.E_xtjk*0 艹
 蒵:大 幺 爫 艹
 蒶:八 刀 糹 艹
-蒶.hxxx:八 刀 糹 艹.V_htxx*0
-蒶.xtxx:八.V_xtxx*0 刀 糹 艹.V_htxx*0
+蒶.hxxx:八 刀 糹 艹
+蒶.xtxx:八.V_xtxx*0 刀 糹 艹
 蒷:口 艹 貝
 蒸:一 乛 水 灬 艹
-蒸.htxx:一 乛 水 灬 艹.V_htxx*0
+蒸.htxx:一 乛 水 灬 艹
 蒹:兼 艹
-蒹.htxx:兼 艹.V_htxx*0
+蒹.htxx:兼 艹
 蒹.xxjk:兼.xxjk 艹
 蒺:疒 矢 艹
-蒺.htxx:疒 矢 艹.V_htxx*0
+蒺.htxx:疒 矢 艹
 蒺.xxjk:疒.A_xxjk 矢 艹
 蒻:冫 弓 艹
-蒻.htxx:冫 弓 艹.V_htxx*0
+蒻.htxx:冫 弓 艹
 蒻.xxjk:冫 弓.A_xxjk 艹
 蒼:倉 艹
-蒼.htxx:倉.A_htjk 艹.V_htxx*0
+蒼.htxx:倉.A_htjk 艹
 蒼.xxjk:倉.A_htjk 艹
 蒽:口 大 心 艹
-蒽.htxx:口 大 心 艹.V_htxx*0
+蒽.htxx:口 大 心 艹
 蒾:米 艹 辶
-蒾.htxx:米 艹.V_htxx*0 辶.A_htxx
+蒾.htxx:米 艹 辶.A_htxx
 蒾.xxjk:米 艹 辶.V_xxjk*0
 蒿:艹 高
-蒿.htxx:艹.V_htxx*0 高
+蒿.htxx:艹 高
 蒿.xxjk:艹 高.A_xxjx
 蓀:一 丿 了 小 幺 艹
 蓀.C_xxjk.xxjk:一 丿 了 小 幺.A_xxjk 艹
-蓀.htxx:一 丿 了 小 幺 艹.V_htxx*0
+蓀.htxx:一 丿 了 小 幺 艹
 蓁:禾 艹 𡗗
-蓁.hxxx:禾 艹.V_htxx*0 𡗗
-蓁.xtxx:禾 艹.V_htxx*0 𡗗
+蓁.hxxx:禾 艹 𡗗
+蓁.xtxx:禾 艹 𡗗
 蓁.xxjk:禾 艹 𡗗
 蓂:六 冖 日 艹
-蓂.htxx:六 冖 日 艹.V_htxx*0
+蓂.htxx:六 冖 日 艹
 蓂.xxjk:六.A_xxjk 冖 日 艹
 蓃:丨 又 臼 艹
 蓄:亠 幺 田 艹
-蓄.htxx:亠 幺 田 艹.V_htxx*0
+蓄.htxx:亠 幺 田 艹
 蓄.xxjk:亠 幺.A_xxjk 田 艹
 蓅:亠 厶 氵 艹 𫶧
-蓅.hxxx:亠 厶 氵 艹.V_htxx*0 𫶧
-蓅.xtxx:亠 厶 氵 艹.V_htxx*0 𫶧.A_xtxx
+蓅.hxxx:亠 厶 氵 艹 𫶧
+蓅.xtxx:亠 厶 氵 艹 𫶧.A_xtxx
 蓆:巾 广 廿 艹
-蓆.htxx:巾 广 廿 艹.V_htxx*0
+蓆.htxx:巾 广 廿 艹
 蓆.xxjk:巾 广.A_xxjk 廿 艹
 蓇:艹 骨
-蓇.hxxx:艹.V_htxx*0 骨.A_hxjk
-蓇.xtxx:艹.V_htxx*0 骨.A_xtxx*0
+蓇.hxxx:艹 骨.A_hxjk
+蓇.xtxx:艹 骨.A_xtxx*0
 蓇.xxjk:艹 骨.A_hxjk
 蓈:㇌ 一 丨 丶 艹 𠃍 𠄌
 蓈.xxjk:㇌ 一 丨 丶 艹 𠃍 𠄌.A_xxjk
 蓉:宀 艹 谷
-蓉.htxx:宀 艹.V_htxx*0 谷
-蓉.xxjk:宀 艹.V_htxx*0 谷
+蓉.htxx:宀 艹 谷
+蓉.xxjk:宀 艹 谷
 蓊:习 公 艹
-蓊.hxxx:习 公 艹.V_htxx*0
-蓊.xtxx:习 公.A_xtxx 艹.V_htxx*0
+蓊.hxxx:习 公 艹
+蓊.xtxx:习 公.A_xtxx 艹
 蓊.xxjk:习.A_xxjk 公.V_xxxk0 艹
 蓋:去 皿 艹
-蓋.htxx:去 皿 艹.V_htxx*0
+蓋.htxx:去 皿 艹
 蓋.xxjk:去.A_xxjk 皿 艹
 蓌:人 工 夂 艹
-蓌.hxxx:人 工 夂 艹.V_htxx*0
-蓌.xtxx:人 工 夂.L_xtxx*1 艹.V_htxx*0
+蓌.hxxx:人 工 夂 艹
+蓌.xtxx:人 工 夂.L_xtxx*1 艹
 蓍:匕 日 耂 艹
-蓍.hxxx:匕 日 耂 艹.V_htxx*0
-蓍.xtxx:匕.E_xtxx*0 日 耂 艹.V_htxx*0
+蓍.hxxx:匕 日 耂 艹
+蓍.xtxx:匕.E_xtxx*0 日 耂 艹
 蓎:口 广 肀 艹
-蓎.htxx:口 广 肀 艹.V_htxx*0
+蓎.htxx:口 广 肀 艹
 蓎.xxjk:口 广.A_xxjk 肀 艹
 蓏:瓜 瓜 艹
-蓏.htxx:瓜 瓜 艹.V_htxx*0
+蓏.htxx:瓜 瓜 艹
 蓏.xxjk:瓜.A_xxjk 瓜.V_xxjk*0 艹
 蓐:寸 艹 辰
-蓐.htxx:寸 艹.V_htxx*0 辰.A_xxjk
+蓐.htxx:寸 艹 辰.A_xxjk
 蓐.xxjk:寸 艹 辰.A_xxjk
 蓑:一 亠 口 艹 𧘇
-蓑.htxx:一 亠 口 艹.V_htxx*0 𧘇
+蓑.htxx:一 亠 口 艹 𧘇
 蓑.xxjk:一 亠 口 艹 𧘇.xxjk
 蓒:工 艹 車
-蓒.htxx:工 艹.V_htxx*0 車
+蓒.htxx:工 艹 車
 蓓:亻 口 立 艹
-蓓.htxx:亻 口 立 艹.V_htxx*0
+蓓.htxx:亻 口 立 艹
 蓓.xxjk:亻 口 立.A_xxjk 艹
 蓔:灬 羊 艹
-蓔.htxx:灬 羊 艹.V_htxx*0
+蓔.htxx:灬 羊 艹
 蓕:工 木 艹
 蓖:㐅 丿 口 比 艹
-蓖.htxx:㐅 丿 口 比.A_htxx 艹.V_htxx*0
-蓖.xxjk:㐅 丿 口 比.A_xxjk 艹.V_htxx*0
+蓖.htxx:㐅 丿 口 比.A_htxx 艹
+蓖.xxjk:㐅 丿 口 比.A_xxjk 艹
 蓗:彳 艹 走
-蓗.htxx:彳 艹.V_htxx*0 走
+蓗.htxx:彳 艹 走
 蓘:亠 公 艹 𧘇
 蓙:人 工 广 艹
 蓙.xxjk:人 工 广.A_xxjk 艹
 蓚:丨 亻 夂 彡 艹
-蓚.C_htjk.htxx:丨 亻 彡 攵 艹.V_htxx*0
+蓚.C_htjk.htxx:丨 亻 彡 攵 艹
 蓚.C_htjk.xxjk:丨 亻 彡 攵 艹
 蓛:攵 朿 艹
-蓛.htxx:攵 朿 艹.V_htxx*0
+蓛.htxx:攵 朿 艹
 蓜:巳 艹 酉
 蓝:丨 丶 皿 艹 𠂉
 蓞:爫 臼 艹
-蓞.htxx:爫 臼 艹.V_htxx*0
+蓞.htxx:爫 臼 艹
 蓟:刂 艹 鱼
 蓠:离 艹
 蓡:冖 又 彐 氵 艹
-蓡.htxx:冖 又 彐.A_htjk 氵 艹.V_htxx*0
+蓡.htxx:冖 又 彐.A_htjk 氵 艹
 蓢:一 丶 月 艹 𠃍 𠄌
-蓢.htxx:一 丶 月 艹.V_htxx*0 𠃍 𠄌
+蓢.htxx:一 丶 月 艹 𠃍 𠄌
 蓣:予 艹 页
 蓤:冫 夌 艹
-蓤.hxxx:冫 夌.A_hxxx 艹.V_htxx*0
-蓤.xtxx:冫 夌.A_hxxx 艹.V_htxx*0
+蓤.hxxx:冫 夌.A_hxxx 艹
+蓤.xtxx:冫 夌.A_hxxx 艹
 蓥:冖 艹 金
 蓦:大 日 艹 马
 蓧:丨 亻 夂 朩 艹
-蓧.C_htjk.hxxx:一 丨 亻 夂 木 艹.V_htxx*0
-蓧.C_htjk.xtxx:一 丨 亻 夂 木 艹.V_htxx*0
+蓧.C_htjk.hxxx:一 丨 亻 夂 木 艹
+蓧.C_htjk.xtxx:一 丨 亻 夂 木 艹
 蓧.C_htjk.xxjk:一 丨 亻 夂 木 艹
 蓨:丨 亻 夂 月 艹
-蓨.C_hxxx.hxxx:丨 亻 攵.E_htjk*0 月 艹.V_htxx*0
-蓨.C_xtxx.xtxx:⺼ 丨 亻 攵.E_htjk*0 艹.V_htxx*0
+蓨.C_hxxx.hxxx:丨 亻 攵.E_htjk*0 月 艹
+蓨.C_xtxx.xtxx:⺼ 丨 亻 攵.E_htjk*0 艹
 蓩:丿 予 力 夂 艹
-蓩.C_htxx.htxx:一 丿 予 力 夂 艹.V_htxx*0
+蓩.C_htxx.htxx:一 丿 予 力 夂 艹
 蓪:用 艹 辶 龴
-蓪.htxx:用 艹.V_htxx*0 辶.A_htxx 龴
+蓪.htxx:用 艹 辶.A_htxx 龴
 蓪.xxjk:用 艹 辶.V_xxjk*0 龴
 蓫:一 艹 辶 𧰨
-蓫.htxx:一 艹.V_htxx*0 辶.A_htxx 𧰨
+蓫.htxx:一 艹 辶.A_htxx 𧰨
 蓬:丰 夂 艹 辶
-蓬.hxxx:丰 夂 艹.V_htxx*0 辶.A_htxx
-蓬.xtxx:丰 夂.L_xtxx*0 艹.V_htxx*0 辶.A_htxx
+蓬.hxxx:丰 夂 艹 辶.A_htxx
+蓬.xtxx:丰 夂.L_xtxx*0 艹 辶.A_htxx
 蓬.xxjk:丰 夂 艹 辶.V_xxjk*0
 蓭:大 广 电 艹
 蓭.xxjk:大 广.A_xxjk 电 艹
 蓮:艹 車 辶
-蓮.htxx:艹.V_htxx*0 車 辶.A_htxx
+蓮.htxx:艹 車 辶.A_htxx
 蓮.xxxk:艹 車 辶.V_xxjk*0
 蓯:人 彳 艹 龰
-蓯.htxx:人 彳 艹.V_htxx*0 龰
+蓯.htxx:人 彳 艹 龰
 蓰:彳 止 艹 龰
-蓰.htxx:彳 止 艹.V_htxx*0 龰
+蓰.htxx:彳 止 艹 龰
 蓱:丷 开 氵 艹
 蓱.C_xxjk.xxjk:丶 工 工 氵 艹
-蓱.htxx:丷 开 氵 艹.V_htxx*0
+蓱.htxx:丷 开 氵 艹
 蓲:匚 口 艹
-蓲.htxx:一 口 艹.V_htxx*0 𠃊.V_hxjk*0
+蓲.htxx:一 口 艹 𠃊.V_hxjk*0
 蓲.xxjk:匚.L_xxjk*0 口 艹
 蓳:堇 艹
-蓳.htxx:堇 艹.V_htxx*0
+蓳.htxx:堇 艹
 蓴:丶 寸 艹 車
-蓴.htxx:丶 寸 艹.V_htxx*0 車
+蓴.htxx:丶 寸 艹 車
 蓴.xxjx:丶 寸 艹 車
 蓵:扌 疌 艹
 蓶:口 艹 隹
-蓶.htxx:口 艹.V_htxx*0 隹
+蓶.htxx:口 艹 隹
 蓷:扌 艹 隹
-蓷.htxx:扌 艹.V_htxx*0 隹
+蓷.htxx:扌 艹 隹
 蓷.xxjk:扌 艹 隹.A_xxjk
 蓸:一 日 曲 艹
-蓸.htxx:一 日.L_htxx*0 曲 艹.V_htxx*0
+蓸.htxx:一 日.L_htxx*0 曲 艹
 蓹:一 冂 彳 止 艹 𠂉
-蓹.C_htxx.htxx:一 冂 彳 止 艹.V_htxx*0 𠂉
+蓹.C_htxx.htxx:一 冂 彳 止 艹 𠂉
 蓺:丶 九 坴 艹
-蓺.htxx:丶 九 坴 艹.V_htxx*0
+蓺.htxx:丶 九 坴 艹
 蓺.xxjk:丶 九 坴.V_xxjk*0 艹
 蓻:丶 九 工 艹 𢆉
-蓻.htxx:丶 九 工 艹.V_htxx*0 𢆉
+蓻.htxx:丶 九 工 艹 𢆉
 蓻.xxjk:丶 九 工 艹 𢆉
 蓼:㐱 习 艹
-蓼.htxx:㐱 习 艹.V_htxx*0
+蓼.htxx:㐱 习 艹
 蓼.xxjk:㐱 习.xxjk 艹
 蓽:畢 艹
-蓽.hxxx:畢.hxxx*0 艹.V_htxx*0
-蓽.xtxx:畢.xtxx*0 艹.V_htxx*0
+蓽.hxxx:畢.hxxx*0 艹
+蓽.xtxx:畢.xtxx*0 艹
 蓾:⺊ 口 艹 𠂭
-蓾.htxx:⺊ 口 艹.V_htxx*0 𠂭
+蓾.htxx:⺊ 口 艹 𠂭
 蓿:一 亻 宀 白 艹
-蓿.htxx:一 亻 宀 白 艹.V_htxx*0
+蓿.htxx:一 亻 宀 白 艹
 蓿.xxjk:一 亻 宀 白 艹
 蔀:㇌ 丨 口 立 艹
-蔀.htxx:㇌ 丨 口 立 艹.V_htxx*0
+蔀.htxx:㇌ 丨 口 立 艹
 蔀.xxjk:㇌ 丨 口 立.A_xxjk 艹
 蔁:十 日 立 艹
 蔂:小 幺 田 艹
 蔂.C_xxjk.xxjk:小 幺.A_xxjk 田 艹
-蔂.htxx:小 幺 田 艹.V_htxx*0
+蔂.htxx:小 幺 田 艹
 蔃:口 弓 艹 虫
-蔃.C_htjk.htxx:厶 弓.A_htxx 艹.V_htxx*0 虫
+蔃.C_htjk.htxx:厶 弓.A_htxx 艹 虫
 蔃.C_htjk.xxjk:厶 弓.A_xxjk 艹 虫
 蔄:口 艹 門
-蔄.htxx:口 艹.V_htxx*0 門
+蔄.htxx:口 艹 門
 蔅:女 艹 門
 蔅.htxx:女.A_htxx 艹 門
 蔆:夌 氵 艹
-蔆.hxxx:夌.A_hxxx 氵 艹.V_htxx*0
-蔆.xtxx:夌.A_xtxx 氵 艹.V_htxx*0
+蔆.hxxx:夌.A_hxxx 氵 艹
+蔆.xtxx:夌.A_xtxx 氵 艹
 蔆.xxjk:夌.A_xxjk 氵 艹
 蔇:一 丶 旡 艹 𠃍 𠄌
 蔇.C_xxjk.xxjk:一 丶 旡.V_xxjk*0 艹 𠃍 𠄌
-蔇.htxx:一 丶 旡.A_htxx 艹.V_htxx*0 𠃍 𠄌
+蔇.htxx:一 丶 旡.A_htxx 艹 𠃍 𠄌
 蔈:示 艹 覀
-蔈.hxxx:示 艹.V_htxx*0 覀
-蔈.xtxx:示.A_xtxx 艹.V_htxx*0 覀
+蔈.hxxx:示 艹 覀
+蔈.xtxx:示.A_xtxx 艹 覀
 蔉:六 口 艹 𧘇
-蔉.C_xtxx.xtxx:亠 儿.A_htxx 口 艹.V_htxx*0 𧘇
-蔉.hxxx:六 口 艹.V_htxx*0 𧘇
+蔉.C_xtxx.xtxx:亠 儿.A_htxx 口 艹 𧘇
+蔉.hxxx:六 口 艹 𧘇
 蔊:工 日 火 艹
-蔊.htxx:工 日 火.V_htxx*0 艹.V_htxx*0
+蔊.htxx:工 日 火.V_htxx*0 艹
 蔋:又 尗 氵 艹
-蔋.htxx:又 尗 氵 艹.V_htxx*0
+蔋.htxx:又 尗 氵 艹
 蔌:束 欠 艹
-蔌.htxx:束 欠 艹.V_htxx*0
+蔌.htxx:束 欠 艹
 蔍:艹 鹿
-蔍.htxx:艹.V_htxx*0 鹿.A_htxx
+蔍.htxx:艹 鹿.A_htxx
 蔎:又 艹 言 𠘧
 蔎.C_xxjk.xxjk:几 又 艹 言.A_xxjk
-蔎.htxx:又 艹.V_htxx*0 言 𠘧
+蔎.htxx:又 艹 言 𠘧
 蔏:丷 亠 冏 艹
-蔏.htxx:丷 亠 冏.A_htxx 艹.V_htxx*0
+蔏.htxx:丷 亠 冏.A_htxx 艹
 蔐:啇 艹
-蔐.htxx:啇 艹.V_htxx*0
+蔐.htxx:啇 艹
 蔐.xxjk:啇.A_xxjk 艹
 蔑:丶 戊 罒 艹
-蔑.htxx:丶 戊 罒 艹.V_htxx*0
+蔑.htxx:丶 戊 罒 艹
 蔒:口 尹 灬 艹
-蔒.htxx:口 尹 灬 艹.V_htxx*0
+蔒.htxx:口 尹 灬 艹
 蔓:又 日 罒 艹
-蔓.htxx:日 又 罒 艹.V_htxx*0
+蔓.htxx:日 又 罒 艹
 蔔:一 勹 口 田 艹
-蔔.htxx:一 勹 口 田 艹.V_htxx*0
+蔔.htxx:一 勹 口 田 艹
 蔕:帶 艹
-蔕.htxx:帶.A_htxx 艹.V_htxx*0
+蔕.htxx:帶.A_htxx 艹
 蔖:目 艹 虍
-蔖.htxx:目 艹.V_htxx*0 虍.A_htxx
+蔖.htxx:目 艹 虍.A_htxx
 蔗:广 廿 灬 艹
-蔗.htxx:广 廿 灬 艹.V_htxx*0
+蔗.htxx:广 廿 灬 艹
 蔗.xxjk:广.A_xxjk 廿 灬 艹
 蔘:㐱 厶 艹
-蔘.htxx:㐱 厶 艹.V_htxx*0
+蔘.htxx:㐱 厶 艹
 蔘.xxjk:㐱 厶 艹
 蔙:万 丶 疋 艹 𠂉
-蔙.htxx:万 丶 疋 艹.V_htxx*0 𠂉
+蔙.htxx:万 丶 疋 艹 𠂉
 蔚:寸 尸 示 艹
-蔚.hxxx:寸 尸 示 艹.V_htxx*0
-蔚.xtxx:寸 尸 示.A_xtxx 艹.V_htxx*0
+蔚.hxxx:寸 尸 示 艹
+蔚.xtxx:寸 尸 示.A_xtxx 艹
 蔛:斗 艹 角
 蔛.htjk:斗 艹 角
 蔜:力 攵 艹 龶
-蔜.C_htxx.htxx:万 丶 工 攵 艹.V_htxx*0
+蔜.C_htxx.htxx:万 丶 工 攵 艹
 蔜.C_xxjk.xxjk:力 攵 艹 龶
 蔝:目 米 艹
-蔝.hxxx:目 米 艹.V_htxx*0
-蔝.xtxx:目 米.A_xtxx 艹.V_htxx*0
+蔝.hxxx:目 米 艹
+蔝.xtxx:目 米.A_xtxx 艹
 蔞:婁 艹
-蔞.hxxx:婁.A_hxxx 艹.V_htxx*0
-蔞.xtxx:婁.A_hxxx 艹.V_htxx*0
+蔞.hxxx:婁.A_hxxx 艹
+蔞.xtxx:婁.A_hxxx 艹
 蔞.xxjk:婁.A_xxjk 艹
 蔟:万 丶 矢 艹 𠂉
 蔟.C_xxjk.xxjk:万 丨 矢 艹 𠂉
-蔟.htxx:万 丶 矢 艹.V_htxx*0 𠂉
+蔟.htxx:万 丶 矢 艹 𠂉
 蔠:冬 糹 艹
-蔠.htxx:冬 糹 艹.V_htxx*0
+蔠.htxx:冬 糹 艹
 蔡:祭 艹
-蔡.hxxx:祭 艹.V_htxx*0
-蔡.xtxx:祭.A_xtxx 艹.V_htxx*0
+蔡.hxxx:祭 艹
+蔡.xtxx:祭.A_xtxx 艹
 蔢:女 氵 皮 艹
 蔢.xxjk:女.A_xxjk 氵 皮 艹
 蔣:丶 夕 寸 爿 艹
-蔣.C_xtxx.xtxx:㇀ 夕 寸 爿 艹.V_htxx*0
-蔣.hxxx:丶 夕 寸 爿 艹.V_htxx*0
+蔣.C_xtxx.xtxx:㇀ 夕 寸 爿 艹
+蔣.hxxx:丶 夕 寸 爿 艹
 蔤:宀 山 必 艹
-蔤.htxx:宀 山 必 艹.V_htxx*0
+蔤.htxx:宀 山 必 艹
 蔤.xxjk:宀 山 必 艹
 蔥:囱 心 艹
-蔥.C_xtxx.xtxx:丿 丿 口 心 艹.V_htxx*0
-蔥.hxxx:囱 心 艹.V_htxx*0
+蔥.C_xtxx.xtxx:丿 丿 口 心 艹
+蔥.hxxx:囱 心 艹
 蔥.xxjk:囱.A_xxjk 心 艹
 蔦:艹 鳥
-蔦.htxx:艹.V_htxx*0 鳥
+蔦.htxx:艹 鳥
 蔧:丰 彐 艹
-蔧.htxx:丰 彐.A_htjk 艹.V_htxx*0
+蔧.htxx:丰 彐.A_htjk 艹
 蔧.xxjk:丰 彐.A_htjk 艹
 蔨:㔾 口 艹 龹
-蔨.htxx:㔾 口 艹.V_htxx*0 龹
+蔨.htxx:㔾 口 艹 龹
 蔩:一 八 宀 田 艹
-蔩.htxx:一 八 宀 田 艹.V_htxx*0
+蔩.htxx:一 八 宀 田 艹
 蔪:斤 艹 車
-蔪.htxx:斤 艹.V_htxx*0 車
+蔪.htxx:斤 艹 車
 蔫:一 丂 止 灬 艹
-蔫.htxx:一 丂 止 灬 艹.V_htxx*0
+蔫.htxx:一 丂 止 灬 艹
 蔫.xxjk:一 丂.A_xxjk 止 灬 艹
 蔬:亠 厶 艹 𤴔 𫶧
-蔬.hxxx:亠 厶 艹.V_htxx*0 𤴔 𫶧
-蔬.xtxx:一 丶 厶 艹.V_htxx*0 𤴔 𫶧.A_xtxx
+蔬.hxxx:亠 厶 艹 𤴔 𫶧
+蔬.xtxx:一 丶 厶 艹 𤴔 𫶧.A_xtxx
 蔬.xxjk:亠 厶.A_xxjk 艹 𤴔 𫶧
 蔭:㇌ 丨 云 今 艹
-蔭.htxx:㇌ 丨 云 今.A_htjk 艹.V_htxx*0
+蔭.htxx:㇌ 丨 云 今.A_htjk 艹
 蔭.xxjk:㇌ 丨 云.A_xxjk 今.A_htjk 艹
 蔮:一 口 戈 艹
-蔮.htxx:一 口 戈 艹.V_htxx*0
+蔮.htxx:一 口 戈 艹
 蔯:㇌ 丨 東 艹
-蔯.htxx:㇌ 丨 東 艹.V_htxx*0
+蔯.htxx:㇌ 丨 東 艹
 蔰:口 巴 户 艹
-蔰.C_xtxx.xtxx:口 巴 户.htjk 艹.V_htxx*0
-蔰.hxxx:口 巴 户 艹.V_htxx*0
+蔰.C_xtxx.xtxx:口 巴 户.htjk 艹
+蔰.hxxx:口 巴 户 艹
 蔱:㐅 又 朩 艹 𠘧
-蔱.C_htxx.htxx:㐅 又 艹.V_htxx*0 𠘧 𣎳.E_htxx*0
+蔱.C_htxx.htxx:㐅 又 艹 𠘧 𣎳.E_htxx*0
 蔲:一 兀 宀 攵 艹
 蔲.xxjk:一 兀 宀 攵 艹
 蔳:月 氵 艹 龶
 蔳.C_xxjk.xxjk:一 丨 冂 氵 艹 龶
-蔳.htxx:月 氵 艹.V_htxx*0 龶
+蔳.htxx:月 氵 艹 龶
 蔴:广 木 木 艹
-蔴.C_xtxx.xtxx:广 木 木 艹.V_htxx*0
+蔴.C_xtxx.xtxx:广 木 木 艹
 蔴.C_xxjk.xxjk:广.A_xxjk 艹 𣎳 𣎳.E_xxjk*0
-蔴.hxxx:广 木 木 艹.V_htxx*0
+蔴.hxxx:广 木 木 艹
 蔵:戊 臣 艹
 蔵.xxjk:戊 臣.L_xxjk*0 艹
 蔶:艹 貝 龶
 蔷:丷 回 工 艹
 蔸:コ 丿 儿 白 艹 𠄌
-蔸.hxxx:コ 丿 儿 白 艹.V_htxx*0 𠃊
-蔸.xtxx:コ 丿 儿 白 艹.V_htxx*0 𠃊
+蔸.hxxx:コ 丿 儿 白 艹 𠃊
+蔸.xtxx:コ 丿 儿 白 艹 𠃊
 蔹:佥 攵 艹
 蔺:艹 门 隹
 蔻:⺊ 一 兀 又 宀 艹
-蔻.htxx:⺊ 一 兀 又 宀 艹.V_htxx*0
+蔻.htxx:⺊ 一 兀 又 宀 艹
 蔼:匃 日 艹 讠
 蔽:㡀 攵 艹
-蔽.htxx:㡀 攵 艹.V_htxx*0
+蔽.htxx:㡀 攵 艹
 蔽.xxjk:㡀.A_xxjk 攵 艹
 蔾:丿 勹 木 禾 艹
-蔾.hxxx:丿 勹 木 禾 艹.V_htxx*0
-蔾.xtxx:丿 勹 木 禾 艹.V_htjk*0
+蔾.hxxx:丿 勹 木 禾 艹
+蔾.xtxx:丿 勹 木 禾 艹
 蔿:爲 艹
 蔿.xxjk:爲.A_xxjk 艹
 蕀:朿 朿 艹
-蕀.htxx:朿 朿 艹.V_htxx*0
+蕀.htxx:朿 朿 艹
 蕁:口 寸 工 彐 艹
-蕁.htxx:口 寸 工 彐.A_htjk 艹.V_htxx*0
+蕁.htxx:口 寸 工 彐.A_htjk 艹
 蕁.xxjk:口 寸 工 彐.A_htjk 艹
 蕂:力 月 艹 龹
-蕂.htxx:力 月 艹.V_htxx*0 龹
+蕂.htxx:力 月 艹 龹
 蕃:田 艹 釆
-蕃.htxx:田 艹.V_htxx*0 釆
+蕃.htxx:田 艹 釆
 蕄:心 艹 門
-蕄.htxx:心 艹.V_htxx*0 門
+蕄.htxx:心 艹 門
 蕅:氵 禺 艹
-蕅.htxx:氵 禺.A_htxx 艹.V_htxx*0
+蕅.htxx:氵 禺.A_htxx 艹
 蕆:戊 艹 貝
-蕆.htxx:戊 艹.V_htxx*0 貝
+蕆.htxx:戊 艹 貝
 蕇:一 口 田 艹
-蕇.htxx:一 口 田 艹.V_htxx*0
+蕇.htxx:一 口 田 艹
 蕈:十 日 艹 覀
-蕈.htxx:十 日 艹.V_htxx*0 覀
+蕈.htxx:十 日 艹 覀
 蕉:灬 艹 隹
-蕉.htxx:灬 艹.V_htxx*0 隹
+蕉.htxx:灬 艹 隹
 蕉.xxjk:灬 艹 隹.A_xxjk
 蕊:心 艹
-蕊.htxx:心 艹.V_htxx*0
+蕊.htxx:心 艹
 蕋:止 止 艹
-蕋.htxx:止 止 艹.V_htxx*0
+蕋.htxx:止 止 艹
 蕌:日 艹
-蕌.htxx:日 艹.V_htxx*0
+蕌.htxx:日 艹
 蕍:俞 氵 艹
-蕍.hxxx:俞 氵 艹.V_htxx*0
-蕍.xtxx:俞.A_xtxx 氵 艹.V_htxx*0
+蕍.hxxx:俞 氵 艹
+蕍.xtxx:俞.A_xtxx 氵 艹
 蕎:喬 艹
-蕎.htxx:喬 艹.V_htxx*0
+蕎.htxx:喬 艹
 蕏:日 犭 耂 艹
 蕏.C_xxjk.xxjk:丶 日 犭 耂 艹
 蕐:一 人 工 艹
 蕑:月 艹 門
-蕑.hxxx:月 艹.V_htxx*0 門
-蕑.xtxx:月 艹.V_htxx*0 門
+蕑.hxxx:月 艹 門
+蕑.xtxx:月 艹 門
 蕒:罒 艹 貝
-蕒.htxx:罒 艹.V_htxx*0 貝
+蕒.htxx:罒 艹 貝
 蕓:⻗ 云 艹
-蕓.htxx:⻗.A_hxxx 云 艹.V_htxx*0
+蕓.htxx:⻗.A_hxxx 云 艹
 蕓.xxjk:⻗ 云.A_xxjk 艹
 蕔:冂 又 工 艹 𢆉
-蕔.htxx:冂 又 工 艹.V_htxx*0 𢆉
+蕔.htxx:冂 又 工 艹 𢆉
 蕕:丷 犭 艹 酉
-蕕.htxx:丷 犭 艹.V_htxx*0 酉
+蕕.htxx:丷 犭 艹 酉
 蕕.xxjk:八.V_xtxx*0 犭 艹 酉
 蕖:巨 木 氵 艹
-蕖.hxxx:巨 木 氵 艹.V_htxx*0
-蕖.xtxx:巨 木 氵 艹.V_htxx*0
+蕖.hxxx:巨 木 氵 艹
+蕖.xtxx:巨 木 氵 艹
 蕖.xxjk:巨.A_xxjk 木 氵 艹
 蕗:口 夂 艹 足
-蕗.htxx:口 夂 艹.V_htxx*0 足
+蕗.htxx:口 夂 艹 足
 蕘:兀 工 工 艹
-蕘.htxx:兀 工 工 艹.V_htxx*0
+蕘.htxx:兀 工 工 艹
 蕙:丶 心 艹 車
-蕙.htxx:丶 心 艹.V_htxx*0 車
+蕙.htxx:丶 心 艹 車
 蕚:一 丂 口 艹
-蕚.htxx:一 丂 口 艹.V_htxx*0
+蕚.htxx:一 丂 口 艹
 蕚.xxjk:一 丂.A_xxjk 口 艹
 蕛:弟 禾 艹
-蕛.htxx:弟 禾 艹.V_htxx*0
+蕛.htxx:弟 禾 艹
 蕜:心 艹 非
 蕜.htxx:心 艹 非.V_htjk0
 蕜.xxjk:心 艹 非.V_htjk0
 蕝:巴 糹 艹 𠂊
 蕝.C_xxjk.xxjk:小 巴 幺.A_xxjk 艹 𠂊
-蕝.hxxx:力 巴 糹 艹.V_htxx*0
-蕝.xtxx:刀 巴 糹 艹.V_htxx*0
+蕝.hxxx:力 巴 糹 艹
+蕝.xtxx:刀 巴 糹 艹
 蕞:又 日 耳 艹
-蕞.htxx:又 日 耳.L_htjk*0 艹.V_htxx*0
+蕞.htxx:又 日 耳.L_htjk*0 艹
 蕞.xxjx:又 日 耳.L_htjk*0 艹
 蕟:又 弓 癶 艹 𠘧
 蕟.C_xxjk.xxjk:几 又 弓.A_xxjk 癶 艹
-蕟.htxx:又 弓 癶 艹.V_htxx*0 𠘧
+蕟.htxx:又 弓 癶 艹 𠘧
 蕠:口 女 小 幺 艹
 蕠.C_xxjk.xxjk:口 女.V_xxjk0 小 幺.A_xxjk 艹
-蕠.htxx:口 女.V_htxx*0 小 幺 艹.V_htxx*0
+蕠.htxx:口 女.V_htxx*0 小 幺 艹
 蕡:十 艹 貝
-蕡.htxx:十 艹 艹.V_htxx*0 貝
+蕡.htxx:十 艹 艹 貝
 蕢:一 中 艹 貝
-蕢.htxx:一 中 艹.V_htxx*0 貝
+蕢.htxx:一 中 艹 貝
 蕣:㐄 冖 夕 爫 艹
-蕣.htxx:㐄 冖 夕 爫 艹.V_htxx*0
+蕣.htxx:㐄 冖 夕 爫 艹
 蕣.xxjk:㐄 冖 夕 爫.A_xxjk 艹
 蕤:一 生 艹 𧰨
-蕤.htxx:一 生 艹.V_htxx*0 𧰨
+蕤.htxx:一 生 艹 𧰨
 蕤.xxjk:一 生 艹 𧰨.A_xxjk
 蕥:牙 艹 隹
-蕥.htxx:牙.A_htxx 艹.V_htxx*0 隹
+蕥.htxx:牙.A_htxx 艹 隹
 蕦:彡 艹 頁
-蕦.htxx:彡 艹.V_htxx*0 頁
+蕦.htxx:彡 艹 頁
 蕧:夂 彳 日 艹 𠂉
-蕧.hxxx:夂 彳 日.L_htxx*0 艹.V_htxx*0 𠂉
-蕧.xtxx:夂.L_xtxx*1 彳 日 艹.V_htxx*0 𠂉
+蕧.hxxx:夂 彳 日.L_htxx*0 艹 𠂉
+蕧.xtxx:夂.L_xtxx*1 彳 日 艹 𠂉
 蕨:厂 屰 欠 艹
-蕨.htxx:厂 屰 欠 艹.V_htxx*0
+蕨.htxx:厂 屰 欠 艹
 蕨.xxjk:厂 屰.A_xxjk 欠 艹
 蕩:一 勿 日 氵 艹
-蕩.htxx:一 勿 日 氵 艹.V_htxx*0
+蕩.htxx:一 勿 日 氵 艹
 蕪:一 卌 灬 艹 𠂉
-蕪.htxx:一 卌 灬 艹.V_htxx*0 𠂉
+蕪.htxx:一 卌 灬 艹 𠂉
 蕫:立 艹 里
-蕫.htxx:立 艹.V_htxx*0 里
+蕫.htxx:立 艹 里
 蕫.xxjk:立.A_xxjk 艹 里
 蕬:小 幺 糹 艹
-蕬.htxx:小 幺 糹 艹.V_htxx*0
+蕬.htxx:小 幺 糹 艹
 蕭:肅 艹
-蕭.hxxx:肅.A_hxxx 艹.V_htxx*0
-蕭.xtxx:肅 艹.V_htxx*0
+蕭.hxxx:肅.A_hxxx 艹
+蕭.xtxx:肅 艹
 蕮:勹 灬 臼 艹
-蕮.htxx:勹 灬 臼 艹.V_htxx*0
+蕮.htxx:勹 灬 臼 艹
 蕯:㇌ 一 丨 夂 生 艹
-蕯.htxx:㇌ 一 丨 夂 生 艹.V_htxx*0
+蕯.htxx:㇌ 一 丨 夂 生 艹
 蕰:日 氵 皿 艹
-蕰.htxx:日 氵 皿 艹.V_htxx*0
+蕰.htxx:日 氵 皿 艹
 蕱:⺌ 月 禾 艹
-蕱.C_xtxx.xtxx:⺌ 月 禾 艹.V_htxx*0
-蕱.hxxx:⺌ 月 禾 艹.V_htxx*0
+蕱.C_xtxx.xtxx:⺌ 月 禾 艹
+蕱.hxxx:⺌ 月 禾 艹
 蕲:一 丷 斤 田 艹
 蕳:日 艹 門
-蕳.htxx:日 艹.V_htxx*0 門
+蕳.htxx:日 艹 門
 蕴:日 皿 纟 艹
 蕵:丶 人 夕 艮 艹
-蕵.C_htxx.htxx:一 人 夕 艮 艹.V_htxx*0
+蕵.C_htxx.htxx:一 人 夕 艮 艹
 蕶:⻗ 丶 今 艹
-蕶.htxx:⻗.A_hxxx 丶 今.A_htjk 艹.V_htxx*0
+蕶.htxx:⻗.A_hxxx 丶 今.A_htjk 艹
 蕷:予 艹 頁
-蕷.htxx:予 艹.V_htxx*0 頁
+蕷.htxx:予 艹 頁
 蕸:叚 艹 辶
-蕸.htxx:叚 艹.V_htxx*0 辶.A_htxx
+蕸.htxx:叚 艹 辶.A_htxx
 蕹:乡 亠 艹 隹
-蕹.htxx:乡 亠 艹.V_htxx*0 隹
+蕹.htxx:乡 亠 艹 隹
 蕹.xxjk:乡.A_xxjk 亠 艹 隹.A_xxjk
 蕺:丶 丿 乚 口 耳 艹
-蕺.htxx:口 戈 耳.L_htjk*0 艹.V_htxx*0
+蕺.htxx:口 戈 耳.L_htjk*0 艹
 蕺.xxjx:口 戈 耳.L_htjk*0 艹
 蕻:共 艹 镸
-蕻.htxx:共 艹.V_htxx*0 镸
+蕻.htxx:共 艹 镸
 蕻.xxjk:共 艹 镸.A_xxjk
 蕼:聿 艹 镸
-蕼.htxx:聿 艹.V_htxx*0 镸
+蕼.htxx:聿 艹 镸
 蕽:曲 艹 辰
 蕽.xxjk:曲 艹 辰.A_xxjk
 蕾:⻗ 田 艹
-蕾.htxx:⻗.A_hxxx 田 艹.V_htxx*0
+蕾.htxx:⻗.A_hxxx 田 艹
 蕿:一 友 火 爫 艹
 蕿.xxjk:一 友 火 爫.A_xxjk 艹
 薀:人 口 氵 皿 艹
-薀.htxx:人 口 氵 皿 艹.V_htxx*0
+薀.htxx:人 口 氵 皿 艹
 薁:奥 艹
-薁.C_htjk.htxx:奥.A_htxx 艹.V_htxx*0
+薁.C_htjk.htxx:奥.A_htxx 艹
 薁.C_htjk.xxjk:奥.A_htxx 艹
 薂:万 丶 攵 白 艹
-薂.htxx:万 丶 攵 白 艹.V_htxx*0
+薂.htxx:万 丶 攵 白 艹
 薃:氵 艹 高
-薃.htxx:氵 艹.V_htxx*0 高
+薃.htxx:氵 艹 高
 薄:寸 氵 甫 艹
-薄.htxx:寸 氵 甫 艹.V_htxx*0
+薄.htxx:寸 氵 甫 艹
 薄.xxjx:寸 氵 甫 艹
 薄.xxxk:寸 氵 甫 艹
 薅:女 寸 艹 辰
-薅.htxx:女.V_htxx*0 寸 艹.V_htxx*0 辰.A_xxjk
+薅.htxx:女.V_htxx*0 寸 艹 辰.A_xxjk
 薅.xxjk:女.V_xxjk0 寸 艹 辰.A_xxjk
 薆:冖 夂 心 爫 艹
-薆.hxxx:冖 夂 心 爫 艹.V_htxx*0
-薆.xtxx:冖 夂.L_xtxx*1 心 爫 艹.V_htxx*0
+薆.hxxx:冖 夂 心 爫 艹
+薆.xtxx:冖 夂.L_xtxx*1 心 爫 艹
 薇:一 几 山 彳 攵 艹
-薇.C_htxx.htxx:一 儿 山 彳 攵 艹.V_htxx*0
+薇.C_htxx.htxx:一 儿 山 彳 攵 艹
 薇.xxjk:一 几 山.A_xxjk 彳 攵 艹
 薈:會 艹
-薈.hxxx:會.A_hxxx 艹.V_htxx*0
-薈.xtxx:會 艹.V_htxx*0
+薈.hxxx:會.A_hxxx 艹
+薈.xtxx:會 艹
 薉:一 戊 止 艹 𣥂
-薉.htxx:一 戊 止 艹.V_htxx*0 𣥂
+薉.htxx:一 戊 止 艹 𣥂
 薉.xxjk:一 戊 止 艹 𣥂.V_xxjk*0
 薊:刂 艹 魚
-薊.htxx:刂 艹.V_htxx*0 魚
+薊.htxx:刂 艹 魚
 薋:冫 欠 艹 貝
-薋.hxxx:冫 欠 艹.V_htxx*0 貝
-薋.xtxx:冫.V_xtxx*0 欠 艹.V_htxx*0 貝
+薋.hxxx:冫 欠 艹 貝
+薋.xtxx:冫.V_xtxx*0 欠 艹 貝
 薋.xxjk:冫.V_xxjk*0 欠 艹 貝
 薌:㇌ 一 丨 丶 乡 艹 𠃍 𠄌
 薌.C_xxjk.xxjk:㇌ 丨 乡.A_xxjk 匕 白 艹
-薌.htxx:㇌ 一 丨 丶 乡 艹.V_htxx*0 𠃍 𠄌
+薌.htxx:㇌ 一 丨 丶 乡 艹 𠃍 𠄌
 薍:乚 又 爫 禸 艹 龴
-薍.htxx:乚 又 爫 禸 艹.V_htxx*0 龴
+薍.htxx:乚 又 爫 禸 艹 龴
 薎:亻 冖 戈 罒 艹
-薎.htxx:亻 冖 戈 罒 艹.V_htxx*0
+薎.htxx:亻 冖 戈 罒 艹
 薏:心 日 立 艹
-薏.htxx:心 日 立 艹.V_htxx*0
+薏.htxx:心 日 立 艹
 薏.xxjk:心 日 立.A_xxjk 艹
 薐:夌 禾 艹
-薐.hxxx:夌.A_hxxx 禾 艹.V_htxx*0
-薐.xtxx:夌.A_xtxx 禾 艹.V_htxx*0
+薐.hxxx:夌.A_hxxx 禾 艹
+薐.xtxx:夌.A_xtxx 禾 艹
 薐.xxjk:夌.A_xxjk 禾 艹
 薑:一 田 艹
-薑.htxx:一 田 艹.V_htxx*0
+薑.htxx:一 田 艹
 薒:⺊ 又 夕 米 艹
 薓:冖 又 巾 彐 氵 艹
-薓.htxx:冖 又 巾 彐.A_htjk 氵 艹.V_htxx*0
+薓.htxx:冖 又 巾 彐.A_htjk 氵 艹
 薓.xxjk:冖 又 巾 彐.A_htjk 氵 艹
 薔:人 回 工 艹
-薔.htxx:人 回 工 艹.V_htxx*0
+薔.htxx:人 回 工 艹
 薕:兼 广 艹
-薕.htxx:兼 广 艹.V_htxx*0
+薕.htxx:兼 广 艹
 薖:咼 艹 辶
-薖.htxx:咼.A_htjk 艹.V_htxx*0 辶.A_htxx
+薖.htxx:咼.A_htjk 艹 辶.A_htxx
 薗:口 工 艹 𧘇
-薗.htxx:口 工 艹.V_htxx*0 𧘇
+薗.htxx:口 工 艹 𧘇
 薗.xxjk:口 工 艹 𧘇.V_xxjx*0
 薘:工 羊 艹 辶
-薘.htxx:工 羊 艹.V_htxx*0 辶.A_htxx
+薘.htxx:工 羊 艹 辶.A_htxx
 薘.xxjk:工 羊 艹 辶.V_xxjk*0
 薙:矢 艹 隹
-薙.htxx:矢 艹.V_htxx*0 隹
+薙.htxx:矢 艹 隹
 薙.xxjk:矢 艹 隹.A_xxjk
 薚:一 勿 夕 日 艹
-薚.htxx:一 勿 夕 日 艹.V_htxx*0
+薚.htxx:一 勿 夕 日 艹
 薛:㠯 一 丨 丿 立 艹
-薛.htxx:㠯 一 丨 丿 立 艹.V_htxx*0
+薛.htxx:㠯 一 丨 丿 立 艹
 薛.xxjk:㠯 一 丨 丿 立.A_xxjk 艹
 薜:一 丨 口 尸 立 艹
-薜.htxx:一 丨 口 尸 立 艹.V_htxx*0
+薜.htxx:一 丨 口 尸 立 艹
 薜.xxjk:一 丨 口 尸 立.A_xxjk 艹
 薝:八 厃 艹 言
-薝.C_htxx.htxx:儿.A_htxx 厃 艹.V_htxx*0 言
+薝.C_htxx.htxx:儿.A_htxx 厃 艹 言
 薝.C_xxjk.xxjk:儿 厃 艹 言.A_xxjk
 薞:一 丶 人 夕 艮 艹
-薞.C_htxx.hxxx:一 人 夕 艮 艹.V_htxx*0
+薞.C_htxx.hxxx:一 人 夕 艮 艹
 薟:僉 艹
-薟.htxx:僉 艹.V_htxx*0
+薟.htxx:僉 艹
 薠:火 艹 頁
-薠.htxx:火.V_htxx*0 艹.V_htxx*0 頁
+薠.htxx:火.V_htxx*0 艹 頁
 薡:一 丨 爿 目 艹 𠃍
-薡.htxx:一 丨 爿 目 艹.V_htxx*0 𠃍
+薡.htxx:一 丨 爿 目 艹 𠃍
 薢:刀 牛 艹 角
-薢.htxx:刀 牛 艹.V_htxx*0 角
+薢.htxx:刀 牛 艹 角
 薢.xxjk:刀 牛 艹 角
 薣:十 又 艹 豆
-薣.htxx:十 又 艹.V_htxx*0 豆
+薣.htxx:十 又 艹 豆
 薤:一 夕 艹 非
-薤.htxx:一 夕 艹.V_htxx*0 非
+薤.htxx:一 夕 艹 非
 薥:勹 罒 艹 虫
 薦:コ 丂 丨 广 灬 艹
-薦.htxx:コ 丂 丨 广 灬 艹.V_htxx*0
+薦.htxx:コ 丂 丨 广 灬 艹
 薦.xxjk:コ 丂.A_xxjk 丨 广.A_xxjk 灬 艹
 薧:一 亠 冖 匕 口 夕 艹
-薧.hxxx:一 亠 冖 匕 口 夕 艹.V_htxx*0
-薧.xtxx:一 亠 冖 匕.V_htxx*0 口 夕 艹.V_htxx*0
+薧.hxxx:一 亠 冖 匕 口 夕 艹
+薧.xtxx:一 亠 冖 匕.V_htxx*0 口 夕 艹
 薧.xxjk:一 亠 冖 匕 口 夕 艹
 薨:一 冖 匕 夕 罒 艹
-薨.hxxx:一 冖 匕 夕 罒 艹.V_htjk*0
-薨.xtxx:一 冖 匕.V_htxx*0 夕 罒 艹.V_htjk*0
+薨.hxxx:一 冖 匕 夕 罒 艹
+薨.xtxx:一 冖 匕.V_htxx*0 夕 罒 艹
 薩:㇌ 丨 产 生 艹
-薩.htxx:㇌ 丨 产.V_htjk*0 生 艹.V_htxx*0
+薩.htxx:㇌ 丨 产.V_htjk*0 生 艹
 薩.xxjk:㇌ 丨 产.V_htjk*0 生 艹
 薪:斤 朩 立 艹
-薪.C_htjk.hxxx:斤 木 立 艹.V_htxx*0
-薪.C_htjk.xtxx:斤 木 立 艹.V_htxx*0
+薪.C_htjk.hxxx:斤 木 立 艹
+薪.C_htjk.xtxx:斤 木 立 艹
 薪.C_htjk.xxjk:斤 木 立.A_xxjk 艹
 薫:灬 艹 重
 薬:丶 丿 冫 木 白 艹
 薭:卑 禾 艹
 薮:女 攵 米 艹
-薮.xxjx:女.V_xxjk0 攵.E_xxjk*0 米 艹.V_htxx*0
+薮.xxjx:女.V_xxjk0 攵.E_xxjk*0 米 艹
 薮.xxxk:女.A_xxjk 攵 米 艹
 薯:日 罒 耂 艹
 薯.C_xxjk.xxjk:丶 日 罒 耂 艹
-薯.htxx:日 罒 耂 艹.V_htxx*0
+薯.htxx:日 罒 耂 艹
 薰:熏 艹
-薰.htxx:熏 艹.V_htxx*0
+薰.htxx:熏 艹
 薱:业 寸 羊 艹
-薱.htxx:业 寸 羊 艹.V_htxx*0
+薱.htxx:业 寸 羊 艹
 薲:一 宀 艹 貝 𣥂
 薳:口 工 艹 辶 𧘇
-薳.htxx:口 工 艹.V_htxx*0 辶.A_htxx 𧘇
+薳.htxx:口 工 艹 辶.A_htxx 𧘇
 薴:丁 宀 心 皿 艹
-薴.htxx:丁 宀 心 皿 艹.V_htxx*0
+薴.htxx:丁 宀 心 皿 艹
 薴.xxjk:丁 宀 心 皿 艹
 薵:壽 艹
-薵.htxx:壽 艹.V_htxx*0
+薵.htxx:壽 艹
 薶:艹 豸 里
-薶.htxx:艹.V_htxx*0 豸 里
+薶.htxx:艹 豸 里
 薷:⻗ 而 艹
-薷.htxx:⻗.A_hxxx 而 艹.V_htxx*0
+薷.htxx:⻗.A_hxxx 而 艹
 薸:氵 示 艹 覀
-薸.hxxx:氵 示 艹.V_htxx*0 覀
-薸.xtxx:氵 示.A_xtxx 艹.V_htxx*0 覀
+薸.hxxx:氵 示 艹 覀
+薸.xtxx:氵 示.A_xtxx 艹 覀
 薹:冖 口 工 至 艹
-薹.htxx:冖 口 工 至 艹.V_htxx*0
+薹.htxx:冖 口 工 至 艹
 薹.xxjk:冖 口 工 至.A_xxjk 艹
 薺:艹 齊
-薺.hxxx:艹.V_htxx*0 齊.A_hxxx
-薺.xtxx:艹.V_htxx*0 齊
+薺.hxxx:艹 齊.A_hxxx
+薺.xtxx:艹 齊
 薺.xxjk:艹 齊.A_xxjk
 薻:巛 果 氵 艹
 薼:工 艹 鹿
 薼.xxjk:工 艹 鹿.A_xxjk
 薽:工 瓦 艹 覀
-薽.C_htxx.htxx:工 瓦 艹.V_htxx*0 西.V_xxjk*0
+薽.C_htxx.htxx:工 瓦 艹 西.V_xxjk*0
 薽.xxjk:工 瓦.A_htjk 艹 覀
 薾:爾 艹
-薾.htxx:爾 艹.V_htxx*0
+薾.htxx:爾 艹
 薿:匕 疋 矢 艹 龴
-薿.htxx:匕.V_htxx*1 疋 矢 艹.V_htxx*0 龴
+薿.htxx:匕.V_htxx*1 疋 矢 艹 龴
 藀:冖 火 火 艹
-藀.htxx:冖 火.V_htxx*0 火.V_htxx*0 艹.V_htxx*0
+藀.htxx:冖 火.V_htxx*0 火.V_htxx*0 艹
 藁:木 艹 高
-藁.hxxx:木 艹.V_htxx*0 高
-藁.xtxx:木 艹.V_htxx*0 高
+藁.hxxx:木 艹 高
+藁.xtxx:木 艹 高
 藁.xxjk:木 艹 高.A_xxjx
 藂:乑 又 耳 艹
-藂.C_htxx.htxx:丨 丿 人 人 又 耳.L_htjk*0 艹.V_htxx*0
+藂.C_htxx.htxx:丨 丿 人 人 又 耳.L_htjk*0 艹
 藂.xxjx:乑 又 耳.L_htjk*0 艹
 藃:欠 艹 高
-藃.htxx:欠 艹.V_htxx*0 高
+藃.htxx:欠 艹 高
 藄:其 小 幺 艹
-藄.htxx:其 小 幺 艹.V_htxx*0
+藄.htxx:其 小 幺 艹
 藅:刂 罒 艹 言
-藅.htxx:刂 罒 艹.V_htxx*0 言
+藅.htxx:刂 罒 艹 言
 藆:手 艹 𡨄
-藆.htxx:手 艹.V_htxx*0 𡨄
+藆.htxx:手 艹 𡨄
 藇:與 艹
-藇.htxx:與.A_htxx 艹.V_htxx*0
+藇.htxx:與.A_htxx 艹
 藈:一 大 癶 目 艹
-藈.htxx:一 大 癶 目 艹.V_htxx*0
+藈.htxx:一 大 癶 目 艹
 藉:一 日 木 艹
-藉.C_htjk.htxx:一 丿 日 木 艹 艹.V_htxx*0
+藉.C_htjk.htxx:一 丿 日 木 艹 艹
 藉.C_htjk.xxjk:一 丿 日 木 艹
 藊:扁 禾 艹
-藊.hxxx:扁 禾.E_htxx*0 艹.V_htxx*0
-藊.xtxx:扁.A_xtjk 禾 艹.V_htxx*0
+藊.hxxx:扁 禾.E_htxx*0 艹
+藊.xtxx:扁.A_xtjk 禾 艹
 藊.xxjk:扁.A_xtjk 禾 艹
 藋:习 艹 隹
-藋.htxx:习 艹.V_htxx*0 隹
+藋.htxx:习 艹 隹
 藋.xxjx:习.xxjk 艹 隹.A_xxjk
 藋.xxxk:习.xxjk 艹 隹.A_xxjk
 藌:宀 必 艹 虫
 藍:丶 皿 臣 艹 𠂉
-藍.C_htjk.htxx:一 皿 臣 艹.V_htxx*0 𠂉
+藍.C_htjk.htxx:一 皿 臣 艹 𠂉
 藍.C_htjk.xxjk:丶 皿 臣 艹 𠂉
 藎:一 灬 皿 肀 艹
-藎.htxx:一 灬 皿 肀 艹.V_htxx*0
+藎.htxx:一 灬 皿 肀 艹
 藏:一 丿 戊 臣 艹 𠃊
-藏.htxx:一 丿 戊 臣 艹.V_htxx*0 𠃊
+藏.htxx:一 丿 戊 臣 艹 𠃊
 藐:儿 白 艹 豸
-藐.htxx:儿 白 艹.V_htxx*0 豸
+藐.htxx:儿 白 艹 豸
 藑:人 冂 夂 目 艹 𠂊
-藑.C_htxx.htxx:人 冂 攵 目 艹.V_htxx*0 𠂊
+藑.C_htxx.htxx:人 冂 攵 目 艹 𠂊
 藒:匃 日 禾 艹
-藒.hxxx:人 勹 日 禾 艹.V_htxx*0 𠃊.V_hxjk*0
-藒.xtxx:匃.A_htxx 日 禾 艹.V_htxx*0
+藒.hxxx:人 勹 日 禾 艹 𠃊.V_hxjk*0
+藒.xtxx:匃.A_htxx 日 禾 艹
 藓:羊 艹 鱼
 藔:宀 尞 艹
 藕:一 木 禺 艹
-藕.C_htjk.htxx:一 丿 木 禺.A_htxx 艹.V_htxx*0
+藕.C_htjk.htxx:一 丿 木 禺.A_htxx 艹
 藕.C_htjk.xxjk:一 丿 木.E_htjk*0 禺 艹
 藖:又 臣 艹 貝
-藖.htxx:又 臣 艹.V_htxx*0 貝
+藖.htxx:又 臣 艹 貝
 藗:人 束 艹 辶 𠂊
-藗.htxx:人 束 艹.V_htxx*0 辶.A_htxx 𠂊
+藗.htxx:人 束 艹 辶.A_htxx 𠂊
 藘:心 田 艹 虍
-藘.htxx:心 田 艹.V_htxx*0 虍.A_htxx
+藘.htxx:心 田 艹 虍.A_htxx
 藙:又 立 艹 𠘧 𧰨
 藙.C_xxjk.xxjk:几 又 立.A_xxjk 艹 𧰨
-藙.htxx:又 立 艹.V_htxx*0 𠘧 𧰨
+藙.htxx:又 立 艹 𠘧 𧰨
 藚:工 罒 艹 貝
-藚.C_hxjx.hxxx:工 罒 艹.V_htxx*0 貝
-藚.C_hxjx.xxjx:四 工 艹.V_htxx*0 貝
-藚.xtxx:工 罒 艹.V_htxx*0 貝
+藚.C_hxjx.hxxx:工 罒 艹 貝
+藚.C_hxjx.xxjx:四 工 艹 貝
+藚.xtxx:工 罒 艹 貝
 藛:勹 宀 灬 臼 艹
 藜:丿 人 勹 氺 禾 艹
-藜.htxx:丿 人 勹 氺 禾 艹.V_htxx*0
+藜.htxx:丿 人 勹 氺 禾 艹
 藝:丶 九 云 坴 艹
-藝.hxxx:丶 九 云 坴 艹.V_htxx*0
-藝.xtxx:丶 九 云 坴.V_htxx*0 艹.V_htxx*0
+藝.hxxx:丶 九 云 坴 艹
+藝.xtxx:丶 九 云 坴.V_htxx*0 艹
 藝.xxjk:丶 九 云.A_xxjk 坴 艹
 藞:石 艹
-藞.htxx:石 艹.V_htxx*0
+藞.htxx:石 艹
 藟:田 艹
-藟.htxx:田 艹.V_htxx*0
+藟.htxx:田 艹
 藠:白 艹
-藠.htxx:白 艹.V_htxx*0
+藠.htxx:白 艹
 藡:啇 艹 辶
-藡.htxx:啇 艹.V_htxx*0 辶.A_htxx
+藡.htxx:啇 艹 辶.A_htxx
 藡.xxjk:啇.A_xxjk 艹 辶.V_xxjk*0
 藢:一 山 彳 攵 王 艹
-藢.C_htxx.htxx:一 丿 工 山 彳 攵 艹.V_htxx*0
+藢.C_htxx.htxx:一 丿 工 山 彳 攵 艹
 藣:匕 厶 月 罒 艹
-藣.C_xtxx.xtxx:⺼ 匕.V_htxx*0 匕.V_htxx*1 厶 罒 艹.V_htxx*0
-藣.hxxx:匕.V_htxx*0 匕.V_htxx*1 厶 月 罒 艹.V_htxx*0
+藣.C_xtxx.xtxx:⺼ 匕.V_htxx*0 匕.V_htxx*1 厶 罒 艹
+藣.hxxx:匕.V_htxx*0 匕.V_htxx*1 厶 月 罒 艹
 藤:月 氺 艹 龹
-藤.htxx:月 氺 艹.V_htxx*0 龹
+藤.htxx:月 氺 艹 龹
 藤.xxjx:月 氺 艹 龹
 藤.xxxk:月.E_xtjk*0 氺 艹 龹.A_xxjx
 藥:幺 木 白 艹
-藥.hxxx:幺 木 白 艹.V_htxx*0
-藥.xtxx:幺 木 白 艹.V_htxx*0
+藥.hxxx:幺 木 白 艹
+藥.xtxx:幺 木 白 艹
 藥.xxjk:幺.A_xxjk 木 白 艹
 藦:广 手 木 木 艹
 藦.C_xtjk.xxjk:广.A_xxjk 手 艹 𣎳 𣎳.E_xxjk*0
 藦.C_xtjx.xtxx:广 手 艹 𣎳.E_htxx*0 𣎳.E_xxjk*0
-藦.hxxx:广 手 木 木 艹.V_htxx*0
+藦.hxxx:广 手 木 木 艹
 藧:一 友 爫 糹 艹
 藨:灬 艹 鹿
-藨.htxx:灬 艹.V_htxx*0 鹿.A_htxx
+藨.htxx:灬 艹 鹿.A_htxx
 藨.xxjk:灬 艹 鹿.A_xxjk
 藩:氵 田 艹 釆
-藩.htxx:氵 田 艹.V_htxx*0 釆
+藩.htxx:氵 田 艹 釆
 藪:婁 攵 艹
-藪.htxx:婁.V_hxxx*0 攵 艹.V_htxx*0
+藪.htxx:婁.V_hxxx*0 攵 艹
 藪.xxjk:婁.A_xxjk 攵 艹
 藫:十 日 氵 艹 覀
-藫.htxx:十 日 氵 艹.V_htxx*0 覀
+藫.htxx:十 日 氵 艹 覀
 藬:㇌ 一 丨 中 艹 貝
-藬.htxx:㇌ 一 丨 中 艹.V_htxx*0 貝
+藬.htxx:㇌ 一 丨 中 艹 貝
 藭:弓 穴 艹 身
-藭.htxx:弓 穴.V_htxx*0 艹.V_htxx*0 身.A_xtjk
+藭.htxx:弓 穴.V_htxx*0 艹 身.A_xtjk
 藭.xxjk:弓.A_xxjk 穴.V_xxjk*0 艹 身.A_xtjk
 藮:木 灬 艹 隹
-藮.htxx:木 灬 艹.V_htxx*0 隹
+藮.htxx:木 灬 艹 隹
 藯:寸 尸 心 示 艹
-藯.hxxx:寸 尸 心 示 艹.V_htxx*0
-藯.xtxx:寸 尸 心 示.A_xtxx 艹.V_htxx*0
+藯.hxxx:寸 尸 心 示 艹
+藯.xtxx:寸 尸 心 示.A_xtxx 艹
 藰:丶 丿 刀 刂 艹 釒 𠄌
-藰.htxx:丶 丿 刀 刂 艹.V_htxx*0 釒 𠄌
+藰.htxx:丶 丿 刀 刂 艹 釒 𠄌
 藱:疒 艹 鬼
-藱.htxx:疒 艹.V_htxx*0 鬼
+藱.htxx:疒 艹 鬼
 藲:匚 口 木 艹
-藲.htxx:匚.L_xxjk*0 口 木 艹.V_htxx*0
+藲.htxx:匚.L_xxjk*0 口 木 艹
 藳:禾 艹 高
 藳.xxjk:禾 艹 高.A_xxjx
 藴:日 皿 糹 艹
 藴.C_xxjk.xxjk:小 幺.A_xxjk 日 皿 艹
-藴.hxxx:日 皿 糹 艹.V_htxx*0
+藴.hxxx:日 皿 糹 艹
 藵:亻 口 木 艹 衣
 藶:厂 止 禾 禾 艹
-藶.htxx:厂 止 禾 禾.E_htxx*0 艹.V_htxx*0
+藶.htxx:厂 止 禾 禾.E_htxx*0 艹
 藷:日 耂 艹 言
 藷.C_xxjk.xxjk:丶 日 耂 艹 言.A_xxjk
-藷.htxx:日 耂 艹.V_htxx*0 言
+藷.htxx:日 耂 艹 言
 藸:一 日 耂 艹 𧰨
-藸.htxx:一 日 耂 艹.V_htxx*0 𧰨
+藸.htxx:一 日 耂 艹 𧰨
 藹:匃 日 艹 言
 藹.hxxx:人 勹 日 艹 言 𠃊.V_hxjk*0
 藹.xtxx:人 勹 日 艹 言 𠃊.V_hxjk*0
 藹.xxjk:匃.A_xxjk 日 艹 言.A_xxjk
 藺:艹 門 隹
-藺.htxx:艹.V_htxx*0 門 隹
+藺.htxx:艹 門 隹
 藺.xxjk:艹 門 隹.A_xxjk
 藻:口 木 氵 艹
-藻.hxxx:口 木 氵 艹.V_htxx*0
-藻.xtxx:口 木 氵 艹.V_htxx*0
+藻.hxxx:口 木 氵 艹
+藻.xtxx:口 木 氵 艹
 藼:丰 宀 心 罒 艹
-藼.htxx:丰.V_htjk*0 宀 心 罒 艹.V_htxx*0
+藼.htxx:丰.V_htjk*0 宀 心 罒 艹
 藼.xxjx:丰.V_xxjx*1 宀 心 罒 艹
 藼.xxxk:丰.V_xxjx*1 宀 心 罒 艹
 藽:朩 立 艹 見
-藽.C_htxk.hxxx:木.E_htjk*0 立 艹.V_htxx*0 見
-藽.C_htxk.xtxx:木 立 艹.V_htxx*0 見
+藽.C_htxk.hxxx:木.E_htjk*0 立 艹 見
+藽.C_htxk.xtxx:木 立 艹 見
 藽.C_htxk.xxxk:木 立.A_xxjk 艹 見
 藽.xxjx:朩 立.A_xxjk 艹 見
 藾:束 艹 貝 𠂊
-藾.htxx:刀 束 艹.V_htxx*0 貝
+藾.htxx:刀 束 艹 貝
 藿:⻗ 艹 隹
-藿.htxx:⻗.A_hxxx 艹.V_htxx*0 隹
+藿.htxx:⻗.A_hxxx 艹 隹
 藿.xxjk:⻗ 艹 隹.A_xxjk
 蘀:工 扌 罒 艹 𢆉
-蘀.htxx:工 扌 罒 艹.V_htxx*0 𢆉
+蘀.htxx:工 扌 罒 艹 𢆉
 蘀.xxjk:工 扌 罒 艹 𢆉
 蘁:口 王 艹
-蘁.htxx:口 王 艹.V_htxx*0
+蘁.htxx:口 王 艹
 蘂:心 木 艹
-蘂.htxx:心 木 艹.V_htxx*0
+蘂.htxx:心 木 艹
 蘃:木 止 止 艹
 蘄:一 口 斤 田 艹
-蘄.htxx:一 口 斤 田 艹.V_htxx*0
+蘄.htxx:一 口 斤 田 艹
 蘅:一 丁 人 彳 艹 鱼
-蘅.htxx:一 丁 人 彳 艹.V_htxx*0 鱼
+蘅.htxx:一 丁 人 彳 艹 鱼
 蘆:田 皿 艹 虍
-蘆.htxx:田 皿 艹.V_htxx*0 虍.A_htxx
+蘆.htxx:田 皿 艹 虍.A_htxx
 蘇:禾 艹 魚
-蘇.htxx:禾 艹.V_htxx*0 魚
+蘇.htxx:禾 艹 魚
 蘈:几 禾 艹 頁
 蘉:亻 冖 又 彐 罒 艹
-蘉.hxxx:亻 冖 又 彐.A_htjk 罒 艹.V_htjk*0
-蘉.xtxx:亻 冖 又 彐.A_htjk 罒 艹.V_htxx*0
+蘉.hxxx:亻 冖 又 彐.A_htjk 罒 艹
+蘉.xtxx:亻 冖 又 彐.A_htjk 罒 艹
 蘊:人 口 皿 糹 艹
 蘊.C_xxjk.xxjk:人 口 小 幺.A_xxjk 皿 艹
-蘊.htxx:人 口 皿 糹 艹.V_htxx*0
+蘊.htxx:人 口 皿 糹 艹
 蘋:止 艹 頁 𣥂
-蘋.htxx:止 艹.V_htxx*0 頁 𣥂
+蘋.htxx:止 艹 頁 𣥂
 蘋.xxjx:止 艹 頁 𣥂.V_xxjk*0
 蘌:一 冂 彳 止 示 艹 𠂉
-蘌.hxxx:一 冂 彳 止.V_htxx*0 示 艹.V_htxx*0 𠂉
-蘌.xtxx:一 冂 彳 止.V_htxx*0 示.A_xtxx 艹.V_htxx*0 𠂉
+蘌.hxxx:一 冂 彳 止.V_htxx*0 示 艹 𠂉
+蘌.xtxx:一 冂 彳 止.V_htxx*0 示.A_xtxx 艹 𠂉
 蘍:力 熏 艹
-蘍.htxx:力 熏 艹.V_htxx*0
+蘍.htxx:力 熏 艹
 蘎:⻗ 巴 月 艹
 蘏:匕 示 艹 頁
-蘏.hxxx:匕.V_htxx*1 示 艹.V_htxx*0 頁
-蘏.xtxx:匕.V_htxx*1 示.A_xtxx 艹.V_htxx*0 頁
+蘏.hxxx:匕.V_htxx*1 示 艹 頁
+蘏.xtxx:匕.V_htxx*1 示.A_xtxx 艹 頁
 蘐:一 友 爫 艹 言
-蘐.htxx:一 友 爫 艹.V_htxx*0 言
+蘐.htxx:一 友 爫 艹 言
 蘐.xxjk:一 友 爫.A_xxjk 艹 言.A_xxjk
 蘑:广 木 木 石 艹
-蘑.C_xtjk.xtxx:广 石 艹.V_htxx*0 𣎳.E_htxx*0
+蘑.C_xtjk.xtxx:广 石 艹 𣎳.E_htxx*0
 蘑.C_xtjk.xxjk:广.A_xxjk 石 艹 𣎳 𣎳.E_xxjk*0
-蘑.hxxx:广 木 石 艹.V_htxx*0
+蘑.hxxx:广 木 石 艹
 蘒:日 电 禾 艹 𠂊
 蘓:禾 艹 魚
-蘓.htxx:禾 艹.V_htxx*0 魚
+蘓.htxx:禾 艹 魚
 蘔:匕 禾 艹 頁
-蘔.htxx:匕.V_htxx*0 禾 艹.V_htxx*0 頁
+蘔.htxx:匕.V_htxx*0 禾 艹 頁
 蘕:丰 夂 糹 艹 辶
 蘖:㠯 丿 十 木 立 艹
-蘖.hxxx:㠯 丿 十 木 立 艹.V_htxx*0
-蘖.xtxx:㠯 丿 十 木 立 艹.V_htxx*0
+蘖.hxxx:㠯 丿 十 木 立 艹
+蘖.xtxx:㠯 丿 十 木 立 艹
 蘖.xxjk:㠯 丿 十 木 立.A_xxjk 艹
 蘗:十 口 尸 木 立 艹
-蘗.hxxx:十 口 尸 木 立 艹.V_htxx*0
-蘗.xtxx:十 口 尸 木 立 艹.V_htxx*0
+蘗.hxxx:十 口 尸 木 立 艹
+蘗.xtxx:十 口 尸 木 立 艹
 蘗.xxjk:十 口 尸 木 立.A_xxjk 艹
 蘘:艹 襄
-蘘.htxx:艹.V_htxx*0 襄
+蘘.htxx:艹 襄
 蘘.xxjk:艹 襄.A_xxjk.A_xxjk
 蘙:习 匚 又 矢 艹 𠘧
 蘙.C_xxjk.xxjk:习.A_xxjk 几 匚 又 矢 艹
-蘙.htxx:一 习 又 矢 艹.V_htxx*0 𠃊.V_hxjk*0 𠘧
+蘙.htxx:一 习 又 矢 艹 𠃊.V_hxjk*0 𠘧
 蘚:羊 艹 魚
-蘚.htxx:羊 艹.V_htxx*0 魚
+蘚.htxx:羊 艹 魚
 蘛:亠 厶.A_xxjk 月 甚 艹
-蘛.C_xtxx.xtxx:⺼ 一 厶.A_xxjk 甚.A_htxx 艹.V_htxx*0
-蘛.hxxx:亠 厶.A_xxjk 月 甚.A_htxx 艹.V_htxx*0
+蘛.C_xtxx.xtxx:⺼ 一 厶.A_xxjk 甚.A_htxx 艹
+蘛.hxxx:亠 厶.A_xxjk 月 甚.A_htxx 艹
 蘛.xxjk:亠 厶.A_xxjk 月 甚.A_xxjk 艹
 蘜:勹 米 艹 革
-蘜.hxxx:勹 米 艹.V_htxx*0 革
-蘜.xtxx:勹 米.A_xtxx 艹.V_htxx*0 革
+蘜.hxxx:勹 米 艹 革
+蘜.xtxx:勹 米.A_xtxx 艹 革
 蘝:僉 欠 艹
 蘞:僉 攵 艹
-蘞.htxx:僉 攵 艹.V_htxx*0
+蘞.htxx:僉 攵 艹
 蘟:㇌ 丨 工 彐 心 爫 艹
-蘟.htxx:㇌ 丨 工 彐.A_htjk 心 爫 艹.V_htxx*0
+蘟.htxx:㇌ 丨 工 彐.A_htjk 心 爫 艹
 蘠:人 回 工 爿 艹
-蘠.htxx:人 回 工 爿 艹.V_htxx*0
+蘠.htxx:人 回 工 爿 艹
 蘡:女 艹 貝
-蘡.htxx:女.A_htxx 艹.V_htxx*0 貝
+蘡.htxx:女.A_htxx 艹 貝
 蘡.xxjk:女.A_xxjk 艹 貝
 蘢:艹 龍
-蘢.hxxx:艹.V_htxx*0 龍
-蘢.xtxx:艹.V_htxx*0 龍.A_xtxx
+蘢.hxxx:艹 龍
+蘢.xtxx:艹 龍.A_xtxx
 蘢.xxjk:艹 龍.A_xxjk
 蘣:一 丶 八 王 田 艹
-蘣.C_hxxx.hxxx:一 丶 八 廿 王 田 艹.V_htxx*0
-蘣.C_xtxx.xtxx:一 丶 八 廿 王 田 艹.V_htxx*0
+蘣.C_hxxx.hxxx:一 丶 八 廿 王 田 艹
+蘣.C_xtxx.xtxx:一 丶 八 廿 王 田 艹
 蘤:爲 白 艹
-蘤.C_htxx.htxx:為 白 艹.V_htxx*0
+蘤.C_htxx.htxx:為 白 艹
 蘤.xxjk:爲.A_xxjk 白 艹
 蘥:艹 龠
-蘥.htxx:艹.V_htxx*0 龠
+蘥.htxx:艹 龠
 蘦:⻗ 口 艹
-蘦.htxx:⻗.A_hxxx 口 艹.V_htxx*0
+蘦.htxx:⻗.A_hxxx 口 艹
 蘧:一 艹 虍 辶 𧰨
-蘧.htxx:一 艹.V_htxx*0 虍.A_htxx 辶.A_htxx 𧰨
+蘧.htxx:一 艹 虍.A_htxx 辶.A_htxx 𧰨
 蘧.xxjk:一 艹 虍 辶.V_xxjk*0 𧰨
 蘨:丿 小 幺 爫 缶 艹
-蘨.htxx:丶 丿 夕 小 幺 缶 艹.V_htxx*0
+蘨.htxx:丶 丿 夕 小 幺 缶 艹
 蘩:小 幺 攵 母 艹 𠂉
 蘩.C_xxjk.xxjk:小 幺.A_xxjk 攵 母.A_xxjk 艹 𠂉
-蘩.htxx:小 幺 攵 母 艹.V_htxx*0 𠂉
+蘩.htxx:小 幺 攵 母 艹 𠂉
 蘪:米 艹 鹿
-蘪.hxxx:米 艹.V_htxx*0 鹿.A_htxx
-蘪.xtxx:米 艹.V_htxx*0 鹿.A_htxx
+蘪.hxxx:米 艹 鹿.A_htxx
+蘪.xtxx:米 艹 鹿.A_htxx
 蘫:丶 氵 皿 臣 艹 𠂉
 蘬:㠯 丿 冖 巾 彐 止 艹
-蘬.htxx:㠯 丿 冖 巾 彐.A_htjk 止 艹.V_htxx*0
+蘬.htxx:㠯 丿 冖 巾 彐.A_htjk 止 艹
 蘭:柬 艹 門
 蘭.C_xxjx.xxjx:東 艹 門
-蘭.htxx:柬 艹.V_htxx*0 門
+蘭.htxx:柬 艹 門
 蘮:刂 厂 火 罒 艹
-蘮.htxx:刂 厂 火 罒 艹.V_htxx*0
+蘮.htxx:刂 厂 火 罒 艹
 蘯:一 勿 日 氵 皿 艹
-蘯.htxx:一 勿 日 氵 皿 艹.V_htxx*0
+蘯.htxx:一 勿 日 氵 皿 艹
 蘰:又 日 糹 罒 艹
 蘰.C_xxjk.xxjk:又 小 幺.A_xxjk 日 罒 艹
 蘱:犬 米 艹 頁
-蘱.htxx:犬 米 艹.V_htxx*0 頁
+蘱.htxx:犬 米 艹 頁
 蘲:工 田 艹
-蘲.htxx:工 田 艹.V_htxx*0
+蘲.htxx:工 田 艹
 蘳:一 八 工 田 艹
-蘳.C_hxxx.hxxx:一 八 工 廿 田 艹.V_htxx*0
-蘳.C_xtxx.xtxx:一 八 工 廿 田 艹.V_htxx*0
+蘳.C_hxxx.hxxx:一 八 工 廿 田 艹
+蘳.C_xtxx.xtxx:一 八 工 廿 田 艹
 蘴:丰 山 艹 豆
-蘴.htxx:丰 山 艹.V_htxx*0 豆
+蘴.htxx:丰 山 艹 豆
 蘵:丷 亠 戈 日 耳 艹
-蘵.htxx:丷 亠 戈 日 耳.L_htjk*0 艹.V_htxx*0
+蘵.htxx:丷 亠 戈 日 耳.L_htjk*0 艹
 蘶:女 禾 艹 鬼
-蘶.htxx:女.A_htxx 禾 艹.V_htxx*0 鬼.A_xxjk
+蘶.htxx:女.A_htxx 禾 艹 鬼.A_xxjk
 蘶.xxjk:女.A_xxjk 禾 艹 鬼.A_xxjk
 蘷:一 八 夂 巳 止 白 艹
 蘸:灬 艹 酉 隹
-蘸.hxxx:灬 艹.V_htxx*0 酉 隹
-蘸.xtxx:灬 艹.V_htxx*0 酉 隹
+蘸.hxxx:灬 艹 酉 隹
+蘸.xtxx:灬 艹 酉 隹
 蘸.xxjk:灬 艹 酉 隹.A_xxjk
 蘹:忄 艹 褱
-蘹.htxx:忄 艹.V_htxx*0 褱
+蘹.htxx:忄 艹 褱
 蘹.xxjk:忄 艹 褱.A_xxjk
 蘺:离 艹 隹
-蘺.htxx:离.A_htxx 艹.V_htxx*0 隹
+蘺.htxx:离.A_htxx 艹 隹
 蘺.xxjk:离.A_xxjk 艹 隹.A_xxjk
 蘻:凵 又 小 幺 艹 車 𠘧
-蘻.htxx:凵 又 小 幺 艹.V_htxx*0 車 𠘧
+蘻.htxx:凵 又 小 幺 艹 車 𠘧
 蘼:广 木 木 艹 非
-蘼.C_xtjk.xtxx:广 艹.V_htxx*0 非.V_htjk0 𣎳.E_htxx*0
-蘼.C_xtjk.xxjk:广.A_xxjk 艹.V_htxx*0 非.V_htjk0 𣎳 𣎳.E_xxjk*0
-蘼.hxxx:广 木 艹.V_htxx*0 非.V_htjk0
+蘼.C_xtjk.xtxx:广 艹 非.V_htjk0 𣎳.E_htxx*0
+蘼.C_xtjk.xxjk:广.A_xxjk 艹 非.V_htjk0 𣎳 𣎳.E_xxjk*0
+蘼.hxxx:广 木 艹 非.V_htjk0
 蘽:木 田 艹
 蘾:工 艹 褱
-蘾.htxx:工 艹.V_htxx*0 褱
+蘾.htxx:工 艹 褱
 蘿:糹 罒 艹 隹
 蘿.C_xxjk.xxjk:小 幺.A_xxjk 罒 艹 隹.A_xxjk
-蘿.htxx:糹 罒 艹.V_htxx*0 隹
+蘿.htxx:糹 罒 艹 隹
 虀:㇏ 一 丫 丿 亠 刀 艹 非 𠄌
-虀.hxxx:㇏ 一 丫.V_hxxx*0 丿 亠 刀 艹.V_htxx*0 非 𠄌
-虀.xtxx:㇏ 一 丫 丿 亠 刀 艹.V_htxx*0 非 𠄌
+虀.hxxx:㇏ 一 丫.V_hxxx*0 丿 亠 刀 艹 非 𠄌
+虀.xtxx:㇏ 一 丫 丿 亠 刀 艹 非 𠄌
 虀.xxjk:㇏ 一 丫 丿 亠 刀 艹 非 𠄌.A_xxjk
 虁:一 八 夂 巳 止 自 艹
-虁.C_xxjx.xxjx:一 儿 夂 巳 止 自 艹.V_htjk*0
+虁.C_xxjx.xxjx:一 儿 夂 巳 止 自 艹
 虁.C_xxxk.xxxk:㔾 一 儿 夂 止 自 艹
 虂:⻗ 口 夂 艹 足
-虂.htxx:⻗.A_hxxx 口 夂 艹.V_htxx*0 足
+虂.htxx:⻗.A_hxxx 口 夂 艹 足
 虃:㦰 一 氵 艹 非
-虃.htxx:㦰 一 氵 艹.V_htxx*0 非
+虃.htxx:㦰 一 氵 艹 非
 虄:产 夂 生 艹 虫
 虅:月 艹 馬 龹
-虅.htxx:月 艹.V_htxx*0 馬 龹
+虅.htxx:月 艹 馬 龹
 虆:小 幺 田 艹
 虆.C_xxjk.xxjk:小 幺.A_xxjk 田 艹
-虆.htxx:小 幺 田 艹.V_htxx*0
+虆.htxx:小 幺 田 艹
 虇:口 弓 艹 隹
-虇.hxxx:口 弓 艹.V_htjk*0 艹.V_htxx*0 隹
-虇.xtxx:口 弓 艹.V_htjk*0 艹.V_htxx*0 隹
+虇.hxxx:口 弓 艹 艹 隹
+虇.xtxx:口 弓 艹 艹 隹
 虈:口 艹 頁
-虈.htxx:口 艹.V_htxx*0 頁
+虈.htxx:口 艹 頁
 虉:艹 鬲 鳥
 虊:木 糹 艹 言
 虋:一 八 冂 冖 刀 口 艹 酉 𦥑
-虋.htxx:一 丨 八 冂 冖 刀 艹.V_htxx*0 酉 𦥑
+虋.htxx:一 丨 八 冂 冖 刀 艹 酉 𦥑
 虌:㡀 攵 艹 黽
-虌.hxxx:㡀 攵 艹.V_htxx*0 黽.A_htxx
-虌.xtxx:㡀 攵 艹.V_htxx*0 黽.A_htxx
+虌.hxxx:㡀 攵 艹 黽.A_htxx
+虌.xtxx:㡀 攵 艹 黽.A_htxx
 虍:虍
 虍.htxx:虍.A_htxx
 虎:几 虍
@@ -33061,7 +33061,7 @@
 蝥:丿 予 攵 虫
 蝦:叚 虫
 蝧:央 艹 虫
-蝧.htxx:央.htxx 艹.V_htxx*0 虫
+蝧.htxx:央.htxx 艹 虫
 蝨:⺄ 十 虫
 蝨.htxx:⺄ 十 虫
 蝨.xxjk:⺄ 十 虫
@@ -33114,7 +33114,7 @@
 螄:㠯 一 丿 巾 虫
 螅:心 自 虫
 螆:䒑 幺 虫
-螆.hxxx:幺 艹.V_htxx*0 虫
+螆.hxxx:幺 艹 虫
 螆.xxjk:亠 幺.A_xxjk 虫
 螇:大 幺 爫 虫
 螇.htxx:大 幺 爫 虫
@@ -33239,7 +33239,7 @@
 蟄.xxjk:丶 九 工 虫 𢆉
 蟅:广 廿 灬 虫
 蟆:大 日 艹 虫
-蟆.htxx:大 日 艹.V_htxx*0 虫
+蟆.htxx:大 日 艹 虫
 蟇:大 日 艹 虫
 蟈:一 口 戈 虫
 蟉:㐱 习 虫
@@ -33257,7 +33257,7 @@
 蟐:⺌ 冖 口 巾 虫
 蟑:十 日 立 虫
 蟒:廾 犬 艹 虫
-蟒.htxx:廾 犬 艹.V_htxx*0 虫
+蟒.htxx:廾 犬 艹 虫
 蟒.xxjx:大 廾 艹 虫
 蟓:口 虫 𠂊 𧰨
 蟓.C_htxx.htxx:丨 口 虫 𠂊 𧰨
@@ -33324,7 +33324,7 @@
 蟺.xxjk:一 亠 回 日 虫
 蟻:我 羊 虫
 蟼:句 攵 艹 虫
-蟼.htxx:句 攵 艹.V_htjk*0 虫
+蟼.htxx:句 攵 艹 虫
 蟽:工 羊 虫 辶
 蟾:八 厃 虫 言
 蟾.C_htxx.htxx:儿.A_htxx 厃 虫 言
@@ -33337,8 +33337,8 @@
 蠁:㇌ 一 丨 丶 乡 虫 𠃍 𠄌
 蠁.C_xxjk.xxjk:㇌ 丨 乡.A_xxjk 匕 白 虫
 蠂:世 木 艹 虫
-蠂.hxxx:世 木 艹.V_htxx*0 虫
-蠂.xtxx:世 木 艹.V_htxx*0 虫
+蠂.hxxx:世 木 艹 虫
+蠂.xtxx:世 木 艹 虫
 蠃:丶 亡 几 口 月 虫
 蠃.C_hxxx.hxxx:⺼ 丶 亡.A_hxxx.A_xtxx 几 口 虫
 蠃.C_xtxx.xtxx:⺼ 丶 亡.A_hxxx.A_xtxx 几 口 虫
@@ -33350,7 +33350,7 @@
 蠅.htxx:虫 黽.A_htxx
 蠅.xxjk:虫 黽
 蠆:禺 艹 虫
-蠆.htxx:禺.A_htxx 艹.V_htxx*0 虫
+蠆.htxx:禺.A_htxx 艹 虫
 蠇:禺 艹 虫
 蠈:戈 虫 貝 𠂇
 蠉:一 口 罒 虫 𧘇
@@ -33373,14 +33373,14 @@
 蠑.xtxx:冖 木 火 虫
 蠒:爾 虫
 蠓:一 冖 艹 虫 𧰨
-蠓.htxx:一 冖 艹.V_htxx*0 虫 𧰨
+蠓.htxx:一 冖 艹 虫 𧰨
 蠓.xxjk:一 冖 艹 虫 𧰨.V_xxjk*0
 蠔:一 亠 冖 口 虫 𧰨
 蠔.xxjk:一 亠 冖 口 虫 𧰨.V_xxjk*0
 蠕:⻗ 而 虫
 蠕.htxx:⻗.A_hxxx 而 虫
 蠖:又 艹 虫 隹
-蠖.htxx:又 艹.V_htjk*0 虫 隹
+蠖.htxx:又 艹 虫 隹
 蠖.xxjk:又 艹 虫 隹.A_xxjk
 蠗:习 虫 隹
 蠗.htxx:习 虫 隹
@@ -33390,7 +33390,7 @@
 蠙.xxjk:一 宀 虫 貝 𣥂
 蠚:口 艹 虫 𠂇
 蠛:丶 戊 罒 艹 虫
-蠛.htxx:丶 戊 罒 艹.V_htjk*0 虫
+蠛.htxx:丶 戊 罒 艹 虫
 蠜:㐅 大 木 虫
 蠜.xxjk:㐅 大 木 木 虫
 蠝:田 虫
@@ -33408,7 +33408,7 @@
 蠢:日 虫 𡗗
 蠢.xxjk:日 虫 𡗗.V_xxjk*0
 蠣:厂 禺 艹 虫
-蠣.htxx:厂 禺.A_htxx 艹.V_htxx*0 虫
+蠣.htxx:厂 禺.A_htxx 艹 虫
 蠤:丷 虫 酉
 蠤.htxx:丷 虫 酉
 蠥:㠯 丿 十 屮 立 虫
@@ -33417,8 +33417,8 @@
 蠦.htxx:田 皿 虍.A_htxx 虫
 蠧:冖 工 石 虫
 蠨:肅 艹 虫
-蠨.hxxx:肅.A_hxxx 艹.V_htxx*0 虫
-蠨.xtxx:肅 艹.V_htxx*0 虫
+蠨.hxxx:肅.A_hxxx 艹 虫
+蠨.xtxx:肅 艹 虫
 蠩:日 耂 虫 言
 蠪:虫 龍
 蠪.xtxx:虫 龍.A_xtxx
@@ -33450,7 +33450,7 @@
 蠶.xxjk:旡.V_xxjk*0 旡.V_xxjk*1 日 虫
 蠷:目 虫 隹
 蠸:口 艹 虫 隹
-蠸.htxx:口 艹.V_htjk*0 虫 隹
+蠸.htxx:口 艹 虫 隹
 蠹:一 中 冖 石 虫
 蠺:一 大 大 日 虫
 蠻:糹 虫 言
@@ -33480,7 +33480,7 @@
 衈.htxx:丿 皿 耳.A_htxx
 衉:丿 口 夂 皿
 衊:丶 丿 戊 皿 罒 艹
-衊.htxx:丶 丿 戊 皿 罒 艹.V_htjk*0
+衊.htxx:丶 丿 戊 皿 罒 艹
 衋:一 丿 白 皿 聿
 衋.xxjk:一 丿 白 皿 聿
 行:一 丁 彳
@@ -33892,7 +33892,7 @@
 褠.xxjx:一 井 冉.V_xxjx*0 衤.A_xxjk
 褠.xxxk:一 井 冉 衤.A_xxjk
 褡:一 人 口 艹 衤
-褡.htxx:一 人 口 艹.V_htxx*0 衤
+褡.htxx:一 人 口 艹 衤
 褢:亠 鬼 𧘇
 褢.htxx:亠 鬼.A_xxjk 𧘇
 褣:宀 衤 谷
@@ -34049,7 +34049,7 @@
 襩:工 罒 衤 貝
 襩.C_hxxx.hxxx:四 工 衤 貝
 襪:丶 戊 罒 艹 衤
-襪.htxx:丶 戊 罒 艹.V_htjk*0 衤
+襪.htxx:丶 戊 罒 艹 衤
 襪.xxjk:丶 戊 罒 艹 衤.A_xxjk
 襫:一 大 白 衤
 襫.xxjk:一 大 白 衤.A_xxjk
@@ -34089,12 +34089,12 @@
 襹.xtxx:丽 衤 鹿.A_htxx
 襺:丨 冂 糹 艹 虫 衤
 襺.C_xxjk.xxjk:丨 冂 小 幺.A_xxjk 艹 虫 衤.A_xxjk
-襺.htxx:丨 冂 小 幺.A_xxjk 艹.V_htjk*0 虫 衤
+襺.htxx:丨 冂 小 幺.A_xxjk 艹 虫 衤
 襻:㐅 大 手 木 衤
 襻.xxjx:㐅 大 手 木 木 衤.A_xxjk
 襻.xxxk:㐅 大 手 木 木 衤.A_xxjk
 襼:丶 九 云 坴 艹 衤
-襼.htxx:丶 九 云 坴 艹.V_htxx*0 衤
+襼.htxx:丶 九 云 坴 艹 衤
 襼.xxjk:丶 九 云.A_xxjk 坴.V_xxjk*0 艹 衤.A_xxjk
 襽:柬 艹 衤 門
 襽.xxjk:柬 艹 衤.A_xxjk 門
@@ -34203,7 +34203,7 @@
 覿:工 罒 見 貝
 覿.hxjx:四.V_xxjk*0 工 見 貝
 觀:口 艹 見 隹
-觀.htxx:口 艹.V_htjk*0 見 隹
+觀.htxx:口 艹 見 隹
 觀.xxjk:口 艹 見 隹.A_xxjk
 见:见
 观:又 见
@@ -34853,7 +34853,7 @@
 諼.xxjk:一 友 爫.A_xxjk 言.A_xxjk
 諽:言 革
 諾:口 艹 言 𠂇
-諾.htxx:口 艹.V_htxx*0 言 𠂇
+諾.htxx:口 艹 言 𠂇
 諾.xxjk:口 艹 言.A_xxjk 𠂇
 諿:口 耳 言
 諿.htxx:口 耳.A_htxx 言
@@ -34883,8 +34883,8 @@
 謈:共 日 言
 謉:言 鬼
 謊:亡 艹 言 𫶧
-謊.hxxx:亡.A_hxxx 艹.V_htxx*0 言 𫶧
-謊.xtxx:亡.A_hxxx 艹.V_htxx*0 言 𫶧.A_xtxx
+謊.hxxx:亡.A_hxxx 艹 言 𫶧
+謊.xtxx:亡.A_hxxx 艹 言 𫶧.A_xtxx
 謊.xxjk:亡.A_hxxx 艹 言.A_xxjk 𫶧
 謋:㐄 夕 木 言
 謋.xtxx:㐄 夕 木 言
@@ -34959,7 +34959,7 @@
 謧:离 言
 謧.htxx:离.A_htxx 言
 謨:大 日 艹 言
-謨.htxx:大 日 艹.V_htxx*0 言
+謨.htxx:大 日 艹 言
 謨.xxjk:大 日 艹 言.A_xxjk
 謩:大 日 艹 言
 謪:丷 亠 冏 言
@@ -35088,7 +35088,7 @@
 譥:万 丶 攵 白 言
 譥.htxx:万 丶 攵.E_htxx*0 白 言
 警:句 攵 艹 言
-警.htxx:句 攵 艹.V_htjk*0 言
+警.htxx:句 攵 艹 言
 警.xxjk:句 攵 艹 言.A_xxjk
 譧:兼 广 言
 譨:曲 言 辰
@@ -35096,8 +35096,8 @@
 譩:心 日 立 言
 譩.xxjk:心 日 立.A_xxjk 言.A_xxjk
 譪:匃 日 艹 言
-譪.hxxx:匃.A_htxx 日 艹.V_htxx*0 言
-譪.xtxx:匃.A_htxx 日 艹.V_htxx*0 言
+譪.hxxx:匃.A_htxx 日 艹 言
+譪.xtxx:匃.A_htxx 日 艹 言
 譫:八 厃 言
 譫.C_htxx.htxx:儿.A_htxx 厃 言
 譫.C_xxjk.xxjk:儿 厃 言.A_xxjk
@@ -35123,7 +35123,7 @@
 譶:言
 譶.xxjk:言.A_xxjk
 護:又 艹 言 隹
-護.htxx:又 艹.V_htjk*0 言 隹
+護.htxx:又 艹 言 隹
 護.xxjk:又 艹 言.A_xxjk 隹.A_xxjk
 譸:壽 言
 譸.xxjk:壽 言.A_xxjk
@@ -35200,12 +35200,12 @@
 讘:耳 言
 讘.htxx:耳.A_htxx 言
 讙:口 艹 言 隹
-讙.htxx:口 艹.V_htjk*0 言 隹
+讙.htxx:口 艹 言 隹
 讙.xxjk:口 艹 言.A_xxjk 隹.A_xxjk
 讚:儿 儿 牛 言 貝
 讚.xxjk:儿 儿 牛 言.A_xxjk 貝
 讛:丶 九 云 坴 艹 言
-讛.htxx:丶 九 云 坴 艹.V_htxx*0 言
+讛.htxx:丶 九 云 坴 艹 言
 讜:⺌ 冖 口 言 黑
 讜.xxjk:⺌ 冖 口 言.A_xxjk 黑
 讝:乛 厂 口 攵 耳 言
@@ -35515,7 +35515,7 @@
 貒:山 而 豸
 貒.xxjk:山.A_xxjk 而 豸
 貓:田 艹 豸
-貓.htxx:田 艹.V_htxx*0 豸
+貓.htxx:田 艹 豸
 貔:㐅 丿 口 比 豸
 貔.htxx:㐅 丿 口 比.A_htxx 豸
 貔.xxjk:㐅 丿 口 比.A_xxjk 豸
@@ -35526,13 +35526,13 @@
 貗.hxxx:婁.A_hxxx 豸
 貗.xtxx:婁.A_xtxx 豸
 貘:大 日 艹 豸
-貘.htxx:大 日 艹.V_htxx*0 豸
+貘.htxx:大 日 艹 豸
 貙:匚 口 豸
 貙.htxx:一 口 豸 𠃊.V_hxjk*0
 貙.xxjk:匚 口 豸
 貚:一 口 田 豸
 貛:口 艹 豸 隹
-貛.htxx:口 艹.V_htxx*0 豸 隹
+貛.htxx:口 艹 豸 隹
 貛.xxjk:口 艹 豸 隹.A_xxjk
 貜:又 目 豸 隹
 貜.xxjk:又 目 豸 隹.A_xxjk
@@ -35741,7 +35741,7 @@
 贛:十 夂 工 日 立 貝
 贛.xxjk:十 夂 工 日 立.A_xxjk 貝
 贜:一 丿 戊 臣 艹 貝 𠃊
-贜.htxx:一 丿 戊 臣 艹.V_htxx*0 貝 𠃊
+贜.htxx:一 丿 戊 臣 艹 貝 𠃊
 贜.xxjk:一 丿 戊 臣.L_xxjk*0 艹 貝 𠃊
 贝:贝
 贞:⺊ 贝
@@ -36271,10 +36271,10 @@
 躆.htxx:一 虍.A_htxx 足 𧰨
 躇:日 耂 艹 足
 躇.C_xxjk.xxjk:丶 日 耂 艹 足
-躇.htxx:日 耂 艹.V_htxx*0 足
+躇.htxx:日 耂 艹 足
 躈:万 丶 攵 白 足
 躉:禺 艹 足
-躉.htxx:禺.A_htxx 艹.V_htxx*0 足
+躉.htxx:禺.A_htxx 艹 足
 躊:壽 足
 躋:足 齊
 躋.hxxx:足 齊.A_hxxx
@@ -36322,7 +36322,7 @@
 躞.xxjk:又 火 言.A_xxjk 足
 躟:襄 足
 躠:㠯 丿 十 立 艹 足
-躠.htxx:㠯 丿 十 立 艹.V_htxx*0 足
+躠.htxx:㠯 丿 十 立 艹 足
 躡:耳 足
 躡.htxx:耳 耳.A_htxx 足
 躡.xxjk:耳 足
@@ -36330,7 +36330,7 @@
 躢.xxjk:习.A_xxjk 日 足 門
 躣:目 足 隹
 躤:一 日 木 艹 足
-躤.C_htxx.htxx:一 丿 日 木 艹 艹.V_htxx*0 足
+躤.C_htxx.htxx:一 丿 日 木 艹 艹 足
 躥:穴 足 鼠
 躥.htxx:穴.V_htxx*2 足 鼠.A_htxx
 躦:丿 乚 牛 貝 足 𠄌
@@ -36343,7 +36343,7 @@
 躩:又 目 足 隹
 躩.xxjk:又 目 足 隹.A_xxjk
 躪:艹 足 門 隹
-躪.htxx:艹.V_htxx*0 足 門 隹
+躪.htxx:艹 足 門 隹
 躪.xxjk:艹 足 門 隹.A_xxjk
 身:身
 身.htjk:身.A_xtjk
@@ -36622,8 +36622,8 @@
 轔.xtxx:㐄 夕 米.A_xtxx 車
 轔.xxjx:㐄.V_xxjk0 夕 米 車
 轕:匃 日 艹 車
-轕..xtxx:匃.A_htxx 日.L_htxx*0 艹.V_htxx*0 車
-轕.hxxx:匃 日.L_htxx*0 艹.V_htxx*0 車
+轕..xtxx:匃.A_htxx 日.L_htxx*0 艹 車
+轕.hxxx:匃 日.L_htxx*0 艹 車
 轕.xxjk:匃.A_xxjk 日 艹 車
 轖:人 回 工 車
 轗:一 口 心 戊 車
@@ -37121,7 +37121,7 @@
 逼.htxx:一 口 田 辶.A_htxx
 逼.xxjk:一 口 田 辶.V_xxjk*0
 逽:口 艹 辶 𠂇
-逽.htxx:口 艹.V_htxx*0 辶.A_htxx 𠂇
+逽.htxx:口 艹 辶.A_htxx 𠂇
 逾:俞 辶
 逾.hxxx:俞 辶.A_htxx
 逾.xtxx:俞.A_xtxx 辶.A_htxx
@@ -37277,7 +37277,7 @@
 遲.C_xxjk.xxjk:一 丨 尸 牛 辶.V_xxjk*0
 遲.htxx:丨 丷 八 尸 牛 辶.A_htxx
 遳:人 工 艹 辶
-遳.htxx:人 工 艹.V_htxx*0 辶.A_htxx
+遳.htxx:人 工 艹 辶.A_htxx
 遴:㐄 夕 米 辶
 遴.hxxx:㐄 夕 米 辶.A_htxx
 遴.xtxx:㐄 夕 米.A_xtxx 辶.A_htxx
@@ -37321,7 +37321,7 @@
 邀.C_xxjk.xxjk:万 丨 攵 白 辶.V_xxjk*0
 邀.htxx:万 丶 攵 白 辶.A_htxx
 邁:禺 艹 辶
-邁.htxx:禺.A_htxx 艹.V_htxx*0 辶.A_htxx
+邁.htxx:禺.A_htxx 艹 辶.A_htxx
 邁.xxjk:禺 艹 辶.V_xxjk*0
 邂:刀 牛 角 辶
 邂.htxx:刀 牛 角 辶.A_htxx
@@ -37531,7 +37531,7 @@
 郾.xxjk:㇌ 一 丨 女.A_xxjk 日 𠃊.V_hxjk*0
 郿:㇌ 丨 目 𠃜
 鄀:㇌ 丨 口 艹 𠂇
-鄀.htxx:㇌ 丨 口 艹.V_htxx*0 𠂇
+鄀.htxx:㇌ 丨 口 艹 𠂇
 鄁:㇌ 丨 北 月
 鄁.C_xtxx.xtxx:⺼ ㇌ 丨 北.A_xtxx
 鄁.hxxx:㇌ 丨 北.V_htxx*0 月
@@ -37576,7 +37576,7 @@
 鄙:㇌ 丨 十 口 回
 鄙.htjk:㇌ 丨 十 口 回
 鄚:㇌ 丨 大 日 艹
-鄚.htxx:㇌ 丨 大 日 艹.V_htxx*0
+鄚.htxx:㇌ 丨 大 日 艹
 鄛:㇌ 丨 巛 果
 鄜:㇌ 丨 鹿
 鄜.xxjk:㇌ 丨 鹿.A_xxjk
@@ -37629,7 +37629,7 @@
 鄶.hxxx:㇌ 丨 會.A_hxxx
 鄷:㇌ 丨 曲 豆
 鄸:㇌ 丨 冖 夕 罒 艹
-鄸.htxx:㇌ 丨 冖 夕 罒 艹.V_htjk*0
+鄸.htxx:㇌ 丨 冖 夕 罒 艹
 鄹:㇌ 丨 乑 又 耳
 鄹.C_htxx.htxx:㇌ 丨 丿 人 又 耳.L_htjk*0
 鄹.xxjx:㇌ 丨 乑 又 耳
@@ -37644,7 +37644,7 @@
 鄾:㇌ 丨 憂
 鄾.xtxx:㇌ 丨 憂.V_xtxx*0
 鄿:㇌ 一 丨 口 田 艹
-鄿.htxx:㇌ 一 丨 口 田 艹.V_htxx*0
+鄿.htxx:㇌ 一 丨 口 田 艹
 酀:㇌ 丨 北 口 廿 灬
 酀.htxx:㇌ 丨 北.V_htxx*0 口 廿 灬
 酁:㇌ 丨 丶 免 口 比 𠂊
@@ -37653,7 +37653,7 @@
 酃:⻗ ㇌ 丨 口
 酃.htxx:⻗.A_hxxx ㇌ 丨 口
 酄:㇌ 丨 口 艹 隹
-酄.htxx:㇌ 丨 口 艹.V_htjk*0 隹
+酄.htxx:㇌ 丨 口 艹 隹
 酅:㇌ 丨 冏 山 隹
 酅.htxx:㇌ 丨 冏.A_htxx 山 隹
 酆:㇌ 丨 丰 山 豆
@@ -37834,7 +37834,7 @@
 醚:米 辶 酉
 醚.htxx:米 辶.A_htxx 酉
 醛:人 王 艹 酉
-醛.C_htxx.htxx:入.A_htjk 王 艹.V_htxx*0 酉
+醛.C_htxx.htxx:入.A_htjk 王 艹 酉
 醜:酉 鬼
 醜.htxx:酉 鬼.A_xxjk
 醜.xxjk:酉 鬼.A_xxjk
@@ -38360,7 +38360,7 @@
 鋧:見 釒
 鋨:我 釒
 鋩:亡 艹 釒
-鋩.htxx:丶 匕.V_htxx*1 艹.V_htxx*0 釒
+鋩.htxx:丶 匕.V_htxx*1 艹 釒
 鋩.xxjk:亡.A_xxjk 艹 釒.V_xxjk*0
 鋪:甫 釒
 鋫:刂 禾 金
@@ -38462,7 +38462,7 @@
 錧:㠯 宀 釒
 錧.xxjk:㠯 宀 釒
 錨:田 艹 釒
-錨.htxx:田 艹.V_htxx*0 釒
+錨.htxx:田 艹 釒
 錩:日 釒
 錩.hxxx:日 釒
 錪:典 釒
@@ -38482,8 +38482,8 @@
 錴.htxx:坴.A_htxx 釒
 錴.xxjk:坴.A_xxjk 釒
 錵:亻 匕 艹 釒
-錵.hxxx:亻 匕.L_hxjk*0 艹.V_htxx*0 釒
-錵.xtxx:亻 匕.V_htxx*0 艹.V_htxx*0 釒
+錵.hxxx:亻 匕.L_hxjk*0 艹 釒
+錵.xtxx:亻 匕.V_htxx*0 艹 釒
 錵.xxjk:亻 匕.L_hxjk*0 艹 釒
 錶:釒 龶 𧘇
 錶.xxjk:釒.V_xxjk*0 龶 𧘇.xxjk
@@ -38512,7 +38512,7 @@
 鍇.htxx:比.A_htxx 白 釒
 鍇.xxjk:比.A_xxjk 白 釒.V_xxjk*0
 鍈:央 艹 釒
-鍈.htxx:央.htxx 艹.V_htxx*0 釒
+鍈.htxx:央.htxx 艹 釒
 鍉:日 釒 𤴓
 鍊:柬 釒
 鍋:咼 釒
@@ -38552,7 +38552,7 @@
 鍡:畏 釒
 鍢:一 口 田 釒
 鍣:刀 口 艹 釒
-鍣.htxx:刀 口 艹.V_htxx*0 釒
+鍣.htxx:刀 口 艹 釒
 鍤:臿 釒
 鍤.htxx:臿.V_htjx 釒
 鍥:丰 刀 大 釒
@@ -38565,7 +38565,7 @@
 鍨:一 大 癶 釒
 鍨.htxx:一 大 癶 釒
 鍩:口 艹 釒 𠂇
-鍩.htxx:口 艹.V_htxx*0 釒 𠂇
+鍩.htxx:口 艹 釒 𠂇
 鍪:丿 予 攵 金
 鍫:火 禾 金
 鍫.htxx:火.V_htxx*0 禾.E_htxx*0 金
@@ -38659,7 +38659,7 @@
 鎜:又 舟 金 𠘧
 鎜.htxx:又 舟.V_htxx*0 金 𠘧
 鎝:一 人 口 艹 釒
-鎝.htxx:一 人 口 艹.V_htxx*0 釒
+鎝.htxx:一 人 口 艹 釒
 鎞:㐅 丿 口 比 釒
 鎞.htxx:㐅 丿 口 比.A_htxx 釒
 鎞.xxjk:㐅 丿 口 比.A_xxjk 釒
@@ -38667,7 +38667,7 @@
 鎟.xtxx:又 木.L_xtjk*0 釒
 鎠:一 止 罒 釒
 鎡:䒑 幺 釒
-鎡.hxxx:幺 艹.V_htxx*0 釒
+鎡.hxxx:幺 艹 釒
 鎡.xxjk:䒑 幺.A_xxjk 釒
 鎢:烏 釒
 鎣:冖 火 金
@@ -38739,7 +38739,7 @@
 鏋:入 巾 廿 釒
 鏋.htjk:入.A_htjk 巾 廿 釒
 鏌:大 日 艹 釒
-鏌.htxx:大.E_htjk*0 日 艹.V_htxx*0 釒
+鏌.htxx:大.E_htjk*0 日 艹 釒
 鏍:小 幺 田 釒
 鏍.C_xxjk.xxjk:小 幺.A_xxjk 田 釒
 鏎:畢 釒
@@ -38908,7 +38908,7 @@
 鐮.xxjk:兼.xxjk 广.A_xxjk 釒
 鐯:日 耂 艹 釒
 鐯.C_xxjk.xxjk:丶 日 耂 艹 釒
-鐯.htxx:日 耂 艹.V_htxx*0 釒
+鐯.htxx:日 耂 艹 釒
 鐰:口 木 釒
 鐰.xtxx:口 木 釒
 鐱:僉 釒
@@ -38922,8 +38922,8 @@
 鐶:一 口 罒 釒 𧘇
 鐶.xxjk:一 口 罒 釒 𧘇.xxjk
 鐷:世 木 艹 釒
-鐷.hxxx:世 木 艹.V_htxx*0 釒
-鐷.xtxx:世 木 艹.V_htxx*0 釒
+鐷.hxxx:世 木 艹 釒
+鐷.xtxx:世 木 艹 釒
 鐸:工 罒 釒 𢆉
 鐹:咼 辶 釒
 鐹.htxx:咼.A_htjk 辶.A_htxx 釒
@@ -38954,9 +38954,9 @@
 鑇.hxxx:釒 齊.A_hxxx
 鑈:爾 釒
 鑉:去 皿 艹 釒
-鑉.htxx:去 皿 艹.V_htxx*0 釒
+鑉.htxx:去 皿 艹 釒
 鑊:又 艹 釒 隹
-鑊.htxx:又 艹.V_htjk*0 釒 隹
+鑊.htxx:又 艹 釒 隹
 鑊.xxjk:又 艹 釒 隹.A_xxjk
 鑋:巠 車 金
 鑌:一 宀 貝 釒 𣥂
@@ -38985,7 +38985,7 @@
 鑛.C_xtxx.xtxx:一 八 广 廿 田 釒
 鑜:⺌ 冖 口 貝 釒
 鑝:丰 夂 艹 辶 釒
-鑝.htxx:丰 夂.E_htxx*0 艹.V_htxx*0 辶.A_htxx 釒
+鑝.htxx:丰 夂.E_htxx*0 艹 辶.A_htxx 釒
 鑞:巤 釒
 鑞.hxxx:巤.A_htjx 釒
 鑞.xtxx:巤.V_xtxx*0 釒
@@ -39006,7 +39006,7 @@
 鑥.hxxx:日 釒 魚
 鑦:又 臣 貝 釒
 鑧:丶 宀 艹 見 釒
-鑧.htxx:丶 宀 艹.V_htxx*0 見 釒
+鑧.htxx:丶 宀 艹 見 釒
 鑨:釒 龍
 鑨.xtxx:釒 龍.A_xtxx
 鑨.xxjk:釒 龍.A_xxjk
@@ -39018,7 +39018,7 @@
 鑬.C_htxx.htxx:一 臣 見 釒 𠂉
 鑭:柬 釒 門
 鑮:寸 氵 甫 艹 釒
-鑮.htxx:寸 氵 甫 艹.V_htxx*0 釒
+鑮.htxx:寸 氵 甫 艹 釒
 鑯:㦰 一 釒 非
 鑰:釒 龠
 鑱:丶 免 口 比 釒 𠂊
@@ -39030,10 +39030,10 @@
 鑴:冏 山 釒 隹
 鑴.htxx:冏.A_htxx 山 釒 隹
 鑵:口 艹 釒 隹
-鑵.htxx:口 艹.V_htxx*0 釒 隹
+鑵.htxx:口 艹 釒 隹
 鑵.xxjk:口 艹 釒 隹.A_xxjk
 鑶:一 丿 戊 臣 艹 釒 𠃊
-鑶.htxx:一 丿 戊 臣 艹.V_htxx*0 釒 𠃊
+鑶.htxx:一 丿 戊 臣 艹 釒 𠃊
 鑷:耳 釒
 鑷.htxx:耳.A_htxx 釒
 鑷.xxjk:耳 釒
@@ -39850,14 +39850,14 @@
 雗:十 日 隹 𠂉
 雗.C_htxx.htxx:人 十 日 隹
 雘:丹 又 艹 隹
-雘.hxxx:丹 又 艹.V_htxx*0 隹
-雘.xtxx:丹.V_xtjk*0 又 艹.V_htxx*0 隹
+雘.hxxx:丹 又 艹 隹
+雘.xtxx:丹.V_xtjk*0 又 艹 隹
 雘.xxjx:丹.V_xxjk*1 又 艹 隹.A_xxjk
 雘.xxxk:丹.V_xxjk*1 又 艹 隹.A_xxjk
 雙:又 隹
 雙.xxjk:又 隹.A_xxjk
 雚:口 艹 隹
-雚.htxx:口 艹.V_htjk*0 隹
+雚.htxx:口 艹 隹
 雚.xxjk:口 艹 隹.A_xxjk
 雛:勹 屮 隹
 雛.xxjk:勹 屮 隹.A_xxjk
@@ -39989,7 +39989,7 @@
 霘:⻗ 一 冂 口 氵
 霘.htxx:⻗.A_hxxx 一 冂 口 氵
 霙:⻗ 央 艹
-霙.htxx:⻗.A_hxxx 央.htxx 艹.V_htxx*0
+霙.htxx:⻗.A_hxxx 央.htxx 艹
 霚:⻗ 丿 予 攵
 霛:⻗ 弓
 霛.htxx:⻗.A_hxxx 弓
@@ -40075,7 +40075,7 @@
 霿:⻗ 丿 予 夂 目
 霿.C_htxx.htxx:⻗.A_hxxx 丿 予 夂 目
 靀:⻗ 一 冖 艹 𧰨
-靀.htxx:⻗.A_hxxx 一 冖 艹.V_htxx*0 𧰨
+靀.htxx:⻗.A_hxxx 一 冖 艹 𧰨
 靁:⻗ 田
 靁.htxx:⻗.A_hxxx 田
 靂:⻗ 厂 止 禾 禾
@@ -40272,7 +40272,7 @@
 鞲:一 井 冉 革
 鞲.xxjk:一 井 冉.V_xxjx*0 革
 鞳:一 人 口 艹 革
-鞳.htxx:一 人 口 艹.V_htxx*0 革
+鞳.htxx:一 人 口 艹 革
 鞴:一 丿 用 艹 革
 鞴.C_xxjk.xxjk:厂 用 艹 革
 鞵:大 幺 爫 革
@@ -40304,7 +40304,7 @@
 韃.htxx:工 羊 辶.A_htxx 革
 韃.xxjk:工 羊 辶.V_xxjk*0 革
 韄:又 艹 隹 革
-韄.htxx:又 艹.V_htjk*0 隹 革
+韄.htxx:又 艹 隹 革
 韄.xxjk:又 艹 隹.A_xxjk 革
 韅:幺 日 灬 革
 韅.xxjk:幺.A_xxjk 日 灬 革
@@ -40314,9 +40314,9 @@
 韇:工 罒 貝 革
 韇.hxjk:四 工 貝 革
 韈:丶 戊 罒 艹 革
-韈.htxx:丶 戊 罒 艹.V_htxx*0 革
+韈.htxx:丶 戊 罒 艹 革
 韉:コ 丂 丨 广 灬 艹 革
-韉.htxx:コ 丂 丨 广 灬 艹.V_htxx*0 革
+韉.htxx:コ 丂 丨 广 灬 艹 革
 韉.xxjk:コ 丂.A_xxjk 丨 广.A_xxjk 灬 艹 革
 韊:柬 艹 門 革
 韋:㐄 口 𫝀
@@ -40388,7 +40388,7 @@
 韬:爫 臼 韦
 韭:一 非
 韮:一 艹 非
-韮.htxx:一 艹.V_htxx*0 非
+韮.htxx:一 艹 非
 韯:一 十 戈 非
 韰:⺊ 一 又 夕 非
 韱:㦰 一 非
@@ -40410,7 +40410,7 @@
 韸.xxjk:丰 夂 日 立.A_xxjk
 韹:日 王 白 立
 韺:央 日 立 艹
-韺.htxx:央.htxx 日 立 艹.V_htxx*0
+韺.htxx:央.htxx 日 立 艹
 韺.xxjk:央 日 立.A_xxjk 艹
 韻:口 日 立 貝
 韻.xxjk:口 日 立.A_xxjk 貝
@@ -40421,7 +40421,7 @@
 響:㇌ 一 丨 丶 乡 日 立 𠃍 𠄌
 響.xxjk:㇌ 一 丨 丶 乡.A_xxjk 日 立.A_xxjk 𠃍 𠄌
 頀:又 日 立 艹 隹
-頀.htxx:又 日 立 艹.V_htjk*0 隹
+頀.htxx:又 日 立 艹 隹
 頀.xxjk:又 日 立.A_xxjk 艹 隹.A_xxjk
 頁:頁
 頂:丁 頁
@@ -40604,7 +40604,7 @@
 顳.hxxx:耳 頁
 顳.xtxx:耳 耳.A_htxx 頁
 顴:口 艹 隹 頁
-顴.htxx:口 艹.V_htjk*0 隹 頁
+顴.htxx:口 艹 隹 頁
 顴.xxjk:口 艹 隹.A_xxjk 頁
 页:页
 顶:丁 页
@@ -40741,9 +40741,9 @@
 飋.htxx:⺇ 一 必 王 虫
 飋.xxjk:⺇ 丿 必 王 虫
 飌:⺇ 丿 口 艹 虫 隹
-飌.C_htxx.htxx:⺇ 一 口 艹.V_htjk*0 虫 隹
-飌.xxjx:⺇ 丿 口 艹.V_htjk*0 虫 隹.A_xxjk
-飌.xxxk:⺇ 丿 口 艹.V_htjk*0 虫 隹.A_xxjk
+飌.C_htxx.htxx:⺇ 一 口 艹 虫 隹
+飌.xxjx:⺇ 丿 口 艹 虫 隹.A_xxjk
+飌.xxxk:⺇ 丿 口 艹 虫 隹.A_xxjk
 飍:⺇ 丿 虫
 风:⺇ 㐅
 飏:⺇ 㐅 𠃓
@@ -40853,7 +40853,7 @@
 飾.xxxk:巾 飠 𠂉
 飿:出 飠
 餀:乂 艹 飠
-餀.htxx:乂 艹.V_htxx*0 飠.A_htxx
+餀.htxx:乂 艹 飠.A_htxx
 餁:亻 壬 飠
 餂:工 口 飠
 餂.C_xtxx.xtxx:口 工 飠.A_htxx
@@ -41045,7 +41045,7 @@
 饂.C_xxjk.xxjk:日 皿 飠
 饂.htxx:日 皿 飠.A_htxx
 饃:大 日 艹 飠
-饃.htxx:大 日 艹.V_htxx*0 飠.A_htxx
+饃.htxx:大 日 艹 飠.A_htxx
 饄:⺌ 冖 口 工 飠
 饅:又 日 罒 飠
 饅.htxx:又 日 罒 飠.A_htxx
@@ -41107,11 +41107,11 @@
 饘.htxx:一 亠 回 日 飠.A_htxx
 饘.xxjk:一 亠 回 日 飠
 饙:十 艹 貝 飠
-饙.htxx:十 艹.V_htxx*0 貝 飠.A_htxx
+饙.htxx:十 艹 貝 飠.A_htxx
 饙.xxjk:十 艹 貝 飠
 饚:去 皿 艹 飠
 饛:一 冖 艹 飠 𧰨
-饛.htxx:一 冖 艹.V_htxx*0 飠.A_htxx 𧰨
+饛.htxx:一 冖 艹 飠.A_htxx 𧰨
 饛.xxjx:一 冖 艹 飠 𧰨.V_xxjk*0
 饛.xxxk:一 冖 艹 飠 𧰨.V_xxjk*0
 饜:丶 人 厂 日 月 犬 艮
@@ -41434,7 +41434,7 @@
 騱.htxx:大 幺 爫 馬
 騱.xxjk:大 幺.A_xxjk 爫.A_xxjk 馬
 騲:十 日 艹 馬
-騲.htxx:十 日 艹.V_htxx*0 馬
+騲.htxx:十 日 艹 馬
 騳:馬
 騴:女 宀 日 馬
 騴.htxx:女.A_htxx 宀 日 馬
@@ -41456,7 +41456,7 @@
 騾.C_xxjk.xxjk:小 幺.A_xxjk 田 馬
 騿:十 日 立 馬
 驀:大 日 艹 馬
-驀.htxx:大 日 艹.V_htxx*0 馬
+驀.htxx:大 日 艹 馬
 驁:力 攵 馬 龶
 驁.C_htxx.htxx:一 丶 力 工 攵 馬
 驁.C_xxjk.xxjx:力 攵 馬 龶
@@ -41510,7 +41510,7 @@
 驘.xxxk:丶 亡.A_xxjk 几 口 月 馬
 驙:一 亠 回 日 馬
 驚:句 攵 艹 馬
-驚.htxx:句 攵 艹.V_htxx*0 馬
+驚.htxx:句 攵 艹 馬
 驛:工 罒 馬 𢆉
 驜:䒑 一 业 木 馬
 驝:冖 工 木 石 馬
@@ -41536,7 +41536,7 @@
 驨:冏 山 隹 馬
 驨.htxx:冏.A_htxx 山 隹 馬
 驩:口 艹 隹 馬
-驩.htxx:口 艹.V_htxx*0 隹 馬
+驩.htxx:口 艹 隹 馬
 驩.xxjk:口 艹 隹.A_xxjk 馬
 驪:丽 馬 鹿
 驪.hxxx:丽.V_hxxx*0 馬 鹿.A_htxx
@@ -41728,8 +41728,8 @@
 髑.hxjk:勹 罒 虫 骨.A_hxjk
 髑.xtxx:勹 罒 虫 骨.A_xtxx*0
 髒:一 匕 夕 廾 艹 骨
-髒.hxxx:一 匕 夕 廾 艹.V_htxx*0 骨.A_hxjk
-髒.xtxx:一 匕.V_htxx*0 夕 廾 艹.V_htxx*0 骨.A_xtxx
+髒.hxxx:一 匕 夕 廾 艹 骨.A_hxjk
+髒.xtxx:一 匕.V_htxx*0 夕 廾 艹 骨.A_xtxx
 髒.xxjk:一 匕 夕 廾 艹 骨.A_hxjk
 髓:工 月 辶 骨 𠂇
 髓.C_xtxx.xtxx:⺼ 工 辶.A_htxx 骨.A_xtxx*0 𠂇
@@ -41744,8 +41744,8 @@
 髕.xxjx:一 宀 貝 骨.A_hxjk 𣥂
 髕.xxxk:一 宀 貝 骨.A_hxjk 𣥂
 髖:丶 宀 艹 見 骨
-髖.hxxx:丶 宀 艹.V_htjk*0 見 骨.A_hxjk
-髖.xtxx:丶 宀 艹.V_htjk*0 見 骨.A_xtxx
+髖.hxxx:丶 宀 艹 見 骨.A_hxjk
+髖.xtxx:丶 宀 艹 見 骨.A_xtxx
 髖.xxjk:丶 宀 艹 見 骨.A_hxjk
 髗:田 皿 虍 骨
 髗.hxxx:田 皿 虍.A_htxx 骨.A_hxjk
@@ -41882,7 +41882,7 @@
 鬔:丰 夂 彡 辶 镸
 鬔.htxx:丰 夂 彡 辶.A_htxx 镸
 鬕:大 彡 日 艹 镸
-鬕.htxx:大 彡 日 艹.V_htxx*0 镸
+鬕.htxx:大 彡 日 艹 镸
 鬖:㐱 厶 彡 镸
 鬖.xxjk:㐱 厶 彡 镸.A_xxjk
 鬗:入 巾 廿 彡 镸
@@ -42362,7 +42362,7 @@
 鰥.C_htxx.htxx:丨 丷 八 罒 魚
 鰥.xxjk:眔.V_xxjk*0 魚
 鰦:䒑 幺 魚
-鰦.hxxx:幺 艹.V_htxx*0 魚
+鰦.hxxx:幺 艹 魚
 鰦.xxjk:幺.A_xxjk 艹 魚
 鰧:月 魚 龹
 鰧.xxjx:⺼.xxjk 魚 龹.A_xxjx
@@ -42510,14 +42510,14 @@
 鱰:日 罒 耂 魚
 鱰.C_xxjk.xxjk:丶 日 罒 耂 魚
 鱱:厂 禺 艹 魚
-鱱.htxx:厂 禺.A_htxx 艹.V_htxx*0 魚
+鱱.htxx:厂 禺.A_htxx 艹 魚
 鱲:巤 魚
 鱲.htxx:巤.A_htjx 魚
 鱲.xxjk:巤.A_htxx 魚
 鱳:幺 木 白 魚
 鱳.xtxx:幺 木.L_xtjk*0 白 魚
 鱴:丶 戊 罒 艹 魚
-鱴.htxx:丶 戊 罒 艹.V_htjk*0 魚
+鱴.htxx:丶 戊 罒 艹 魚
 鱵:⺮ 一 口 戊 魚
 鱶:丶 丷 艮 魚 𡗗
 鱶.htjk:一 八 羊 艮.A_xxjk 魚
@@ -42525,7 +42525,7 @@
 鱸:田 皿 虍 魚
 鱸.htxx:田 皿 虍.A_htxx 魚
 鱹:口 艹 隹 魚
-鱹.htxx:口 艹.V_htxx*0 隹 魚
+鱹.htxx:口 艹 隹 魚
 鱺:丽 魚 鹿
 鱺.hxxx:丽.V_hxxx*0 魚 鹿.A_htxx
 鱺.xtxx:丽 魚 鹿.A_htxx
@@ -42735,7 +42735,7 @@
 鴯:而 鳥
 鴰:工 口 鳥
 鴱:㐅 艹 鳥
-鴱.htxx:㐅 艹.V_htxx*0 鳥
+鴱.htxx:㐅 艹 鳥
 鴲:匕 日 鳥
 鴳:女 宀 鳥
 鴳.htxx:女.A_htxx 宀 鳥
@@ -42886,7 +42886,7 @@
 鶑:火 鳥
 鶒:力 束 鳥
 鶓:田 艹 鳥
-鶓.htxx:田 艹.V_htxx*0 鳥
+鶓.htxx:田 艹 鳥
 鶔:丿 予 木 鳥
 鶔.xtxx:丿 予 木 鳥
 鶕:日 立 鳥
@@ -42903,7 +42903,7 @@
 鶛:比 白 鳥
 鶛.htxx:比.A_htxx 白 鳥
 鶜:丿 予 艹 鳥
-鶜.htxx:丿 予 艹.V_htxx*0 鳥
+鶜.htxx:丿 予 艹 鳥
 鶝:一 口 田 鳥
 鶞:十 目 鳥 𠂆
 鶞.htxx:十 目 鳥 𠂆
@@ -42922,7 +42922,7 @@
 鶦:十 口 月 鳥
 鶦.htxx:⺼ 十 口 鳥
 鶧:央 艹 鳥
-鶧.htxx:央 艹.V_htxx*0 鳥
+鶧.htxx:央 艹 鳥
 鶨:彑 鳥 𧰨
 鶩:丿 予 攵 鳥
 鶪:犬 目 鳥
@@ -42964,11 +42964,11 @@
 鶾:十 日 鳥 𠂉
 鶾.xtxx:人 十 日 鳥
 鶿:䒑 幺 鳥
-鶿.hxxx:幺 艹.V_htxx*0 鳥
+鶿.hxxx:幺 艹 鳥
 鶿.xxjx:䒑 幺.A_xxjk 鳥
 鶿.xxxk:一 丨 幺.A_xxjk 鳥
 鷀:䒑 幺 鳥
-鷀.hxxx:幺 艹.V_htxx*0 鳥
+鷀.hxxx:幺 艹 鳥
 鷀.xxjk:䒑 幺.A_xxjk 鳥
 鷁:䒑 八 皿 鳥
 鷁.C_xxjk.xxjk:一 八.V_xxjk0 皿 鳥
@@ -42995,7 +42995,7 @@
 鷊.C_xxjx.xxjx:㐅 一 丨 冂 口 鳥
 鷊.xxxk:㐅 一 丨 冂 口 鳥
 鷋:一 人 朩 艹 鳥
-鷋.htxx:一 人 朩 艹.V_htxx*0 鳥
+鷋.htxx:一 人 朩 艹 鳥
 鷌:馬 鳥
 鷍:木 自 鳥
 鷎:十 大 白 鳥
@@ -43113,11 +43113,11 @@
 鸊.xxjk:十 口 尸 立.A_xxjk 鳥
 鸋:丁 宀 心 皿 鳥
 鸌:又 艹 隹 鳥
-鸌.htxx:又 艹.V_htjk*0 隹 鳥
+鸌.htxx:又 艹 隹 鳥
 鸍:爾 鳥
 鸎:貝 鳥
 鸏:一 冖 艹 鳥 𧰨
-鸏.htxx:一 冖 艹.V_htxx*0 鳥 𧰨
+鸏.htxx:一 冖 艹 鳥 𧰨
 鸐:习 隹 鳥
 鸐.xxjx:习.xxjk 隹.A_xxjk 鳥
 鸐.xxxk:习.xxjk 隹.A_xxjk 鳥
@@ -43141,7 +43141,7 @@
 鸚.htxx:女.A_htxx 貝 鳥
 鸚.xxjk:女.A_xxjk 貝 鳥
 鸛:口 艹 隹 鳥
-鸛.htxx:口 艹.V_htjk*0 隹 鳥
+鸛.htxx:口 艹 隹 鳥
 鸛.xxjk:口 艹 隹.A_xxjk 鳥
 鸜:目 隹 鳥
 鸜.xxjk:目 隹.A_xxjk 鳥
