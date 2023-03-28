@@ -315,8 +315,8 @@
 兆:㸠 㿡 䂪 䄻 䍮 䑬 䖴 䠷 䠷.htxx 佻 兆 咷 垗 姚 姚.htxx 姚.xxjk 宨 宨.xxjk 庣 恌 挑 旐 旐.C_xxjk.xxjk 晀 晁 朓 朓.xxjk 桃 洮 烑 烑.htxx 狣 珧 眺 祧 祧.C_xxjk.xxjk 窕 窕.htxx 窕.xxjk 筄 絩 絩.C_xxjk.xxjk 繉 罀 罀.htxx 聎 脁 艞 艞.htxx 覜 覜.xxjk 誂 誂.xxjk 趒 跳 逃 逃.htxx 逃.xxxk 銚 铫 雿 雿.htxx 鞉 頫 頫.xxjk 餆 駣 鮡 鴵 鼗
 廴:㢟 㢠 㨩 㯬 㹶 䅍 䊕 䗴 䜥 䩠 䭈 䯕 䱓 侹 侹.htxx 健 娗 娗.htxx 庭 廴 廵 廷 廸 廹 建 廻 廼 廽 徤 挺 揵 旔 梃 楗 榳 毽 涏 湕 烶 烶.htxx 煡 煡.htxx 犍 珽 睷 筳 綎 脡 腱 腱.C_htxx.htxx 艇 艇.htxx 莛 莛.htxx 蜓 誔 踺 鋌 鍵 铤 键 閮 霆 霆.htxx 鞬 頲 颋 騝 鰎 鼮
 龰:㗰 㙡 㜡 㞞 㢔 㧿 㨗 㱜 㹐 㻜 㼻 㿅 䐫 䗥 䙕 䡮 䢨 䰌 䳷 䶑 偼 傱 嘥 嚔 嚔.xxjk 媫 媫.htxx 屣 嵷 嵷.htxx 嵸 徙 從 慫 懥.C_xxjk.xxjk 摐 暰 樅 歨 漇 漎 熧 熧.htxx 瑽 瘲 瘲.xxjk 瞛 磫 篵 簁 緃 緃.C_xxjk.xxjk 縰 縱 縱.C_xxjk.xxjk 聳 聳.htxx 蓯 蓯.htxx 蓰 蓰.htxx 褷 褷.xxjk 豵 踨 蹝 蹤 辵 鏦 龰
+六:㐮 㐮.xxjk 㝠 㟰 㨠 䄙 䈿 䏃 䒌 䙛.hxxx 䧶 䫤 兗 六 六.xxjk 冥 冥.xxjk 凕 凕.xxjk 塓 壌 壌.xxjk 嫇 嫇.htxx 嬢 嬢.xxjk 宍 宍.xxjk 幎 幎.xxjk 慏 昗 暝 暝.xxjk 榠 榠.xxjk 渷 渷.xxjk 溟 溟.xxjx 溟.xxxk 滾 滾.xxxk 熐 熐.htxx 猽 猽.xxjk 瞑 瞑.xxjk 穣 穣.xxjk 萒.C_xtxx.xtxx 蓂 蓂.htxx 蓂.xxjk 蔉 蔉.hxxx 螟 螟.xxjk 袞 覭 譲 譲.xxjk 鄍 鄍.xxjk 醸 醸.xxjk 鼆 鼆.htxx
 入:㐈 㒰 㒱 㒲 㒳 㒴 㒼 㔝 㙢 㚒 㞥 㠳 㣣 㤀 㨺 䊟 䐽 䓣 䓥 䝡 䠃 䤍 䨀 䩫 倆 入 兦 內 兩 兪 叺 吶 啢 圦 屳 慲 懣 扖 拴.htxx 掚 暪 杁 樠 汆 滿 濷 璊 瞞 籴 糴 緉 肏 脼 蜽 蟎 裲 襔 蹣 輛 込 釞 鏋 陝 顢 鬗 魎 魞 鳰
-六:㐮 㐮.xxjk 㝠 㟰 㨠 䄙 䈿 䏃 䒌 䙛.hxxx 䧶 䫤 兗 六 六.xxjk 冥 冥.xxjk 凕 凕.xxjk 塓 壌 壌.xxjk 嫇 嫇.htxx 嬢 嬢.xxjk 宍 宍.xxjk 幎 幎.xxjk 慏 昗 暝 暝.xxjk 榠 榠.xxjk 渷 渷.xxjk 溟 溟.xxjx 滾 滾.xxxk 熐 熐.htxx 猽 猽.xxjk 瞑 瞑.xxjk 穣 穣.xxjk 萒.C_xtxx.xtxx 蓂 蓂.htxx 蓂.xxjk 蔉 蔉.hxxx 螟 螟.xxjk 袞 覭 譲 譲.xxjk 鄍 鄍.xxjk 醸 醸.xxjk 鼆 鼆.htxx
 我:㕒 㠖 㧴 㩘 㬢 㼁 䄉 䉝 䕏 䖸 䞲 䣡 䧧 䰮 䲑 䳗 䳘 䴊 俄 儀 哦 娥 娥.htxx 娥.xxjk 嬟 嬟.htxx 峨 峨.htxx 峨.xxjk 峩 嶬 嶬.htxx 嶬.xxjk 我 檥 涐 燨 犠 珴 皒 睋 硪 礒 義 艤 艤.htxx 艤.xxjk 莪 莪.htxx 蛾 蟻 誐 誐.xxjk 議 議.xxjk 轙 鋨 锇 餓 餓.htxx 餓.xxjx 餓.xxxk 饿 騀 鵝 鵞 鸃 鹅
 儿.A_htxx:㓁.C_htjk.htxx 傻.C_htxx.xtxx 儋.C_htxx.htxx 儍.C_htxx.htxx 匹.C_htxx.htxx 喚.C_xxjk.xxjk 噡.C_htxx.htxx 囧.C_htjk.htxx 圀.C_htxx.htxx 堔.C_htxx.htxx 奐.C_xxjk.xxjk 寏.C_xxjk.xxjk 幨.C_htxx.htxx 廛.C_htxx.htxx 愌.C_xxjk.xxjk 憺.C_htxx.htxx 探.C_htxx.htxx 換.C_xxjk.xxjk 擔.C_htxx.htxx 朙.C_htjk.htjk 棎.C_htxx.htxx 檐.C_htxx.htxx 渙.C_xxjk.xxjk 溭.C_xtxx.xtxx 滘.C_htxx.htxx 滾.C_xtxx.xtxx 澹.C_htxx.htxx 瀍.C_htxx.htxx 煥.C_xxjk.xxjk 琛.C_htxx.htxx 瑍.C_xxjk.xxjk 甔.C_htxx.htxx 畟.C_htxx.hxxx 畟.C_htxx.xtxx 瞻.C_htxx.htxx 禝.C_htxx.htxx 稷.C_htxx.hxxx 稷.C_htxx.xtxx 簷.C_htxx.htxx 糭.C_htxx.xtxx 繌.C_htxx.hxxx 繌.C_htxx.xtxx 纏.C_htxx.htxx 罕.C_htxx.htxx 聸.C_htxx.htxx 膽.C_htxx.htxx 舚.C_htxx.hxxx 舚.C_htxx.xtxx 船.C_htxx.htxx 莔.C_htjk.htxx 莔.C_htjk.xxjk 蔉.C_xtxx.xtxx 薝.C_htxx.htxx 蟾.C_htxx.htxx 袞.C_xtxx.xtxx 襜.C_htxx.htxx 詹.C_htxx.htxx 謖.C_htxx.hxxx 謖.C_htxx.xtxx 譫.C_htxx.htxx 賝.C_htxx.htxx 賝.C_xxjk.xxjk 贍.C_htxx.htxx 躔.C_htxx.htxx 韂.C_htxx.htxx 鴄.C_htxx.htxx 鼀.C_htxx.htxx
 镸.A_xxjk:䕃.xxjk 套.xxjk 瓺.xxjk 肆.xxjk 蕻.xxjk 镸.xxjk 镹.xxjk 镾.xxjk 隂.xxjk 髟.xxjk 髠.xxjk 髡.xxjk 髢.xxjk 髣.C_xxjk.xxjk 髤.xxjk 髥.xxjk 髦.xxjk 髧.xxjk 髩.xxjk 髪.xxjk 髫.xxjk 髬.xxjk 髭.xxjk 髮.xxjk 髯.xxjk 髰.xxjk 髱.xxjk 髲.xxjk 髳.xxjk 髴.xxjk 髵.xxjk 髷.xxjk 髹.xxjk 髺.xxjk 髻.xxjk 髽.xxjk 髿.xxjk 鬀.xxjk 鬁.xxjk 鬂.xxjk 鬃.xxjk 鬄.xxjk 鬅.xxjx 鬅.xxxk 鬆.xxjk 鬈.xxjk 鬉.xxjk 鬊.xxjk 鬋.xxjx 鬋.xxxk 鬌.xxjk 鬍.xxjk 鬎.xxjk 鬐.xxjk 鬒.C_xxjk.xxjk 鬖.xxjk 鬘.xxjk 鬙.xxjk 鬚.xxjk 鬛.xxjk 鬜.xxjk 鬝.xxjk 鬟.xxjk 鬠.xxjk 鬢.xxjk 鬣.xxjx 鬣.xxxk
@@ -845,7 +845,6 @@
 九.xxjk:虓.C_htjk.xxjk
 产.V_htxx*0:隡.htxx
 儿.E_htxx*0:嶶.C_htxx.htxx
-六*1:溟.xxxk
 兼.V_xxxk*0:兼.xxxk
 凹.V_xxjk*0:兕.xxjk
 北.E_xxjk*0:邶.xxjk
