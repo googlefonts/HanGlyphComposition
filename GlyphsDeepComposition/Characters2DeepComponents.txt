@@ -43721,7 +43721,7 @@
 齃:匃 廾 日 田 自
 齃.hxxx:人 勹 廾 日 田 自 𠃊.V_hxjk*0
 齃.xxjx:匃.A_xxjk 廾 日 田 自
-齃.xxxk:匃 廾 日 田 自堇
+齃.xxxk:匃 廾 日 田 自
 齄:一 廾 日 木 田 自
 齄.C_xtjk.htxx:一 廾 日 木.E_htjk*0 田 自
 齄.C_xtjk.xxjk:目 廾 木 田 自
