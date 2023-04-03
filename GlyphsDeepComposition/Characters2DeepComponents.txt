@@ -38298,7 +38298,7 @@
 鋂:母 釒 𠂉
 鋂.xxjk:母.A_xxjk 釒 𠂉
 鋃:良 釒
-鋃.xxjk: 良 釒
+鋃.xxjk:良 釒
 鋄:一 又 火 釒
 鋄.htxx:一 又 火.V_htxx*0 釒
 鋅:十 立 釒
@@ -41096,9 +41096,9 @@
 饔.xxjx:乡.A_xxjk 亠 隹 食
 饔.xxxk:乡.A_xxjk 亠 隹 食
 饕:丂 几 口 虍 食
-饕.htxx: 丂 儿 口 食 虍.A_htxx
-饕.xxjx: 丂 儿 口 食 虍
-饕.xxxk: 丂 儿 口 食 虍
+饕.htxx:丂 儿 口 食 虍.A_htxx
+饕.xxjx:丂 儿 口 食 虍
+饕.xxxk:丂 儿 口 食 虍
 饖:一 戊 止 飠 𣥂
 饖.htxx:一 戊 止 飠.A_htxx 𣥂
 饗:阝 食 乡 良.01
