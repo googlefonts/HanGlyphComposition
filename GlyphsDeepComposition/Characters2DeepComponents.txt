@@ -40706,7 +40706,7 @@
 飁:風 习 白
 飁.htxx:風 习 白
 飂:㐱 風 习
-飂.htxx:風 㐱  习.E_htxx*0
+飂.htxx:風 㐱 习.E_htxx*0
 飂.xxjk:風 㐱 习.xxjk
 飃:風 示 覀
 飃.htxx:風 示 覀
