@@ -798,7 +798,6 @@
 夔.01:夔.xxjx 巙.xxjx
 旦:炟 炟.htxx
 養.part:鯗 鯗.htjk
-:衛
 zhi:㪂
 ㇌:㇌
 㐃:㐃
