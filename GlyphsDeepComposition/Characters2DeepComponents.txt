@@ -12196,10 +12196,10 @@
 婀:阝 可 女
 婀.htxx:阝 可 女
 婀.xxjk:阝 可 女
-婁.part 女:婁.part 女
-婁.part 女.hxxx:婁.part 女
-婁.part 女.xtxx:婁.part 女
-婁.part 女.xxjk:婁.part 女
+婁:婁.part 女
+婁.hxxx:婁.part 女
+婁.xtxx:婁.part 女
+婁.xxjk:婁.part 女
 婂:女 巾 白
 婂.htxx:女 巾 白
 婃:女 宀 示
