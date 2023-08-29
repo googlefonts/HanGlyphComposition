@@ -8465,8 +8465,8 @@
 兌:八.01 兄
 兌.xtxx:八.01 兄
 兌.xxjk:八.01 兄
-免.part ⺈:免.part ⺈
-免.part ⺈.xxjx:免.part ⺈
+免:免.part ⺈
+免.xxjx:免.part ⺈
 兎:丶 免.part 乚 一
 兎.xxxk:丶 免.part 乚 一
 兏:十 兀 厂
