@@ -393,7 +393,6 @@
 川:㸪 䡅 卅 圳 夼 川 杊 氚 汌 玔 甽 瞓 紃 紃.xxjk 訓 訓.xxjk 训 釧 钏 順 顺 馴 驯
 弱.part:嫋 嫋.htxx 嫋.xxjk 嵶 嵶 嵶.xxjk 嵶.xxjk 弱 弱 弱.xxjk 弱.xxjk 愵 愵 愵.xxjk 愵.xxjk 搦 搦 搦.xxjk 搦.xxjk 鶸 鶸 鶸.xxjk 鶸.xxjk
 鬥:䰗 䰗.xxjk 䰘 鬥 鬦 鬧 鬧.xxjk 鬨 鬩 鬪 鬫 鬫.htxx 鬫.xxjx 鬫.xxxk 鬬 鬬.xxjk 鬭 鬭.htxx 鬭.xxjk 鬮 鬮.hxxk 鬮.xtxx 鬮.xxjx
-:㕽 䎣 䬮 以 以.htjk 似 似.htjk 姒 姒.htxx 姒.xxjk 娰 娰.htxx 娰.xxjk 拟 拟.htjk 泤 笖 苡 苡.htxx 苡.xxjk 鉯 鉯.htjk
 丬:丬 壮 奖 奨 妆 寝 寝.xxjk 将 将.xxjk 桨 浆 状 荘 蒋 蒋.xxjk 螀 装 装.xxjk 酱 醤 锵 鳉
 巳.01:㰝 㱼 䪱 僎.xtxx 凯 剀 噀.xtxx 妀 妀.htxx 巺 巽.xtxx 撰.xtxx 改 攺 潠.xtxx 簨.xtxx 蟤.xtxx 譔.xtxx 選.xtxx 邔 鐉.xtxx 饌.xtxx
 永:㨾 㫤 䘑 䳮 咏 怺 昶 昶.xxjk 昹 栐 栐.xxjk 樣 永 泳 漾 眿 羕 脉 脉.htxx 詠 詠.xxjk 霡
